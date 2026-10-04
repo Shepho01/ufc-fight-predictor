@@ -2,7 +2,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-EVENT_URL = "http://ufcstats.com/event-details/6750e338922a099d"
+EVENT_URL = "http://ufcstats.com/event-details/01dd4cdc2446f665"
 
 
 def fetch_event_page(url: str) -> str:
@@ -43,9 +43,9 @@ def main():
     print("Successfully downloaded event page")
     print(f"HTML length: {len(html)} characters")
 
-    save_html(html, "data/raw/events/ufc_300.html")
+    save_html(html, "data/raw/events/ufc_284.html")
 
-    print("Saved HTML to data/raw/events/ufc_300.html")
+    print("Saved HTML to data/raw/events/ufc_284.html")
 
 
 if __name__ == "__main__":

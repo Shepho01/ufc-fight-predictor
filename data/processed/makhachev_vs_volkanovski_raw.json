@@ -1,0 +1,50 @@
+{
+    "fighter_a": {
+        "name": "Islam Makhachev",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 95",
+            "Sig. str. %": "60%",
+            "Total str.": "95 of 135",
+            "Td": "4 of 9",
+            "Td %": "44%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 95",
+            "Sig. str. %": "60%",
+            "Head": "36 of 72",
+            "Body": "18 of 20",
+            "Leg": "3 of 3",
+            "Distance": "45 of 82",
+            "Clinch": "12 of 13",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "name": "Alexander Volkanovski",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "70 of 143",
+            "Sig. str. %": "48%",
+            "Total str.": "164 of 255",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 143",
+            "Sig. str. %": "48%",
+            "Head": "37 of 96",
+            "Body": "21 of 33",
+            "Leg": "12 of 14",
+            "Distance": "58 of 125",
+            "Clinch": "6 of 10",
+            "Ground": "6 of 8"
+        }
+    }
+}
