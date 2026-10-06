@@ -5,11 +5,11 @@ import json
 
 
 RAW_PATH = Path(
-    "data/processed/islam_makhachev_raw.json"
+    "data/processed/alex_volkanovski_raw.json"
 )
 
 CLEAN_PATH = Path(
-    "data/processed/islam_makhachev_clean.json"
+    "data/processed/alex_volkanovski_clean.json"
 )
 
 
@@ -71,6 +71,15 @@ def parse_record(value):
 
     return int(wins), int(losses), int(draws)
 
+
+def parse_percentage(value):
+    if value is None or value == "---":
+        return None
+
+    number = value.replace("%", "")
+
+    return int(number) / 100
+
 def clean_fighter(fighter):
     dob_day, dob_month, dob_year = parse_dob(
         fighter["dob"]
@@ -104,7 +113,39 @@ def clean_fighter(fighter):
 
         "dob_day": dob_day,
         "dob_month": dob_month,
-        "dob_year": dob_year
+        "dob_year": dob_year,
+        
+        "sig_strikes_landed_per_min": float(
+        fighter["sig_strikes_landed_per_min"]
+        ),
+
+        "sig_striking_accuracy": parse_percentage(
+            fighter["sig_striking_accuracy"]
+        ),
+
+        "sig_strikes_absorbed_per_min": float(
+            fighter["sig_strikes_absorbed_per_min"]
+        ),
+
+        "sig_strike_defense": parse_percentage(
+            fighter["sig_strike_defense"]
+        ),
+
+        "takedowns_landed_per_15_min": float(
+            fighter["takedowns_landed_per_15_min"]
+        ),
+
+        "takedown_accuracy": parse_percentage(
+            fighter["takedown_accuracy"]
+        ),
+
+        "takedown_defense": parse_percentage(
+            fighter["takedown_defense"]
+        ),
+
+        "submission_attempts_per_15_min": float(
+            fighter["submission_attempts_per_15_min"]
+        )
     }
 
 

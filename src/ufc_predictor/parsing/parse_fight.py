@@ -316,10 +316,7 @@ def main():
     # Save JSON
     # -------------------------
 
-    output_path = Path(
-        "data/processed/"
-        "makhachev_vs_volkanovski_raw.json"
-    )
+    output_path = Path("data/processed/makhachev_vs_volkanovski_raw.json")
 
     output_path.parent.mkdir(
         parents=True,

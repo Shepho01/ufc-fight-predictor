@@ -2,24 +2,25 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-EVENT_URL = "http://ufcstats.com/event-details/01dd4cdc2446f665"
+
+EVENT_URL = "http://ufcstats.com/event-details/00e11b5c8b7bfeeb"
+
+OUTPUT_PATH = Path(
+    "data/raw/events/ufc_324.html"
+)
 
 
-def fetch_event_page(url: str) -> str:
-    with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(headless=False)
+def scrape_event(url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=True
+        )
 
         page = browser.new_page()
 
-        page.goto(url, wait_until="domcontentloaded")
-
-        # Give the browser check a chance to complete
-        page.wait_for_timeout(3000)
-
-        # Wait for the actual UFC event page to appear
-        page.wait_for_selector(
-            ".b-fight-details__table-row",
-            timeout=15000
+        page.goto(
+            url,
+            wait_until="networkidle"
         )
 
         html = page.content()
@@ -29,23 +30,24 @@ def fetch_event_page(url: str) -> str:
         return html
 
 
-def save_html(html: str, file_path: str) -> None:
-    path = Path(file_path)
-
-    path.parent.mkdir(parents=True, exist_ok=True)
-
-    path.write_text(html, encoding="utf-8")
-
-
 def main():
-    html = fetch_event_page(EVENT_URL)
+    html = scrape_event(
+        EVENT_URL
+    )
 
-    print("Successfully downloaded event page")
-    print(f"HTML length: {len(html)} characters")
+    OUTPUT_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
-    save_html(html, "data/raw/events/ufc_284.html")
+    OUTPUT_PATH.write_text(
+        html,
+        encoding="utf-8"
+    )
 
-    print("Saved HTML to data/raw/events/ufc_284.html")
+    print(
+        f"Saved event HTML to {OUTPUT_PATH}"
+    )
 
 
 if __name__ == "__main__":

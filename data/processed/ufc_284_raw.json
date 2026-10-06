@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "01dd4cdc2446f665",
+        "event_name": "UFC 284: Makhachev vs. Volkanovski",
+        "event_date": "February 11, 2023",
+        "location": "Perth, Western Australia, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "256894b49303537b",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Alexander Volkanovski",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/256894b49303537b"
+        },
+        {
+            "fight_id": "2208b9f471a201d9",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Josh Emmett",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "4:19",
+            "fight_url": "http://ufcstats.com/fight-details/2208b9f471a201d9"
+        },
+        {
+            "fight_id": "4f672dd40867d8c6",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Randy Brown",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:13",
+            "fight_url": "http://ufcstats.com/fight-details/4f672dd40867d8c6"
+        },
+        {
+            "fight_id": "da22d5a717ae9e35",
+            "fighter_a": "Justin Tafa",
+            "fighter_b": "Parker Porter",
+            "winner": "Justin Tafa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:06",
+            "fight_url": "http://ufcstats.com/fight-details/da22d5a717ae9e35"
+        },
+        {
+            "fight_id": "ec03739c836fadc8",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Alonzo Menifield",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ec03739c836fadc8"
+        },
+        {
+            "fight_id": "ca2672e68fedf4b7",
+            "fighter_a": "Modestas Bukauskas",
+            "fighter_b": "Tyson Pedro",
+            "winner": "Modestas Bukauskas",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ca2672e68fedf4b7"
+        },
+        {
+            "fight_id": "8b7bc2af1e15b668",
+            "fighter_a": "Josh Culibao",
+            "fighter_b": "Melsik Baghdasaryan",
+            "winner": "Josh Culibao",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:02",
+            "fight_url": "http://ufcstats.com/fight-details/8b7bc2af1e15b668"
+        },
+        {
+            "fight_id": "16dbe70eb7007f17",
+            "fighter_a": "Kleydson Rodrigues",
+            "fighter_b": "Shannon Ross",
+            "winner": "Kleydson Rodrigues",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:59",
+            "fight_url": "http://ufcstats.com/fight-details/16dbe70eb7007f17"
+        },
+        {
+            "fight_id": "a37a6b6f9551a6e8",
+            "fighter_a": "Jamie Mullarkey",
+            "fighter_b": "Francisco Prado",
+            "winner": "Jamie Mullarkey",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a37a6b6f9551a6e8"
+        },
+        {
+            "fight_id": "28af78600d6580f1",
+            "fighter_a": "Jack Jenkins",
+            "fighter_b": "Don Shainis",
+            "winner": "Jack Jenkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/28af78600d6580f1"
+        },
+        {
+            "fight_id": "51a12878b151d67b",
+            "fighter_a": "Loma Lookboonmee",
+            "fighter_b": "Elise Reed",
+            "winner": "Loma Lookboonmee",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "0:44",
+            "fight_url": "http://ufcstats.com/fight-details/51a12878b151d67b"
+        },
+        {
+            "fight_id": "5c962ea13cb9b937",
+            "fighter_a": "Blake Bilder",
+            "fighter_b": "Shane Young",
+            "winner": "Blake Bilder",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5c962ea13cb9b937"
+        },
+        {
+            "fight_id": "0ac5fc42ba039211",
+            "fighter_a": "Elves Brener",
+            "fighter_b": "Zubaira Tukhugov",
+            "winner": "Elves Brener",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0ac5fc42ba039211"
+        }
+    ]
+}

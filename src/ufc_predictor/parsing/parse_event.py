@@ -1,17 +1,32 @@
 from pathlib import Path
-
 from bs4 import BeautifulSoup
+import json
 
 
-HTML_PATH = Path("data/raw/events/ufc_284.html")
+EVENT_URL = "http://ufcstats.com/event-details/01dd4cdc2446f665"
+
+HTML_PATH = Path(
+    "data/raw/events/ufc_284.html"
+)
+
+OUTPUT_PATH = Path(
+    "data/processed/ufc_284_raw.json"
+)
+
+
+def get_id_from_url(url):
+    return url.rstrip("/").split("/")[-1]
 
 
 def main():
-    # Read the saved UFC event HTML
-    html = HTML_PATH.read_text(encoding="utf-8")
+    html = HTML_PATH.read_text(
+        encoding="utf-8"
+    )
 
-    # Parse the HTML with BeautifulSoup
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(
+        html,
+        "html.parser"
+    )
 
     # -------------------------
     # Event metadata
@@ -19,7 +34,9 @@ def main():
 
     event_name = soup.select_one(
         ".b-content__title-highlight"
-    ).get_text(strip=True)
+    ).get_text(
+        strip=True
+    )
 
     info_items = soup.select(
         ".b-list__box-list-item"
@@ -39,19 +56,25 @@ def main():
         .strip()
     )
 
-    print(f"Event: {event_name}")
-    print(f"Date: {event_date}")
-    print(f"Location: {location}")
+    event_data = {
+        "event_id": get_id_from_url(
+            EVENT_URL
+        ),
+        "event_name": event_name,
+        "event_date": event_date,
+        "location": location
+    }
 
     # -------------------------
     # Fight rows
     # -------------------------
 
     fight_rows = soup.select(
-        ".b-fight-details__table-body .b-fight-details__table-row"
+        ".b-fight-details__table-body "
+        ".b-fight-details__table-row"
     )
 
-    print(f"\nNumber of fights: {len(fight_rows)}")
+    fights = []
 
     for row in fight_rows:
 
@@ -59,16 +82,27 @@ def main():
         # Fighters
         # -------------------------
 
-        fighters = row.select("a.b-link_style_black")
+        fighters = row.select(
+            "a.b-link_style_black"
+        )
 
-        fighter_a = fighters[0].get_text(strip=True)
-        fighter_b = fighters[1].get_text(strip=True)
+        fighter_a = fighters[0].get_text(
+            strip=True
+        )
+
+        fighter_b = fighters[1].get_text(
+            strip=True
+        )
 
         # -------------------------
         # Fight URL
         # -------------------------
 
         fight_url = row["data-link"]
+
+        fight_id = get_id_from_url(
+            fight_url
+        )
 
         # -------------------------
         # Table columns
@@ -85,15 +119,12 @@ def main():
         )
 
         if result_flag:
-            result = result_flag.get_text(strip=True).lower()
+            result = result_flag.get_text(
+                strip=True
+            ).lower()
         else:
             result = None
 
-        # UFC 300 lists the winner first when a "win"
-        # flag is present.
-        #
-        # We will revisit this logic when we encounter
-        # draws / no contests in other events.
         if result == "win":
             winner = fighter_a
         else:
@@ -121,18 +152,47 @@ def main():
             strip=True
         )
 
-        # -------------------------
-        # Print fight
-        # -------------------------
+        fights.append({
+            "fight_id": fight_id,
+            "fighter_a": fighter_a,
+            "fighter_b": fighter_b,
+            "winner": winner,
+            "weight_class": weight_class,
+            "method": method,
+            "round": round_number,
+            "time": fight_time,
+            "fight_url": fight_url
+        })
 
-        print()
-        print(f"{fighter_a} vs {fighter_b}")
-        print(f"Winner: {winner}")
-        print(f"Weight class: {weight_class}")
-        print(f"Method: {method}")
-        print(f"Round: {round_number}")
-        print(f"Time: {fight_time}")
-        print(f"Fight URL: {fight_url}")
+    # -------------------------
+    # Build event dictionary
+    # -------------------------
+
+    data = {
+        "event": event_data,
+        "fights": fights
+    }
+
+    # -------------------------
+    # Save JSON
+    # -------------------------
+
+    OUTPUT_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    OUTPUT_PATH.write_text(
+        json.dumps(
+            data,
+            indent=4
+        ),
+        encoding="utf-8"
+    )
+
+    print(
+        f"Saved parsed event to {OUTPUT_PATH}"
+    )
 
 
 if __name__ == "__main__":

@@ -3,10 +3,10 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 
-FIGHTER_URL = "http://ufcstats.com/fighter-details/275aca31f61ba28c"
+FIGHTER_URL = "http://ufcstats.com/fighter-details/e1248941344b3288"
 
 OUTPUT_PATH = Path(
-    "data/raw/fighters/islam_makhachev.html"
+    "data/raw/fighters/alex_volkanovski.html"
 )
 
 

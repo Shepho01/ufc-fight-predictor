@@ -1,0 +1,18 @@
+{
+    "fighter_id": "275aca31f61ba28c",
+    "name": "Islam Makhachev",
+    "record": "29-1-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 27, 1991",
+    "sig_strikes_landed_per_min": "2.27",
+    "sig_striking_accuracy": "58%",
+    "sig_strikes_absorbed_per_min": "1.42",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "3.22",
+    "takedown_accuracy": "54%",
+    "takedown_defense": "91%",
+    "submission_attempts_per_15_min": "0.9"
+}

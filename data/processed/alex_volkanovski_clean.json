@@ -1,0 +1,22 @@
+{
+    "fighter_id": "e1248941344b3288",
+    "name": "Alexander Volkanovski",
+    "wins": 28,
+    "losses": 4,
+    "draws": 0,
+    "height_cm": 167.64000000000001,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 29,
+    "dob_month": 9,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 5.99,
+    "sig_striking_accuracy": 0.57,
+    "sig_strikes_absorbed_per_min": 3.31,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 1.63,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 0.2
+}
