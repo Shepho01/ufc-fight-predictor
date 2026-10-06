@@ -1,6 +1,21 @@
 {
+    "fight": {
+        "fight_id": "256894b49303537b",
+        "event_id": "01dd4cdc2446f665",
+        "event_name": "UFC 284: Makhachev vs. Volkanovski",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time_seconds": 300,
+        "referee": "Marc Goddard",
+        "winner_id": "275aca31f61ba28c"
+    },
     "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
         "name": "Islam Makhachev",
+        "result": "W",
         "kd": 0,
         "sig_str_landed": 57,
         "sig_str_attempted": 95,
@@ -33,7 +48,9 @@
         "ctrl_seconds": 457
     },
     "fighter_b": {
+        "fighter_id": "e1248941344b3288",
         "name": "Alexander Volkanovski",
+        "result": "L",
         "kd": 1,
         "sig_str_landed": 70,
         "sig_str_attempted": 143,
