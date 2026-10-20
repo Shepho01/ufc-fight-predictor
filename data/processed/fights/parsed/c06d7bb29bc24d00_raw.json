@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c06d7bb29bc24d00",
+        "event_id": "6e2b1d631832921d",
+        "event_name": "UFC 259: Blachowicz vs. Adesanya",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "1:37",
+        "referee": "Chris Tognoni",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 25",
+            "Sig. str. %": "60%",
+            "Total str.": "102 of 119",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "9:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 25",
+            "Sig. str. %": "60%",
+            "Head": "12 of 22",
+            "Body": "2 of 2",
+            "Leg": "1 of 1",
+            "Distance": "5 of 14",
+            "Clinch": "1 of 1",
+            "Ground": "9 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 20",
+            "Sig. str. %": "50%",
+            "Total str.": "14 of 24",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 20",
+            "Sig. str. %": "50%",
+            "Head": "5 of 15",
+            "Body": "3 of 3",
+            "Leg": "2 of 2",
+            "Distance": "6 of 14",
+            "Clinch": "1 of 1",
+            "Ground": "3 of 5"
+        }
+    }
+}

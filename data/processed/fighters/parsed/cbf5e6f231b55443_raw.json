@@ -1,0 +1,84 @@
+{
+    "fighter_id": "cbf5e6f231b55443",
+    "name": "Yair Rodriguez",
+    "record": "21-6-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Oct 06, 1992",
+    "sig_strikes_landed_per_min": "4.65",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "3.78",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.71",
+    "takedown_accuracy": "29%",
+    "takedown_defense": "59%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "d3be5a4e0ec273e2",
+            "fight_url": "http://ufcstats.com/fight-details/d3be5a4e0ec273e2"
+        },
+        {
+            "fight_id": "3b05a4ced6dd74f5",
+            "fight_url": "http://ufcstats.com/fight-details/3b05a4ced6dd74f5"
+        },
+        {
+            "fight_id": "4b12a4b48755cd6b",
+            "fight_url": "http://ufcstats.com/fight-details/4b12a4b48755cd6b"
+        },
+        {
+            "fight_id": "2208b9f471a201d9",
+            "fight_url": "http://ufcstats.com/fight-details/2208b9f471a201d9"
+        },
+        {
+            "fight_id": "7503d5c892f238fb",
+            "fight_url": "http://ufcstats.com/fight-details/7503d5c892f238fb"
+        },
+        {
+            "fight_id": "147e984aa34e3028",
+            "fight_url": "http://ufcstats.com/fight-details/147e984aa34e3028"
+        },
+        {
+            "fight_id": "d2dc6fb05ad78d80",
+            "fight_url": "http://ufcstats.com/fight-details/d2dc6fb05ad78d80"
+        },
+        {
+            "fight_id": "62acea88e628c3ca",
+            "fight_url": "http://ufcstats.com/fight-details/62acea88e628c3ca"
+        },
+        {
+            "fight_id": "0ccd16201ac41ef8",
+            "fight_url": "http://ufcstats.com/fight-details/0ccd16201ac41ef8"
+        },
+        {
+            "fight_id": "39f746cee66e8771",
+            "fight_url": "http://ufcstats.com/fight-details/39f746cee66e8771"
+        },
+        {
+            "fight_id": "5742025a09190829",
+            "fight_url": "http://ufcstats.com/fight-details/5742025a09190829"
+        },
+        {
+            "fight_id": "570f3407722cc512",
+            "fight_url": "http://ufcstats.com/fight-details/570f3407722cc512"
+        },
+        {
+            "fight_id": "43b416cf0c75dbd7",
+            "fight_url": "http://ufcstats.com/fight-details/43b416cf0c75dbd7"
+        },
+        {
+            "fight_id": "7ab1cdfe3e540856",
+            "fight_url": "http://ufcstats.com/fight-details/7ab1cdfe3e540856"
+        },
+        {
+            "fight_id": "243e5e9b6678f303",
+            "fight_url": "http://ufcstats.com/fight-details/243e5e9b6678f303"
+        },
+        {
+            "fight_id": "9e47b2a66d0e9315",
+            "fight_url": "http://ufcstats.com/fight-details/9e47b2a66d0e9315"
+        }
+    ]
+}

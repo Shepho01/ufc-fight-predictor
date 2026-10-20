@@ -1,6 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import json
+import re
 
 
 RAW_PATH = Path(
@@ -12,9 +13,9 @@ CLEAN_PATH = Path(
 )
 
 
-def load_raw_event():
+def load_raw_event(raw_path):
     with open(
-        RAW_PATH,
+        raw_path,
         "r",
         encoding="utf-8"
     ) as file:
@@ -91,14 +92,14 @@ def clean_event(raw_event):
     }
 
 
-def save_clean_event(cleaned_event):
-    CLEAN_PATH.parent.mkdir(
+def save_clean_event(cleaned_event, output_path):
+    output_path.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
     with open(
-        CLEAN_PATH,
+        output_path,
         "w",
         encoding="utf-8"
     ) as file:
@@ -110,19 +111,25 @@ def save_clean_event(cleaned_event):
 
 
 def main():
-    raw_event = load_raw_event()
+    input_dir = Path("data/processed/events/parsed")
+    output_dir = Path("data/processed/events/cleaned")
 
-    cleaned_event = clean_event(
-        raw_event
-    )
+    for raw_path in sorted(input_dir.glob("*_raw.json")):
+        event_id = raw_path.name.removesuffix("_raw.json")
 
-    save_clean_event(
-        cleaned_event
-    )
+        # Only process files named with an event ID.
+        if not re.fullmatch(r"[0-9a-f]{16}", event_id):
+            continue
 
-    print(
-        f"Cleaned event saved to: {CLEAN_PATH}"
-    )
+        raw_event = load_raw_event(raw_path)
+
+        cleaned_event = clean_event(raw_event)
+
+        output_path = output_dir / f"{event_id}_clean.json"
+
+        save_clean_event(cleaned_event, output_path)
+
+        print(f"Cleaned event saved to: {output_path}")
 
 
 if __name__ == "__main__":

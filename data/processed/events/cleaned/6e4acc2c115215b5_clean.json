@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "6e4acc2c115215b5",
+        "event_name": "UFC 302: Makhachev vs. Poirier",
+        "event_day": 1,
+        "event_month": 6,
+        "event_year": 2024,
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1a0031e2072f21b6",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": 5,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/1a0031e2072f21b6"
+        },
+        {
+            "fight_id": "9e7538a788e6d789",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Paulo Costa",
+            "winner": "Sean Strickland",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9e7538a788e6d789"
+        },
+        {
+            "fight_id": "605c16fa5a803b15",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Michal Oleksiejczuk",
+            "winner": "Kevin Holland",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 94,
+            "fight_url": "http://ufcstats.com/fight-details/605c16fa5a803b15"
+        },
+        {
+            "fight_id": "b5d5b8e06ccb70a3",
+            "fighter_a": "Niko Price",
+            "fighter_b": "Alex Morono",
+            "winner": "Niko Price",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b5d5b8e06ccb70a3"
+        },
+        {
+            "fight_id": "fd2d814a8a23798f",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Elizeu Zaleski dos Santos",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fd2d814a8a23798f"
+        },
+        {
+            "fight_id": "ee24be90a01f552e",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Cesar Almeida",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ee24be90a01f552e"
+        },
+        {
+            "fight_id": "c0af8cf5befb2dcf",
+            "fighter_a": "Jailton Almeida",
+            "fighter_b": "Alexandr Romanov",
+            "winner": "Jailton Almeida",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/c0af8cf5befb2dcf"
+        },
+        {
+            "fight_id": "cf306c4714530f31",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Joe Solecki",
+            "winner": "Grant Dawson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf306c4714530f31"
+        },
+        {
+            "fight_id": "b7575b0ec9f81741",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Phil Rowe",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b7575b0ec9f81741"
+        },
+        {
+            "fight_id": "7d9bb6fda0ea1ee0",
+            "fighter_a": "Bassil Hafez",
+            "fighter_b": "Mickey Gall",
+            "winner": "Bassil Hafez",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7d9bb6fda0ea1ee0"
+        },
+        {
+            "fight_id": "2554b31a07f34e1a",
+            "fighter_a": "Ailin Perez",
+            "fighter_b": "Joselyne Edwards",
+            "winner": "Ailin Perez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2554b31a07f34e1a"
+        },
+        {
+            "fight_id": "f1d3eec12662d8d7",
+            "fighter_a": "Andre Lima",
+            "fighter_b": "Mitch Raposo",
+            "winner": "Andre Lima",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f1d3eec12662d8d7"
+        }
+    ]
+}

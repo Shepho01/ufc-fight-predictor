@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "caced97768818230",
+        "event_name": "UFC Fight Night: Werdum vs. Tybura",
+        "event_date": "November 18, 2017",
+        "location": "Sydney, New South Wales, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "4b0aa5c67e69ce74",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Marcin Tybura",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4b0aa5c67e69ce74"
+        },
+        {
+            "fight_id": "2060e8172f820d80",
+            "fighter_a": "Jessica-Rose Clark",
+            "fighter_b": "Bec Rawlings",
+            "winner": "Jessica-Rose Clark",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2060e8172f820d80"
+        },
+        {
+            "fight_id": "5ebe8d3849273776",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Tim Means",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5ebe8d3849273776"
+        },
+        {
+            "fight_id": "344bfe9c1ff511bb",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Bojan Velickovic",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/344bfe9c1ff511bb"
+        },
+        {
+            "fight_id": "569e2c02f7699c0d",
+            "fighter_a": "Elias Theodorou",
+            "fighter_b": "Daniel Kelly",
+            "winner": "Elias Theodorou",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/569e2c02f7699c0d"
+        },
+        {
+            "fight_id": "097bc98e15722998",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Shane Young",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/097bc98e15722998"
+        },
+        {
+            "fight_id": "b90a5b9061ec54a5",
+            "fighter_a": "Ryan Benoit",
+            "fighter_b": "Ashkan Mokhtarian",
+            "winner": "Ryan Benoit",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/b90a5b9061ec54a5"
+        },
+        {
+            "fight_id": "fd2c018aade60a14",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Will Brooks",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/fd2c018aade60a14"
+        },
+        {
+            "fight_id": "6971094300073d47",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Rashad Coulter",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "1",
+            "time": "4:35",
+            "fight_url": "http://ufcstats.com/fight-details/6971094300073d47"
+        },
+        {
+            "fight_id": "823797bc6d532b52",
+            "fighter_a": "Frank Camacho",
+            "fighter_b": "Damien Brown",
+            "winner": "Frank Camacho",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/823797bc6d532b52"
+        },
+        {
+            "fight_id": "23b6ffc0223f8cce",
+            "fighter_a": "Nadia Kassem",
+            "fighter_b": "Alex Chambers",
+            "winner": "Nadia Kassem",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/23b6ffc0223f8cce"
+        },
+        {
+            "fight_id": "c06eaf92bdfde8e6",
+            "fighter_a": "Eric Shelton",
+            "fighter_b": "Jenel Lausa",
+            "winner": "Eric Shelton",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c06eaf92bdfde8e6"
+        },
+        {
+            "fight_id": "51ec53f442d2cc9b",
+            "fighter_a": "Adam Wieczorek",
+            "fighter_b": "Anthony Hamilton",
+            "winner": "Adam Wieczorek",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/51ec53f442d2cc9b"
+        }
+    ]
+}

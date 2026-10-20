@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "f6a7b02c42e9fc5b",
+        "event_name": "UFC Fight Night: Makhachev vs. Green",
+        "event_day": 26,
+        "event_month": 2,
+        "event_year": 2022,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2f4d42e0b9696f71",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "King Green",
+            "winner": "Islam Makhachev",
+            "weight_class": "Catch Weight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 203,
+            "fight_url": "http://ufcstats.com/fight-details/2f4d42e0b9696f71"
+        },
+        {
+            "fight_id": "01468f766dd7385c",
+            "fighter_a": "Wellington Turman",
+            "fighter_b": "Misha Cirkunov",
+            "winner": "Wellington Turman",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 89,
+            "fight_url": "http://ufcstats.com/fight-details/01468f766dd7385c"
+        },
+        {
+            "fight_id": "c4eb14c3de579842",
+            "fighter_a": "Priscila Cachoeira",
+            "fighter_b": "Ji Yeon Kim",
+            "winner": "Priscila Cachoeira",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4eb14c3de579842"
+        },
+        {
+            "fight_id": "8515f07911765f89",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Joel Alvarez",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 117,
+            "fight_url": "http://ufcstats.com/fight-details/8515f07911765f89"
+        },
+        {
+            "fight_id": "84d633d4a9fbf331",
+            "fighter_a": "Armen Petrosyan",
+            "fighter_b": "Gregory Rodrigues",
+            "winner": "Armen Petrosyan",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/84d633d4a9fbf331"
+        },
+        {
+            "fight_id": "61a20ff34b6948ba",
+            "fighter_a": "Ignacio Bahamondes",
+            "fighter_b": "Rongzhu",
+            "winner": "Ignacio Bahamondes",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/61a20ff34b6948ba"
+        },
+        {
+            "fight_id": "f087a10a6f2bcc99",
+            "fighter_a": "Josiane Nunes",
+            "fighter_b": "Ramona Pascual",
+            "winner": "Josiane Nunes",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f087a10a6f2bcc99"
+        },
+        {
+            "fight_id": "cb1f27818d46af0e",
+            "fighter_a": "Terrance McKinney",
+            "fighter_b": "Fares Ziam",
+            "winner": "Terrance McKinney",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/cb1f27818d46af0e"
+        },
+        {
+            "fight_id": "901e62b7af57f559",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Alejandro Perez",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/901e62b7af57f559"
+        },
+        {
+            "fight_id": "c5d5fcf290cc029e",
+            "fighter_a": "Ramiz Brahimaj",
+            "fighter_b": "Micheal Gillmore",
+            "winner": "Ramiz Brahimaj",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 122,
+            "fight_url": "http://ufcstats.com/fight-details/c5d5fcf290cc029e"
+        },
+        {
+            "fight_id": "181ceedcacc01d48",
+            "fighter_a": "Carlos Hernandez",
+            "fighter_b": "Victor Altamirano",
+            "winner": "Carlos Hernandez",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/181ceedcacc01d48"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4047e98132306cd5",
+        "event_id": "4a9e305633f3ef47",
+        "event_name": "UFC 276: Adesanya vs. Cannonier",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "199 of 372",
+            "Sig. str. %": "53%",
+            "Total str.": "204 of 377",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "199 of 372",
+            "Sig. str. %": "53%",
+            "Head": "152 of 316",
+            "Body": "19 of 24",
+            "Leg": "28 of 32",
+            "Distance": "175 of 340",
+            "Clinch": "24 of 32",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "127 of 301",
+            "Sig. str. %": "42%",
+            "Total str.": "161 of 335",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "127 of 301",
+            "Sig. str. %": "42%",
+            "Head": "64 of 213",
+            "Body": "42 of 59",
+            "Leg": "21 of 29",
+            "Distance": "109 of 283",
+            "Clinch": "18 of 18",
+            "Ground": "0 of 0"
+        }
+    }
+}

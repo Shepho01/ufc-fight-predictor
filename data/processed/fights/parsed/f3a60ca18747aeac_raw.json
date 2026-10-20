@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f3a60ca18747aeac",
+        "event_id": "15515e797aedc137",
+        "event_name": "UFC 221: Romero vs. Rockhold",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:57",
+        "referee": "Marc Goddard",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "73 of 120",
+            "Sig. str. %": "60%",
+            "Total str.": "105 of 158",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "73 of 120",
+            "Sig. str. %": "60%",
+            "Head": "57 of 103",
+            "Body": "10 of 10",
+            "Leg": "6 of 7",
+            "Distance": "4 of 9",
+            "Clinch": "5 of 8",
+            "Ground": "64 of 103"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "68f6e96c5fa6e044",
+        "name": "Jeremy Kennedy",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 25",
+            "Sig. str. %": "32%",
+            "Total str.": "11 of 29",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 25",
+            "Sig. str. %": "32%",
+            "Head": "7 of 24",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "1 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "7 of 7"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "fighter_id": "c8097968da5e5f13",
+    "name": "Chris Wade",
+    "record": "12-3-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 30, 1987",
+    "sig_strikes_landed_per_min": "1.70",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "1.75",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "2.60",
+    "takedown_accuracy": "51%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "b2297232b9310ba5",
+            "fight_url": "http://ufcstats.com/fight-details/b2297232b9310ba5"
+        },
+        {
+            "fight_id": "144b0c1dd6c909f3",
+            "fight_url": "http://ufcstats.com/fight-details/144b0c1dd6c909f3"
+        },
+        {
+            "fight_id": "97e895b7c2cb9db4",
+            "fight_url": "http://ufcstats.com/fight-details/97e895b7c2cb9db4"
+        },
+        {
+            "fight_id": "226c6a86f4f81122",
+            "fight_url": "http://ufcstats.com/fight-details/226c6a86f4f81122"
+        },
+        {
+            "fight_id": "a7c04dc830923313",
+            "fight_url": "http://ufcstats.com/fight-details/a7c04dc830923313"
+        },
+        {
+            "fight_id": "cf38ced734978fb8",
+            "fight_url": "http://ufcstats.com/fight-details/cf38ced734978fb8"
+        },
+        {
+            "fight_id": "788c4bbf925cdf40",
+            "fight_url": "http://ufcstats.com/fight-details/788c4bbf925cdf40"
+        }
+    ]
+}

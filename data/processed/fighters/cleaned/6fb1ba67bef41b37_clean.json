@@ -1,0 +1,23 @@
+{
+    "fighter_id": "6fb1ba67bef41b37",
+    "name": "Nik Lentz",
+    "wins": 30,
+    "losses": 12,
+    "draws": 2,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 13,
+    "dob_month": 8,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 3.44,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 3.25,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 3.3,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 0.43,
+    "submission_attempts_per_15_min": 1.2
+}

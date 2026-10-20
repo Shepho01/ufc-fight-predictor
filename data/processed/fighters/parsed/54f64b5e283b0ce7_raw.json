@@ -1,0 +1,60 @@
+{
+    "fighter_id": "54f64b5e283b0ce7",
+    "name": "Ilia Topuria",
+    "record": "17-1-0",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jan 21, 1997",
+    "sig_strikes_landed_per_min": "4.82",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "3.97",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "1.73",
+    "takedown_accuracy": "57%",
+    "takedown_defense": "95%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "7208e40818401e88",
+            "fight_url": "http://ufcstats.com/fight-details/7208e40818401e88"
+        },
+        {
+            "fight_id": "7a64d63e12618ba7",
+            "fight_url": "http://ufcstats.com/fight-details/7a64d63e12618ba7"
+        },
+        {
+            "fight_id": "ebf7cea27b83c432",
+            "fight_url": "http://ufcstats.com/fight-details/ebf7cea27b83c432"
+        },
+        {
+            "fight_id": "bec3154a11df3299",
+            "fight_url": "http://ufcstats.com/fight-details/bec3154a11df3299"
+        },
+        {
+            "fight_id": "c3ef3cb03edde8bb",
+            "fight_url": "http://ufcstats.com/fight-details/c3ef3cb03edde8bb"
+        },
+        {
+            "fight_id": "4a17876e99f6baf3",
+            "fight_url": "http://ufcstats.com/fight-details/4a17876e99f6baf3"
+        },
+        {
+            "fight_id": "a200b5dcbdd2506e",
+            "fight_url": "http://ufcstats.com/fight-details/a200b5dcbdd2506e"
+        },
+        {
+            "fight_id": "07468b6347ac5e3d",
+            "fight_url": "http://ufcstats.com/fight-details/07468b6347ac5e3d"
+        },
+        {
+            "fight_id": "b1be8b41b1a4fd85",
+            "fight_url": "http://ufcstats.com/fight-details/b1be8b41b1a4fd85"
+        },
+        {
+            "fight_id": "22fe6779c3fa649d",
+            "fight_url": "http://ufcstats.com/fight-details/22fe6779c3fa649d"
+        }
+    ]
+}

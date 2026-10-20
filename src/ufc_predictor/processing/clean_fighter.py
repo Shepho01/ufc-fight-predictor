@@ -2,7 +2,7 @@ from pathlib import Path
 from datetime import datetime
 
 import json
-
+import re
 
 RAW_PATH = Path(
     "data/processed/alex_volkanovski_raw.json"
@@ -13,8 +13,8 @@ CLEAN_PATH = Path(
 )
 
 
-def load_raw_fighter():
-    with open(RAW_PATH, "r", encoding="utf-8") as file:
+def load_raw_fighter(raw_path):
+    with open(raw_path, "r", encoding="utf-8") as file:
         return json.load(file)
 
 
@@ -33,10 +33,15 @@ def parse_height_to_cm(value):
 
 
 def parse_reach_to_cm(value):
-    if value is None or value == "---":
+    if value is None:
         return None
 
-    inches = int(
+    value = value.strip()
+
+    if value in ("", "-", "--", "---"):
+        return None
+
+    inches = float(
         value.replace('"', "").strip()
     )
 
@@ -64,12 +69,28 @@ def parse_dob(value):
     return date.day, date.month, date.year
 
 def parse_record(value):
-    if value is None or value == "---":
-        return None, None, None
+    if value is None or value.strip() in ("", "---"):
+        return None, None, None, None
 
-    wins, losses, draws = value.split("-")
+    match = re.fullmatch(
+        r"\s*(\d+)-(\d+)-(\d+)(?:\s*\((\d+)\s+NC\))?\s*",
+        value,
+    )
 
-    return int(wins), int(losses), int(draws)
+    if match is None:
+        raise ValueError(f"Unrecognised fighter record: {value!r}")
+
+    wins = int(match.group(1))
+    losses = int(match.group(2))
+    draws = int(match.group(3))
+
+    no_contests = (
+        int(match.group(4))
+        if match.group(4) is not None
+        else 0
+    )
+
+    return wins, losses, draws, no_contests
 
 
 def parse_percentage(value):
@@ -85,7 +106,7 @@ def clean_fighter(fighter):
         fighter["dob"]
     )
 
-    wins, losses, draws = parse_record(
+    wins, losses, draws, no_contests = parse_record(
         fighter["record"]
     )
 
@@ -96,6 +117,7 @@ def clean_fighter(fighter):
         "wins": wins,
         "losses": losses,
         "draws": draws,
+        "no_conests": no_contests,
 
         "height_cm": parse_height_to_cm(
             fighter["height"]
@@ -149,38 +171,34 @@ def clean_fighter(fighter):
     }
 
 
-def save_clean_fighter(fighter):
-    CLEAN_PATH.parent.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+def save_clean_fighter(fighter, output_path):
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(
-        CLEAN_PATH,
-        "w",
-        encoding="utf-8"
-    ) as file:
-        json.dump(
-            fighter,
-            file,
-            indent=4
-        )
+    with open(output_path, "w", encoding="utf-8") as file:
+        json.dump(fighter, file, indent=4)
 
 
 def main():
-    raw_fighter = load_raw_fighter()
+    input_dir = Path("data/processed/fighters/parsed")
+    output_dir = Path("data/processed/fighters/cleaned")
 
-    cleaned_fighter = clean_fighter(
-        raw_fighter
-    )
+    paths = sorted(input_dir.glob("*_raw.json"))
 
-    save_clean_fighter(
-        cleaned_fighter
-    )
+    if not paths:
+        print(f"No parsed fighter files found in {input_dir}")
+        return
 
-    print(
-        f"Cleaned fighter saved to: {CLEAN_PATH}"
-    )
+    for raw_path in paths:
+        raw_fighter = load_raw_fighter(raw_path)
+
+        cleaned_fighter = clean_fighter(raw_fighter)
+
+        fighter_id = cleaned_fighter["fighter_id"]
+        output_path = output_dir / f"{fighter_id}_clean.json"
+
+        save_clean_fighter(cleaned_fighter, output_path)
+
+        print(f"Cleaned fighter saved to: {output_path}")
 
 
 if __name__ == "__main__":

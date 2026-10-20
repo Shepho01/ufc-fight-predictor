@@ -1,0 +1,23 @@
+{
+    "fighter_id": "eae48ff31db420c2",
+    "name": "Arman Tsarukyan",
+    "wins": 24,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 11,
+    "dob_month": 10,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 3.78,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 1.77,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 3.25,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 0.1
+}

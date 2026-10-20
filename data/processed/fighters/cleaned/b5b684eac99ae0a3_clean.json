@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b5b684eac99ae0a3",
+    "name": "Chad Mendes",
+    "wins": 18,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64000000000001,
+    "weight_lbs": 145,
+    "reach_cm": 167.64000000000001,
+    "stance": "Orthodox",
+    "dob_day": 1,
+    "dob_month": 5,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 2.78,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 2.35,
+    "sig_strike_defense": 0.67,
+    "takedowns_landed_per_15_min": 4.13,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.3
+}

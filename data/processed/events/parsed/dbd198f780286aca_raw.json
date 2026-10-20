@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "dbd198f780286aca",
+        "event_name": "UFC 251: Usman vs. Masvidal",
+        "event_date": "July 11, 2020",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "d292243c6499b2fe",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d292243c6499b2fe"
+        },
+        {
+            "fight_id": "94b1596c6ff9a25d",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Max Holloway",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/94b1596c6ff9a25d"
+        },
+        {
+            "fight_id": "0f9be7ac405772f8",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Jose Aldo",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "5",
+            "time": "3:24",
+            "fight_url": "http://ufcstats.com/fight-details/0f9be7ac405772f8"
+        },
+        {
+            "fight_id": "e16f42a666e163d8",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e16f42a666e163d8"
+        },
+        {
+            "fight_id": "6e0c1faaf40caf9a",
+            "fighter_a": "Amanda Ribas",
+            "fighter_b": "Paige VanZant",
+            "winner": "Amanda Ribas",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "2:21",
+            "fight_url": "http://ufcstats.com/fight-details/6e0c1faaf40caf9a"
+        },
+        {
+            "fight_id": "cd8cdb539deaa47f",
+            "fighter_a": "Jiri Prochazka",
+            "fighter_b": "Volkan Oezdemir",
+            "winner": "Jiri Prochazka",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:49",
+            "fight_url": "http://ufcstats.com/fight-details/cd8cdb539deaa47f"
+        },
+        {
+            "fight_id": "ce7cd2ec773bea7f",
+            "fighter_a": "Muslim Salikhov",
+            "fighter_b": "Elizeu Zaleski dos Santos",
+            "winner": "Muslim Salikhov",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ce7cd2ec773bea7f"
+        },
+        {
+            "fight_id": "159646a9d2ae8ea5",
+            "fighter_a": "Makwan Amirkhani",
+            "fighter_b": "Danny Henry",
+            "winner": "Makwan Amirkhani",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": "1",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/159646a9d2ae8ea5"
+        },
+        {
+            "fight_id": "7c76c752c7abf2e0",
+            "fighter_a": "Leonardo Santos",
+            "fighter_b": "Roman Bogatov",
+            "winner": "Leonardo Santos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7c76c752c7abf2e0"
+        },
+        {
+            "fight_id": "137646de0ffd9c35",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Maxim Grishin",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/137646de0ffd9c35"
+        },
+        {
+            "fight_id": "0e8d5c16eb9cb1cf",
+            "fighter_a": "Raulian Paiva",
+            "fighter_b": "Zhalgas Zhumagulov",
+            "winner": "Raulian Paiva",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0e8d5c16eb9cb1cf"
+        },
+        {
+            "fight_id": "08e48648e3504638",
+            "fighter_a": "Karol Rosa",
+            "fighter_b": "Vanessa Melo",
+            "winner": "Karol Rosa",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/08e48648e3504638"
+        },
+        {
+            "fight_id": "5d6fb4acfe5cc8a1",
+            "fighter_a": "Davey Grant",
+            "fighter_b": "Martin Day",
+            "winner": "Davey Grant",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/5d6fb4acfe5cc8a1"
+        }
+    ]
+}

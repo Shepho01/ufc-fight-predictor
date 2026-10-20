@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1a0031e2072f21b6",
+        "event_id": "6e4acc2c115215b5",
+        "event_name": "UFC 302: Makhachev vs. Poirier",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 5,
+        "finish_time": "2:42",
+        "referee": "Keith Peterson",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "88 of 156",
+            "Sig. str. %": "56%",
+            "Total str.": "147 of 222",
+            "Td": "5 of 16",
+            "Td %": "31%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "10:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "88 of 156",
+            "Sig. str. %": "56%",
+            "Head": "81 of 148",
+            "Body": "7 of 7",
+            "Leg": "0 of 1",
+            "Distance": "71 of 136",
+            "Clinch": "11 of 14",
+            "Ground": "6 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "74 of 183",
+            "Sig. str. %": "40%",
+            "Total str.": "104 of 218",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "74 of 183",
+            "Sig. str. %": "40%",
+            "Head": "53 of 159",
+            "Body": "18 of 20",
+            "Leg": "3 of 4",
+            "Distance": "51 of 157",
+            "Clinch": "23 of 26",
+            "Ground": "0 of 0"
+        }
+    }
+}

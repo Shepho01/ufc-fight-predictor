@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "097bc98e15722998",
+        "event_id": "caced97768818230",
+        "event_name": "UFC Fight Night: Werdum vs. Tybura",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John Sharp",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "68 of 114",
+            "Sig. str. %": "59%",
+            "Total str.": "79 of 128",
+            "Td": "5 of 14",
+            "Td %": "35%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "68 of 114",
+            "Sig. str. %": "59%",
+            "Head": "36 of 78",
+            "Body": "11 of 13",
+            "Leg": "21 of 23",
+            "Distance": "40 of 71",
+            "Clinch": "14 of 25",
+            "Ground": "14 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4cd8b03aee1d0138",
+        "name": "Shane Young",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 81",
+            "Sig. str. %": "22%",
+            "Total str.": "20 of 83",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 81",
+            "Sig. str. %": "22%",
+            "Head": "11 of 67",
+            "Body": "5 of 10",
+            "Leg": "2 of 4",
+            "Distance": "15 of 75",
+            "Clinch": "3 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

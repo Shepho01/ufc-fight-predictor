@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2f4d42e0b9696f71",
+        "event_id": "f6a7b02c42e9fc5b",
+        "event_name": "UFC Fight Night: Makhachev vs. Green",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:23",
+        "referee": "Herb Dean",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 32",
+            "Sig. str. %": "43%",
+            "Total str.": "30 of 51",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 32",
+            "Sig. str. %": "43%",
+            "Head": "10 of 27",
+            "Body": "2 of 2",
+            "Leg": "2 of 3",
+            "Distance": "3 of 10",
+            "Clinch": "2 of 2",
+            "Ground": "9 of 20"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "9 of 13",
+            "Sig. str. %": "69%",
+            "Total str.": "11 of 15",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 13",
+            "Sig. str. %": "69%",
+            "Head": "2 of 5",
+            "Body": "6 of 6",
+            "Leg": "1 of 2",
+            "Distance": "4 of 8",
+            "Clinch": "3 of 3",
+            "Ground": "2 of 2"
+        }
+    }
+}

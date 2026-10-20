@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "6085ceb59087514b",
+        "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+        "event_date": "July 08, 2023",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4b12a4b48755cd6b",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Yair Rodriguez",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:19",
+            "fight_url": "http://ufcstats.com/fight-details/4b12a4b48755cd6b"
+        },
+        {
+            "fight_id": "0f24f3bc1b39ea45",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Brandon Moreno",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f24f3bc1b39ea45"
+        },
+        {
+            "fight_id": "4ec5d9bd1442e6c1",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Robert Whittaker",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:23",
+            "fight_url": "http://ufcstats.com/fight-details/4ec5d9bd1442e6c1"
+        },
+        {
+            "fight_id": "b6ea8880cc7af439",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Jalin Turner",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b6ea8880cc7af439"
+        },
+        {
+            "fight_id": "1ffe6e8df6dbefd2",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Val Woodburn",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:38",
+            "fight_url": "http://ufcstats.com/fight-details/1ffe6e8df6dbefd2"
+        },
+        {
+            "fight_id": "20d8f6b4b7c8bae7",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Niko Price",
+            "winner": "Robbie Lawler",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:38",
+            "fight_url": "http://ufcstats.com/fight-details/20d8f6b4b7c8bae7"
+        },
+        {
+            "fight_id": "d3a9aceeb7e23580",
+            "fighter_a": "Tatsuro Taira",
+            "fighter_b": "Edgar Chairez",
+            "winner": "Tatsuro Taira",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d3a9aceeb7e23580"
+        },
+        {
+            "fight_id": "ef270d8cf29d071b",
+            "fighter_a": "Denise Gomes",
+            "fighter_b": "Yazmin Jauregui",
+            "winner": "Denise Gomes",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:20",
+            "fight_url": "http://ufcstats.com/fight-details/ef270d8cf29d071b"
+        },
+        {
+            "fight_id": "6ef12db5b099ec81",
+            "fighter_a": "Alonzo Menifield",
+            "fighter_b": "Jimmy Crute",
+            "winner": "Alonzo Menifield",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:55",
+            "fight_url": "http://ufcstats.com/fight-details/6ef12db5b099ec81"
+        },
+        {
+            "fight_id": "69f67a4a690eb15d",
+            "fighter_a": "Vitor Petrino",
+            "fighter_b": "Marcin Prachnio",
+            "winner": "Vitor Petrino",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:42",
+            "fight_url": "http://ufcstats.com/fight-details/69f67a4a690eb15d"
+        },
+        {
+            "fight_id": "dbf8a4b0870a47d1",
+            "fighter_a": "Cameron Saaiman",
+            "fighter_b": "Terrence Mitchell",
+            "winner": "Cameron Saaiman",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:10",
+            "fight_url": "http://ufcstats.com/fight-details/dbf8a4b0870a47d1"
+        },
+        {
+            "fight_id": "420f7e6530dbc727",
+            "fighter_a": "Jesus Aguilar",
+            "fighter_b": "Shannon Ross",
+            "winner": "Jesus Aguilar",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:17",
+            "fight_url": "http://ufcstats.com/fight-details/420f7e6530dbc727"
+        },
+        {
+            "fight_id": "5b71958ee063a6e8",
+            "fighter_a": "Esteban Ribovics",
+            "fighter_b": "Kamuela Kirk",
+            "winner": "Esteban Ribovics",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5b71958ee063a6e8"
+        }
+    ]
+}

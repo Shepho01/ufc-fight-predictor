@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "849eb47d349f3fe4",
+        "event_id": "a79bfbc01b2264d6",
+        "event_name": "UFC 242: Khabib vs. Poirier",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Peter Hickmott",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "43 of 95",
+            "Sig. str. %": "45%",
+            "Total str.": "88 of 148",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 95",
+            "Sig. str. %": "45%",
+            "Head": "32 of 81",
+            "Body": "7 of 10",
+            "Leg": "4 of 4",
+            "Distance": "29 of 74",
+            "Clinch": "3 of 3",
+            "Ground": "11 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "0052de90691d4a93",
+        "name": "Davi Ramos",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 58",
+            "Sig. str. %": "12%",
+            "Total str.": "27 of 80",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 58",
+            "Sig. str. %": "12%",
+            "Head": "5 of 43",
+            "Body": "1 of 14",
+            "Leg": "1 of 1",
+            "Distance": "5 of 56",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

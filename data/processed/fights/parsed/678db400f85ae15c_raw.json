@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "678db400f85ae15c",
+        "event_id": "119ebea97e914dcf",
+        "event_name": "UFC 192: Cormier vs Gustafsson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:46",
+        "referee": "Frank Collazo",
+        "winner_id": "7dcf06c1967801c1"
+    },
+    "fighter_a": {
+        "fighter_id": "7dcf06c1967801c1",
+        "name": "Adriano Martins",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "3 of 7",
+            "Sig. str. %": "42%",
+            "Total str.": "3 of 7",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 7",
+            "Sig. str. %": "42%",
+            "Head": "2 of 6",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "2 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 15",
+            "Sig. str. %": "26%",
+            "Total str.": "4 of 15",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 15",
+            "Sig. str. %": "26%",
+            "Head": "2 of 13",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "4 of 15",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

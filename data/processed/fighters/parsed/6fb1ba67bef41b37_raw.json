@@ -1,0 +1,120 @@
+{
+    "fighter_id": "6fb1ba67bef41b37",
+    "name": "Nik Lentz",
+    "record": "30-12-2 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Aug 13, 1984",
+    "sig_strikes_landed_per_min": "3.44",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.25",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "3.30",
+    "takedown_accuracy": "32%",
+    "takedown_defense": "43%",
+    "submission_attempts_per_15_min": "1.2",
+    "fight_history": [
+        {
+            "fight_id": "f3ccbfd7036f3cf3",
+            "fight_url": "http://ufcstats.com/fight-details/f3ccbfd7036f3cf3"
+        },
+        {
+            "fight_id": "ed94cdc0f2b97e15",
+            "fight_url": "http://ufcstats.com/fight-details/ed94cdc0f2b97e15"
+        },
+        {
+            "fight_id": "5782666ca117fa5b",
+            "fight_url": "http://ufcstats.com/fight-details/5782666ca117fa5b"
+        },
+        {
+            "fight_id": "f96f719ad667dd96",
+            "fight_url": "http://ufcstats.com/fight-details/f96f719ad667dd96"
+        },
+        {
+            "fight_id": "9bc042a700d9a531",
+            "fight_url": "http://ufcstats.com/fight-details/9bc042a700d9a531"
+        },
+        {
+            "fight_id": "a25633b1494f1360",
+            "fight_url": "http://ufcstats.com/fight-details/a25633b1494f1360"
+        },
+        {
+            "fight_id": "fd2c018aade60a14",
+            "fight_url": "http://ufcstats.com/fight-details/fd2c018aade60a14"
+        },
+        {
+            "fight_id": "ddd9e64d97b095f9",
+            "fight_url": "http://ufcstats.com/fight-details/ddd9e64d97b095f9"
+        },
+        {
+            "fight_id": "9b1386a28b81bcd5",
+            "fight_url": "http://ufcstats.com/fight-details/9b1386a28b81bcd5"
+        },
+        {
+            "fight_id": "0ad5c6752e679de5",
+            "fight_url": "http://ufcstats.com/fight-details/0ad5c6752e679de5"
+        },
+        {
+            "fight_id": "ff64fc34065565d0",
+            "fight_url": "http://ufcstats.com/fight-details/ff64fc34065565d0"
+        },
+        {
+            "fight_id": "687b9b2c11667531",
+            "fight_url": "http://ufcstats.com/fight-details/687b9b2c11667531"
+        },
+        {
+            "fight_id": "631f0721b3fc56dc",
+            "fight_url": "http://ufcstats.com/fight-details/631f0721b3fc56dc"
+        },
+        {
+            "fight_id": "cf5f9da861c5e63f",
+            "fight_url": "http://ufcstats.com/fight-details/cf5f9da861c5e63f"
+        },
+        {
+            "fight_id": "302ce74d8b0d12a6",
+            "fight_url": "http://ufcstats.com/fight-details/302ce74d8b0d12a6"
+        },
+        {
+            "fight_id": "4af9088a165c7751",
+            "fight_url": "http://ufcstats.com/fight-details/4af9088a165c7751"
+        },
+        {
+            "fight_id": "e7861d4e2b29193f",
+            "fight_url": "http://ufcstats.com/fight-details/e7861d4e2b29193f"
+        },
+        {
+            "fight_id": "70995170c27c4143",
+            "fight_url": "http://ufcstats.com/fight-details/70995170c27c4143"
+        },
+        {
+            "fight_id": "91daeeeea0a83e49",
+            "fight_url": "http://ufcstats.com/fight-details/91daeeeea0a83e49"
+        },
+        {
+            "fight_id": "04d97700dbdaef5e",
+            "fight_url": "http://ufcstats.com/fight-details/04d97700dbdaef5e"
+        },
+        {
+            "fight_id": "83ea3c36a6f91cb8",
+            "fight_url": "http://ufcstats.com/fight-details/83ea3c36a6f91cb8"
+        },
+        {
+            "fight_id": "65290fc5216c2a73",
+            "fight_url": "http://ufcstats.com/fight-details/65290fc5216c2a73"
+        },
+        {
+            "fight_id": "b32acf1c70321321",
+            "fight_url": "http://ufcstats.com/fight-details/b32acf1c70321321"
+        },
+        {
+            "fight_id": "bad1f36202e2c7d7",
+            "fight_url": "http://ufcstats.com/fight-details/bad1f36202e2c7d7"
+        },
+        {
+            "fight_id": "92ea4999f99f55fd",
+            "fight_url": "http://ufcstats.com/fight-details/92ea4999f99f55fd"
+        }
+    ]
+}

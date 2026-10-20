@@ -1,0 +1,48 @@
+{
+    "fighter_id": "633a45d131192ffe",
+    "name": "Kajan Johnson",
+    "record": "23-13-1",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 1984",
+    "sig_strikes_landed_per_min": "2.47",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "1.59",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "1.54",
+    "takedown_accuracy": "37%",
+    "takedown_defense": "62%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "ba33d0868b25483b",
+            "fight_url": "http://ufcstats.com/fight-details/ba33d0868b25483b"
+        },
+        {
+            "fight_id": "e54c16d867875738",
+            "fight_url": "http://ufcstats.com/fight-details/e54c16d867875738"
+        },
+        {
+            "fight_id": "fe9ee00fa47dd7b3",
+            "fight_url": "http://ufcstats.com/fight-details/fe9ee00fa47dd7b3"
+        },
+        {
+            "fight_id": "cce5b9dfe84630fa",
+            "fight_url": "http://ufcstats.com/fight-details/cce5b9dfe84630fa"
+        },
+        {
+            "fight_id": "b82b243982fcb2ac",
+            "fight_url": "http://ufcstats.com/fight-details/b82b243982fcb2ac"
+        },
+        {
+            "fight_id": "97c302628f231da3",
+            "fight_url": "http://ufcstats.com/fight-details/97c302628f231da3"
+        },
+        {
+            "fight_id": "a84d032d7d217427",
+            "fight_url": "http://ufcstats.com/fight-details/a84d032d7d217427"
+        }
+    ]
+}

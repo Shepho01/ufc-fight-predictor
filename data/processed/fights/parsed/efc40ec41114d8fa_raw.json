@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "efc40ec41114d8fa",
+        "event_id": "4565d435005319c0",
+        "event_name": "UFC 245: Usman vs. Covington",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "134 of 303",
+            "Sig. str. %": "44%",
+            "Total str.": "135 of 304",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "134 of 303",
+            "Sig. str. %": "44%",
+            "Head": "85 of 233",
+            "Body": "32 of 44",
+            "Leg": "17 of 26",
+            "Distance": "132 of 301",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "157 of 303",
+            "Sig. str. %": "51%",
+            "Total str.": "157 of 303",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "157 of 303",
+            "Sig. str. %": "51%",
+            "Head": "67 of 178",
+            "Body": "15 of 32",
+            "Leg": "75 of 93",
+            "Distance": "156 of 302",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

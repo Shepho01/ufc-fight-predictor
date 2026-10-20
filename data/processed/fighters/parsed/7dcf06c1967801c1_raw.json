@@ -1,0 +1,56 @@
+{
+    "fighter_id": "7dcf06c1967801c1",
+    "name": "Adriano Martins",
+    "record": "28-9-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Dec 16, 1982",
+    "sig_strikes_landed_per_min": "1.80",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "2.14",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "0.83",
+    "takedown_accuracy": "80%",
+    "takedown_defense": "81%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "cce5b9dfe84630fa",
+            "fight_url": "http://ufcstats.com/fight-details/cce5b9dfe84630fa"
+        },
+        {
+            "fight_id": "87b61c1d72232a84",
+            "fight_url": "http://ufcstats.com/fight-details/87b61c1d72232a84"
+        },
+        {
+            "fight_id": "678db400f85ae15c",
+            "fight_url": "http://ufcstats.com/fight-details/678db400f85ae15c"
+        },
+        {
+            "fight_id": "4228886e94a25a63",
+            "fight_url": "http://ufcstats.com/fight-details/4228886e94a25a63"
+        },
+        {
+            "fight_id": "2f91307892d163ce",
+            "fight_url": "http://ufcstats.com/fight-details/2f91307892d163ce"
+        },
+        {
+            "fight_id": "ca8e482388e7ac82",
+            "fight_url": "http://ufcstats.com/fight-details/ca8e482388e7ac82"
+        },
+        {
+            "fight_id": "2dd0a47f43dfe8f6",
+            "fight_url": "http://ufcstats.com/fight-details/2dd0a47f43dfe8f6"
+        },
+        {
+            "fight_id": "07005006dce71011",
+            "fight_url": "http://ufcstats.com/fight-details/07005006dce71011"
+        },
+        {
+            "fight_id": "04bd246a93a48400",
+            "fight_url": "http://ufcstats.com/fight-details/04bd246a93a48400"
+        }
+    ]
+}

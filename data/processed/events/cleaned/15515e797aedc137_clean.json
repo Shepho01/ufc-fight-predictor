@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "15515e797aedc137",
+        "event_name": "UFC 221: Romero vs. Rockhold",
+        "event_day": 10,
+        "event_month": 2,
+        "event_year": 2018,
+        "location": "Perth, Western Australia, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "9444cfe0c7c0f6a7",
+            "fighter_a": "Yoel Romero",
+            "fighter_b": "Luke Rockhold",
+            "winner": "Yoel Romero",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/9444cfe0c7c0f6a7"
+        },
+        {
+            "fight_id": "cd67f6ddb2920193",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Mark Hunt",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cd67f6ddb2920193"
+        },
+        {
+            "fight_id": "3112430100d2d0be",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Cyril Asker",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": 1,
+            "time_seconds": 138,
+            "fight_url": "http://ufcstats.com/fight-details/3112430100d2d0be"
+        },
+        {
+            "fight_id": "0d7dc1ed5eb995e4",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Li Jingliang",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0d7dc1ed5eb995e4"
+        },
+        {
+            "fight_id": "b6e086dd8093355d",
+            "fighter_a": "Tyson Pedro",
+            "fighter_b": "Saparbeg Safarov",
+            "winner": "Tyson Pedro",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 234,
+            "fight_url": "http://ufcstats.com/fight-details/b6e086dd8093355d"
+        },
+        {
+            "fight_id": "6cb9bc7c86ae43b9",
+            "fighter_a": "Dong Hyun Ma",
+            "fighter_b": "Damien Brown",
+            "winner": "Dong Hyun Ma",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6cb9bc7c86ae43b9"
+        },
+        {
+            "fight_id": "1cd5d5e271b646a3",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Rob Wilkinson",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/1cd5d5e271b646a3"
+        },
+        {
+            "fight_id": "f3a60ca18747aeac",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Jeremy Kennedy",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 297,
+            "fight_url": "http://ufcstats.com/fight-details/f3a60ca18747aeac"
+        },
+        {
+            "fight_id": "f8fce67abe0ab922",
+            "fighter_a": "Jussier Formiga",
+            "fighter_b": "Ben Nguyen",
+            "winner": "Jussier Formiga",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 103,
+            "fight_url": "http://ufcstats.com/fight-details/f8fce67abe0ab922"
+        },
+        {
+            "fight_id": "e8f2902be7b350ad",
+            "fighter_a": "Ross Pearson",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Ross Pearson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e8f2902be7b350ad"
+        },
+        {
+            "fight_id": "58286d3126cc5263",
+            "fighter_a": "Jose Quinonez",
+            "fighter_b": "Teruto Ishihara",
+            "winner": "Jose Quinonez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/58286d3126cc5263"
+        },
+        {
+            "fight_id": "194d3950076b2f83",
+            "fighter_a": "Luke Jumeau",
+            "fighter_b": "Daichi Abe",
+            "winner": "Luke Jumeau",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/194d3950076b2f83"
+        }
+    ]
+}

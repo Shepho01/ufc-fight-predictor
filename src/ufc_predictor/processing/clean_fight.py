@@ -1,5 +1,6 @@
 from pathlib import Path
 import json
+import re
 
 
 RAW_PATH = Path(
@@ -45,9 +46,9 @@ def calculate_accuracy(landed, attempted):
     return landed / attempted
 
 
-def load_raw_fight():
+def load_raw_fight(raw_path):
     with open(
-        RAW_PATH,
+        raw_path,
         "r",
         encoding="utf-8"
     ) as file:
@@ -203,14 +204,14 @@ def clean_fight(raw_fight):
     return cleaned_fight
 
 
-def save_clean_fight(cleaned_fight):
-    CLEAN_PATH.parent.mkdir(
+def save_clean_fight(cleaned_fight, output_path):
+    output_path.parent.mkdir(
         parents=True,
         exist_ok=True
     )
 
     with open(
-        CLEAN_PATH,
+        output_path,
         "w",
         encoding="utf-8"
     ) as file:
@@ -222,19 +223,25 @@ def save_clean_fight(cleaned_fight):
 
 
 def main():
-    raw_fight = load_raw_fight()
+    input_dir = Path("data/processed/fights/parsed")
+    output_dir = Path("data/processed/fights/cleaned")
 
-    cleaned_fight = clean_fight(
-        raw_fight
-    )
+    for raw_path in sorted(input_dir.glob("*_raw.json")):
+        fight_id = raw_path.name.removesuffix("_raw.json")
 
-    save_clean_fight(
-        cleaned_fight
-    )
+        # Only process files named with a fight ID.
+        if not re.fullmatch(r"[0-9a-f]{16}", fight_id):
+            continue
 
-    print(
-        f"Cleaned fight saved to: {CLEAN_PATH}"
-    )
+        raw_fight = load_raw_fight(raw_path)
+
+        cleaned_fight = clean_fight(raw_fight)
+
+        output_path = output_dir / f"{fight_id}_clean.json"
+
+        save_clean_fight(cleaned_fight, output_path)
+
+        print(f"Cleaned fight saved to: {output_path}")
 
 
 if __name__ == "__main__":

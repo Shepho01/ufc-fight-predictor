@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e4db3b1669d498c3",
+        "event_id": "90e7447d8b7f3f35",
+        "event_name": "UFC Fight Night: Lewis vs. Hunt",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John Sharp",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "87 of 139",
+            "Sig. str. %": "62%",
+            "Total str.": "93 of 145",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "87 of 139",
+            "Sig. str. %": "62%",
+            "Head": "55 of 97",
+            "Body": "9 of 13",
+            "Leg": "23 of 29",
+            "Distance": "46 of 93",
+            "Clinch": "18 of 20",
+            "Ground": "23 of 26"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "35faad160d346839",
+        "name": "Mizuto Hirota",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 149",
+            "Sig. str. %": "30%",
+            "Total str.": "51 of 155",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 149",
+            "Sig. str. %": "30%",
+            "Head": "39 of 139",
+            "Body": "2 of 5",
+            "Leg": "5 of 5",
+            "Distance": "42 of 142",
+            "Clinch": "2 of 5",
+            "Ground": "2 of 2"
+        }
+    }
+}

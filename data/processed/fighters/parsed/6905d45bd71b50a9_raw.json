@@ -1,0 +1,28 @@
+{
+    "fighter_id": "6905d45bd71b50a9",
+    "name": "Leo Kuntz",
+    "record": "18-4-1",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Oct 03, 1983",
+    "sig_strikes_landed_per_min": "1.68",
+    "sig_striking_accuracy": "32%",
+    "sig_strikes_absorbed_per_min": "3.80",
+    "sig_strike_defense": "45%",
+    "takedowns_landed_per_15_min": "1.99",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "33%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "e8d3768f293a699b",
+            "fight_url": "http://ufcstats.com/fight-details/e8d3768f293a699b"
+        },
+        {
+            "fight_id": "3c3da227fbe36a28",
+            "fight_url": "http://ufcstats.com/fight-details/3c3da227fbe36a28"
+        }
+    ]
+}

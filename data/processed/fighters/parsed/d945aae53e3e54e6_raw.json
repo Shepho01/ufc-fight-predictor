@@ -1,0 +1,88 @@
+{
+    "fighter_id": "d945aae53e3e54e6",
+    "name": "Thiago Moises",
+    "record": "19-10-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Mar 23, 1995",
+    "sig_strikes_landed_per_min": "2.52",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "4.40",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "1.37",
+    "takedown_accuracy": "29%",
+    "takedown_defense": "52%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "a661c0bee7c8d5af",
+            "fight_url": "http://ufcstats.com/fight-details/a661c0bee7c8d5af"
+        },
+        {
+            "fight_id": "8ba31cf0b3164b72",
+            "fight_url": "http://ufcstats.com/fight-details/8ba31cf0b3164b72"
+        },
+        {
+            "fight_id": "54fa6e32330a8cca",
+            "fight_url": "http://ufcstats.com/fight-details/54fa6e32330a8cca"
+        },
+        {
+            "fight_id": "251983e1bdae20fe",
+            "fight_url": "http://ufcstats.com/fight-details/251983e1bdae20fe"
+        },
+        {
+            "fight_id": "537b3cef39d2d573",
+            "fight_url": "http://ufcstats.com/fight-details/537b3cef39d2d573"
+        },
+        {
+            "fight_id": "dfa8fd0b82b37fa1",
+            "fight_url": "http://ufcstats.com/fight-details/dfa8fd0b82b37fa1"
+        },
+        {
+            "fight_id": "8cdcdfb76d1670dd",
+            "fight_url": "http://ufcstats.com/fight-details/8cdcdfb76d1670dd"
+        },
+        {
+            "fight_id": "029a12d36a4687e1",
+            "fight_url": "http://ufcstats.com/fight-details/029a12d36a4687e1"
+        },
+        {
+            "fight_id": "0273dbd5dedbdbe0",
+            "fight_url": "http://ufcstats.com/fight-details/0273dbd5dedbdbe0"
+        },
+        {
+            "fight_id": "7d4c160dab6eae73",
+            "fight_url": "http://ufcstats.com/fight-details/7d4c160dab6eae73"
+        },
+        {
+            "fight_id": "3eac2d47ac252f4b",
+            "fight_url": "http://ufcstats.com/fight-details/3eac2d47ac252f4b"
+        },
+        {
+            "fight_id": "6915d46b49999f60",
+            "fight_url": "http://ufcstats.com/fight-details/6915d46b49999f60"
+        },
+        {
+            "fight_id": "87f58feac6b50367",
+            "fight_url": "http://ufcstats.com/fight-details/87f58feac6b50367"
+        },
+        {
+            "fight_id": "060dfbc982c6c4ef",
+            "fight_url": "http://ufcstats.com/fight-details/060dfbc982c6c4ef"
+        },
+        {
+            "fight_id": "017c090e9e8d2957",
+            "fight_url": "http://ufcstats.com/fight-details/017c090e9e8d2957"
+        },
+        {
+            "fight_id": "14cf0828d6e373ab",
+            "fight_url": "http://ufcstats.com/fight-details/14cf0828d6e373ab"
+        },
+        {
+            "fight_id": "bf785a636fb3ba17",
+            "fight_url": "http://ufcstats.com/fight-details/bf785a636fb3ba17"
+        }
+    ]
+}

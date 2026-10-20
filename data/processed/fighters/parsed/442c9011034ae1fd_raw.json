@@ -1,0 +1,68 @@
+{
+    "fighter_id": "442c9011034ae1fd",
+    "name": "Ian Machado Garry",
+    "record": "17-2-0",
+    "height": "6' 3\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Nov 17, 1997",
+    "sig_strikes_landed_per_min": "4.29",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "2.59",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.80",
+    "takedown_accuracy": "31%",
+    "takedown_defense": "71%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "365fd759c03e93cf",
+            "fight_url": "http://ufcstats.com/fight-details/365fd759c03e93cf"
+        },
+        {
+            "fight_id": "b2218930b982d9b6",
+            "fight_url": "http://ufcstats.com/fight-details/b2218930b982d9b6"
+        },
+        {
+            "fight_id": "633f4b5ec767769d",
+            "fight_url": "http://ufcstats.com/fight-details/633f4b5ec767769d"
+        },
+        {
+            "fight_id": "1569186ee820ea87",
+            "fight_url": "http://ufcstats.com/fight-details/1569186ee820ea87"
+        },
+        {
+            "fight_id": "fbf77262d8da342b",
+            "fight_url": "http://ufcstats.com/fight-details/fbf77262d8da342b"
+        },
+        {
+            "fight_id": "8fb0092430448368",
+            "fight_url": "http://ufcstats.com/fight-details/8fb0092430448368"
+        },
+        {
+            "fight_id": "78d2c01dc963f204",
+            "fight_url": "http://ufcstats.com/fight-details/78d2c01dc963f204"
+        },
+        {
+            "fight_id": "b0f4c7788782e26e",
+            "fight_url": "http://ufcstats.com/fight-details/b0f4c7788782e26e"
+        },
+        {
+            "fight_id": "ed9f8f702585ed44",
+            "fight_url": "http://ufcstats.com/fight-details/ed9f8f702585ed44"
+        },
+        {
+            "fight_id": "4d8d1701c43c5fea",
+            "fight_url": "http://ufcstats.com/fight-details/4d8d1701c43c5fea"
+        },
+        {
+            "fight_id": "313b85fe82b2ba80",
+            "fight_url": "http://ufcstats.com/fight-details/313b85fe82b2ba80"
+        },
+        {
+            "fight_id": "733dcfec0cc9b439",
+            "fight_url": "http://ufcstats.com/fight-details/733dcfec0cc9b439"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "fighter_id": "b5b684eac99ae0a3",
+    "name": "Chad Mendes",
+    "record": "18-5-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "May 01, 1985",
+    "sig_strikes_landed_per_min": "2.78",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "2.35",
+    "sig_strike_defense": "67%",
+    "takedowns_landed_per_15_min": "4.13",
+    "takedown_accuracy": "55%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "a5ea53104392fa9f",
+            "fight_url": "http://ufcstats.com/fight-details/a5ea53104392fa9f"
+        },
+        {
+            "fight_id": "c3939438ae7934df",
+            "fight_url": "http://ufcstats.com/fight-details/c3939438ae7934df"
+        },
+        {
+            "fight_id": "18292c8eb20ae045",
+            "fight_url": "http://ufcstats.com/fight-details/18292c8eb20ae045"
+        },
+        {
+            "fight_id": "70290140b6a8e038",
+            "fight_url": "http://ufcstats.com/fight-details/70290140b6a8e038"
+        },
+        {
+            "fight_id": "bbebfc54abbb1d8b",
+            "fight_url": "http://ufcstats.com/fight-details/bbebfc54abbb1d8b"
+        },
+        {
+            "fight_id": "7099374e91f9283b",
+            "fight_url": "http://ufcstats.com/fight-details/7099374e91f9283b"
+        },
+        {
+            "fight_id": "631f0721b3fc56dc",
+            "fight_url": "http://ufcstats.com/fight-details/631f0721b3fc56dc"
+        },
+        {
+            "fight_id": "fef6b147d5fb90bd",
+            "fight_url": "http://ufcstats.com/fight-details/fef6b147d5fb90bd"
+        },
+        {
+            "fight_id": "d13ea6559225991f",
+            "fight_url": "http://ufcstats.com/fight-details/d13ea6559225991f"
+        },
+        {
+            "fight_id": "a6097fd4e77cb881",
+            "fight_url": "http://ufcstats.com/fight-details/a6097fd4e77cb881"
+        },
+        {
+            "fight_id": "d1268ffa059f9d42",
+            "fight_url": "http://ufcstats.com/fight-details/d1268ffa059f9d42"
+        },
+        {
+            "fight_id": "9afcb091777f6a83",
+            "fight_url": "http://ufcstats.com/fight-details/9afcb091777f6a83"
+        },
+        {
+            "fight_id": "e516a0e035fd57f7",
+            "fight_url": "http://ufcstats.com/fight-details/e516a0e035fd57f7"
+        },
+        {
+            "fight_id": "ae3ab5d1892153ef",
+            "fight_url": "http://ufcstats.com/fight-details/ae3ab5d1892153ef"
+        },
+        {
+            "fight_id": "65df45b296cfa7d8",
+            "fight_url": "http://ufcstats.com/fight-details/65df45b296cfa7d8"
+        },
+        {
+            "fight_id": "45c260921c7a96a6",
+            "fight_url": "http://ufcstats.com/fight-details/45c260921c7a96a6"
+        },
+        {
+            "fight_id": "ce17641f02fd29a9",
+            "fight_url": "http://ufcstats.com/fight-details/ce17641f02fd29a9"
+        },
+        {
+            "fight_id": "1646f952dfb2cb66",
+            "fight_url": "http://ufcstats.com/fight-details/1646f952dfb2cb66"
+        }
+    ]
+}

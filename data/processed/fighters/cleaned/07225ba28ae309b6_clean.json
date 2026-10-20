@@ -1,0 +1,23 @@
+{
+    "fighter_id": "07225ba28ae309b6",
+    "name": "Charles Oliveira",
+    "wins": 37,
+    "losses": 11,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 17,
+    "dob_month": 10,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.23,
+    "sig_striking_accuracy": 0.55,
+    "sig_strikes_absorbed_per_min": 3.05,
+    "sig_strike_defense": 0.48,
+    "takedowns_landed_per_15_min": 2.29,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.54,
+    "submission_attempts_per_15_min": 2.6
+}

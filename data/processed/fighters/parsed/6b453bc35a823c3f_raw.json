@@ -1,0 +1,64 @@
+{
+    "fighter_id": "6b453bc35a823c3f",
+    "name": "Jack Della Maddalena",
+    "record": "18-4-0",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Sep 10, 1996",
+    "sig_strikes_landed_per_min": "5.32",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "4.24",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "0.34",
+    "takedown_accuracy": "20%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "eb6d9fef6c374830",
+            "fight_url": "http://ufcstats.com/fight-details/eb6d9fef6c374830"
+        },
+        {
+            "fight_id": "856f6ee049373843",
+            "fight_url": "http://ufcstats.com/fight-details/856f6ee049373843"
+        },
+        {
+            "fight_id": "b873c116e39c9920",
+            "fight_url": "http://ufcstats.com/fight-details/b873c116e39c9920"
+        },
+        {
+            "fight_id": "68f7f992603192c6",
+            "fight_url": "http://ufcstats.com/fight-details/68f7f992603192c6"
+        },
+        {
+            "fight_id": "697efaf0d162e877",
+            "fight_url": "http://ufcstats.com/fight-details/697efaf0d162e877"
+        },
+        {
+            "fight_id": "3352c65f3f6d9b2a",
+            "fight_url": "http://ufcstats.com/fight-details/3352c65f3f6d9b2a"
+        },
+        {
+            "fight_id": "4f672dd40867d8c6",
+            "fight_url": "http://ufcstats.com/fight-details/4f672dd40867d8c6"
+        },
+        {
+            "fight_id": "d0c01840c72429c6",
+            "fight_url": "http://ufcstats.com/fight-details/d0c01840c72429c6"
+        },
+        {
+            "fight_id": "f115a91066a77ee7",
+            "fight_url": "http://ufcstats.com/fight-details/f115a91066a77ee7"
+        },
+        {
+            "fight_id": "0669231ebe3dd560",
+            "fight_url": "http://ufcstats.com/fight-details/0669231ebe3dd560"
+        },
+        {
+            "fight_id": "e717df080b2f4843",
+            "fight_url": "http://ufcstats.com/fight-details/e717df080b2f4843"
+        }
+    ]
+}

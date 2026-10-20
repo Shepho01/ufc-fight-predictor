@@ -1,8 +1,8 @@
 from pathlib import Path
-
 from bs4 import BeautifulSoup
-
 import json
+import argparse
+import re
 
 
 FIGHT_URL = "http://ufcstats.com/fight-details/256894b49303537b"
@@ -74,7 +74,7 @@ def get_id_from_url(url):
     return url.rstrip("/").split("/")[-1]
 
 
-def parse_fight_metadata(soup):
+def parse_fight_metadata(soup, fight_id):
     event_link = soup.select_one(
         ".b-content__title a"
     )
@@ -144,7 +144,7 @@ def parse_fight_metadata(soup):
         )
 
     return {
-        "fight_id": get_id_from_url(FIGHT_URL),
+        "fight_id": fight_id,
         "event_id": event_id,
         "event_name": event_name,
         "weight_class": weight_class,
@@ -161,15 +161,15 @@ def parse_fight_metadata(soup):
     }
 
 
-def main():
+def parse_fight(html_path, fight_id):
     # -------------------------
     # Read HTML
     # -------------------------
 
-    html = HTML_PATH.read_text(
+    html = Path(html_path).read_text(
         encoding="utf-8"
     )
-
+    
     soup = BeautifulSoup(
         html,
         "html.parser"
@@ -238,7 +238,8 @@ def main():
     # -------------------------
 
     fight_metadata = parse_fight_metadata(
-        soup
+        soup,
+        fight_id,
     )
 
     fight_metadata["winner_id"] = winner_id
@@ -251,6 +252,13 @@ def main():
         "thead",
         class_="b-fight-details__table-head"
     )
+    
+    if len(table_headers) < 2:
+        print(
+            f"Skipped {fight_id}: "
+            "expected fight-statistics tables are missing."
+        )
+        return None
 
     # First full-fight table = Totals
     totals_table = table_headers[0].find_parent(
@@ -312,29 +320,34 @@ def main():
         "fighter_b": fighter_b_data
     }
 
-    # -------------------------
-    # Save JSON
-    # -------------------------
+    return fight_data
 
-    output_path = Path("data/processed/makhachev_vs_volkanovski_raw.json")
+def main():
+    input_dir = Path("data/raw/fights")
+    output_dir = Path("data/processed/fights/parsed")
 
-    output_path.parent.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    output_path.write_text(
-        json.dumps(
-            fight_data,
-            indent=4
-        ),
-        encoding="utf-8"
-    )
+    for html_path in sorted(input_dir.glob("*.html")):
+        fight_id = html_path.stem
 
-    print(
-        f"\nSaved parsed fight to {output_path}"
-    )
+        # Only process files named with a 16-character fight ID.
+        if not re.fullmatch(r"[0-9a-f]{16}", fight_id):
+            continue
 
+        fight_data = parse_fight(html_path, fight_id)
+        
+        if fight_data is None:
+            continue
+
+        output_path = output_dir / f"{fight_id}_raw.json"
+
+        output_path.write_text(
+            json.dumps(fight_data, indent=4),
+            encoding="utf-8",
+        )
+
+        print(f"Saved: {output_path}")
 
 if __name__ == "__main__":
     main()

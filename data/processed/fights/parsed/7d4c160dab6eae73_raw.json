@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7d4c160dab6eae73",
+        "event_id": "40389d39a92f5bfa",
+        "event_name": "UFC Fight Night: Makhachev vs. Moises",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 4,
+        "finish_time": "2:38",
+        "referee": "Herb Dean",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "61 of 92",
+            "Sig. str. %": "66%",
+            "Total str.": "148 of 194",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "8:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "61 of 92",
+            "Sig. str. %": "66%",
+            "Head": "28 of 56",
+            "Body": "31 of 34",
+            "Leg": "2 of 2",
+            "Distance": "22 of 41",
+            "Clinch": "27 of 31",
+            "Ground": "12 of 20"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 44",
+            "Sig. str. %": "29%",
+            "Total str.": "18 of 51",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 44",
+            "Sig. str. %": "29%",
+            "Head": "6 of 30",
+            "Body": "5 of 11",
+            "Leg": "2 of 3",
+            "Distance": "9 of 39",
+            "Clinch": "3 of 3",
+            "Ground": "1 of 2"
+        }
+    }
+}

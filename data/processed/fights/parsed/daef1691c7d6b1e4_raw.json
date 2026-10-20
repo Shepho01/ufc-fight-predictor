@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "daef1691c7d6b1e4",
+        "event_id": "39f68882def7a507",
+        "event_name": "UFC 311: Makhachev vs. Moicano",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:05",
+        "referee": "Herb Dean",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 19",
+            "Sig. str. %": "31%",
+            "Total str.": "18 of 31",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 19",
+            "Sig. str. %": "31%",
+            "Head": "5 of 17",
+            "Body": "1 of 2",
+            "Leg": "0 of 0",
+            "Distance": "5 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "9 of 27",
+            "Sig. str. %": "33%",
+            "Total str.": "18 of 37",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 27",
+            "Sig. str. %": "33%",
+            "Head": "2 of 18",
+            "Body": "3 of 5",
+            "Leg": "4 of 4",
+            "Distance": "9 of 27",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

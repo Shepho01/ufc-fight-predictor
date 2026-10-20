@@ -1,0 +1,68 @@
+{
+    "fighter_id": "f166e93d04a8c274",
+    "name": "Diego Lopes",
+    "record": "28-8-0",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1994",
+    "sig_strikes_landed_per_min": "3.79",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "4.65",
+    "sig_strike_defense": "46%",
+    "takedowns_landed_per_15_min": "0.82",
+    "takedown_accuracy": "46%",
+    "takedown_defense": "68%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "fc11508eb5ae83b0",
+            "fight_url": "http://ufcstats.com/fight-details/fc11508eb5ae83b0"
+        },
+        {
+            "fight_id": "127ba4a1ccb3d4a6",
+            "fight_url": "http://ufcstats.com/fight-details/127ba4a1ccb3d4a6"
+        },
+        {
+            "fight_id": "b06b43670238c2d8",
+            "fight_url": "http://ufcstats.com/fight-details/b06b43670238c2d8"
+        },
+        {
+            "fight_id": "de1a3734be60e6a1",
+            "fight_url": "http://ufcstats.com/fight-details/de1a3734be60e6a1"
+        },
+        {
+            "fight_id": "e733f148060bef2a",
+            "fight_url": "http://ufcstats.com/fight-details/e733f148060bef2a"
+        },
+        {
+            "fight_id": "2335e75ce63805b6",
+            "fight_url": "http://ufcstats.com/fight-details/2335e75ce63805b6"
+        },
+        {
+            "fight_id": "fc8ad0c7fc70dde7",
+            "fight_url": "http://ufcstats.com/fight-details/fc8ad0c7fc70dde7"
+        },
+        {
+            "fight_id": "538ca98010ed00ec",
+            "fight_url": "http://ufcstats.com/fight-details/538ca98010ed00ec"
+        },
+        {
+            "fight_id": "128ab9aa4802c73f",
+            "fight_url": "http://ufcstats.com/fight-details/128ab9aa4802c73f"
+        },
+        {
+            "fight_id": "79bfba62da6242a6",
+            "fight_url": "http://ufcstats.com/fight-details/79bfba62da6242a6"
+        },
+        {
+            "fight_id": "069ab7e7b8b5d262",
+            "fight_url": "http://ufcstats.com/fight-details/069ab7e7b8b5d262"
+        },
+        {
+            "fight_id": "c6ed2a253886099b",
+            "fight_url": "http://ufcstats.com/fight-details/c6ed2a253886099b"
+        }
+    ]
+}

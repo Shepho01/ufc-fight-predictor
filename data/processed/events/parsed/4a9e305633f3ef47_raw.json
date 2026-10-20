@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "4a9e305633f3ef47",
+        "event_name": "UFC 276: Adesanya vs. Cannonier",
+        "event_date": "July 02, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a7eaf7b101166d3e",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Jared Cannonier",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7eaf7b101166d3e"
+        },
+        {
+            "fight_id": "4047e98132306cd5",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Max Holloway",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4047e98132306cd5"
+        },
+        {
+            "fight_id": "0308bcdd00cc72e2",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Sean Strickland",
+            "winner": "Alex Pereira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:36",
+            "fight_url": "http://ufcstats.com/fight-details/0308bcdd00cc72e2"
+        },
+        {
+            "fight_id": "12a33d16e1d4e2d9",
+            "fighter_a": "Bryan Barberena",
+            "fighter_b": "Robbie Lawler",
+            "winner": "Bryan Barberena",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:47",
+            "fight_url": "http://ufcstats.com/fight-details/12a33d16e1d4e2d9"
+        },
+        {
+            "fight_id": "39dccca8e8083072",
+            "fighter_a": "Pedro Munhoz",
+            "fighter_b": "Sean O'Malley",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "3:09",
+            "fight_url": "http://ufcstats.com/fight-details/39dccca8e8083072"
+        },
+        {
+            "fight_id": "98411542ca0e847d",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Brad Riddell",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:45",
+            "fight_url": "http://ufcstats.com/fight-details/98411542ca0e847d"
+        },
+        {
+            "fight_id": "459bc7c0b47719c3",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Jim Miller",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/459bc7c0b47719c3"
+        },
+        {
+            "fight_id": "4d8d1701c43c5fea",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Gabe Green",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4d8d1701c43c5fea"
+        },
+        {
+            "fight_id": "57775c8af89007c7",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Brad Tavares",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/57775c8af89007c7"
+        },
+        {
+            "fight_id": "99ac96bb67e5c5e4",
+            "fighter_a": "Andre Muniz",
+            "fighter_b": "Uriah Hall",
+            "winner": "Andre Muniz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/99ac96bb67e5c5e4"
+        },
+        {
+            "fight_id": "1c85003f6ec59c9d",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Jessica Eye",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1c85003f6ec59c9d"
+        },
+        {
+            "fight_id": "0e2c7ec02a095813",
+            "fighter_a": "Julija Stoliarenko",
+            "fighter_b": "Jessica-Rose Clark",
+            "winner": "Julija Stoliarenko",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/0e2c7ec02a095813"
+        }
+    ]
+}

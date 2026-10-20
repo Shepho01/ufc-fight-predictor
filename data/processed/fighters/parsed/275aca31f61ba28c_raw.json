@@ -1,0 +1,96 @@
+{
+    "fighter_id": "275aca31f61ba28c",
+    "name": "Islam Makhachev",
+    "record": "29-1-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 27, 1991",
+    "sig_strikes_landed_per_min": "2.27",
+    "sig_striking_accuracy": "58%",
+    "sig_strikes_absorbed_per_min": "1.42",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "3.22",
+    "takedown_accuracy": "54%",
+    "takedown_defense": "91%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "365fd759c03e93cf",
+            "fight_url": "http://ufcstats.com/fight-details/365fd759c03e93cf"
+        },
+        {
+            "fight_id": "856f6ee049373843",
+            "fight_url": "http://ufcstats.com/fight-details/856f6ee049373843"
+        },
+        {
+            "fight_id": "daef1691c7d6b1e4",
+            "fight_url": "http://ufcstats.com/fight-details/daef1691c7d6b1e4"
+        },
+        {
+            "fight_id": "1a0031e2072f21b6",
+            "fight_url": "http://ufcstats.com/fight-details/1a0031e2072f21b6"
+        },
+        {
+            "fight_id": "0ea435ddf02deb60",
+            "fight_url": "http://ufcstats.com/fight-details/0ea435ddf02deb60"
+        },
+        {
+            "fight_id": "256894b49303537b",
+            "fight_url": "http://ufcstats.com/fight-details/256894b49303537b"
+        },
+        {
+            "fight_id": "523815acf1bb2420",
+            "fight_url": "http://ufcstats.com/fight-details/523815acf1bb2420"
+        },
+        {
+            "fight_id": "2f4d42e0b9696f71",
+            "fight_url": "http://ufcstats.com/fight-details/2f4d42e0b9696f71"
+        },
+        {
+            "fight_id": "5ad4c0eae7512878",
+            "fight_url": "http://ufcstats.com/fight-details/5ad4c0eae7512878"
+        },
+        {
+            "fight_id": "7d4c160dab6eae73",
+            "fight_url": "http://ufcstats.com/fight-details/7d4c160dab6eae73"
+        },
+        {
+            "fight_id": "c06d7bb29bc24d00",
+            "fight_url": "http://ufcstats.com/fight-details/c06d7bb29bc24d00"
+        },
+        {
+            "fight_id": "849eb47d349f3fe4",
+            "fight_url": "http://ufcstats.com/fight-details/849eb47d349f3fe4"
+        },
+        {
+            "fight_id": "103a7d8c4f17714b",
+            "fight_url": "http://ufcstats.com/fight-details/103a7d8c4f17714b"
+        },
+        {
+            "fight_id": "e54c16d867875738",
+            "fight_url": "http://ufcstats.com/fight-details/e54c16d867875738"
+        },
+        {
+            "fight_id": "b9726184624ac076",
+            "fight_url": "http://ufcstats.com/fight-details/b9726184624ac076"
+        },
+        {
+            "fight_id": "ddd9e64d97b095f9",
+            "fight_url": "http://ufcstats.com/fight-details/ddd9e64d97b095f9"
+        },
+        {
+            "fight_id": "144b0c1dd6c909f3",
+            "fight_url": "http://ufcstats.com/fight-details/144b0c1dd6c909f3"
+        },
+        {
+            "fight_id": "678db400f85ae15c",
+            "fight_url": "http://ufcstats.com/fight-details/678db400f85ae15c"
+        },
+        {
+            "fight_id": "3c3da227fbe36a28",
+            "fight_url": "http://ufcstats.com/fight-details/3c3da227fbe36a28"
+        }
+    ]
+}

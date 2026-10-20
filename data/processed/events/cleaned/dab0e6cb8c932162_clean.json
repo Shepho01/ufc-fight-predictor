@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "dab0e6cb8c932162",
+        "event_name": "UFC 298: Volkanovski vs. Topuria",
+        "event_day": 17,
+        "event_month": 2,
+        "event_year": 2024,
+        "location": "Anaheim, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bec3154a11df3299",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Alexander Volkanovski",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 212,
+            "fight_url": "http://ufcstats.com/fight-details/bec3154a11df3299"
+        },
+        {
+            "fight_id": "01432891260084a4",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Paulo Costa",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/01432891260084a4"
+        },
+        {
+            "fight_id": "8fb0092430448368",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Geoff Neal",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8fb0092430448368"
+        },
+        {
+            "fight_id": "9785420602b452f7",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Henry Cejudo",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9785420602b452f7"
+        },
+        {
+            "fight_id": "f87a3fa07f0009c9",
+            "fighter_a": "Anthony Hernandez",
+            "fighter_b": "Roman Kopylov",
+            "winner": "Anthony Hernandez",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 203,
+            "fight_url": "http://ufcstats.com/fight-details/f87a3fa07f0009c9"
+        },
+        {
+            "fight_id": "2aeb3ec2d8c05dc8",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Mackenzie Dern",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2aeb3ec2d8c05dc8"
+        },
+        {
+            "fight_id": "1456a3f96ac7e35b",
+            "fighter_a": "Marcos Rogerio de Lima",
+            "fighter_b": "Junior Tafa",
+            "winner": "Marcos Rogerio de Lima",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 74,
+            "fight_url": "http://ufcstats.com/fight-details/1456a3f96ac7e35b"
+        },
+        {
+            "fight_id": "e92fb5c609e20b49",
+            "fighter_a": "Rinya Nakamura",
+            "fighter_b": "Carlos Vera",
+            "winner": "Rinya Nakamura",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e92fb5c609e20b49"
+        },
+        {
+            "fight_id": "aeb3e4d9710207a4",
+            "fighter_a": "Zhang Mingyang",
+            "fighter_b": "Brendson Ribeiro",
+            "winner": "Zhang Mingyang",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 101,
+            "fight_url": "http://ufcstats.com/fight-details/aeb3e4d9710207a4"
+        },
+        {
+            "fight_id": "ef13ed466e0b42d8",
+            "fighter_a": "Danny Barlow",
+            "fighter_b": "Josh Quinlan",
+            "winner": "Danny Barlow",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/ef13ed466e0b42d8"
+        },
+        {
+            "fight_id": "9ddaa62cc806958d",
+            "fighter_a": "Oban Elliott",
+            "fighter_b": "Val Woodburn",
+            "winner": "Oban Elliott",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9ddaa62cc806958d"
+        },
+        {
+            "fight_id": "b7d238437d6644ce",
+            "fighter_a": "Miranda Maverick",
+            "fighter_b": "Andrea Lee",
+            "winner": "Miranda Maverick",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b7d238437d6644ce"
+        }
+    ]
+}

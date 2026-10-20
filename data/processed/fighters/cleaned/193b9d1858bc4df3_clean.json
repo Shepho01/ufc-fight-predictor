@@ -1,0 +1,23 @@
+{
+    "fighter_id": "193b9d1858bc4df3",
+    "name": "Dan Hooker",
+    "wins": 24,
+    "losses": 15,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 155,
+    "reach_cm": 190.5,
+    "stance": "Switch",
+    "dob_day": 13,
+    "dob_month": 2,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 4.82,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 4.94,
+    "sig_strike_defense": 0.48,
+    "takedowns_landed_per_15_min": 0.67,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.77,
+    "submission_attempts_per_15_min": 0.6
+}

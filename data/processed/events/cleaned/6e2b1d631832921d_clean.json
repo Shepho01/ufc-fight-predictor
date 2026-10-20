@@ -1,0 +1,177 @@
+{
+    "event": {
+        "event_id": "6e2b1d631832921d",
+        "event_name": "UFC 259: Blachowicz vs. Adesanya",
+        "event_day": 6,
+        "event_month": 3,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7de9867b7cc2b1b1",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Israel Adesanya",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7de9867b7cc2b1b1"
+        },
+        {
+            "fight_id": "fd92fe0c494d0959",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Megan Anderson",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Featherweight",
+            "method": "SUB Triangle Armbar",
+            "round": 1,
+            "time_seconds": 123,
+            "fight_url": "http://ufcstats.com/fight-details/fd92fe0c494d0959"
+        },
+        {
+            "fight_id": "15c9cb5f9320c555",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Petr Yan",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "DQ",
+            "round": 4,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/15c9cb5f9320c555"
+        },
+        {
+            "fight_id": "c06d7bb29bc24d00",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Drew Dober",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 97,
+            "fight_url": "http://ufcstats.com/fight-details/c06d7bb29bc24d00"
+        },
+        {
+            "fight_id": "04a788abbbd1f256",
+            "fighter_a": "Aleksandar Rakic",
+            "fighter_b": "Thiago Santos",
+            "winner": "Aleksandar Rakic",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/04a788abbbd1f256"
+        },
+        {
+            "fight_id": "f4363f1317b47213",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Casey Kenney",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f4363f1317b47213"
+        },
+        {
+            "fight_id": "5980ab31e4718a83",
+            "fighter_a": "Kyler Phillips",
+            "fighter_b": "Song Yadong",
+            "winner": "Kyler Phillips",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5980ab31e4718a83"
+        },
+        {
+            "fight_id": "ae5d14a9fc1ad19c",
+            "fighter_a": "Askar Askarov",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Askar Askarov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ae5d14a9fc1ad19c"
+        },
+        {
+            "fight_id": "873306ad79b62f5e",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Rogerio Bontorin",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 295,
+            "fight_url": "http://ufcstats.com/fight-details/873306ad79b62f5e"
+        },
+        {
+            "fight_id": "2704d31de2c2f43b",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Jordan Espinosa",
+            "winner": "Tim Elliott",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2704d31de2c2f43b"
+        },
+        {
+            "fight_id": "d170f6580e1c244f",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Carlos Ulberg",
+            "winner": "Kennedy Nzechukwu",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 199,
+            "fight_url": "http://ufcstats.com/fight-details/d170f6580e1c244f"
+        },
+        {
+            "fight_id": "7ad09f889d2cdb6f",
+            "fighter_a": "Sean Brady",
+            "fighter_b": "Jake Matthews",
+            "winner": "Sean Brady",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 208,
+            "fight_url": "http://ufcstats.com/fight-details/7ad09f889d2cdb6f"
+        },
+        {
+            "fight_id": "50ef636148fa6fac",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Livinha Souza",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 219,
+            "fight_url": "http://ufcstats.com/fight-details/50ef636148fa6fac"
+        },
+        {
+            "fight_id": "e2abba69c3371618",
+            "fighter_a": "Uros Medic",
+            "fighter_b": "Aalon Cruz",
+            "winner": "Uros Medic",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/e2abba69c3371618"
+        },
+        {
+            "fight_id": "c096342c57a6f2c4",
+            "fighter_a": "Trevin Jones",
+            "fighter_b": "Mario Bautista",
+            "winner": "Trevin Jones",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 47,
+            "fight_url": "http://ufcstats.com/fight-details/c096342c57a6f2c4"
+        }
+    ]
+}

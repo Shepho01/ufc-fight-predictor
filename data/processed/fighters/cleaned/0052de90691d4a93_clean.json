@@ -1,0 +1,23 @@
+{
+    "fighter_id": "0052de90691d4a93",
+    "name": "Davi Ramos",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64000000000001,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 5,
+    "dob_month": 11,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 2.64,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 3.44,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 1.95,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.83,
+    "submission_attempts_per_15_min": 0.6
+}

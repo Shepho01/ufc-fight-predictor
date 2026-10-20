@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "365fd759c03e93cf",
+        "event_id": "b96619b3acd7d9da",
+        "event_name": "UFC 330: Makhachev vs. Machado Garry",
+        "weight_class": "Welterweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "22 of 44",
+            "Sig. str. %": "50%",
+            "Total str.": "78 of 114",
+            "Td": "7 of 15",
+            "Td %": "46%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "12:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 44",
+            "Sig. str. %": "50%",
+            "Head": "9 of 31",
+            "Body": "3 of 3",
+            "Leg": "10 of 10",
+            "Distance": "15 of 36",
+            "Clinch": "6 of 7",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 65",
+            "Sig. str. %": "44%",
+            "Total str.": "89 of 141",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 65",
+            "Sig. str. %": "44%",
+            "Head": "7 of 40",
+            "Body": "16 of 17",
+            "Leg": "6 of 8",
+            "Distance": "22 of 57",
+            "Clinch": "7 of 8",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b9726184624ac076",
+        "event_id": "02177caefe7c07d4",
+        "event_name": "UFC 220: Miocic vs. Ngannou",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:57",
+        "referee": "Dan Miragliotta",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "3 of 6",
+            "Sig. str. %": "50%",
+            "Total str.": "3 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 6",
+            "Sig. str. %": "50%",
+            "Head": "2 of 5",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "2 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 4",
+            "Sig. str. %": "50%",
+            "Total str.": "2 of 4",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 4",
+            "Sig. str. %": "50%",
+            "Head": "1 of 2",
+            "Body": "0 of 1",
+            "Leg": "1 of 1",
+            "Distance": "2 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

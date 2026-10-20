@@ -1,0 +1,23 @@
+{
+    "fighter_id": "68f6e96c5fa6e044",
+    "name": "Jeremy Kennedy",
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 16,
+    "dob_month": 9,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 2.22,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 2.58,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 5.73,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.0
+}

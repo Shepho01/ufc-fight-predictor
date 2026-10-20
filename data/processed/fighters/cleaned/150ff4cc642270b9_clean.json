@@ -1,0 +1,23 @@
+{
+    "fighter_id": "150ff4cc642270b9",
+    "name": "Max Holloway",
+    "wins": 28,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 4,
+    "dob_month": 12,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 6.92,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 4.6,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 0.22,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.81,
+    "submission_attempts_per_15_min": 0.3
+}

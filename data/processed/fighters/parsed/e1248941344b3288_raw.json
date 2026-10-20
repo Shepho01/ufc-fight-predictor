@@ -1,0 +1,96 @@
+{
+    "fighter_id": "e1248941344b3288",
+    "name": "Alexander Volkanovski",
+    "record": "28-4-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 29, 1988",
+    "sig_strikes_landed_per_min": "5.99",
+    "sig_striking_accuracy": "57%",
+    "sig_strikes_absorbed_per_min": "3.31",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "1.63",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "68%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "ce1388d6c7651d2e",
+            "fight_url": "http://ufcstats.com/fight-details/ce1388d6c7651d2e"
+        },
+        {
+            "fight_id": "b06b43670238c2d8",
+            "fight_url": "http://ufcstats.com/fight-details/b06b43670238c2d8"
+        },
+        {
+            "fight_id": "e733f148060bef2a",
+            "fight_url": "http://ufcstats.com/fight-details/e733f148060bef2a"
+        },
+        {
+            "fight_id": "bec3154a11df3299",
+            "fight_url": "http://ufcstats.com/fight-details/bec3154a11df3299"
+        },
+        {
+            "fight_id": "0ea435ddf02deb60",
+            "fight_url": "http://ufcstats.com/fight-details/0ea435ddf02deb60"
+        },
+        {
+            "fight_id": "4b12a4b48755cd6b",
+            "fight_url": "http://ufcstats.com/fight-details/4b12a4b48755cd6b"
+        },
+        {
+            "fight_id": "256894b49303537b",
+            "fight_url": "http://ufcstats.com/fight-details/256894b49303537b"
+        },
+        {
+            "fight_id": "4047e98132306cd5",
+            "fight_url": "http://ufcstats.com/fight-details/4047e98132306cd5"
+        },
+        {
+            "fight_id": "dc0ab34f1952cb48",
+            "fight_url": "http://ufcstats.com/fight-details/dc0ab34f1952cb48"
+        },
+        {
+            "fight_id": "18f1b88d8977c216",
+            "fight_url": "http://ufcstats.com/fight-details/18f1b88d8977c216"
+        },
+        {
+            "fight_id": "94b1596c6ff9a25d",
+            "fight_url": "http://ufcstats.com/fight-details/94b1596c6ff9a25d"
+        },
+        {
+            "fight_id": "efc40ec41114d8fa",
+            "fight_url": "http://ufcstats.com/fight-details/efc40ec41114d8fa"
+        },
+        {
+            "fight_id": "7b53967f282a0d0a",
+            "fight_url": "http://ufcstats.com/fight-details/7b53967f282a0d0a"
+        },
+        {
+            "fight_id": "a5ea53104392fa9f",
+            "fight_url": "http://ufcstats.com/fight-details/a5ea53104392fa9f"
+        },
+        {
+            "fight_id": "67018331e90a9949",
+            "fight_url": "http://ufcstats.com/fight-details/67018331e90a9949"
+        },
+        {
+            "fight_id": "f3a60ca18747aeac",
+            "fight_url": "http://ufcstats.com/fight-details/f3a60ca18747aeac"
+        },
+        {
+            "fight_id": "097bc98e15722998",
+            "fight_url": "http://ufcstats.com/fight-details/097bc98e15722998"
+        },
+        {
+            "fight_id": "e4db3b1669d498c3",
+            "fight_url": "http://ufcstats.com/fight-details/e4db3b1669d498c3"
+        },
+        {
+            "fight_id": "2cab927474cb6e62",
+            "fight_url": "http://ufcstats.com/fight-details/2cab927474cb6e62"
+        }
+    ]
+}

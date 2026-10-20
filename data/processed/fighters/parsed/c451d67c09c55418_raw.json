@@ -1,0 +1,76 @@
+{
+    "fighter_id": "c451d67c09c55418",
+    "name": "Chan Sung Jung",
+    "record": "17-8-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Mar 17, 1987",
+    "sig_strikes_landed_per_min": "3.93",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "4.52",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.70",
+    "takedown_accuracy": "44%",
+    "takedown_defense": "72%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "96704d7ba3a452d9",
+            "fight_url": "http://ufcstats.com/fight-details/96704d7ba3a452d9"
+        },
+        {
+            "fight_id": "dc0ab34f1952cb48",
+            "fight_url": "http://ufcstats.com/fight-details/dc0ab34f1952cb48"
+        },
+        {
+            "fight_id": "50cae63d530ede7c",
+            "fight_url": "http://ufcstats.com/fight-details/50cae63d530ede7c"
+        },
+        {
+            "fight_id": "5a440bdee19efaab",
+            "fight_url": "http://ufcstats.com/fight-details/5a440bdee19efaab"
+        },
+        {
+            "fight_id": "06f37329b223b451",
+            "fight_url": "http://ufcstats.com/fight-details/06f37329b223b451"
+        },
+        {
+            "fight_id": "aec1339028f3416c",
+            "fight_url": "http://ufcstats.com/fight-details/aec1339028f3416c"
+        },
+        {
+            "fight_id": "0ccd16201ac41ef8",
+            "fight_url": "http://ufcstats.com/fight-details/0ccd16201ac41ef8"
+        },
+        {
+            "fight_id": "8c220d4c96895a98",
+            "fight_url": "http://ufcstats.com/fight-details/8c220d4c96895a98"
+        },
+        {
+            "fight_id": "72e1b3e1224f5314",
+            "fight_url": "http://ufcstats.com/fight-details/72e1b3e1224f5314"
+        },
+        {
+            "fight_id": "a8ec9c513d28c25c",
+            "fight_url": "http://ufcstats.com/fight-details/a8ec9c513d28c25c"
+        },
+        {
+            "fight_id": "8abe79e6d300b639",
+            "fight_url": "http://ufcstats.com/fight-details/8abe79e6d300b639"
+        },
+        {
+            "fight_id": "bb70048e290f4a86",
+            "fight_url": "http://ufcstats.com/fight-details/bb70048e290f4a86"
+        },
+        {
+            "fight_id": "0091e56e746971f4",
+            "fight_url": "http://ufcstats.com/fight-details/0091e56e746971f4"
+        },
+        {
+            "fight_id": "ba9438f43e212f52",
+            "fight_url": "http://ufcstats.com/fight-details/ba9438f43e212f52"
+        }
+    ]
+}

@@ -1,6 +1,8 @@
 from pathlib import Path
+import re
 from bs4 import BeautifulSoup
 import json
+import argparse
 
 
 EVENT_URL = "http://ufcstats.com/event-details/01dd4cdc2446f665"
@@ -18,8 +20,8 @@ def get_id_from_url(url):
     return url.rstrip("/").split("/")[-1]
 
 
-def main():
-    html = HTML_PATH.read_text(
+def parse_event(html_path, event_id):
+    html = Path(html_path).read_text(
         encoding="utf-8"
     )
 
@@ -57,9 +59,7 @@ def main():
     )
 
     event_data = {
-        "event_id": get_id_from_url(
-            EVENT_URL
-        ),
+        "event_id": event_id,
         "event_name": event_name,
         "event_date": event_date,
         "location": location
@@ -173,27 +173,31 @@ def main():
         "fights": fights
     }
 
-    # -------------------------
-    # Save JSON
-    # -------------------------
+    return data
 
-    OUTPUT_PATH.parent.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+def main():
+    input_dir = Path("data/raw/events")
+    output_dir = Path("data/processed/events/parsed")
 
-    OUTPUT_PATH.write_text(
-        json.dumps(
-            data,
-            indent=4
-        ),
-        encoding="utf-8"
-    )
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    print(
-        f"Saved parsed event to {OUTPUT_PATH}"
-    )
+    for html_path in sorted(input_dir.glob("*.html")):
+        event_id = html_path.stem
 
+        # Skip older filenames such as ufc_284.html.
+        if not re.fullmatch(r"[0-9a-f]{16}", event_id):
+            continue
+
+        event_data = parse_event(html_path, event_id)
+
+        output_path = output_dir / f"{event_id}_raw.json"
+
+        output_path.write_text(
+            json.dumps(event_data, indent=4),
+            encoding="utf-8",
+        )
+
+        print(f"Saved parsed event to: {output_path}")
 
 if __name__ == "__main__":
     main()

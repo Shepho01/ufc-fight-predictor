@@ -1,0 +1,48 @@
+{
+    "fighter_id": "0052de90691d4a93",
+    "name": "Davi Ramos",
+    "record": "10-4-0",
+    "height": "5' 6\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 05, 1986",
+    "sig_strikes_landed_per_min": "2.64",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "3.44",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "1.95",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "ecb24300bb3bef8c",
+            "fight_url": "http://ufcstats.com/fight-details/ecb24300bb3bef8c"
+        },
+        {
+            "fight_id": "849eb47d349f3fe4",
+            "fight_url": "http://ufcstats.com/fight-details/849eb47d349f3fe4"
+        },
+        {
+            "fight_id": "65c1ca715dfdbe05",
+            "fight_url": "http://ufcstats.com/fight-details/65c1ca715dfdbe05"
+        },
+        {
+            "fight_id": "933cf2674503c63d",
+            "fight_url": "http://ufcstats.com/fight-details/933cf2674503c63d"
+        },
+        {
+            "fight_id": "5ea39e0fc3b64e83",
+            "fight_url": "http://ufcstats.com/fight-details/5ea39e0fc3b64e83"
+        },
+        {
+            "fight_id": "f9536ea60551b840",
+            "fight_url": "http://ufcstats.com/fight-details/f9536ea60551b840"
+        },
+        {
+            "fight_id": "f4f5049e789b7716",
+            "fight_url": "http://ufcstats.com/fight-details/f4f5049e789b7716"
+        }
+    ]
+}

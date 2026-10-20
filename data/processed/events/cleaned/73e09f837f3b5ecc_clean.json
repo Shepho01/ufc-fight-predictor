@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "73e09f837f3b5ecc",
+        "event_name": "UFC Fight Night: Whittaker vs. Brunson",
+        "event_day": 26,
+        "event_month": 11,
+        "event_year": 2016,
+        "location": "Melbourne, Victoria, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "6d04fbef6b8e4551",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Derek Brunson",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 247,
+            "fight_url": "http://ufcstats.com/fight-details/6d04fbef6b8e4551"
+        },
+        {
+            "fight_id": "0d33d43bee65d98f",
+            "fighter_a": "Andrew Holbrook",
+            "fighter_b": "Jake Matthews",
+            "winner": "Andrew Holbrook",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0d33d43bee65d98f"
+        },
+        {
+            "fight_id": "450760216f5643ca",
+            "fighter_a": "Omari Akhmedov",
+            "fighter_b": "Kyle Noke",
+            "winner": "Omari Akhmedov",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/450760216f5643ca"
+        },
+        {
+            "fight_id": "2cab927474cb6e62",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Yusuke Kasuya",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 126,
+            "fight_url": "http://ufcstats.com/fight-details/2cab927474cb6e62"
+        },
+        {
+            "fight_id": "d1c519260c0ddf3a",
+            "fighter_a": "Tyson Pedro",
+            "fighter_b": "Khalil Rountree Jr.",
+            "winner": "Tyson Pedro",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 247,
+            "fight_url": "http://ufcstats.com/fight-details/d1c519260c0ddf3a"
+        },
+        {
+            "fight_id": "314aea77cd24210f",
+            "fighter_a": "Danielle Taylor",
+            "fighter_b": "Seo Hee Ham",
+            "winner": "Danielle Taylor",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/314aea77cd24210f"
+        },
+        {
+            "fight_id": "71854cfe738d6ee1",
+            "fighter_a": "Daniel Kelly",
+            "fighter_b": "Chris Camozzi",
+            "winner": "Daniel Kelly",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/71854cfe738d6ee1"
+        },
+        {
+            "fight_id": "64bc223daa594bcc",
+            "fighter_a": "Damien Brown",
+            "fighter_b": "Jon Tuck",
+            "winner": "Damien Brown",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/64bc223daa594bcc"
+        },
+        {
+            "fight_id": "2c0a58ef0324e18b",
+            "fighter_a": "Jonathan Meunier",
+            "fighter_b": "Richard Walsh",
+            "winner": "Jonathan Meunier",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2c0a58ef0324e18b"
+        },
+        {
+            "fight_id": "291d91378a96d1e8",
+            "fighter_a": "Ben Nguyen",
+            "fighter_b": "Geane Herrera",
+            "winner": "Ben Nguyen",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/291d91378a96d1e8"
+        },
+        {
+            "fight_id": "4f60a7e7b848bc6d",
+            "fighter_a": "Jason Knight",
+            "fighter_b": "Dan Hooker",
+            "winner": "Jason Knight",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4f60a7e7b848bc6d"
+        },
+        {
+            "fight_id": "2e209dc450b7ebe3",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Guangyou Ning",
+            "winner": "Marlon Vera",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2e209dc450b7ebe3"
+        },
+        {
+            "fight_id": "0da0dc2c7eb29f58",
+            "fighter_a": "Jenel Lausa",
+            "fighter_b": "Yao Zhikui",
+            "winner": "Jenel Lausa",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0da0dc2c7eb29f58"
+        }
+    ]
+}

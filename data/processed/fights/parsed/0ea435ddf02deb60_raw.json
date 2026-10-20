@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0ea435ddf02deb60",
+        "event_id": "13a0fb8fbdafb54f",
+        "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:06",
+        "referee": "Marc Goddard",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "24 of 29",
+            "Sig. str. %": "82%",
+            "Total str.": "39 of 46",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 29",
+            "Sig. str. %": "82%",
+            "Head": "13 of 16",
+            "Body": "9 of 11",
+            "Leg": "2 of 2",
+            "Distance": "7 of 11",
+            "Clinch": "8 of 9",
+            "Ground": "9 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 6",
+            "Sig. str. %": "66%",
+            "Total str.": "11 of 18",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 6",
+            "Sig. str. %": "66%",
+            "Head": "0 of 1",
+            "Body": "1 of 1",
+            "Leg": "3 of 4",
+            "Distance": "3 of 5",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

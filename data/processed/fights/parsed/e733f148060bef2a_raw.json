@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e733f148060bef2a",
+        "event_id": "22f4b6cb6b1bd7fd",
+        "event_name": "UFC 314: Volkanovski vs. Lopes",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "158 of 259",
+            "Sig. str. %": "61%",
+            "Total str.": "165 of 266",
+            "Td": "1 of 11",
+            "Td %": "9%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "158 of 259",
+            "Sig. str. %": "61%",
+            "Head": "136 of 225",
+            "Body": "8 of 14",
+            "Leg": "14 of 20",
+            "Distance": "142 of 237",
+            "Clinch": "7 of 11",
+            "Ground": "9 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "63 of 194",
+            "Sig. str. %": "32%",
+            "Total str.": "71 of 203",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "63 of 194",
+            "Sig. str. %": "32%",
+            "Head": "49 of 171",
+            "Body": "7 of 13",
+            "Leg": "7 of 10",
+            "Distance": "59 of 185",
+            "Clinch": "3 of 8",
+            "Ground": "1 of 1"
+        }
+    }
+}

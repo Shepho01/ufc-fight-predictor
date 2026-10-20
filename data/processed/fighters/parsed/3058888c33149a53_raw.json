@@ -1,0 +1,28 @@
+{
+    "fighter_id": "3058888c33149a53",
+    "name": "Yusuke Kasuya",
+    "record": "9-3-0",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Southpaw",
+    "dob": "Nov 16, 1989",
+    "sig_strikes_landed_per_min": "2.17",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "4.34",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "1.36",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "2cab927474cb6e62",
+            "fight_url": "http://ufcstats.com/fight-details/2cab927474cb6e62"
+        },
+        {
+            "fight_id": "374508c76108d7fe",
+            "fight_url": "http://ufcstats.com/fight-details/374508c76108d7fe"
+        }
+    ]
+}

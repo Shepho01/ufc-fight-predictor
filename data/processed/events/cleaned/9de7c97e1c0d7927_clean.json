@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "9de7c97e1c0d7927",
+        "event_name": "UFC 237: Namajunas vs. Andrade",
+        "event_day": 11,
+        "event_month": 5,
+        "event_year": 2019,
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "07c00213ec388e07",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Rose Namajunas",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Slam",
+            "round": 2,
+            "time_seconds": 178,
+            "fight_url": "http://ufcstats.com/fight-details/07c00213ec388e07"
+        },
+        {
+            "fight_id": "a08dffad240dc3d4",
+            "fighter_a": "Jared Cannonier",
+            "fighter_b": "Anderson Silva",
+            "winner": "Jared Cannonier",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 287,
+            "fight_url": "http://ufcstats.com/fight-details/a08dffad240dc3d4"
+        },
+        {
+            "fight_id": "7b53967f282a0d0a",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Jose Aldo",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7b53967f282a0d0a"
+        },
+        {
+            "fight_id": "3d941525f5c623e3",
+            "fighter_a": "Laureano Staropoli",
+            "fighter_b": "Thiago Alves",
+            "winner": "Laureano Staropoli",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d941525f5c623e3"
+        },
+        {
+            "fight_id": "8cf4836e2b43c241",
+            "fighter_a": "Irene Aldana",
+            "fighter_b": "Bethe Correia",
+            "winner": "Irene Aldana",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 204,
+            "fight_url": "http://ufcstats.com/fight-details/8cf4836e2b43c241"
+        },
+        {
+            "fight_id": "413a4c217ee0193f",
+            "fighter_a": "Ryan Spann",
+            "fighter_b": "Rogerio Nogueira",
+            "winner": "Ryan Spann",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 127,
+            "fight_url": "http://ufcstats.com/fight-details/413a4c217ee0193f"
+        },
+        {
+            "fight_id": "017c090e9e8d2957",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Kurt Holobaugh",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/017c090e9e8d2957"
+        },
+        {
+            "fight_id": "2b038a467a89c73c",
+            "fighter_a": "Warlley Alves",
+            "fighter_b": "Sergio Moraes",
+            "winner": "Warlley Alves",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/2b038a467a89c73c"
+        },
+        {
+            "fight_id": "0febad4c4a3d69fc",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "BJ Penn",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0febad4c4a3d69fc"
+        },
+        {
+            "fight_id": "707cb14717df5960",
+            "fighter_a": "Luana Carolina",
+            "fighter_b": "Priscila Cachoeira",
+            "winner": "Luana Carolina",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/707cb14717df5960"
+        },
+        {
+            "fight_id": "1218cba28d4dce94",
+            "fighter_a": "Raoni Barcelos",
+            "fighter_b": "Carlos Huachin",
+            "winner": "Raoni Barcelos",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 289,
+            "fight_url": "http://ufcstats.com/fight-details/1218cba28d4dce94"
+        },
+        {
+            "fight_id": "e4bbec619aa04dea",
+            "fighter_a": "Viviane Araujo",
+            "fighter_b": "Talita Bernardo",
+            "winner": "Viviane Araujo",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/e4bbec619aa04dea"
+        }
+    ]
+}

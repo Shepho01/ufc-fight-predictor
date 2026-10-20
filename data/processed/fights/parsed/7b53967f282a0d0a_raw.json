@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7b53967f282a0d0a",
+        "event_id": "9de7c97e1c0d7927",
+        "event_name": "UFC 237: Namajunas vs. Andrade",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 79",
+            "Sig. str. %": "36%",
+            "Total str.": "39 of 90",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 79",
+            "Sig. str. %": "36%",
+            "Head": "19 of 63",
+            "Body": "7 of 12",
+            "Leg": "3 of 4",
+            "Distance": "26 of 76",
+            "Clinch": "3 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "95 of 176",
+            "Sig. str. %": "53%",
+            "Total str.": "129 of 215",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "95 of 176",
+            "Sig. str. %": "53%",
+            "Head": "28 of 93",
+            "Body": "17 of 24",
+            "Leg": "50 of 59",
+            "Distance": "67 of 147",
+            "Clinch": "28 of 29",
+            "Ground": "0 of 0"
+        }
+    }
+}

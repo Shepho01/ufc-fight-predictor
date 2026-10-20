@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e54c16d867875738",
+        "event_id": "322a56923b396b4d",
+        "event_name": "UFC Fight Night: Alvarez vs. Poirier 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:43",
+        "referee": "Andy Social",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 17",
+            "Sig. str. %": "41%",
+            "Total str.": "7 of 17",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 17",
+            "Sig. str. %": "41%",
+            "Head": "0 of 6",
+            "Body": "3 of 5",
+            "Leg": "4 of 6",
+            "Distance": "7 of 17",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 18",
+            "Sig. str. %": "38%",
+            "Total str.": "14 of 26",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 18",
+            "Sig. str. %": "38%",
+            "Head": "6 of 17",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "1 of 9",
+            "Clinch": "0 of 0",
+            "Ground": "6 of 9"
+        }
+    }
+}

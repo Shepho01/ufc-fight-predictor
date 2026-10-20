@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "30ad2050273d016a",
+        "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+        "event_date": "January 31, 2026",
+        "location": "Sydney, New South Wales, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "b06b43670238c2d8",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Diego Lopes",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b06b43670238c2d8"
+        },
+        {
+            "fight_id": "a7ae8f6eb5fc3a79",
+            "fighter_a": "Benoit Saint Denis",
+            "fighter_b": "Dan Hooker",
+            "winner": "Benoit Saint Denis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:45",
+            "fight_url": "http://ufcstats.com/fight-details/a7ae8f6eb5fc3a79"
+        },
+        {
+            "fight_id": "57d7a683b85bb87b",
+            "fighter_a": "Mauricio Ruffy",
+            "fighter_b": "Rafael Fiziev",
+            "winner": "Mauricio Ruffy",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:30",
+            "fight_url": "http://ufcstats.com/fight-details/57d7a683b85bb87b"
+        },
+        {
+            "fight_id": "67765535bd0b6bdf",
+            "fighter_a": "Tallison Teixeira",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Tallison Teixeira",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/67765535bd0b6bdf"
+        },
+        {
+            "fight_id": "32e9bc4d0a19a923",
+            "fighter_a": "Quillan Salkilld",
+            "fighter_b": "Jamie Mullarkey",
+            "winner": "Quillan Salkilld",
+            "weight_class": "Lightweight",
+            "method": "SUB Neck Crank",
+            "round": "1",
+            "time": "3:02",
+            "fight_url": "http://ufcstats.com/fight-details/32e9bc4d0a19a923"
+        },
+        {
+            "fight_id": "d94f1b32a81e3fa1",
+            "fighter_a": "Billy Elekana",
+            "fighter_b": "Junior Tafa",
+            "winner": "Billy Elekana",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/d94f1b32a81e3fa1"
+        },
+        {
+            "fight_id": "47362cae6ba0e077",
+            "fighter_a": "Cam Rowston",
+            "fighter_b": "Cody Brundage",
+            "winner": "Cam Rowston",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:08",
+            "fight_url": "http://ufcstats.com/fight-details/47362cae6ba0e077"
+        },
+        {
+            "fight_id": "0047f8aadca1936f",
+            "fighter_a": "Jacob Malkoun",
+            "fighter_b": "Torrez Finney",
+            "winner": "Jacob Malkoun",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0047f8aadca1936f"
+        },
+        {
+            "fight_id": "78912b78aa946375",
+            "fighter_a": "Jonathan Micallef",
+            "fighter_b": "Oban Elliott",
+            "winner": "Jonathan Micallef",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:31",
+            "fight_url": "http://ufcstats.com/fight-details/78912b78aa946375"
+        },
+        {
+            "fight_id": "4c1e7e1765a5438a",
+            "fighter_a": "Kaan Ofli",
+            "fighter_b": "Yizha",
+            "winner": "Kaan Ofli",
+            "weight_class": "Featherweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4c1e7e1765a5438a"
+        },
+        {
+            "fight_id": "ad14c502c9c5a7e9",
+            "fighter_a": "Dom Mar Fan",
+            "fighter_b": "Sangwook Kim",
+            "winner": "Dom Mar Fan",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ad14c502c9c5a7e9"
+        },
+        {
+            "fight_id": "780bae82bdfc7112",
+            "fighter_a": "Keiichiro Nakamura",
+            "fighter_b": "Sebastian Szalay",
+            "winner": "Keiichiro Nakamura",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "3:48",
+            "fight_url": "http://ufcstats.com/fight-details/780bae82bdfc7112"
+        },
+        {
+            "fight_id": "5c73e0013b859664",
+            "fighter_a": "Lawrence Lui",
+            "fighter_b": "Sulangrangbo",
+            "winner": "Lawrence Lui",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5c73e0013b859664"
+        }
+    ]
+}

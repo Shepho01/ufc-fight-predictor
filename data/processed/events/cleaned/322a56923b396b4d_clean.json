@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "322a56923b396b4d",
+        "event_name": "UFC Fight Night: Alvarez vs. Poirier 2",
+        "event_day": 28,
+        "event_month": 7,
+        "event_year": 2018,
+        "location": "Calgary, Alberta, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "bd1fc4ff619f4e61",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Eddie Alvarez",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 245,
+            "fight_url": "http://ufcstats.com/fight-details/bd1fc4ff619f4e61"
+        },
+        {
+            "fight_id": "6b47093b62155478",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 259,
+            "fight_url": "http://ufcstats.com/fight-details/6b47093b62155478"
+        },
+        {
+            "fight_id": "0b2ae6c368369d1b",
+            "fighter_a": "Joanna Jedrzejczyk",
+            "fighter_b": "Tecia Pennington",
+            "winner": "Joanna Jedrzejczyk",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0b2ae6c368369d1b"
+        },
+        {
+            "fight_id": "ef2c7bfced561374",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Olivier Aubin-Mercier",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ef2c7bfced561374"
+        },
+        {
+            "fight_id": "77be83973766e104",
+            "fighter_a": "Jordan Mein",
+            "fighter_b": "Alex Morono",
+            "winner": "Jordan Mein",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/77be83973766e104"
+        },
+        {
+            "fight_id": "11c851a73ffb55ba",
+            "fighter_a": "Hakeem Dawodu",
+            "fighter_b": "Austin Arnett",
+            "winner": "Hakeem Dawodu",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/11c851a73ffb55ba"
+        },
+        {
+            "fight_id": "e54c16d867875738",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Kajan Johnson",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 283,
+            "fight_url": "http://ufcstats.com/fight-details/e54c16d867875738"
+        },
+        {
+            "fight_id": "95f37dc43e808ebf",
+            "fighter_a": "Ion Cutelaba",
+            "fighter_b": "Gadzhimurad Antigulov",
+            "winner": "Ion Cutelaba",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/95f37dc43e808ebf"
+        },
+        {
+            "fight_id": "3249bbbb7ce837ef",
+            "fighter_a": "John Makdessi",
+            "fighter_b": "Ross Pearson",
+            "winner": "John Makdessi",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3249bbbb7ce837ef"
+        },
+        {
+            "fight_id": "c4253cb471013765",
+            "fighter_a": "Katlyn Cerminara",
+            "fighter_b": "Alexis Davis",
+            "winner": "Katlyn Cerminara",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4253cb471013765"
+        },
+        {
+            "fight_id": "09ab925c4cfe0cc5",
+            "fighter_a": "Dustin Ortiz",
+            "fighter_b": "Matheus Nicolau",
+            "winner": "Dustin Ortiz",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 229,
+            "fight_url": "http://ufcstats.com/fight-details/09ab925c4cfe0cc5"
+        },
+        {
+            "fight_id": "d441715577c5934c",
+            "fighter_a": "Nina Nunes",
+            "fighter_b": "Randa Markos",
+            "winner": "Nina Nunes",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d441715577c5934c"
+        },
+        {
+            "fight_id": "62f564662f33692d",
+            "fighter_a": "Devin Powell",
+            "fighter_b": "Alvaro Herrera Mendoza",
+            "winner": "Devin Powell",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kicks",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/62f564662f33692d"
+        }
+    ]
+}

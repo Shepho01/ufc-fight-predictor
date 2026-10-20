@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "c046100aea0dba9a",
+        "event_name": "UFC 232: Jones vs. Gustafsson 2",
+        "event_day": 29,
+        "event_month": 12,
+        "event_year": 2018,
+        "location": "Los Angeles, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ceaae1db8ccde29c",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Alexander Gustafsson",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 122,
+            "fight_url": "http://ufcstats.com/fight-details/ceaae1db8ccde29c"
+        },
+        {
+            "fight_id": "3278e45b30f7dd33",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Cristiane Justino",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 51,
+            "fight_url": "http://ufcstats.com/fight-details/3278e45b30f7dd33"
+        },
+        {
+            "fight_id": "1ca41d3b11d88b36",
+            "fighter_a": "Michael Chiesa",
+            "fighter_b": "Carlos Condit",
+            "winner": "Michael Chiesa",
+            "weight_class": "Welterweight",
+            "method": "SUB Kimura",
+            "round": 2,
+            "time_seconds": 56,
+            "fight_url": "http://ufcstats.com/fight-details/1ca41d3b11d88b36"
+        },
+        {
+            "fight_id": "9ee818e10dcf3b45",
+            "fighter_a": "Corey Anderson",
+            "fighter_b": "Ilir Latifi",
+            "winner": "Corey Anderson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9ee818e10dcf3b45"
+        },
+        {
+            "fight_id": "a5ea53104392fa9f",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Chad Mendes",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 254,
+            "fight_url": "http://ufcstats.com/fight-details/a5ea53104392fa9f"
+        },
+        {
+            "fight_id": "819af4bbad55324d",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Walt Harris",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/819af4bbad55324d"
+        },
+        {
+            "fight_id": "b0e16dd491bc4fea",
+            "fighter_a": "Megan Anderson",
+            "fighter_b": "Cat Zingano",
+            "winner": "Megan Anderson",
+            "weight_class": "Women's Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/b0e16dd491bc4fea"
+        },
+        {
+            "fight_id": "498e7b0800af226c",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Douglas Silva de Andrade",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/498e7b0800af226c"
+        },
+        {
+            "fight_id": "bd7a8c6c74655afc",
+            "fighter_a": "Ryan Hall",
+            "fighter_b": "BJ Penn",
+            "winner": "Ryan Hall",
+            "weight_class": "Lightweight",
+            "method": "SUB Heel Hook",
+            "round": 1,
+            "time_seconds": 166,
+            "fight_url": "http://ufcstats.com/fight-details/bd7a8c6c74655afc"
+        },
+        {
+            "fight_id": "61bf6748cf85eb84",
+            "fighter_a": "Nathaniel Wood",
+            "fighter_b": "Andre Ewell",
+            "winner": "Nathaniel Wood",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 252,
+            "fight_url": "http://ufcstats.com/fight-details/61bf6748cf85eb84"
+        },
+        {
+            "fight_id": "4de25b19c4dedb14",
+            "fighter_a": "Uriah Hall",
+            "fighter_b": "Bevon Lewis",
+            "winner": "Uriah Hall",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 92,
+            "fight_url": "http://ufcstats.com/fight-details/4de25b19c4dedb14"
+        },
+        {
+            "fight_id": "3f5a623cf360c494",
+            "fighter_a": "Curtis Millender",
+            "fighter_b": "Siyar Bahadurzada",
+            "winner": "Curtis Millender",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3f5a623cf360c494"
+        },
+        {
+            "fight_id": "8ce926b4d38a55a0",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Brian Kelleher",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/8ce926b4d38a55a0"
+        }
+    ]
+}

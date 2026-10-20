@@ -1,17 +1,9 @@
 from pathlib import Path
-from bs4 import BeautifulSoup
+from urllib.parse import urljoin, urlsplit
 import json
+import re
 
-
-HTML_PATH = Path(
-    "data/raw/fighters/alex_volkanovski.html"
-)
-
-OUTPUT_PATH = Path(
-    "data/processed/alex_volkanovski_raw.json"
-)
-
-FIGHTER_ID = "e1248941344b3288"
+from bs4 import BeautifulSoup
 
 
 def parse_profile_stats(soup):
@@ -25,27 +17,23 @@ def parse_profile_stats(soup):
     for item in stat_items:
         label_element = item.find(
             "i",
-            class_="b-list__box-item-title"
+            class_="b-list__box-item-title",
         )
 
         if label_element is None:
             continue
 
         label = label_element.get_text(
-            " ",
-            strip=True
+            " ", strip=True
         ).replace(":", "")
 
         label_element.extract()
 
-        value = item.get_text(
-            " ",
-            strip=True
-        )
-
+        value = item.get_text(" ", strip=True)
         profile[label] = value
 
     return profile
+
 
 def parse_career_stats(soup):
     career_stats = {}
@@ -58,15 +46,14 @@ def parse_career_stats(soup):
     for item in stat_items:
         label_element = item.find(
             "i",
-            class_="b-list__box-item-title"
+            class_="b-list__box-item-title",
         )
 
         if label_element is None:
             continue
 
         label = label_element.get_text(
-            " ",
-            strip=True
+            " ", strip=True
         ).replace(":", "")
 
         if not label:
@@ -74,89 +61,161 @@ def parse_career_stats(soup):
 
         label_element.extract()
 
-        value = item.get_text(
-            " ",
-            strip=True
-        )
-
+        value = item.get_text(" ", strip=True)
         career_stats[label] = value
 
     return career_stats
 
-def main():
-    html = HTML_PATH.read_text(
-        encoding="utf-8"
+
+def parse_fight_history(soup):
+    history = {}
+
+    links = soup.select(
+        'table a[href*="/fight-details/"]'
     )
 
-    soup = BeautifulSoup(
-        html,
-        "html.parser"
-    )
+    for link in links:
+        url = urljoin(
+            "http://ufcstats.com",
+            link["href"],
+        )
 
-    # -------------------------
-    # Name
-    # -------------------------
+        parsed = urlsplit(url)
 
-    name = soup.select_one(
+        match = re.fullmatch(
+            r"/fight-details/([0-9a-f]{16})/?",
+            parsed.path,
+        )
+
+        if (
+            parsed.hostname not in (
+                "ufcstats.com",
+                "www.ufcstats.com",
+            )
+            or not match
+        ):
+            continue
+
+        fight_id = match.group(1)
+
+        # Using the fight ID as a key removes duplicate links.
+        history[fight_id] = {
+            "fight_id": fight_id,
+            "fight_url": (
+                "http://ufcstats.com/fight-details/"
+                f"{fight_id}"
+            ),
+        }
+
+    return list(history.values())
+
+
+def parse_fighter(html_path, fighter_id):
+    """Read one fighter page and return its extracted data."""
+
+    html = Path(html_path).read_text(encoding="utf-8")
+    soup = BeautifulSoup(html, "html.parser")
+
+    name_element = soup.select_one(
         ".b-content__title-highlight"
-    ).get_text(strip=True)
+    )
 
-    # -------------------------
-    # Record
-    # -------------------------
-
-    record_text = soup.select_one(
+    record_element = soup.select_one(
         ".b-content__title-record"
-    ).get_text(strip=True)
+    )
 
-    record = record_text.replace(
-        "Record:",
-        ""
-    ).strip()
+    if name_element is None or record_element is None:
+        raise ValueError(
+            f"Missing fighter name or record in {html_path}"
+        )
 
-    # -------------------------
-    # Fighter profile stats
-    # -------------------------
+    name = name_element.get_text(strip=True)
+
+    record_text = record_element.get_text(strip=True)
+    record = record_text.replace("Record:", "").strip()
 
     profile = parse_profile_stats(soup)
-    
     career_stats = parse_career_stats(soup)
+    fight_history = parse_fight_history(soup)
 
     fighter_data = {
-        "fighter_id": FIGHTER_ID,
+        "fighter_id": fighter_id,
         "name": name,
         "record": record,
+
         "height": profile.get("Height"),
         "weight": profile.get("Weight"),
         "reach": profile.get("Reach"),
         "stance": profile.get("STANCE"),
         "dob": profile.get("DOB"),
+
         "sig_strikes_landed_per_min": career_stats.get("SLpM"),
         "sig_striking_accuracy": career_stats.get("Str. Acc."),
         "sig_strikes_absorbed_per_min": career_stats.get("SApM"),
-        "sig_strike_defense": career_stats.get("Str. Def"),
+        "sig_strike_defense": career_stats.get(
+            "Str. Def.",
+            career_stats.get("Str. Def"),
+        ),
         "takedowns_landed_per_15_min": career_stats.get("TD Avg."),
         "takedown_accuracy": career_stats.get("TD Acc."),
         "takedown_defense": career_stats.get("TD Def."),
-        "submission_attempts_per_15_min": career_stats.get("Sub. Avg.")
+        "submission_attempts_per_15_min": career_stats.get("Sub. Avg."),
+
+        "fight_history": fight_history,
     }
 
-    OUTPUT_PATH.parent.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    return fighter_data
 
-    OUTPUT_PATH.write_text(
-        json.dumps(
-            fighter_data,
-            indent=4
-        ),
-        encoding="utf-8"
-    )
 
-    print(
-        f"Saved parsed fighter to {OUTPUT_PATH}"
-    )
+def main():
+    """Parse all fighter pages named with a fighter ID."""
+
+    input_dir = Path("data/raw/fighters")
+    output_dir = Path("data/processed/fighters/parsed")
+
+    html_paths = [
+        path
+        for path in sorted(input_dir.glob("*.html"))
+        if re.fullmatch(r"[0-9a-f]{16}", path.stem)
+    ]
+
+    if not html_paths:
+        print(f"No ID-named fighter pages found in {input_dir}")
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    saved = 0
+    failures = []
+
+    for html_path in html_paths:
+        fighter_id = html_path.stem
+
+        try:
+            fighter_data = parse_fighter(
+                html_path,
+                fighter_id,
+            )
+
+            output_path = output_dir / f"{fighter_id}_raw.json"
+
+            output_path.write_text(
+                json.dumps(fighter_data, indent=4) + "\n",
+                encoding="utf-8",
+            )
+
+            print(f"Saved {fighter_data['name']}: {output_path}")
+            saved += 1
+
+        except Exception as error:
+            print(f"Failed: {html_path}")
+            print(f"Reason: {error}")
+            failures.append(html_path)
+
+    print(f"\nSaved: {saved}; failed: {len(failures)}")
+
+    if failures:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

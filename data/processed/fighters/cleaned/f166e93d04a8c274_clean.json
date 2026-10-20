@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f166e93d04a8c274",
+    "name": "Diego Lopes",
+    "wins": 28,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 30,
+    "dob_month": 12,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 3.79,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 4.65,
+    "sig_strike_defense": 0.46,
+    "takedowns_landed_per_15_min": 0.82,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 1.3
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "6b453bc35a823c3f",
+    "name": "Jack Della Maddalena",
+    "wins": 18,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 170,
+    "reach_cm": 185.42000000000002,
+    "stance": "Switch",
+    "dob_day": 10,
+    "dob_month": 9,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 5.32,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 4.24,
+    "sig_strike_defense": 0.61,
+    "takedowns_landed_per_15_min": 0.34,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.1
+}

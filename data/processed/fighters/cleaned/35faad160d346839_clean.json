@@ -1,0 +1,23 @@
+{
+    "fighter_id": "35faad160d346839",
+    "name": "Mizuto Hirota",
+    "wins": 18,
+    "losses": 10,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 155,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 5,
+    "dob_month": 5,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 3.36,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.5,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 1.36,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.58,
+    "submission_attempts_per_15_min": 0.1
+}

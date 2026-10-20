@@ -1,0 +1,80 @@
+{
+    "fighter_id": "def8166ff24bd237",
+    "name": "Brian Ortega",
+    "record": "16-5-0 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Switch",
+    "dob": "Feb 21, 1991",
+    "sig_strikes_landed_per_min": "3.84",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "6.38",
+    "sig_strike_defense": "49%",
+    "takedowns_landed_per_15_min": "0.93",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "54%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "739aaa5e3a1e5ed1",
+            "fight_url": "http://ufcstats.com/fight-details/739aaa5e3a1e5ed1"
+        },
+        {
+            "fight_id": "58080e8989927500",
+            "fight_url": "http://ufcstats.com/fight-details/58080e8989927500"
+        },
+        {
+            "fight_id": "2335e75ce63805b6",
+            "fight_url": "http://ufcstats.com/fight-details/2335e75ce63805b6"
+        },
+        {
+            "fight_id": "3b05a4ced6dd74f5",
+            "fight_url": "http://ufcstats.com/fight-details/3b05a4ced6dd74f5"
+        },
+        {
+            "fight_id": "7503d5c892f238fb",
+            "fight_url": "http://ufcstats.com/fight-details/7503d5c892f238fb"
+        },
+        {
+            "fight_id": "18f1b88d8977c216",
+            "fight_url": "http://ufcstats.com/fight-details/18f1b88d8977c216"
+        },
+        {
+            "fight_id": "5a440bdee19efaab",
+            "fight_url": "http://ufcstats.com/fight-details/5a440bdee19efaab"
+        },
+        {
+            "fight_id": "4e55251b7a0df0c2",
+            "fight_url": "http://ufcstats.com/fight-details/4e55251b7a0df0c2"
+        },
+        {
+            "fight_id": "2361b51aa72e5551",
+            "fight_url": "http://ufcstats.com/fight-details/2361b51aa72e5551"
+        },
+        {
+            "fight_id": "1d166488129030d0",
+            "fight_url": "http://ufcstats.com/fight-details/1d166488129030d0"
+        },
+        {
+            "fight_id": "4924d7a980f4cde2",
+            "fight_url": "http://ufcstats.com/fight-details/4924d7a980f4cde2"
+        },
+        {
+            "fight_id": "db1be0ca226d3a2f",
+            "fight_url": "http://ufcstats.com/fight-details/db1be0ca226d3a2f"
+        },
+        {
+            "fight_id": "71499934c065fecb",
+            "fight_url": "http://ufcstats.com/fight-details/71499934c065fecb"
+        },
+        {
+            "fight_id": "29c7cb102ddd7ec4",
+            "fight_url": "http://ufcstats.com/fight-details/29c7cb102ddd7ec4"
+        },
+        {
+            "fight_id": "fe6b45e7210bfa8e",
+            "fight_url": "http://ufcstats.com/fight-details/fe6b45e7210bfa8e"
+        }
+    ]
+}

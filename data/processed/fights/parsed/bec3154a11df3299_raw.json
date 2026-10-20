@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bec3154a11df3299",
+        "event_id": "dab0e6cb8c932162",
+        "event_name": "UFC 298: Volkanovski vs. Topuria",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "3:32",
+        "referee": "Jason Herzog",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 107",
+            "Sig. str. %": "43%",
+            "Total str.": "47 of 107",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 107",
+            "Sig. str. %": "43%",
+            "Head": "21 of 68",
+            "Body": "11 of 22",
+            "Leg": "15 of 17",
+            "Distance": "44 of 102",
+            "Clinch": "3 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "35 of 77",
+            "Sig. str. %": "45%",
+            "Total str.": "36 of 78",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 77",
+            "Sig. str. %": "45%",
+            "Head": "17 of 53",
+            "Body": "12 of 16",
+            "Leg": "6 of 8",
+            "Distance": "28 of 70",
+            "Clinch": "4 of 4",
+            "Ground": "3 of 3"
+        }
+    }
+}

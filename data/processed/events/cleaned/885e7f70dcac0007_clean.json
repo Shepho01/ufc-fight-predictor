@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "885e7f70dcac0007",
+        "event_name": "UFC 280: Oliveira vs. Makhachev",
+        "event_day": 22,
+        "event_month": 10,
+        "event_year": 2022,
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "523815acf1bb2420",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 196,
+            "fight_url": "http://ufcstats.com/fight-details/523815acf1bb2420"
+        },
+        {
+            "fight_id": "1f0d4572e0facbea",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "TJ Dillashaw",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 224,
+            "fight_url": "http://ufcstats.com/fight-details/1f0d4572e0facbea"
+        },
+        {
+            "fight_id": "5c3c4bcc6c746ca0",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Petr Yan",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5c3c4bcc6c746ca0"
+        },
+        {
+            "fight_id": "69f39e5d959311b1",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Mateusz Gamrot",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/69f39e5d959311b1"
+        },
+        {
+            "fight_id": "25f3e4fa781c1c8a",
+            "fighter_a": "Manon Fiorot",
+            "fighter_b": "Katlyn Cerminara",
+            "winner": "Manon Fiorot",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/25f3e4fa781c1c8a"
+        },
+        {
+            "fight_id": "d325a1483d78ae75",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Sean Brady",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 287,
+            "fight_url": "http://ufcstats.com/fight-details/d325a1483d78ae75"
+        },
+        {
+            "fight_id": "2d36e2c10ee349fe",
+            "fighter_a": "Caio Borralho",
+            "fighter_b": "Makhmud Muradov",
+            "winner": "Caio Borralho",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d36e2c10ee349fe"
+        },
+        {
+            "fight_id": "f4d8266a42a41dff",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Volkan Oezdemir",
+            "winner": "Nikita Krylov",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f4d8266a42a41dff"
+        },
+        {
+            "fight_id": "cea6760d7bfbe19b",
+            "fighter_a": "Abubakar Nurmagomedov",
+            "fighter_b": "Gadzhi Omargadzhiev",
+            "winner": "Abubakar Nurmagomedov",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cea6760d7bfbe19b"
+        },
+        {
+            "fight_id": "1b204fc28bb023e6",
+            "fighter_a": "Armen Petrosyan",
+            "fighter_b": "AJ Dobson",
+            "winner": "Armen Petrosyan",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1b204fc28bb023e6"
+        },
+        {
+            "fight_id": "1e8c33b1917fe1b7",
+            "fighter_a": "Muhammad Mokaev",
+            "fighter_b": "Malcolm Gordon",
+            "winner": "Muhammad Mokaev",
+            "weight_class": "Flyweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 266,
+            "fight_url": "http://ufcstats.com/fight-details/1e8c33b1917fe1b7"
+        },
+        {
+            "fight_id": "4011cdf1f182804c",
+            "fighter_a": "Karol Rosa",
+            "fighter_b": "Lina Lansberg",
+            "winner": "Karol Rosa",
+            "weight_class": "Women's Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4011cdf1f182804c"
+        }
+    ]
+}

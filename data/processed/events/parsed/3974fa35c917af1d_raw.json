@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "3974fa35c917af1d",
+        "event_name": "UFC 267: Blachowicz vs. Teixeira",
+        "event_date": "October 30, 2021",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "919fb76d2f3e5827",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Jan Blachowicz",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:02",
+            "fight_url": "http://ufcstats.com/fight-details/919fb76d2f3e5827"
+        },
+        {
+            "fight_id": "18edff5447989b3f",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Cory Sandhagen",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/18edff5447989b3f"
+        },
+        {
+            "fight_id": "5ad4c0eae7512878",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Dan Hooker",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "2:25",
+            "fight_url": "http://ufcstats.com/fight-details/5ad4c0eae7512878"
+        },
+        {
+            "fight_id": "13e3e41e0c6f4e04",
+            "fighter_a": "Alexander Volkov",
+            "fighter_b": "Marcin Tybura",
+            "winner": "Alexander Volkov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/13e3e41e0c6f4e04"
+        },
+        {
+            "fight_id": "987cdcbc809e210d",
+            "fighter_a": "Khamzat Chimaev",
+            "fighter_b": "Li Jingliang",
+            "winner": "Khamzat Chimaev",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:16",
+            "fight_url": "http://ufcstats.com/fight-details/987cdcbc809e210d"
+        },
+        {
+            "fight_id": "58b19ba734fe93a3",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Volkan Oezdemir",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/58b19ba734fe93a3"
+        },
+        {
+            "fight_id": "d84968d7e9fcb4f3",
+            "fighter_a": "Amanda Ribas",
+            "fighter_b": "Virna Jandiroba",
+            "winner": "Amanda Ribas",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d84968d7e9fcb4f3"
+        },
+        {
+            "fight_id": "41cdfea7df63003f",
+            "fighter_a": "Zubaira Tukhugov",
+            "fighter_b": "Ricardo Ramos",
+            "winner": "Zubaira Tukhugov",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/41cdfea7df63003f"
+        },
+        {
+            "fight_id": "768c86e307295944",
+            "fighter_a": "Albert Duraev",
+            "fighter_b": "Roman Kopylov",
+            "winner": "Albert Duraev",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/768c86e307295944"
+        },
+        {
+            "fight_id": "efc6af0151f72b87",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Benoit Saint Denis",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/efc6af0151f72b87"
+        },
+        {
+            "fight_id": "92c49cb075f612d7",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Shamil Gamzatov",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:31",
+            "fight_url": "http://ufcstats.com/fight-details/92c49cb075f612d7"
+        },
+        {
+            "fight_id": "156f2425a937b22f",
+            "fighter_a": "Lerone Murphy",
+            "fighter_b": "Makwan Amirkhani",
+            "winner": "Lerone Murphy",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "0:14",
+            "fight_url": "http://ufcstats.com/fight-details/156f2425a937b22f"
+        },
+        {
+            "fight_id": "4a5e5232346993c7",
+            "fighter_a": "Andre Petroski",
+            "fighter_b": "Hu Yaozong",
+            "winner": "Andre Petroski",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "4:46",
+            "fight_url": "http://ufcstats.com/fight-details/4a5e5232346993c7"
+        },
+        {
+            "fight_id": "6163c18411aca830",
+            "fighter_a": "Tagir Ulanbekov",
+            "fighter_b": "Allan Nascimento",
+            "winner": "Tagir Ulanbekov",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6163c18411aca830"
+        }
+    ]
+}

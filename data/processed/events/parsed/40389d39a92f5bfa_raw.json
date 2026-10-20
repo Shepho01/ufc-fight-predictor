@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "40389d39a92f5bfa",
+        "event_name": "UFC Fight Night: Makhachev vs. Moises",
+        "event_date": "July 17, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7d4c160dab6eae73",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Thiago Moises",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "4",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/7d4c160dab6eae73"
+        },
+        {
+            "fight_id": "f0b83b05f3dd9580",
+            "fighter_a": "Miesha Tate",
+            "fighter_b": "Marion Reneau",
+            "winner": "Miesha Tate",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/f0b83b05f3dd9580"
+        },
+        {
+            "fight_id": "72105dd82d964e7a",
+            "fighter_a": "Mateusz Gamrot",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Mateusz Gamrot",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "1:05",
+            "fight_url": "http://ufcstats.com/fight-details/72105dd82d964e7a"
+        },
+        {
+            "fight_id": "813444e109995c97",
+            "fighter_a": "Rodolfo Vieira",
+            "fighter_b": "Dustin Stoltzfus",
+            "winner": "Rodolfo Vieira",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/813444e109995c97"
+        },
+        {
+            "fight_id": "940701effe1d2b6c",
+            "fighter_a": "Billy Quarantillo",
+            "fighter_b": "Gabriel Benitez",
+            "winner": "Billy Quarantillo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "3:40",
+            "fight_url": "http://ufcstats.com/fight-details/940701effe1d2b6c"
+        },
+        {
+            "fight_id": "8151659b2bc16f0e",
+            "fighter_a": "Daniel Rodriguez",
+            "fighter_b": "Preston Parsons",
+            "winner": "Daniel Rodriguez",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/8151659b2bc16f0e"
+        },
+        {
+            "fight_id": "c5e71fbf22f669f7",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Montserrat Conejo Ruiz",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:35",
+            "fight_url": "http://ufcstats.com/fight-details/c5e71fbf22f669f7"
+        },
+        {
+            "fight_id": "93d5452726f5f364",
+            "fighter_a": "Sergey Morozov",
+            "fighter_b": "Khalid Taha",
+            "winner": "Sergey Morozov",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/93d5452726f5f364"
+        },
+        {
+            "fight_id": "49876b12d440af40",
+            "fighter_a": "Malcolm Gordon",
+            "fighter_b": "Francisco Figueiredo",
+            "winner": "Malcolm Gordon",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/49876b12d440af40"
+        },
+        {
+            "fight_id": "7d0874323bd1f768",
+            "fighter_a": "Alan Baudot",
+            "fighter_b": "Rodrigo Nascimento",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned Punches",
+            "round": "2",
+            "time": "1:29",
+            "fight_url": "http://ufcstats.com/fight-details/7d0874323bd1f768"
+        }
+    ]
+}

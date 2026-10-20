@@ -1,0 +1,23 @@
+{
+    "fighter_id": "75e5fec9f72910ef",
+    "name": "Gleison Tibau",
+    "wins": 33,
+    "losses": 14,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Southpaw",
+    "dob_day": 7,
+    "dob_month": 10,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 1.95,
+    "sig_striking_accuracy": 0.31,
+    "sig_strikes_absorbed_per_min": 2.51,
+    "sig_strike_defense": 0.63,
+    "takedowns_landed_per_15_min": 4.08,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.92,
+    "submission_attempts_per_15_min": 0.8
+}

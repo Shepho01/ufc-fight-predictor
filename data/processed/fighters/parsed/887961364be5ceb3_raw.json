@@ -1,0 +1,172 @@
+{
+    "fighter_id": "887961364be5ceb3",
+    "name": "King Green",
+    "record": "36-18-1 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 09, 1986",
+    "sig_strikes_landed_per_min": "6.49",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "3.69",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "1.30",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "71%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "c93d7f60674df307",
+            "fight_url": "http://ufcstats.com/fight-details/c93d7f60674df307"
+        },
+        {
+            "fight_id": "a26ea74f2e908842",
+            "fight_url": "http://ufcstats.com/fight-details/a26ea74f2e908842"
+        },
+        {
+            "fight_id": "1158a27a1a04b971",
+            "fight_url": "http://ufcstats.com/fight-details/1158a27a1a04b971"
+        },
+        {
+            "fight_id": "81f3d28d30d17378",
+            "fight_url": "http://ufcstats.com/fight-details/81f3d28d30d17378"
+        },
+        {
+            "fight_id": "fc4ab243d21b795d",
+            "fight_url": "http://ufcstats.com/fight-details/fc4ab243d21b795d"
+        },
+        {
+            "fight_id": "231968c02cdfe65e",
+            "fight_url": "http://ufcstats.com/fight-details/231968c02cdfe65e"
+        },
+        {
+            "fight_id": "3e2bde19e752f64b",
+            "fight_url": "http://ufcstats.com/fight-details/3e2bde19e752f64b"
+        },
+        {
+            "fight_id": "efdad54c8550e6e0",
+            "fight_url": "http://ufcstats.com/fight-details/efdad54c8550e6e0"
+        },
+        {
+            "fight_id": "03eecf1926d9c77c",
+            "fight_url": "http://ufcstats.com/fight-details/03eecf1926d9c77c"
+        },
+        {
+            "fight_id": "1aa4c2fa5ffaff00",
+            "fight_url": "http://ufcstats.com/fight-details/1aa4c2fa5ffaff00"
+        },
+        {
+            "fight_id": "f1eca70738ca073e",
+            "fight_url": "http://ufcstats.com/fight-details/f1eca70738ca073e"
+        },
+        {
+            "fight_id": "640d52630f4f8a61",
+            "fight_url": "http://ufcstats.com/fight-details/640d52630f4f8a61"
+        },
+        {
+            "fight_id": "c335f44e4f3515ea",
+            "fight_url": "http://ufcstats.com/fight-details/c335f44e4f3515ea"
+        },
+        {
+            "fight_id": "2f4d42e0b9696f71",
+            "fight_url": "http://ufcstats.com/fight-details/2f4d42e0b9696f71"
+        },
+        {
+            "fight_id": "388adad23aaa9d39",
+            "fight_url": "http://ufcstats.com/fight-details/388adad23aaa9d39"
+        },
+        {
+            "fight_id": "d69e3677060af4c7",
+            "fight_url": "http://ufcstats.com/fight-details/d69e3677060af4c7"
+        },
+        {
+            "fight_id": "76ece0ee2ef5d240",
+            "fight_url": "http://ufcstats.com/fight-details/76ece0ee2ef5d240"
+        },
+        {
+            "fight_id": "6915d46b49999f60",
+            "fight_url": "http://ufcstats.com/fight-details/6915d46b49999f60"
+        },
+        {
+            "fight_id": "06910bddb0745856",
+            "fight_url": "http://ufcstats.com/fight-details/06910bddb0745856"
+        },
+        {
+            "fight_id": "0b21755eb0897396",
+            "fight_url": "http://ufcstats.com/fight-details/0b21755eb0897396"
+        },
+        {
+            "fight_id": "d851cbbbdfd05a49",
+            "fight_url": "http://ufcstats.com/fight-details/d851cbbbdfd05a49"
+        },
+        {
+            "fight_id": "22307b580e0c8d0d",
+            "fight_url": "http://ufcstats.com/fight-details/22307b580e0c8d0d"
+        },
+        {
+            "fight_id": "b69d3d55c84f5dd6",
+            "fight_url": "http://ufcstats.com/fight-details/b69d3d55c84f5dd6"
+        },
+        {
+            "fight_id": "04a1c5b7993fe4d5",
+            "fight_url": "http://ufcstats.com/fight-details/04a1c5b7993fe4d5"
+        },
+        {
+            "fight_id": "c46d51fb87a4f485",
+            "fight_url": "http://ufcstats.com/fight-details/c46d51fb87a4f485"
+        },
+        {
+            "fight_id": "f24c296256faeff2",
+            "fight_url": "http://ufcstats.com/fight-details/f24c296256faeff2"
+        },
+        {
+            "fight_id": "e86a77b69d50a834",
+            "fight_url": "http://ufcstats.com/fight-details/e86a77b69d50a834"
+        },
+        {
+            "fight_id": "2f93de8b39ec4625",
+            "fight_url": "http://ufcstats.com/fight-details/2f93de8b39ec4625"
+        },
+        {
+            "fight_id": "23124e6f3e7aa37d",
+            "fight_url": "http://ufcstats.com/fight-details/23124e6f3e7aa37d"
+        },
+        {
+            "fight_id": "f5fb4435faf1ca04",
+            "fight_url": "http://ufcstats.com/fight-details/f5fb4435faf1ca04"
+        },
+        {
+            "fight_id": "2bcb1b0b05e2c739",
+            "fight_url": "http://ufcstats.com/fight-details/2bcb1b0b05e2c739"
+        },
+        {
+            "fight_id": "cd03bff050e53625",
+            "fight_url": "http://ufcstats.com/fight-details/cd03bff050e53625"
+        },
+        {
+            "fight_id": "67f8ce4438cc1dd6",
+            "fight_url": "http://ufcstats.com/fight-details/67f8ce4438cc1dd6"
+        },
+        {
+            "fight_id": "7332fecfd9ce88a6",
+            "fight_url": "http://ufcstats.com/fight-details/7332fecfd9ce88a6"
+        },
+        {
+            "fight_id": "9d5dce909eb0ab77",
+            "fight_url": "http://ufcstats.com/fight-details/9d5dce909eb0ab77"
+        },
+        {
+            "fight_id": "7d3927d916d95917",
+            "fight_url": "http://ufcstats.com/fight-details/7d3927d916d95917"
+        },
+        {
+            "fight_id": "dca56219c8655de8",
+            "fight_url": "http://ufcstats.com/fight-details/dca56219c8655de8"
+        },
+        {
+            "fight_id": "4ff244d056c1c815",
+            "fight_url": "http://ufcstats.com/fight-details/4ff244d056c1c815"
+        }
+    ]
+}

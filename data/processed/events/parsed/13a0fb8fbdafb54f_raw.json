@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "13a0fb8fbdafb54f",
+        "event_name": "UFC 294: Makhachev vs. Volkanovski 2",
+        "event_date": "October 21, 2023",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "0ea435ddf02deb60",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Alexander Volkanovski",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "3:06",
+            "fight_url": "http://ufcstats.com/fight-details/0ea435ddf02deb60"
+        },
+        {
+            "fight_id": "f23e9729b2b73c27",
+            "fighter_a": "Khamzat Chimaev",
+            "fighter_b": "Kamaru Usman",
+            "winner": "Khamzat Chimaev",
+            "weight_class": "Middleweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f23e9729b2b73c27"
+        },
+        {
+            "fight_id": "821960adf5bfa15c",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Johnny Walker",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "CNC",
+            "round": "1",
+            "time": "3:13",
+            "fight_url": "http://ufcstats.com/fight-details/821960adf5bfa15c"
+        },
+        {
+            "fight_id": "7024385b5107bd4b",
+            "fighter_a": "Ikram Aliskerov",
+            "fighter_b": "Warlley Alves",
+            "winner": "Ikram Aliskerov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/7024385b5107bd4b"
+        },
+        {
+            "fight_id": "ed3334d108b257a6",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Muin Gafurov",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:13",
+            "fight_url": "http://ufcstats.com/fight-details/ed3334d108b257a6"
+        },
+        {
+            "fight_id": "e9256316716499b8",
+            "fighter_a": "Muhammad Mokaev",
+            "fighter_b": "Tim Elliott",
+            "winner": "Muhammad Mokaev",
+            "weight_class": "Flyweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:03",
+            "fight_url": "http://ufcstats.com/fight-details/e9256316716499b8"
+        },
+        {
+            "fight_id": "3c6fb6bf9b7afd40",
+            "fighter_a": "Trevor Peek",
+            "fighter_b": "Mohammad Yahya",
+            "winner": "Trevor Peek",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3c6fb6bf9b7afd40"
+        },
+        {
+            "fight_id": "0d1af8c6a5793185",
+            "fighter_a": "Javid Basharat",
+            "fighter_b": "Victor Henry",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "0:15",
+            "fight_url": "http://ufcstats.com/fight-details/0d1af8c6a5793185"
+        },
+        {
+            "fight_id": "43de9ff6064361e1",
+            "fighter_a": "Sedriques Dumas",
+            "fighter_b": "Abu Azaitar",
+            "winner": "Sedriques Dumas",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/43de9ff6064361e1"
+        },
+        {
+            "fight_id": "75c5f923f966b53b",
+            "fighter_a": "Mike Breeden",
+            "fighter_b": "Anshul Jubli",
+            "winner": "Mike Breeden",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "3:00",
+            "fight_url": "http://ufcstats.com/fight-details/75c5f923f966b53b"
+        },
+        {
+            "fight_id": "b84c447bb74febe2",
+            "fighter_a": "Muhammad Naimov",
+            "fighter_b": "Nathaniel Wood",
+            "winner": "Muhammad Naimov",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b84c447bb74febe2"
+        },
+        {
+            "fight_id": "18e5af00a8478a0e",
+            "fighter_a": "Viktoriia Dudakova",
+            "fighter_b": "Jinh Yu Frey",
+            "winner": "Viktoriia Dudakova",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/18e5af00a8478a0e"
+        },
+        {
+            "fight_id": "539732694ab2c8d6",
+            "fighter_a": "Shara Magomedov",
+            "fighter_b": "Bruno Silva",
+            "winner": "Shara Magomedov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/539732694ab2c8d6"
+        }
+    ]
+}

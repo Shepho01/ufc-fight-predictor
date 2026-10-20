@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "865aa315ea62c511",
+        "event_name": "UFC 208: Holm vs. De Randamie",
+        "event_day": 11,
+        "event_month": 2,
+        "event_year": 2017,
+        "location": "Brooklyn, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "252074c8554bf30d",
+            "fighter_a": "Germaine de Randamie",
+            "fighter_b": "Holly Holm",
+            "winner": "Germaine de Randamie",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/252074c8554bf30d"
+        },
+        {
+            "fight_id": "d29750cee389a0b9",
+            "fighter_a": "Anderson Silva",
+            "fighter_b": "Derek Brunson",
+            "winner": "Anderson Silva",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d29750cee389a0b9"
+        },
+        {
+            "fight_id": "ced241b99eab5f22",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 221,
+            "fight_url": "http://ufcstats.com/fight-details/ced241b99eab5f22"
+        },
+        {
+            "fight_id": "244357514dd89bd6",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Jared Cannonier",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/244357514dd89bd6"
+        },
+        {
+            "fight_id": "8b8f9485214f9e48",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Jim Miller",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8b8f9485214f9e48"
+        },
+        {
+            "fight_id": "f680e6ebe3bdfe3e",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Randy Brown",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f680e6ebe3bdfe3e"
+        },
+        {
+            "fight_id": "febea68b205f6273",
+            "fighter_a": "Wilson Reis",
+            "fighter_b": "Yuta Sasaki",
+            "winner": "Wilson Reis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/febea68b205f6273"
+        },
+        {
+            "fight_id": "ddd9e64d97b095f9",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Nik Lentz",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ddd9e64d97b095f9"
+        },
+        {
+            "fight_id": "c4174e22cb22622c",
+            "fighter_a": "Ricky Glenn",
+            "fighter_b": "Phillipe Nover",
+            "winner": "Ricky Glenn",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4174e22cb22622c"
+        },
+        {
+            "fight_id": "1f9ac1648b8e501e",
+            "fighter_a": "Ryan LaFlare",
+            "fighter_b": "Roan Carneiro",
+            "winner": "Ryan LaFlare",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1f9ac1648b8e501e"
+        }
+    ]
+}

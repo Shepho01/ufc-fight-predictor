@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a5ea53104392fa9f",
+        "event_id": "c046100aea0dba9a",
+        "event_name": "UFC 232: Jones vs. Gustafsson 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:14",
+        "referee": "Mark Smith",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "28 of 51",
+            "Sig. str. %": "54%",
+            "Total str.": "28 of 51",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 51",
+            "Sig. str. %": "54%",
+            "Head": "16 of 37",
+            "Body": "6 of 7",
+            "Leg": "6 of 7",
+            "Distance": "24 of 46",
+            "Clinch": "4 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "54 of 124",
+            "Sig. str. %": "43%",
+            "Total str.": "54 of 124",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 124",
+            "Sig. str. %": "43%",
+            "Head": "36 of 91",
+            "Body": "10 of 19",
+            "Leg": "8 of 14",
+            "Distance": "46 of 113",
+            "Clinch": "5 of 8",
+            "Ground": "3 of 3"
+        }
+    }
+}

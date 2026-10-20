@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b6452706b373eea1",
+    "name": "Renato Moicano",
+    "wins": 21,
+    "losses": 7,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 21,
+    "dob_month": 5,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 4.1,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 3.55,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 1.68,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.6
+}

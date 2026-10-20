@@ -1,0 +1,48 @@
+{
+    "fighter_id": "4cd8b03aee1d0138",
+    "name": "Shane Young",
+    "record": "13-8-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 31, 1993",
+    "sig_strikes_landed_per_min": "5.19",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "5.46",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.63",
+    "takedown_accuracy": "18%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "5d481ff494bf40da",
+            "fight_url": "http://ufcstats.com/fight-details/5d481ff494bf40da"
+        },
+        {
+            "fight_id": "5c962ea13cb9b937",
+            "fight_url": "http://ufcstats.com/fight-details/5c962ea13cb9b937"
+        },
+        {
+            "fight_id": "2220b73ece1730c3",
+            "fight_url": "http://ufcstats.com/fight-details/2220b73ece1730c3"
+        },
+        {
+            "fight_id": "eed8c9955cad1e30",
+            "fight_url": "http://ufcstats.com/fight-details/eed8c9955cad1e30"
+        },
+        {
+            "fight_id": "49f7186e1e3cf6c8",
+            "fight_url": "http://ufcstats.com/fight-details/49f7186e1e3cf6c8"
+        },
+        {
+            "fight_id": "bb7408d59b7279f7",
+            "fight_url": "http://ufcstats.com/fight-details/bb7408d59b7279f7"
+        },
+        {
+            "fight_id": "097bc98e15722998",
+            "fight_url": "http://ufcstats.com/fight-details/097bc98e15722998"
+        }
+    ]
+}

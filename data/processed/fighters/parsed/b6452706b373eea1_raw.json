@@ -1,0 +1,104 @@
+{
+    "fighter_id": "b6452706b373eea1",
+    "name": "Renato Moicano",
+    "record": "21-7-1",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "May 21, 1989",
+    "sig_strikes_landed_per_min": "4.10",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "3.55",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "1.68",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "6d7244be5589953c",
+            "fight_url": "http://ufcstats.com/fight-details/6d7244be5589953c"
+        },
+        {
+            "fight_id": "d69bd8e53ec858dc",
+            "fight_url": "http://ufcstats.com/fight-details/d69bd8e53ec858dc"
+        },
+        {
+            "fight_id": "1ea9ad3b6e1cba79",
+            "fight_url": "http://ufcstats.com/fight-details/1ea9ad3b6e1cba79"
+        },
+        {
+            "fight_id": "daef1691c7d6b1e4",
+            "fight_url": "http://ufcstats.com/fight-details/daef1691c7d6b1e4"
+        },
+        {
+            "fight_id": "7ca4c91bab696b89",
+            "fight_url": "http://ufcstats.com/fight-details/7ca4c91bab696b89"
+        },
+        {
+            "fight_id": "18824fa5c15c212f",
+            "fight_url": "http://ufcstats.com/fight-details/18824fa5c15c212f"
+        },
+        {
+            "fight_id": "733e675fd7c0052a",
+            "fight_url": "http://ufcstats.com/fight-details/733e675fd7c0052a"
+        },
+        {
+            "fight_id": "1f922cfe6178e830",
+            "fight_url": "http://ufcstats.com/fight-details/1f922cfe6178e830"
+        },
+        {
+            "fight_id": "838bb84a5a976a9c",
+            "fight_url": "http://ufcstats.com/fight-details/838bb84a5a976a9c"
+        },
+        {
+            "fight_id": "238832b58a66ae07",
+            "fight_url": "http://ufcstats.com/fight-details/238832b58a66ae07"
+        },
+        {
+            "fight_id": "4341ebb5a56e6943",
+            "fight_url": "http://ufcstats.com/fight-details/4341ebb5a56e6943"
+        },
+        {
+            "fight_id": "cb7616f92a9a4e5b",
+            "fight_url": "http://ufcstats.com/fight-details/cb7616f92a9a4e5b"
+        },
+        {
+            "fight_id": "c26a3f4c08333886",
+            "fight_url": "http://ufcstats.com/fight-details/c26a3f4c08333886"
+        },
+        {
+            "fight_id": "aec1339028f3416c",
+            "fight_url": "http://ufcstats.com/fight-details/aec1339028f3416c"
+        },
+        {
+            "fight_id": "300f1489174a3ece",
+            "fight_url": "http://ufcstats.com/fight-details/300f1489174a3ece"
+        },
+        {
+            "fight_id": "520f6379fefd8fda",
+            "fight_url": "http://ufcstats.com/fight-details/520f6379fefd8fda"
+        },
+        {
+            "fight_id": "95edc0b6438f2592",
+            "fight_url": "http://ufcstats.com/fight-details/95edc0b6438f2592"
+        },
+        {
+            "fight_id": "4924d7a980f4cde2",
+            "fight_url": "http://ufcstats.com/fight-details/4924d7a980f4cde2"
+        },
+        {
+            "fight_id": "d764ef3e078c96c8",
+            "fight_url": "http://ufcstats.com/fight-details/d764ef3e078c96c8"
+        },
+        {
+            "fight_id": "958f3b45c132c3b7",
+            "fight_url": "http://ufcstats.com/fight-details/958f3b45c132c3b7"
+        },
+        {
+            "fight_id": "c26a094aa7ce817e",
+            "fight_url": "http://ufcstats.com/fight-details/c26a094aa7ce817e"
+        }
+    ]
+}

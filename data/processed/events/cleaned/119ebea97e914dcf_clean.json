@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "119ebea97e914dcf",
+        "event_name": "UFC 192: Cormier vs Gustafsson",
+        "event_day": 3,
+        "event_month": 10,
+        "event_year": 2015,
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f5de8b2c81e91129",
+            "fighter_a": "Daniel Cormier",
+            "fighter_b": "Alexander Gustafsson",
+            "winner": "Daniel Cormier",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f5de8b2c81e91129"
+        },
+        {
+            "fight_id": "e2e23aee91e27847",
+            "fighter_a": "Ryan Bader",
+            "fighter_b": "Rashad Evans",
+            "winner": "Ryan Bader",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e2e23aee91e27847"
+        },
+        {
+            "fight_id": "4b790d75c4bc694c",
+            "fighter_a": "Ruslan Magomedov",
+            "fighter_b": "Shawn Jordan",
+            "winner": "Ruslan Magomedov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4b790d75c4bc694c"
+        },
+        {
+            "fight_id": "c43e99000f3c77b5",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Ali Bagautinov",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c43e99000f3c77b5"
+        },
+        {
+            "fight_id": "bdc1561ed4c6e22f",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Jessica Eye",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bdc1561ed4c6e22f"
+        },
+        {
+            "fight_id": "7ab1cdfe3e540856",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Dan Hooker",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7ab1cdfe3e540856"
+        },
+        {
+            "fight_id": "2615d94ab16380f9",
+            "fighter_a": "Albert Tumenov",
+            "fighter_b": "Alan Jouban",
+            "winner": "Albert Tumenov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 175,
+            "fight_url": "http://ufcstats.com/fight-details/2615d94ab16380f9"
+        },
+        {
+            "fight_id": "678db400f85ae15c",
+            "fighter_a": "Adriano Martins",
+            "fighter_b": "Islam Makhachev",
+            "winner": "Adriano Martins",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 106,
+            "fight_url": "http://ufcstats.com/fight-details/678db400f85ae15c"
+        },
+        {
+            "fight_id": "32b030138bfd4f88",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Angela Hill",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/32b030138bfd4f88"
+        },
+        {
+            "fight_id": "fee873593f588437",
+            "fighter_a": "Sage Northcutt",
+            "fighter_b": "Francisco Trevino",
+            "winner": "Sage Northcutt",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 57,
+            "fight_url": "http://ufcstats.com/fight-details/fee873593f588437"
+        },
+        {
+            "fight_id": "278cd1803ccc004f",
+            "fighter_a": "Sergio Pettis",
+            "fighter_b": "Chris Cariaso",
+            "winner": "Sergio Pettis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/278cd1803ccc004f"
+        },
+        {
+            "fight_id": "2b3b6e96cea0f757",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Viktor Pesta",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 75,
+            "fight_url": "http://ufcstats.com/fight-details/2b3b6e96cea0f757"
+        }
+    ]
+}

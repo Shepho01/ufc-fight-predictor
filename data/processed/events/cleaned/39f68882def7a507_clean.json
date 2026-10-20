@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "39f68882def7a507",
+        "event_name": "UFC 311: Makhachev vs. Moicano",
+        "event_day": 18,
+        "event_month": 1,
+        "event_year": 2025,
+        "location": "Inglewood, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "daef1691c7d6b1e4",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Renato Moicano",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 245,
+            "fight_url": "http://ufcstats.com/fight-details/daef1691c7d6b1e4"
+        },
+        {
+            "fight_id": "f39941b3743bf18c",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Umar Nurmagomedov",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f39941b3743bf18c"
+        },
+        {
+            "fight_id": "959fea398ffa5778",
+            "fighter_a": "Jiri Prochazka",
+            "fighter_b": "Jamahal Hill",
+            "winner": "Jiri Prochazka",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 181,
+            "fight_url": "http://ufcstats.com/fight-details/959fea398ffa5778"
+        },
+        {
+            "fight_id": "54d48b33e7240452",
+            "fighter_a": "Jailton Almeida",
+            "fighter_b": "Serghei Spivac",
+            "winner": "Jailton Almeida",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 293,
+            "fight_url": "http://ufcstats.com/fight-details/54d48b33e7240452"
+        },
+        {
+            "fight_id": "69d63c057aebffaf",
+            "fighter_a": "Reinier de Ridder",
+            "fighter_b": "Kevin Holland",
+            "winner": "Reinier de Ridder",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 211,
+            "fight_url": "http://ufcstats.com/fight-details/69d63c057aebffaf"
+        },
+        {
+            "fight_id": "d14f98b24691d082",
+            "fighter_a": "Raoni Barcelos",
+            "fighter_b": "Payton Talbott",
+            "winner": "Raoni Barcelos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d14f98b24691d082"
+        },
+        {
+            "fight_id": "938081fae11dcbbf",
+            "fighter_a": "Azamat Bekoev",
+            "fighter_b": "Zach Reese",
+            "winner": "Azamat Bekoev",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 184,
+            "fight_url": "http://ufcstats.com/fight-details/938081fae11dcbbf"
+        },
+        {
+            "fight_id": "a6db8eb1fb3eebf2",
+            "fighter_a": "Bogdan Guskov",
+            "fighter_b": "Billy Elekana",
+            "winner": "Bogdan Guskov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 213,
+            "fight_url": "http://ufcstats.com/fight-details/a6db8eb1fb3eebf2"
+        },
+        {
+            "fight_id": "aa3fca085d476636",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Diego Ferreira",
+            "winner": "Grant Dawson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/aa3fca085d476636"
+        },
+        {
+            "fight_id": "340fcdcabc49f142",
+            "fighter_a": "Ailin Perez",
+            "fighter_b": "Karol Rosa",
+            "winner": "Ailin Perez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/340fcdcabc49f142"
+        },
+        {
+            "fight_id": "e5e3d396a9b1c5ae",
+            "fighter_a": "Muin Gafurov",
+            "fighter_b": "Rinya Nakamura",
+            "winner": "Muin Gafurov",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e5e3d396a9b1c5ae"
+        },
+        {
+            "fight_id": "95ba27bea09cd84e",
+            "fighter_a": "Benardo Sopaj",
+            "fighter_b": "Ricky Turcios",
+            "winner": "Benardo Sopaj",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/95ba27bea09cd84e"
+        },
+        {
+            "fight_id": "e294a1e5723011db",
+            "fighter_a": "Tagir Ulanbekov",
+            "fighter_b": "Clayton Carpenter",
+            "winner": "Tagir Ulanbekov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e294a1e5723011db"
+        }
+    ]
+}

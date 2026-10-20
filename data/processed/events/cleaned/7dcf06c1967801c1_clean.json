@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "7dcf06c1967801c1",
+        "event_name": "UFC Fight Night: Overeem vs. Oleinik",
+        "event_day": 20,
+        "event_month": 4,
+        "event_year": 2019,
+        "location": "Saint Petersburg, Saint Petersburg, Russia"
+    },
+    "fights": [
+        {
+            "fight_id": "470a3c1b89504258",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Aleksei Oleinik",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 285,
+            "fight_url": "http://ufcstats.com/fight-details/470a3c1b89504258"
+        },
+        {
+            "fight_id": "103a7d8c4f17714b",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Arman Tsarukyan",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/103a7d8c4f17714b"
+        },
+        {
+            "fight_id": "2a2b00e9bfd089cc",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Marcelo Golm",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 66,
+            "fight_url": "http://ufcstats.com/fight-details/2a2b00e9bfd089cc"
+        },
+        {
+            "fight_id": "a40c70d5a1a1be01",
+            "fighter_a": "Roxanne Modafferi",
+            "fighter_b": "Antonina Shevchenko",
+            "winner": "Roxanne Modafferi",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a40c70d5a1a1be01"
+        },
+        {
+            "fight_id": "e458ace6a440b738",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Alen Amedovski",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e458ace6a440b738"
+        },
+        {
+            "fight_id": "1b4374c9d7e5139c",
+            "fighter_a": "Movsar Evloev",
+            "fighter_b": "SeungWoo Choi",
+            "winner": "Movsar Evloev",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1b4374c9d7e5139c"
+        },
+        {
+            "fight_id": "23ba354e606df0ac",
+            "fighter_a": "Sultan Aliev",
+            "fighter_b": "Keita Nakamura",
+            "winner": "Sultan Aliev",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/23ba354e606df0ac"
+        },
+        {
+            "fight_id": "d9a797f632686568",
+            "fighter_a": "Alexander Yakovlev",
+            "fighter_b": "Alex Da Silva",
+            "winner": "Alexander Yakovlev",
+            "weight_class": "Lightweight",
+            "method": "SUB Schultz Front Headlock",
+            "round": 2,
+            "time_seconds": 190,
+            "fight_url": "http://ufcstats.com/fight-details/d9a797f632686568"
+        },
+        {
+            "fight_id": "0bc7e4852f75a06d",
+            "fighter_a": "Shamil Abdurakhimov",
+            "fighter_b": "Marcin Tybura",
+            "winner": "Shamil Abdurakhimov",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 195,
+            "fight_url": "http://ufcstats.com/fight-details/0bc7e4852f75a06d"
+        },
+        {
+            "fight_id": "56f984ac83fb34cc",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Gadzhimurad Antigulov",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/56f984ac83fb34cc"
+        },
+        {
+            "fight_id": "75bc89630027c601",
+            "fighter_a": "Magomed Mustafaev",
+            "fighter_b": "Rafael Fiziev",
+            "winner": "Magomed Mustafaev",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": 1,
+            "time_seconds": 86,
+            "fight_url": "http://ufcstats.com/fight-details/75bc89630027c601"
+        }
+    ]
+}

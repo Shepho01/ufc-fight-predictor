@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "b45d6b73f4ca4467",
+        "event_name": "UFC Fight Night: Dos Santos vs. Ivanov",
+        "event_date": "July 14, 2018",
+        "location": "Boise, Idaho, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "35ebaf80f8730b14",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Blagoy Ivanov",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/35ebaf80f8730b14"
+        },
+        {
+            "fight_id": "543de77637ad2a20",
+            "fighter_a": "Sage Northcutt",
+            "fighter_b": "Zak Ottow",
+            "winner": "Sage Northcutt",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "3:13",
+            "fight_url": "http://ufcstats.com/fight-details/543de77637ad2a20"
+        },
+        {
+            "fight_id": "786296db3c4749f1",
+            "fighter_a": "Ricky Glenn",
+            "fighter_b": "Dennis Bermudez",
+            "winner": "Ricky Glenn",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/786296db3c4749f1"
+        },
+        {
+            "fight_id": "a3dd2249d046cf9d",
+            "fighter_a": "Niko Price",
+            "fighter_b": "Randy Brown",
+            "winner": "Niko Price",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:09",
+            "fight_url": "http://ufcstats.com/fight-details/a3dd2249d046cf9d"
+        },
+        {
+            "fight_id": "c3939438ae7934df",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Myles Jury",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:52",
+            "fight_url": "http://ufcstats.com/fight-details/c3939438ae7934df"
+        },
+        {
+            "fight_id": "691c0d2f30e4de5a",
+            "fighter_a": "Cat Zingano",
+            "fighter_b": "Marion Reneau",
+            "winner": "Cat Zingano",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/691c0d2f30e4de5a"
+        },
+        {
+            "fight_id": "b25eacaca1499e30",
+            "fighter_a": "Alejandro Perez",
+            "fighter_b": "Eddie Wineland",
+            "winner": "Alejandro Perez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b25eacaca1499e30"
+        },
+        {
+            "fight_id": "67018331e90a9949",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Darren Elkins",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/67018331e90a9949"
+        },
+        {
+            "fight_id": "48d21357134ca51a",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Justin Scoggins",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/48d21357134ca51a"
+        },
+        {
+            "fight_id": "66ba984cc547e31a",
+            "fighter_a": "Raoni Barcelos",
+            "fighter_b": "Kurt Holobaugh",
+            "winner": "Raoni Barcelos",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:29",
+            "fight_url": "http://ufcstats.com/fight-details/66ba984cc547e31a"
+        },
+        {
+            "fight_id": "cda0d9b5ce9b9c12",
+            "fighter_a": "Liz Carmouche",
+            "fighter_b": "Jennifer Maia",
+            "winner": "Liz Carmouche",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/cda0d9b5ce9b9c12"
+        },
+        {
+            "fight_id": "c1677875a80c2584",
+            "fighter_a": "Mark De La Rosa",
+            "fighter_b": "Elias Garcia",
+            "winner": "Mark De La Rosa",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:00",
+            "fight_url": "http://ufcstats.com/fight-details/c1677875a80c2584"
+        },
+        {
+            "fight_id": "7fe2b6a9fc4748fa",
+            "fighter_a": "Jessica Aguilar",
+            "fighter_b": "Jodie Esquibel",
+            "winner": "Jessica Aguilar",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7fe2b6a9fc4748fa"
+        }
+    ]
+}

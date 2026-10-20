@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3c3da227fbe36a28",
+        "event_id": "4f7e290e71d60f87",
+        "event_name": "UFC 187: Johnson vs Cormier",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:38",
+        "referee": "Jason Herzog",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 50",
+            "Sig. str. %": "64%",
+            "Total str.": "53 of 80",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 50",
+            "Sig. str. %": "64%",
+            "Head": "27 of 44",
+            "Body": "3 of 4",
+            "Leg": "2 of 2",
+            "Distance": "17 of 29",
+            "Clinch": "9 of 14",
+            "Ground": "6 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6905d45bd71b50a9",
+        "name": "Leo Kuntz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 25",
+            "Sig. str. %": "28%",
+            "Total str.": "11 of 30",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 25",
+            "Sig. str. %": "28%",
+            "Head": "2 of 14",
+            "Body": "1 of 4",
+            "Leg": "4 of 7",
+            "Distance": "7 of 24",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "4565d435005319c0",
+        "event_name": "UFC 245: Usman vs. Covington",
+        "event_day": 14,
+        "event_month": 12,
+        "event_year": 2019,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "82177c0f91d9618a",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Colby Covington",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 5,
+            "time_seconds": 250,
+            "fight_url": "http://ufcstats.com/fight-details/82177c0f91d9618a"
+        },
+        {
+            "fight_id": "efc40ec41114d8fa",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Max Holloway",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/efc40ec41114d8fa"
+        },
+        {
+            "fight_id": "36fcfd186a8d6df7",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Germaine de Randamie",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/36fcfd186a8d6df7"
+        },
+        {
+            "fight_id": "b5ec939fd1edf048",
+            "fighter_a": "Marlon Moraes",
+            "fighter_b": "Jose Aldo",
+            "winner": "Marlon Moraes",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b5ec939fd1edf048"
+        },
+        {
+            "fight_id": "a0c82ba11a373008",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Urijah Faber",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 43,
+            "fight_url": "http://ufcstats.com/fight-details/a0c82ba11a373008"
+        },
+        {
+            "fight_id": "ad5ef8d8678ff97f",
+            "fighter_a": "Geoff Neal",
+            "fighter_b": "Mike Perry",
+            "winner": "Geoff Neal",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/ad5ef8d8678ff97f"
+        },
+        {
+            "fight_id": "c4eaeec8ac778b27",
+            "fighter_a": "Irene Aldana",
+            "fighter_b": "Ketlen Vieira",
+            "winner": "Irene Aldana",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 291,
+            "fight_url": "http://ufcstats.com/fight-details/c4eaeec8ac778b27"
+        },
+        {
+            "fight_id": "dd88960598219eba",
+            "fighter_a": "Omari Akhmedov",
+            "fighter_b": "Ian Heinisch",
+            "winner": "Omari Akhmedov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dd88960598219eba"
+        },
+        {
+            "fight_id": "98dd88d83f57c17a",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Ben Saunders",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 295,
+            "fight_url": "http://ufcstats.com/fight-details/98dd88d83f57c17a"
+        },
+        {
+            "fight_id": "d42410f6f1039ab5",
+            "fighter_a": "Chase Hooper",
+            "fighter_b": "Daniel Teymur",
+            "winner": "Chase Hooper",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/d42410f6f1039ab5"
+        },
+        {
+            "fight_id": "1881b1e85cceee13",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Kai Kara-France",
+            "winner": "Brandon Moreno",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1881b1e85cceee13"
+        },
+        {
+            "fight_id": "35d0ef51fede263c",
+            "fighter_a": "Jessica Eye",
+            "fighter_b": "Viviane Araujo",
+            "winner": "Jessica Eye",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/35d0ef51fede263c"
+        },
+        {
+            "fight_id": "30523303e8d85c25",
+            "fighter_a": "Punahele Soriano",
+            "fighter_b": "Oskar Piechota",
+            "winner": "Punahele Soriano",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 197,
+            "fight_url": "http://ufcstats.com/fight-details/30523303e8d85c25"
+        }
+    ]
+}

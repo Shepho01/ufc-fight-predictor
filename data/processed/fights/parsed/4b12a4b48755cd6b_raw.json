@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4b12a4b48755cd6b",
+        "event_id": "6085ceb59087514b",
+        "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:19",
+        "referee": "Herb Dean",
+        "winner_id": "e1248941344b3288"
+    },
+    "fighter_a": {
+        "fighter_id": "e1248941344b3288",
+        "name": "Alexander Volkanovski",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "66 of 97",
+            "Sig. str. %": "68%",
+            "Total str.": "149 of 198",
+            "Td": "7 of 12",
+            "Td %": "58%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "66 of 97",
+            "Sig. str. %": "68%",
+            "Head": "48 of 69",
+            "Body": "4 of 5",
+            "Leg": "14 of 23",
+            "Distance": "25 of 45",
+            "Clinch": "4 of 6",
+            "Ground": "37 of 46"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "40 of 80",
+            "Sig. str. %": "50%",
+            "Total str.": "57 of 103",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "40 of 80",
+            "Sig. str. %": "50%",
+            "Head": "13 of 49",
+            "Body": "11 of 14",
+            "Leg": "16 of 17",
+            "Distance": "38 of 77",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 3"
+        }
+    }
+}

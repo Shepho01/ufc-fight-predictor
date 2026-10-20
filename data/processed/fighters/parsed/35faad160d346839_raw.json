@@ -1,0 +1,56 @@
+{
+    "fighter_id": "35faad160d346839",
+    "name": "Mizuto Hirota",
+    "record": "18-10-2",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "May 05, 1981",
+    "sig_strikes_landed_per_min": "3.36",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.50",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "1.36",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "58%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "69279781a89c893e",
+            "fight_url": "http://ufcstats.com/fight-details/69279781a89c893e"
+        },
+        {
+            "fight_id": "e8f2902be7b350ad",
+            "fight_url": "http://ufcstats.com/fight-details/e8f2902be7b350ad"
+        },
+        {
+            "fight_id": "e4db3b1669d498c3",
+            "fight_url": "http://ufcstats.com/fight-details/e4db3b1669d498c3"
+        },
+        {
+            "fight_id": "4b35edc671de861f",
+            "fight_url": "http://ufcstats.com/fight-details/4b35edc671de861f"
+        },
+        {
+            "fight_id": "2ab47d509ee7dc6d",
+            "fight_url": "http://ufcstats.com/fight-details/2ab47d509ee7dc6d"
+        },
+        {
+            "fight_id": "291bebbbf4f9128f",
+            "fight_url": "http://ufcstats.com/fight-details/291bebbbf4f9128f"
+        },
+        {
+            "fight_id": "1dcc880fc80e6332",
+            "fight_url": "http://ufcstats.com/fight-details/1dcc880fc80e6332"
+        },
+        {
+            "fight_id": "29fcd261bdb5bd5f",
+            "fight_url": "http://ufcstats.com/fight-details/29fcd261bdb5bd5f"
+        },
+        {
+            "fight_id": "97addff4a2e5efa6",
+            "fight_url": "http://ufcstats.com/fight-details/97addff4a2e5efa6"
+        }
+    ]
+}

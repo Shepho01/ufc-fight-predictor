@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5ad4c0eae7512878",
+        "event_id": "3974fa35c917af1d",
+        "event_name": "UFC 267: Blachowicz vs. Teixeira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "2:25",
+        "referee": "Daniel Movahedi",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 3",
+            "Sig. str. %": "66%",
+            "Total str.": "13 of 14",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 3",
+            "Sig. str. %": "66%",
+            "Head": "2 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "2 of 3",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 13",
+            "Sig. str. %": "30%",
+            "Total str.": "19 of 28",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 13",
+            "Sig. str. %": "30%",
+            "Head": "1 of 10",
+            "Body": "0 of 0",
+            "Leg": "3 of 3",
+            "Distance": "4 of 13",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

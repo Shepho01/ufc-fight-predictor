@@ -1,0 +1,23 @@
+{
+    "fighter_id": "029eaff01e6bb8f0",
+    "name": "Dustin Poirier",
+    "wins": 30,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Southpaw",
+    "dob_day": 19,
+    "dob_month": 1,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 5.24,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 4.57,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 1.15,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 1.2
+}

@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "8db1b36dde268ef6",
+        "event_name": "UFC 322: Della Maddalena vs. Makhachev",
+        "event_day": 15,
+        "event_month": 11,
+        "event_year": 2025,
+        "location": "New York City, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "856f6ee049373843",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Jack Della Maddalena",
+            "winner": "Islam Makhachev",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/856f6ee049373843"
+        },
+        {
+            "fight_id": "7606f6b6c19f2d73",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Zhang Weili",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7606f6b6c19f2d73"
+        },
+        {
+            "fight_id": "477af74ea3cbba8b",
+            "fighter_a": "Michael Morales",
+            "fighter_b": "Sean Brady",
+            "winner": "Michael Morales",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 207,
+            "fight_url": "http://ufcstats.com/fight-details/477af74ea3cbba8b"
+        },
+        {
+            "fight_id": "3c60884853766487",
+            "fighter_a": "Carlos Prates",
+            "fighter_b": "Leon Edwards",
+            "winner": "Carlos Prates",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 88,
+            "fight_url": "http://ufcstats.com/fight-details/3c60884853766487"
+        },
+        {
+            "fight_id": "9b5f190cd3f5ce16",
+            "fighter_a": "Benoit Saint Denis",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Benoit Saint Denis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 16,
+            "fight_url": "http://ufcstats.com/fight-details/9b5f190cd3f5ce16"
+        },
+        {
+            "fight_id": "292b83afa418635f",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Rodolfo Vieira",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/292b83afa418635f"
+        },
+        {
+            "fight_id": "ebb012c5f3fd0cbb",
+            "fighter_a": "Gregory Rodrigues",
+            "fighter_b": "Roman Kopylov",
+            "winner": "Gregory Rodrigues",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ebb012c5f3fd0cbb"
+        },
+        {
+            "fight_id": "909cd8633507a0c8",
+            "fighter_a": "Erin Blanchfield",
+            "fighter_b": "Tracy Cortez",
+            "winner": "Erin Blanchfield",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 284,
+            "fight_url": "http://ufcstats.com/fight-details/909cd8633507a0c8"
+        },
+        {
+            "fight_id": "e313286b307334a7",
+            "fighter_a": "Ethyn Ewing",
+            "fighter_b": "Malcolm Wellmaker",
+            "winner": "Ethyn Ewing",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e313286b307334a7"
+        },
+        {
+            "fight_id": "9bbdc2a2ab334541",
+            "fighter_a": "Kyle Daukaus",
+            "fighter_b": "Gerald Meerschaert",
+            "winner": "Kyle Daukaus",
+            "weight_class": "Middleweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 50,
+            "fight_url": "http://ufcstats.com/fight-details/9bbdc2a2ab334541"
+        },
+        {
+            "fight_id": "e3cbd663732f4a98",
+            "fighter_a": "Pat Sabatini",
+            "fighter_b": "Chepe Mariscal",
+            "winner": "Pat Sabatini",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e3cbd663732f4a98"
+        },
+        {
+            "fight_id": "6c2c6a6e3f4d04db",
+            "fighter_a": "Fatima Kline",
+            "fighter_b": "Angela Hill",
+            "winner": "Fatima Kline",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6c2c6a6e3f4d04db"
+        },
+        {
+            "fight_id": "c037cf1f7b429d5e",
+            "fighter_a": "Baisangur Susurkaev",
+            "fighter_b": "Eric McConico",
+            "winner": "Baisangur Susurkaev",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 98,
+            "fight_url": "http://ufcstats.com/fight-details/c037cf1f7b429d5e"
+        },
+        {
+            "fight_id": "1a5378e32e8519ef",
+            "fighter_a": "Matheus Camilo",
+            "fighter_b": "Viacheslav Borshchev",
+            "winner": "Matheus Camilo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1a5378e32e8519ef"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "b96619b3acd7d9da",
+        "event_name": "UFC 330: Makhachev vs. Machado Garry",
+        "event_date": "August 15, 2026",
+        "location": "Philadelphia, Pennsylvania, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "365fd759c03e93cf",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Ian Machado Garry",
+            "winner": "Islam Makhachev",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/365fd759c03e93cf"
+        },
+        {
+            "fight_id": "4700d42c9869674a",
+            "fighter_a": "Mackenzie Dern",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Mackenzie Dern",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4700d42c9869674a"
+        },
+        {
+            "fight_id": "d4bd456d70965734",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Kaue Fernandes",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:39",
+            "fight_url": "http://ufcstats.com/fight-details/d4bd456d70965734"
+        },
+        {
+            "fight_id": "53902dcb3e213b18",
+            "fighter_a": "Dustin Stoltzfus",
+            "fighter_b": "Mansur Abdul-Malik",
+            "winner": "Dustin Stoltzfus",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:25",
+            "fight_url": "http://ufcstats.com/fight-details/53902dcb3e213b18"
+        },
+        {
+            "fight_id": "8e482cead0c7eb15",
+            "fighter_a": "Esteban Ribovics",
+            "fighter_b": "Edson Barboza",
+            "winner": "Esteban Ribovics",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/8e482cead0c7eb15"
+        },
+        {
+            "fight_id": "6e495deac1f57169",
+            "fighter_a": "Chidi Njokuani",
+            "fighter_b": "Joel Alvarez",
+            "winner": "Chidi Njokuani",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6e495deac1f57169"
+        },
+        {
+            "fight_id": "e7c11d1b22d50ba0",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Eduardo Chapolin",
+            "winner": "Charles Johnson",
+            "weight_class": "Catch Weight",
+            "method": "SUB Twister",
+            "round": "3",
+            "time": "1:36",
+            "fight_url": "http://ufcstats.com/fight-details/e7c11d1b22d50ba0"
+        },
+        {
+            "fight_id": "9c5da658c76da7c0",
+            "fighter_a": "Donte Johnson",
+            "fighter_b": "Eric McConico",
+            "winner": "Donte Johnson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/9c5da658c76da7c0"
+        },
+        {
+            "fight_id": "e79e4d13546d2360",
+            "fighter_a": "Tresean Gore",
+            "fighter_b": "Vicente Luque",
+            "winner": "Tresean Gore",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e79e4d13546d2360"
+        },
+        {
+            "fight_id": "360b13f97e7ca703",
+            "fighter_a": "Lucas Fernando",
+            "fighter_b": "Rafael Tobias",
+            "winner": "Lucas Fernando",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/360b13f97e7ca703"
+        },
+        {
+            "fight_id": "e7077d030d5fc15f",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Ramiz Brahimaj",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:20",
+            "fight_url": "http://ufcstats.com/fight-details/e7077d030d5fc15f"
+        },
+        {
+            "fight_id": "d5ebdf462c9b59b3",
+            "fighter_a": "Jeremiah Wells",
+            "fighter_b": "Myktybek Orolbai",
+            "winner": "Jeremiah Wells",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "1:24",
+            "fight_url": "http://ufcstats.com/fight-details/d5ebdf462c9b59b3"
+        }
+    ]
+}

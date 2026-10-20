@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "0eec866a077889f0",
+        "event_name": "UFC 266: Volkanovski vs. Ortega",
+        "event_day": 25,
+        "event_month": 9,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "18f1b88d8977c216",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Brian Ortega",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/18f1b88d8977c216"
+        },
+        {
+            "fight_id": "7233b2a56438d77a",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Lauren Murphy",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 4,
+            "time_seconds": 240,
+            "fight_url": "http://ufcstats.com/fight-details/7233b2a56438d77a"
+        },
+        {
+            "fight_id": "92e006a93f983fb5",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Nick Diaz",
+            "winner": "Robbie Lawler",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/92e006a93f983fb5"
+        },
+        {
+            "fight_id": "f4df74046a1c4364",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Jairzinho Rozenstruik",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f4df74046a1c4364"
+        },
+        {
+            "fight_id": "f4a2806f77ac1cdc",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Cynthia Calvillo",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/f4a2806f77ac1cdc"
+        },
+        {
+            "fight_id": "bc276e0f07e30a54",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Marlon Moraes",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/bc276e0f07e30a54"
+        },
+        {
+            "fight_id": "b3c23fb2d71bba51",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Nasrat Haqparast",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b3c23fb2d71bba51"
+        },
+        {
+            "fight_id": "f085f32bbb3220e1",
+            "fighter_a": "Chris Daukaus",
+            "fighter_b": "Shamil Abdurakhimov",
+            "winner": "Chris Daukaus",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 83,
+            "fight_url": "http://ufcstats.com/fight-details/f085f32bbb3220e1"
+        },
+        {
+            "fight_id": "e7bb37681652c2c2",
+            "fighter_a": "Taila Santos",
+            "fighter_b": "Roxanne Modafferi",
+            "winner": "Taila Santos",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e7bb37681652c2c2"
+        },
+        {
+            "fight_id": "7abc4520f63f2c06",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Uros Medic",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 241,
+            "fight_url": "http://ufcstats.com/fight-details/7abc4520f63f2c06"
+        },
+        {
+            "fight_id": "d8189169b2c8a2aa",
+            "fighter_a": "Nick Maximov",
+            "fighter_b": "Cody Brundage",
+            "winner": "Nick Maximov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d8189169b2c8a2aa"
+        },
+        {
+            "fight_id": "73f6b72b4889088f",
+            "fighter_a": "Matthew Semelsberger",
+            "fighter_b": "Martin Sano",
+            "winner": "Matthew Semelsberger",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 15,
+            "fight_url": "http://ufcstats.com/fight-details/73f6b72b4889088f"
+        },
+        {
+            "fight_id": "7484298ad57099be",
+            "fighter_a": "Jonathan Pearce",
+            "fighter_b": "Omar Morales",
+            "winner": "Jonathan Pearce",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 211,
+            "fight_url": "http://ufcstats.com/fight-details/7484298ad57099be"
+        }
+    ]
+}

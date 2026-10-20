@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "103a7d8c4f17714b",
+        "event_id": "7dcf06c1967801c1",
+        "event_name": "UFC Fight Night: Overeem vs. Oleinik",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 20",
+            "Sig. str. %": "70%",
+            "Total str.": "47 of 53",
+            "Td": "4 of 9",
+            "Td %": "44%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 20",
+            "Sig. str. %": "70%",
+            "Head": "7 of 12",
+            "Body": "6 of 6",
+            "Leg": "1 of 2",
+            "Distance": "4 of 10",
+            "Clinch": "8 of 8",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 43",
+            "Sig. str. %": "30%",
+            "Total str.": "60 of 90",
+            "Td": "1 of 12",
+            "Td %": "8%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 43",
+            "Sig. str. %": "30%",
+            "Head": "5 of 25",
+            "Body": "7 of 15",
+            "Leg": "1 of 3",
+            "Distance": "6 of 34",
+            "Clinch": "7 of 9",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "144b0c1dd6c909f3",
+        "event_id": "d6455cb4bee503ce",
+        "event_name": "UFC Fight Night: Poirier vs. Johnson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 17",
+            "Sig. str. %": "29%",
+            "Total str.": "42 of 61",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "4",
+            "Ctrl": "4:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 17",
+            "Sig. str. %": "29%",
+            "Head": "2 of 9",
+            "Body": "0 of 5",
+            "Leg": "3 of 3",
+            "Distance": "3 of 13",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 19",
+            "Sig. str. %": "63%",
+            "Total str.": "51 of 83",
+            "Td": "4 of 4",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "2",
+            "Ctrl": "8:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 19",
+            "Sig. str. %": "63%",
+            "Head": "5 of 12",
+            "Body": "7 of 7",
+            "Leg": "0 of 0",
+            "Distance": "7 of 14",
+            "Clinch": "0 of 0",
+            "Ground": "5 of 5"
+        }
+    }
+}

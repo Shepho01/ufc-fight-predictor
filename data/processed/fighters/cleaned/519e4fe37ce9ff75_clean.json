@@ -1,0 +1,23 @@
+{
+    "fighter_id": "519e4fe37ce9ff75",
+    "name": "Drew Dober",
+    "wins": 29,
+    "losses": 15,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 19,
+    "dob_month": 10,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 4.48,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 4.33,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 0.61,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.58,
+    "submission_attempts_per_15_min": 0.1
+}

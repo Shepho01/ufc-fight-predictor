@@ -1,0 +1,72 @@
+{
+    "fighter_id": "eae48ff31db420c2",
+    "name": "Arman Tsarukyan",
+    "record": "24-3-0",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Oct 11, 1996",
+    "sig_strikes_landed_per_min": "3.78",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "1.77",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "3.25",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "fe612d20eec7ef35",
+            "fight_url": "http://ufcstats.com/fight-details/fe612d20eec7ef35"
+        },
+        {
+            "fight_id": "5f5b626e67529056",
+            "fight_url": "http://ufcstats.com/fight-details/5f5b626e67529056"
+        },
+        {
+            "fight_id": "01f7c28804746979",
+            "fight_url": "http://ufcstats.com/fight-details/01f7c28804746979"
+        },
+        {
+            "fight_id": "9feb9500b0fedfcd",
+            "fight_url": "http://ufcstats.com/fight-details/9feb9500b0fedfcd"
+        },
+        {
+            "fight_id": "6c2199524d762b11",
+            "fight_url": "http://ufcstats.com/fight-details/6c2199524d762b11"
+        },
+        {
+            "fight_id": "ce7744d45a698aa6",
+            "fight_url": "http://ufcstats.com/fight-details/ce7744d45a698aa6"
+        },
+        {
+            "fight_id": "1f5f59924b59408b",
+            "fight_url": "http://ufcstats.com/fight-details/1f5f59924b59408b"
+        },
+        {
+            "fight_id": "8515f07911765f89",
+            "fight_url": "http://ufcstats.com/fight-details/8515f07911765f89"
+        },
+        {
+            "fight_id": "13a8ddb1c3f55ed4",
+            "fight_url": "http://ufcstats.com/fight-details/13a8ddb1c3f55ed4"
+        },
+        {
+            "fight_id": "99dbe9669f31ed91",
+            "fight_url": "http://ufcstats.com/fight-details/99dbe9669f31ed91"
+        },
+        {
+            "fight_id": "ecb24300bb3bef8c",
+            "fight_url": "http://ufcstats.com/fight-details/ecb24300bb3bef8c"
+        },
+        {
+            "fight_id": "7ed98f8d1ffae082",
+            "fight_url": "http://ufcstats.com/fight-details/7ed98f8d1ffae082"
+        },
+        {
+            "fight_id": "103a7d8c4f17714b",
+            "fight_url": "http://ufcstats.com/fight-details/103a7d8c4f17714b"
+        }
+    ]
+}

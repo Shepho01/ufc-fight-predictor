@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "22f4b6cb6b1bd7fd",
+        "event_name": "UFC 314: Volkanovski vs. Lopes",
+        "event_day": 12,
+        "event_month": 4,
+        "event_year": 2025,
+        "location": "Miami, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e733f148060bef2a",
+            "fighter_a": "Alexander Volkanovski",
+            "fighter_b": "Diego Lopes",
+            "winner": "Alexander Volkanovski",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e733f148060bef2a"
+        },
+        {
+            "fight_id": "d05cb4c4135ce402",
+            "fighter_a": "Paddy Pimblett",
+            "fighter_b": "Michael Chandler",
+            "winner": "Paddy Pimblett",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": 3,
+            "time_seconds": 187,
+            "fight_url": "http://ufcstats.com/fight-details/d05cb4c4135ce402"
+        },
+        {
+            "fight_id": "d3be5a4e0ec273e2",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Patricio Pitbull",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d3be5a4e0ec273e2"
+        },
+        {
+            "fight_id": "8c540eb4afe8c43e",
+            "fighter_a": "Jean Silva",
+            "fighter_b": "Bryce Mitchell",
+            "winner": "Jean Silva",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 232,
+            "fight_url": "http://ufcstats.com/fight-details/8c540eb4afe8c43e"
+        },
+        {
+            "fight_id": "b2d731415bd367df",
+            "fighter_a": "Dominick Reyes",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Dominick Reyes",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/b2d731415bd367df"
+        },
+        {
+            "fight_id": "fc43d60cbd6b0e6a",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Sean Woodson",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 72,
+            "fight_url": "http://ufcstats.com/fight-details/fc43d60cbd6b0e6a"
+        },
+        {
+            "fight_id": "0eccebee160137b1",
+            "fighter_a": "Virna Jandiroba",
+            "fighter_b": "Yan Xiaonan",
+            "winner": "Virna Jandiroba",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0eccebee160137b1"
+        },
+        {
+            "fight_id": "11eb27a1ac74d225",
+            "fighter_a": "Chase Hooper",
+            "fighter_b": "Jim Miller",
+            "winner": "Chase Hooper",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/11eb27a1ac74d225"
+        },
+        {
+            "fight_id": "08e7a39eb7482ebf",
+            "fighter_a": "Julian Erosa",
+            "fighter_b": "Darren Elkins",
+            "winner": "Julian Erosa",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/08e7a39eb7482ebf"
+        },
+        {
+            "fight_id": "4bbda6c1f6cf9d4e",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Sedriques Dumas",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 169,
+            "fight_url": "http://ufcstats.com/fight-details/4bbda6c1f6cf9d4e"
+        },
+        {
+            "fight_id": "fd98843926965cbd",
+            "fighter_a": "Sumudaerji",
+            "fighter_b": "Mitch Raposo",
+            "winner": "Sumudaerji",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fd98843926965cbd"
+        },
+        {
+            "fight_id": "b87d6f71d901355b",
+            "fighter_a": "Marco Tulio",
+            "fighter_b": "Tresean Gore",
+            "winner": "Marco Tulio",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 196,
+            "fight_url": "http://ufcstats.com/fight-details/b87d6f71d901355b"
+        },
+        {
+            "fight_id": "0e71e69359db4d1e",
+            "fighter_a": "Nora Cornolle",
+            "fighter_b": "Hailey Cowan",
+            "winner": "Nora Cornolle",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/0e71e69359db4d1e"
+        }
+    ]
+}

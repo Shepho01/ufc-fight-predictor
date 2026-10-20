@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "d6455cb4bee503ce",
+        "event_name": "UFC Fight Night: Poirier vs. Johnson",
+        "event_day": 17,
+        "event_month": 9,
+        "event_year": 2016,
+        "location": "Hidalgo, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "692241119228cc82",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 95,
+            "fight_url": "http://ufcstats.com/fight-details/692241119228cc82"
+        },
+        {
+            "fight_id": "f4cdc944e27c2cd2",
+            "fighter_a": "Derek Brunson",
+            "fighter_b": "Uriah Hall",
+            "winner": "Derek Brunson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 101,
+            "fight_url": "http://ufcstats.com/fight-details/f4cdc944e27c2cd2"
+        },
+        {
+            "fight_id": "0596fc5eba5c1fe0",
+            "fighter_a": "Evan Dunham",
+            "fighter_b": "Ricky Glenn",
+            "winner": "Evan Dunham",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0596fc5eba5c1fe0"
+        },
+        {
+            "fight_id": "054f1423ba7c121e",
+            "fighter_a": "Roan Carneiro",
+            "fighter_b": "Kenny Robertson",
+            "winner": "Roan Carneiro",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/054f1423ba7c121e"
+        },
+        {
+            "fight_id": "144b0c1dd6c909f3",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Chris Wade",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/144b0c1dd6c909f3"
+        },
+        {
+            "fight_id": "00b7497b02b3b2bb",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Maximo Blanco",
+            "winner": "Chas Skelly",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": 1,
+            "time_seconds": 19,
+            "fight_url": "http://ufcstats.com/fight-details/00b7497b02b3b2bb"
+        },
+        {
+            "fight_id": "4f6f7f1ad8954bb6",
+            "fighter_a": "Gabriel Benitez",
+            "fighter_b": "Sam Sicilia",
+            "winner": "Gabriel Benitez",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 80,
+            "fight_url": "http://ufcstats.com/fight-details/4f6f7f1ad8954bb6"
+        },
+        {
+            "fight_id": "4df1d3183929d021",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Augusto Montano",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 259,
+            "fight_url": "http://ufcstats.com/fight-details/4df1d3183929d021"
+        },
+        {
+            "fight_id": "c87d2569da8d4305",
+            "fighter_a": "Antonio Carlos Junior",
+            "fighter_b": "Leonardo Guimaraes",
+            "winner": "Antonio Carlos Junior",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 286,
+            "fight_url": "http://ufcstats.com/fight-details/c87d2569da8d4305"
+        },
+        {
+            "fight_id": "187681b2843174b5",
+            "fighter_a": "Jose Quinonez",
+            "fighter_b": "Joey Gomez",
+            "winner": "Jose Quinonez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/187681b2843174b5"
+        },
+        {
+            "fight_id": "30b33d032605c885",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Erick Montano",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/30b33d032605c885"
+        },
+        {
+            "fight_id": "96adba2273a13f46",
+            "fighter_a": "Alejandro Perez",
+            "fighter_b": "Albert Morales",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/96adba2273a13f46"
+        }
+    ]
+}

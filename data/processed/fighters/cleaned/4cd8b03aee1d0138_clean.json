@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4cd8b03aee1d0138",
+    "name": "Shane Young",
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 31,
+    "dob_month": 7,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.19,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 5.46,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 0.63,
+    "takedown_accuracy": 0.18,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.0
+}

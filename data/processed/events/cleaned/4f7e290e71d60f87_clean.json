@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "4f7e290e71d60f87",
+        "event_name": "UFC 187: Johnson vs Cormier",
+        "event_day": 23,
+        "event_month": 5,
+        "event_year": 2015,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "530fb0d1a26fc57a",
+            "fighter_a": "Daniel Cormier",
+            "fighter_b": "Anthony Johnson",
+            "winner": "Daniel Cormier",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/530fb0d1a26fc57a"
+        },
+        {
+            "fight_id": "318460613b6018e9",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 173,
+            "fight_url": "http://ufcstats.com/fight-details/318460613b6018e9"
+        },
+        {
+            "fight_id": "bee780601ad13583",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "John Makdessi",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 284,
+            "fight_url": "http://ufcstats.com/fight-details/bee780601ad13583"
+        },
+        {
+            "fight_id": "652a73f4bf7f1932",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Travis Browne",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 281,
+            "fight_url": "http://ufcstats.com/fight-details/652a73f4bf7f1932"
+        },
+        {
+            "fight_id": "3a25be6438e3f94a",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "John Moraga",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3a25be6438e3f94a"
+        },
+        {
+            "fight_id": "6257627ba49e42ab",
+            "fighter_a": "John Dodson",
+            "fighter_b": "Zach Makovsky",
+            "winner": "John Dodson",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6257627ba49e42ab"
+        },
+        {
+            "fight_id": "c2f0a53cd67e1736",
+            "fighter_a": "Dong Hyun Kim",
+            "fighter_b": "Joshua Burkman",
+            "winner": "Dong Hyun Kim",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 133,
+            "fight_url": "http://ufcstats.com/fight-details/c2f0a53cd67e1736"
+        },
+        {
+            "fight_id": "b34c608bdfa655e8",
+            "fighter_a": "Rafael Natal",
+            "fighter_b": "Uriah Hall",
+            "winner": "Rafael Natal",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b34c608bdfa655e8"
+        },
+        {
+            "fight_id": "0c36a08b1bf60f45",
+            "fighter_a": "Colby Covington",
+            "fighter_b": "Mike Pyle",
+            "winner": "Colby Covington",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0c36a08b1bf60f45"
+        },
+        {
+            "fight_id": "3c3da227fbe36a28",
+            "fighter_a": "Islam Makhachev",
+            "fighter_b": "Leo Kuntz",
+            "winner": "Islam Makhachev",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/3c3da227fbe36a28"
+        },
+        {
+            "fight_id": "419d8143afbcd61c",
+            "fighter_a": "Justin Scoggins",
+            "fighter_b": "Josh Sampo",
+            "winner": "Justin Scoggins",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/419d8143afbcd61c"
+        }
+    ]
+}

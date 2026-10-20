@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "523815acf1bb2420",
+        "event_id": "885e7f70dcac0007",
+        "event_name": "UFC 280: Oliveira vs. Makhachev",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "3:16",
+        "referee": "Jason Herzog",
+        "winner_id": "275aca31f61ba28c"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 39",
+            "Sig. str. %": "48%",
+            "Total str.": "25 of 46",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 39",
+            "Sig. str. %": "48%",
+            "Head": "7 of 23",
+            "Body": "12 of 15",
+            "Leg": "0 of 1",
+            "Distance": "10 of 26",
+            "Clinch": "7 of 8",
+            "Ground": "2 of 5"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "275aca31f61ba28c",
+        "name": "Islam Makhachev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "30 of 41",
+            "Sig. str. %": "73%",
+            "Total str.": "72 of 86",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "5:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 41",
+            "Sig. str. %": "73%",
+            "Head": "25 of 35",
+            "Body": "5 of 6",
+            "Leg": "0 of 0",
+            "Distance": "21 of 31",
+            "Clinch": "5 of 5",
+            "Ground": "4 of 5"
+        }
+    }
+}
