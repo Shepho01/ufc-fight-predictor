@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "58bc81376286b3d3",
+        "event_name": "UFC Fight Night: Maynard vs Diaz",
+        "event_day": 11,
+        "event_month": 1,
+        "event_year": 2010,
+        "location": "Fairfax, Virginia, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5355fd4a2598f679",
+            "fighter_a": "Gray Maynard",
+            "fighter_b": "Nate Diaz",
+            "winner": "Gray Maynard",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5355fd4a2598f679"
+        },
+        {
+            "fight_id": "504b540805598fa5",
+            "fighter_a": "Evan Dunham",
+            "fighter_b": "Efrain Escudero",
+            "winner": "Evan Dunham",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/504b540805598fa5"
+        },
+        {
+            "fight_id": "be72958d9715757d",
+            "fighter_a": "Aaron Simpson",
+            "fighter_b": "Tom Lawlor",
+            "winner": "Aaron Simpson",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/be72958d9715757d"
+        },
+        {
+            "fight_id": "a570acbbcbbd151d",
+            "fighter_a": "Amir Sadollah",
+            "fighter_b": "Brad Blackburn",
+            "winner": "Amir Sadollah",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a570acbbcbbd151d"
+        },
+        {
+            "fight_id": "d5e0fd3eec76f7e1",
+            "fighter_a": "Chris Leben",
+            "fighter_b": "Jay Silva",
+            "winner": "Chris Leben",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d5e0fd3eec76f7e1"
+        },
+        {
+            "fight_id": "f4641db74fcb8ab7",
+            "fighter_a": "Rick Story",
+            "fighter_b": "Jesse Lennox",
+            "winner": "Rick Story",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f4641db74fcb8ab7"
+        },
+        {
+            "fight_id": "bad1f36202e2c7d7",
+            "fighter_a": "Thiago Tavares",
+            "fighter_b": "Nik Lentz",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bad1f36202e2c7d7"
+        },
+        {
+            "fight_id": "19f615a7a5cfd304",
+            "fighter_a": "Rory MacDonald",
+            "fighter_b": "Mike Guymon",
+            "winner": "Rory MacDonald",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/19f615a7a5cfd304"
+        },
+        {
+            "fight_id": "c4fa93a4f37a6ca7",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Kyle Bradley",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4fa93a4f37a6ca7"
+        },
+        {
+            "fight_id": "db620510bbb3f0af",
+            "fighter_a": "Gerald Harris",
+            "fighter_b": "John Salter",
+            "winner": "Gerald Harris",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 204,
+            "fight_url": "http://ufcstats.com/fight-details/db620510bbb3f0af"
+        },
+        {
+            "fight_id": "f338da998c4fdf53",
+            "fighter_a": "Nick Catone",
+            "fighter_b": "Jesse Forbes",
+            "winner": "Nick Catone",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f338da998c4fdf53"
+        }
+    ]
+}

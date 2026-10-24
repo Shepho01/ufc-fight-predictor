@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "08e7a39eb7482ebf",
+        "event_id": "22f4b6cb6b1bd7fd",
+        "event_name": "UFC 314: Volkanovski vs. Lopes",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:15",
+        "referee": "Mike Beltran",
+        "winner_id": "902ec2cc48c8ae8a"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 31",
+            "Sig. str. %": "41%",
+            "Total str.": "18 of 45",
+            "Td": "1 of 7",
+            "Td %": "14%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 31",
+            "Sig. str. %": "41%",
+            "Head": "11 of 28",
+            "Body": "1 of 2",
+            "Leg": "1 of 1",
+            "Distance": "12 of 29",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "902ec2cc48c8ae8a",
+        "name": "Julian Erosa",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 73",
+            "Sig. str. %": "73%",
+            "Total str.": "69 of 92",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 73",
+            "Sig. str. %": "73%",
+            "Head": "52 of 71",
+            "Body": "0 of 0",
+            "Leg": "2 of 2",
+            "Distance": "22 of 39",
+            "Clinch": "11 of 12",
+            "Ground": "21 of 22"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "fighter_id": "a8283a4f415e1eb9",
+    "name": "Francisco Trinaldo",
+    "record": "28-9-0",
+    "height": "5' 9\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Aug 24, 1978",
+    "sig_strikes_landed_per_min": "3.13",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "2.67",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "0.98",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "7d0d2cecab358ba1",
+            "fight_url": "http://ufcstats.com/fight-details/7d0d2cecab358ba1"
+        },
+        {
+            "fight_id": "6a902b97ac98c283",
+            "fight_url": "http://ufcstats.com/fight-details/6a902b97ac98c283"
+        },
+        {
+            "fight_id": "587d373f18f6c8c0",
+            "fight_url": "http://ufcstats.com/fight-details/587d373f18f6c8c0"
+        },
+        {
+            "fight_id": "23b943e9ce495f0b",
+            "fight_url": "http://ufcstats.com/fight-details/23b943e9ce495f0b"
+        },
+        {
+            "fight_id": "3b209a2aee014ac2",
+            "fight_url": "http://ufcstats.com/fight-details/3b209a2aee014ac2"
+        },
+        {
+            "fight_id": "dc45c8d70e256749",
+            "fight_url": "http://ufcstats.com/fight-details/dc45c8d70e256749"
+        },
+        {
+            "fight_id": "22307b580e0c8d0d",
+            "fight_url": "http://ufcstats.com/fight-details/22307b580e0c8d0d"
+        },
+        {
+            "fight_id": "c92308bbd6107b11",
+            "fight_url": "http://ufcstats.com/fight-details/c92308bbd6107b11"
+        },
+        {
+            "fight_id": "3d9398386c84109b",
+            "fight_url": "http://ufcstats.com/fight-details/3d9398386c84109b"
+        },
+        {
+            "fight_id": "6ae96d1de3bb0506",
+            "fight_url": "http://ufcstats.com/fight-details/6ae96d1de3bb0506"
+        },
+        {
+            "fight_id": "bed03663bc577f02",
+            "fight_url": "http://ufcstats.com/fight-details/bed03663bc577f02"
+        },
+        {
+            "fight_id": "76602c3658d70273",
+            "fight_url": "http://ufcstats.com/fight-details/76602c3658d70273"
+        },
+        {
+            "fight_id": "845907142e023077",
+            "fight_url": "http://ufcstats.com/fight-details/845907142e023077"
+        },
+        {
+            "fight_id": "65d777a16fce2be8",
+            "fight_url": "http://ufcstats.com/fight-details/65d777a16fce2be8"
+        },
+        {
+            "fight_id": "d0dc419dc7acb7e2",
+            "fight_url": "http://ufcstats.com/fight-details/d0dc419dc7acb7e2"
+        },
+        {
+            "fight_id": "870a98d6f943d9b7",
+            "fight_url": "http://ufcstats.com/fight-details/870a98d6f943d9b7"
+        },
+        {
+            "fight_id": "d4a309663a4da799",
+            "fight_url": "http://ufcstats.com/fight-details/d4a309663a4da799"
+        },
+        {
+            "fight_id": "22a243c5fba0fb46",
+            "fight_url": "http://ufcstats.com/fight-details/22a243c5fba0fb46"
+        },
+        {
+            "fight_id": "e79e3ee088b76d46",
+            "fight_url": "http://ufcstats.com/fight-details/e79e3ee088b76d46"
+        },
+        {
+            "fight_id": "1789d630e31e9c77",
+            "fight_url": "http://ufcstats.com/fight-details/1789d630e31e9c77"
+        },
+        {
+            "fight_id": "ea60fdcfd423a15e",
+            "fight_url": "http://ufcstats.com/fight-details/ea60fdcfd423a15e"
+        },
+        {
+            "fight_id": "5aeac72404dd7c6d",
+            "fight_url": "http://ufcstats.com/fight-details/5aeac72404dd7c6d"
+        },
+        {
+            "fight_id": "91f33ac24fb39eca",
+            "fight_url": "http://ufcstats.com/fight-details/91f33ac24fb39eca"
+        },
+        {
+            "fight_id": "f4273b2155fe20fe",
+            "fight_url": "http://ufcstats.com/fight-details/f4273b2155fe20fe"
+        },
+        {
+            "fight_id": "297a3fe0edd6f1c5",
+            "fight_url": "http://ufcstats.com/fight-details/297a3fe0edd6f1c5"
+        },
+        {
+            "fight_id": "c1bf9ca94c1f7f09",
+            "fight_url": "http://ufcstats.com/fight-details/c1bf9ca94c1f7f09"
+        }
+    ]
+}

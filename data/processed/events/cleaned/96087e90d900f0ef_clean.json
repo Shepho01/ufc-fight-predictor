@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "96087e90d900f0ef",
+        "event_name": "The Ultimate Fighter: Live Finale",
+        "event_day": 1,
+        "event_month": 6,
+        "event_year": 2012,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8422c70a72eb9291",
+            "fighter_a": "Martin Kampmann",
+            "fighter_b": "Jake Ellenberger",
+            "winner": "Martin Kampmann",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/8422c70a72eb9291"
+        },
+        {
+            "fight_id": "1c245dc63a0b9d51",
+            "fighter_a": "Michael Chiesa",
+            "fighter_b": "Al Iaquinta",
+            "winner": "Michael Chiesa",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/1c245dc63a0b9d51"
+        },
+        {
+            "fight_id": "0b5c7c95b0316276",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Jonathan Brookins",
+            "winner": "Charles Oliveira",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/0b5c7c95b0316276"
+        },
+        {
+            "fight_id": "fe1ce9e3a38a734b",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Pat Schilling",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fe1ce9e3a38a734b"
+        },
+        {
+            "fight_id": "64e7c4ee81d46900",
+            "fighter_a": "Justin Lawrence",
+            "fighter_b": "John Cofer",
+            "winner": "Justin Lawrence",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 19,
+            "fight_url": "http://ufcstats.com/fight-details/64e7c4ee81d46900"
+        },
+        {
+            "fight_id": "06a28491fe26baa6",
+            "fighter_a": "Daron Cruickshank",
+            "fighter_b": "Chris Tickle",
+            "winner": "Daron Cruickshank",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/06a28491fe26baa6"
+        },
+        {
+            "fight_id": "2a7cf1a89de3709e",
+            "fighter_a": "Myles Jury",
+            "fighter_b": "Chris Saunders",
+            "winner": "Myles Jury",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 243,
+            "fight_url": "http://ufcstats.com/fight-details/2a7cf1a89de3709e"
+        },
+        {
+            "fight_id": "fa8c1f3d27fc349c",
+            "fighter_a": "Sam Sicilia",
+            "fighter_b": "Cristiano Marcello",
+            "winner": "Sam Sicilia",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 173,
+            "fight_url": "http://ufcstats.com/fight-details/fa8c1f3d27fc349c"
+        },
+        {
+            "fight_id": "e8bb812cd91d9c28",
+            "fighter_a": "Joe Proctor",
+            "fighter_b": "Jeremy Larsen",
+            "winner": "Joe Proctor",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/e8bb812cd91d9c28"
+        },
+        {
+            "fight_id": "8e4439cdc98d0644",
+            "fighter_a": "Erik Perez",
+            "fighter_b": "John Albert",
+            "winner": "Erik Perez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 258,
+            "fight_url": "http://ufcstats.com/fight-details/8e4439cdc98d0644"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "fighter_id": "dccb63727f2f5f74",
+    "name": "Matt Frevola",
+    "record": "11-6-1",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 11, 1990",
+    "sig_strikes_landed_per_min": "3.30",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.76",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "2.34",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "40%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "3af1bdc5a510bba9",
+            "fight_url": "http://ufcstats.com/fight-details/3af1bdc5a510bba9"
+        },
+        {
+            "fight_id": "d806aacf5b6ba7f6",
+            "fight_url": "http://ufcstats.com/fight-details/d806aacf5b6ba7f6"
+        },
+        {
+            "fight_id": "9fe98de1eac21f2e",
+            "fight_url": "http://ufcstats.com/fight-details/9fe98de1eac21f2e"
+        },
+        {
+            "fight_id": "3f8b4aeb3baf4724",
+            "fight_url": "http://ufcstats.com/fight-details/3f8b4aeb3baf4724"
+        },
+        {
+            "fight_id": "40707ddc9fdea500",
+            "fight_url": "http://ufcstats.com/fight-details/40707ddc9fdea500"
+        },
+        {
+            "fight_id": "5da7168ac2ff0e1d",
+            "fight_url": "http://ufcstats.com/fight-details/5da7168ac2ff0e1d"
+        },
+        {
+            "fight_id": "d4ad90ac58429b64",
+            "fight_url": "http://ufcstats.com/fight-details/d4ad90ac58429b64"
+        },
+        {
+            "fight_id": "99dbe9669f31ed91",
+            "fight_url": "http://ufcstats.com/fight-details/99dbe9669f31ed91"
+        },
+        {
+            "fight_id": "bed2710e06dabe6a",
+            "fight_url": "http://ufcstats.com/fight-details/bed2710e06dabe6a"
+        },
+        {
+            "fight_id": "31b283a5559ad44d",
+            "fight_url": "http://ufcstats.com/fight-details/31b283a5559ad44d"
+        },
+        {
+            "fight_id": "df9aa51f6ccdfe02",
+            "fight_url": "http://ufcstats.com/fight-details/df9aa51f6ccdfe02"
+        },
+        {
+            "fight_id": "4843f369dc8b5de5",
+            "fight_url": "http://ufcstats.com/fight-details/4843f369dc8b5de5"
+        },
+        {
+            "fight_id": "aabf5466bfc27f5f",
+            "fight_url": "http://ufcstats.com/fight-details/aabf5466bfc27f5f"
+        }
+    ]
+}

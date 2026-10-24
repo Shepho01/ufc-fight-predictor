@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "d856a0080ac09ed7",
+        "event_name": "UFC Fight Night: Poirier vs. Pettis",
+        "event_date": "November 11, 2017",
+        "location": "Norfolk, Virginia, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b55605791a4d72b9",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "2:08",
+            "fight_url": "http://ufcstats.com/fight-details/b55605791a4d72b9"
+        },
+        {
+            "fight_id": "b6b5ec324449befd",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Diego Sanchez",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbow",
+            "round": "1",
+            "time": "3:44",
+            "fight_url": "http://ufcstats.com/fight-details/b6b5ec324449befd"
+        },
+        {
+            "fight_id": "603354ffe9cc0755",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Junior Albini",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/603354ffe9cc0755"
+        },
+        {
+            "fight_id": "7ad85c84025c0db0",
+            "fighter_a": "Cezar Ferreira",
+            "fighter_b": "Nate Marquardt",
+            "winner": "Cezar Ferreira",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ad85c84025c0db0"
+        },
+        {
+            "fight_id": "151c597d2e609a4e",
+            "fighter_a": "Raphael Assuncao",
+            "fighter_b": "Matthew Lopez",
+            "winner": "Raphael Assuncao",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/151c597d2e609a4e"
+        },
+        {
+            "fight_id": "935f559ab0521c27",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/935f559ab0521c27"
+        },
+        {
+            "fight_id": "5519d7fe2cee8353",
+            "fighter_a": "Marlon Moraes",
+            "fighter_b": "John Dodson",
+            "winner": "Marlon Moraes",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5519d7fe2cee8353"
+        },
+        {
+            "fight_id": "5db3e2fdd18129a4",
+            "fighter_a": "Tatiana Suarez",
+            "fighter_b": "Viviane Pereira",
+            "winner": "Tatiana Suarez",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5db3e2fdd18129a4"
+        },
+        {
+            "fight_id": "60de5efe5b439c8b",
+            "fighter_a": "Sage Northcutt",
+            "fighter_b": "Michel Quinones",
+            "winner": "Sage Northcutt",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60de5efe5b439c8b"
+        },
+        {
+            "fight_id": "7006a98fe9944571",
+            "fighter_a": "Nina Nunes",
+            "fighter_b": "Angela Hill",
+            "winner": "Nina Nunes",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7006a98fe9944571"
+        },
+        {
+            "fight_id": "d3c78cc516417797",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Court McGee",
+            "winner": "Sean Strickland",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d3c78cc516417797"
+        },
+        {
+            "fight_id": "78e554aa129711ba",
+            "fighter_a": "Jake Collier",
+            "fighter_b": "Marcel Fortuna",
+            "winner": "Jake Collier",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/78e554aa129711ba"
+        },
+        {
+            "fight_id": "4b202bae6c87b98b",
+            "fighter_a": "Karl Roberson",
+            "fighter_b": "Darren Stewart",
+            "winner": "Karl Roberson",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:41",
+            "fight_url": "http://ufcstats.com/fight-details/4b202bae6c87b98b"
+        }
+    ]
+}

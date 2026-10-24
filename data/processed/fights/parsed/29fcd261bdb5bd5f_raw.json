@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "29fcd261bdb5bd5f",
+        "event_id": "237187ed9f419285",
+        "event_name": "Strikeforce - Rockhold vs Kennedy",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dave Hagen",
+        "winner_id": "50d2f0018bcf9eef"
+    },
+    "fighter_a": {
+        "fighter_id": "50d2f0018bcf9eef",
+        "name": "Pat Healy",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "45 of 104",
+            "Sig. str. %": "43%",
+            "Total str.": "123 of 202",
+            "Td": "4 of 12",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 104",
+            "Sig. str. %": "43%",
+            "Head": "24 of 79",
+            "Body": "11 of 13",
+            "Leg": "10 of 12",
+            "Distance": "21 of 75",
+            "Clinch": "24 of 29",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "35faad160d346839",
+        "name": "Mizuto Hirota",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 77",
+            "Sig. str. %": "53%",
+            "Total str.": "67 of 108",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 77",
+            "Sig. str. %": "53%",
+            "Head": "34 of 67",
+            "Body": "6 of 9",
+            "Leg": "1 of 1",
+            "Distance": "33 of 67",
+            "Clinch": "8 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

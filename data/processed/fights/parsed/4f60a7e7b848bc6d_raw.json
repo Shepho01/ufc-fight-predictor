@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4f60a7e7b848bc6d",
+        "event_id": "73e09f837f3b5ecc",
+        "event_name": "UFC Fight Night: Whittaker vs. Brunson",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John Sharp",
+        "winner_id": "bb1a2cdad6ff34db"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 100",
+            "Sig. str. %": "47%",
+            "Total str.": "58 of 111",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "0:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 100",
+            "Sig. str. %": "47%",
+            "Head": "43 of 86",
+            "Body": "1 of 5",
+            "Leg": "3 of 9",
+            "Distance": "47 of 98",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "bb1a2cdad6ff34db",
+        "name": "Jason Knight",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 185",
+            "Sig. str. %": "31%",
+            "Total str.": "80 of 208",
+            "Td": "4 of 13",
+            "Td %": "30%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "4:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 185",
+            "Sig. str. %": "31%",
+            "Head": "50 of 172",
+            "Body": "8 of 11",
+            "Leg": "1 of 2",
+            "Distance": "55 of 178",
+            "Clinch": "1 of 4",
+            "Ground": "3 of 3"
+        }
+    }
+}

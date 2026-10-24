@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "de3ed2e152520c8d",
+        "event_name": "UFC 68: The Uprising",
+        "event_day": 3,
+        "event_month": 3,
+        "event_year": 2007,
+        "location": "Columbus, Ohio, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7401d0f8ededa102",
+            "fighter_a": "Randy Couture",
+            "fighter_b": "Tim Sylvia",
+            "winner": "Randy Couture",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7401d0f8ededa102"
+        },
+        {
+            "fight_id": "0653b6227894cfd7",
+            "fighter_a": "Martin Kampmann",
+            "fighter_b": "Drew McFedries",
+            "winner": "Martin Kampmann",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/0653b6227894cfd7"
+        },
+        {
+            "fight_id": "3404f9095676a556",
+            "fighter_a": "Rich Franklin",
+            "fighter_b": "Jason MacDonald",
+            "winner": "Rich Franklin",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3404f9095676a556"
+        },
+        {
+            "fight_id": "204932945d332406",
+            "fighter_a": "Matt Hughes",
+            "fighter_b": "Chris Lytle",
+            "winner": "Matt Hughes",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/204932945d332406"
+        },
+        {
+            "fight_id": "8ca1bb1b2517f2e5",
+            "fighter_a": "Jason Lambert",
+            "fighter_b": "Renato Sobral",
+            "winner": "Jason Lambert",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 216,
+            "fight_url": "http://ufcstats.com/fight-details/8ca1bb1b2517f2e5"
+        },
+        {
+            "fight_id": "8afc674a60abab61",
+            "fighter_a": "Matt Hamill",
+            "fighter_b": "Rex Holman",
+            "winner": "Matt Hamill",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 240,
+            "fight_url": "http://ufcstats.com/fight-details/8afc674a60abab61"
+        },
+        {
+            "fight_id": "94df6c8cd2256f54",
+            "fighter_a": "Jon Fitch",
+            "fighter_b": "Luigi Fioravanti",
+            "winner": "Jon Fitch",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 185,
+            "fight_url": "http://ufcstats.com/fight-details/94df6c8cd2256f54"
+        },
+        {
+            "fight_id": "808d47f905e84e7e",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Jason Dent",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/808d47f905e84e7e"
+        },
+        {
+            "fight_id": "85e130a7c48f25f6",
+            "fighter_a": "Jamie Varner",
+            "fighter_b": "Jason Gilliam",
+            "winner": "Jamie Varner",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 94,
+            "fight_url": "http://ufcstats.com/fight-details/85e130a7c48f25f6"
+        }
+    ]
+}

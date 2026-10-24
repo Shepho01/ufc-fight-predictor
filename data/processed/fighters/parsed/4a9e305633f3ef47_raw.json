@@ -1,0 +1,32 @@
+{
+    "fighter_id": "4a9e305633f3ef47",
+    "name": "Rolando Perez",
+    "record": "7-5-2",
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "--",
+    "sig_strikes_landed_per_min": "4.23",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "4.83",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "2144d4e090b15e55",
+            "fight_url": "http://ufcstats.com/fight-details/2144d4e090b15e55"
+        },
+        {
+            "fight_id": "23feb95726bb6fe4",
+            "fight_url": "http://ufcstats.com/fight-details/23feb95726bb6fe4"
+        },
+        {
+            "fight_id": "3bdba539a350721c",
+            "fight_url": "http://ufcstats.com/fight-details/3bdba539a350721c"
+        }
+    ]
+}

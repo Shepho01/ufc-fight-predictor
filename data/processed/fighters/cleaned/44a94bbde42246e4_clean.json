@@ -1,0 +1,23 @@
+{
+    "fighter_id": "44a94bbde42246e4",
+    "name": "Gleidson Cutis",
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 7,
+    "dob_month": 2,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 2.99,
+    "sig_striking_accuracy": 0.52,
+    "sig_strikes_absorbed_per_min": 8.28,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

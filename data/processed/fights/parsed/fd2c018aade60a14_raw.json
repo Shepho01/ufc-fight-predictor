@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fd2c018aade60a14",
+        "event_id": "caced97768818230",
+        "event_name": "UFC Fight Night: Werdum vs. Tybura",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:05",
+        "referee": "Jim Perdios",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 82",
+            "Sig. str. %": "41%",
+            "Total str.": "40 of 88",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "0:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 82",
+            "Sig. str. %": "41%",
+            "Head": "15 of 58",
+            "Body": "7 of 9",
+            "Leg": "12 of 15",
+            "Distance": "25 of 71",
+            "Clinch": "9 of 11",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6e6c3b1dcaae0a1",
+        "name": "Will Brooks",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "49 of 78",
+            "Sig. str. %": "62%",
+            "Total str.": "49 of 78",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "49 of 78",
+            "Sig. str. %": "62%",
+            "Head": "42 of 70",
+            "Body": "2 of 2",
+            "Leg": "5 of 6",
+            "Distance": "42 of 70",
+            "Clinch": "7 of 8",
+            "Ground": "0 of 0"
+        }
+    }
+}

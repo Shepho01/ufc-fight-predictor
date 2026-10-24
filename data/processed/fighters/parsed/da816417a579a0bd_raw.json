@@ -1,0 +1,48 @@
+{
+    "fighter_id": "da816417a579a0bd",
+    "name": "Gavin Tucker",
+    "record": "13-3-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Jun 17, 1986",
+    "sig_strikes_landed_per_min": "4.29",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "4.18",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "3.13",
+    "takedown_accuracy": "44%",
+    "takedown_defense": "53%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "79bfba62da6242a6",
+            "fight_url": "http://ufcstats.com/fight-details/79bfba62da6242a6"
+        },
+        {
+            "fight_id": "d15a87087b6f1452",
+            "fight_url": "http://ufcstats.com/fight-details/d15a87087b6f1452"
+        },
+        {
+            "fight_id": "87d0b767742d3239",
+            "fight_url": "http://ufcstats.com/fight-details/87d0b767742d3239"
+        },
+        {
+            "fight_id": "1308213458d8596b",
+            "fight_url": "http://ufcstats.com/fight-details/1308213458d8596b"
+        },
+        {
+            "fight_id": "25c4013fc187762a",
+            "fight_url": "http://ufcstats.com/fight-details/25c4013fc187762a"
+        },
+        {
+            "fight_id": "f597d2e69ab7c270",
+            "fight_url": "http://ufcstats.com/fight-details/f597d2e69ab7c270"
+        },
+        {
+            "fight_id": "112e6a0ddce893e6",
+            "fight_url": "http://ufcstats.com/fight-details/112e6a0ddce893e6"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "9a967e8e43dcef63",
+        "event_name": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+        "event_day": 30,
+        "event_month": 11,
+        "event_year": 2013,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f0815638f558968d",
+            "fighter_a": "Nate Diaz",
+            "fighter_b": "Gray Maynard",
+            "winner": "Nate Diaz",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/f0815638f558968d"
+        },
+        {
+            "fight_id": "fca7fbd0bafc480c",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Jessica Rakoczy",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/fca7fbd0bafc480c"
+        },
+        {
+            "fight_id": "a072ec605bebe5a8",
+            "fighter_a": "Chris Holdsworth",
+            "fighter_b": "Davey Grant",
+            "winner": "Chris Holdsworth",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/a072ec605bebe5a8"
+        },
+        {
+            "fight_id": "1b7bc992c26ac10f",
+            "fighter_a": "Jessamyn Duke",
+            "fighter_b": "Peggy Morgan",
+            "winner": "Jessamyn Duke",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1b7bc992c26ac10f"
+        },
+        {
+            "fight_id": "2a940fac11da404d",
+            "fighter_a": "Raquel Pennington",
+            "fighter_b": "Roxanne Modafferi",
+            "winner": "Raquel Pennington",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2a940fac11da404d"
+        },
+        {
+            "fight_id": "b186f4778257ca6d",
+            "fighter_a": "Akira Corassani",
+            "fighter_b": "Maximo Blanco",
+            "winner": "Akira Corassani",
+            "weight_class": "Featherweight",
+            "method": "DQ",
+            "round": 1,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/b186f4778257ca6d"
+        },
+        {
+            "fight_id": "e9ec16e4e7cfb120",
+            "fighter_a": "Tom Niinimaki",
+            "fighter_b": "Rani Yahya",
+            "winner": "Tom Niinimaki",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e9ec16e4e7cfb120"
+        },
+        {
+            "fight_id": "2b5058614b56a898",
+            "fighter_a": "Jared Rosholt",
+            "fighter_b": "Walt Harris",
+            "winner": "Jared Rosholt",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2b5058614b56a898"
+        },
+        {
+            "fight_id": "64e1197b8d5d0706",
+            "fighter_a": "Sean Spencer",
+            "fighter_b": "Drew Dober",
+            "winner": "Sean Spencer",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/64e1197b8d5d0706"
+        },
+        {
+            "fight_id": "c9ebbba18e4e1e84",
+            "fighter_a": "Josh Sampo",
+            "fighter_b": "Ryan Benoit",
+            "winner": "Josh Sampo",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 271,
+            "fight_url": "http://ufcstats.com/fight-details/c9ebbba18e4e1e84"
+        }
+    ]
+}

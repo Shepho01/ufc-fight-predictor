@@ -1,0 +1,72 @@
+{
+    "fighter_id": "5f99b2bafb10305f",
+    "name": "Daron Cruickshank",
+    "record": "18-10-0 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Jun 11, 1985",
+    "sig_strikes_landed_per_min": "2.88",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "2.98",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "2.04",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "52abce3a11b43b1d",
+            "fight_url": "http://ufcstats.com/fight-details/52abce3a11b43b1d"
+        },
+        {
+            "fight_id": "da7d7b4f20cd2af5",
+            "fight_url": "http://ufcstats.com/fight-details/da7d7b4f20cd2af5"
+        },
+        {
+            "fight_id": "d61a7b593218234b",
+            "fight_url": "http://ufcstats.com/fight-details/d61a7b593218234b"
+        },
+        {
+            "fight_id": "da3210cd829fceb7",
+            "fight_url": "http://ufcstats.com/fight-details/da3210cd829fceb7"
+        },
+        {
+            "fight_id": "88933cf1edd83034",
+            "fight_url": "http://ufcstats.com/fight-details/88933cf1edd83034"
+        },
+        {
+            "fight_id": "17dc833cda860933",
+            "fight_url": "http://ufcstats.com/fight-details/17dc833cda860933"
+        },
+        {
+            "fight_id": "3ee1a3216cf66b95",
+            "fight_url": "http://ufcstats.com/fight-details/3ee1a3216cf66b95"
+        },
+        {
+            "fight_id": "3f1d1bd33a296f26",
+            "fight_url": "http://ufcstats.com/fight-details/3f1d1bd33a296f26"
+        },
+        {
+            "fight_id": "2dd0a47f43dfe8f6",
+            "fight_url": "http://ufcstats.com/fight-details/2dd0a47f43dfe8f6"
+        },
+        {
+            "fight_id": "cf6b9a001b0824de",
+            "fight_url": "http://ufcstats.com/fight-details/cf6b9a001b0824de"
+        },
+        {
+            "fight_id": "0bd0ca01a255038c",
+            "fight_url": "http://ufcstats.com/fight-details/0bd0ca01a255038c"
+        },
+        {
+            "fight_id": "5c36d760c7e272f5",
+            "fight_url": "http://ufcstats.com/fight-details/5c36d760c7e272f5"
+        },
+        {
+            "fight_id": "06a28491fe26baa6",
+            "fight_url": "http://ufcstats.com/fight-details/06a28491fe26baa6"
+        }
+    ]
+}

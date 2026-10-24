@@ -1,0 +1,23 @@
+{
+    "fighter_id": "361d49960a196976",
+    "name": "Daniel Pineda",
+    "wins": 28,
+    "losses": 17,
+    "draws": 0,
+    "no_conests": 3,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 6,
+    "dob_month": 8,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 2.85,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 3.26,
+    "sig_strike_defense": 0.45,
+    "takedowns_landed_per_15_min": 1.42,
+    "takedown_accuracy": 0.24,
+    "takedown_defense": 0.54,
+    "submission_attempts_per_15_min": 1.5
+}

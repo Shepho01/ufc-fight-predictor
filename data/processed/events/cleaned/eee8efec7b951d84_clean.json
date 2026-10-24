@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "eee8efec7b951d84",
+        "event_name": "UFC 307: Pereira vs. Rountree Jr.",
+        "event_day": 5,
+        "event_month": 10,
+        "event_year": 2024,
+        "location": "Salt Lake City, Utah, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8c5e06c71f392f33",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Khalil Rountree Jr.",
+            "winner": "Alex Pereira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 4,
+            "time_seconds": 272,
+            "fight_url": "http://ufcstats.com/fight-details/8c5e06c71f392f33"
+        },
+        {
+            "fight_id": "1d68bb733de24b06",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Raquel Pennington",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1d68bb733de24b06"
+        },
+        {
+            "fight_id": "3d7d82fff71e395a",
+            "fighter_a": "Mario Bautista",
+            "fighter_b": "Jose Aldo",
+            "winner": "Mario Bautista",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d7d82fff71e395a"
+        },
+        {
+            "fight_id": "5931cd9cf5da5f75",
+            "fighter_a": "Roman Dolidze",
+            "fighter_b": "Kevin Holland",
+            "winner": "Roman Dolidze",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5931cd9cf5da5f75"
+        },
+        {
+            "fight_id": "9ea124a13d071186",
+            "fighter_a": "Kayla Harrison",
+            "fighter_b": "Ketlen Vieira",
+            "winner": "Kayla Harrison",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9ea124a13d071186"
+        },
+        {
+            "fight_id": "69bca5091b2a31f6",
+            "fighter_a": "Joaquin Buckley",
+            "fighter_b": "Stephen Thompson",
+            "winner": "Joaquin Buckley",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 137,
+            "fight_url": "http://ufcstats.com/fight-details/69bca5091b2a31f6"
+        },
+        {
+            "fight_id": "eb73b63bbd7b88a7",
+            "fighter_a": "Iasmin Lucindo",
+            "fighter_b": "Marina Rodriguez",
+            "winner": "Iasmin Lucindo",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/eb73b63bbd7b88a7"
+        },
+        {
+            "fight_id": "e8aad69aace1d31f",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Austin Hubbard",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e8aad69aace1d31f"
+        },
+        {
+            "fight_id": "ed5b6681ab4e83e5",
+            "fighter_a": "Cesar Almeida",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Cesar Almeida",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ed5b6681ab4e83e5"
+        },
+        {
+            "fight_id": "58dec0a39cdefa3f",
+            "fighter_a": "Ryan Spann",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Ryan Spann",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 95,
+            "fight_url": "http://ufcstats.com/fight-details/58dec0a39cdefa3f"
+        },
+        {
+            "fight_id": "58e5fc1914c4e641",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Carla Esparza",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/58e5fc1914c4e641"
+        },
+        {
+            "fight_id": "84b3577229880760",
+            "fighter_a": "Court McGee",
+            "fighter_b": "Tim Means",
+            "winner": "Court McGee",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 199,
+            "fight_url": "http://ufcstats.com/fight-details/84b3577229880760"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "be9d259be012e8a4",
+        "event_name": "Strikeforce - Rousey vs Kaufman",
+        "event_day": 18,
+        "event_month": 8,
+        "event_year": 2012,
+        "location": "San Diego, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c2df05f52e20b892",
+            "fighter_a": "Ronda Rousey",
+            "fighter_b": "Sarah Kaufman",
+            "winner": "Ronda Rousey",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 54,
+            "fight_url": "http://ufcstats.com/fight-details/c2df05f52e20b892"
+        },
+        {
+            "fight_id": "02d7776460d6b702",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Derek Brunson",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/02d7776460d6b702"
+        },
+        {
+            "fight_id": "7ca10988d77d0b4f",
+            "fighter_a": "Tarec Saffiedine",
+            "fighter_b": "Roger Bowling",
+            "winner": "Tarec Saffiedine",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7ca10988d77d0b4f"
+        },
+        {
+            "fight_id": "2b9b471d912069b3",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Lumumba Sayers",
+            "winner": "Anthony Smith",
+            "weight_class": "Middleweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 232,
+            "fight_url": "http://ufcstats.com/fight-details/2b9b471d912069b3"
+        },
+        {
+            "fight_id": "607a4efc385dec1b",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "TJ Cook",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 20,
+            "fight_url": "http://ufcstats.com/fight-details/607a4efc385dec1b"
+        },
+        {
+            "fight_id": "02ed9b0b15b4a427",
+            "fighter_a": "Miesha Tate",
+            "fighter_b": "Julie Kedzie",
+            "winner": "Miesha Tate",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 208,
+            "fight_url": "http://ufcstats.com/fight-details/02ed9b0b15b4a427"
+        },
+        {
+            "fight_id": "8e14eb886564af75",
+            "fighter_a": "Adlan Amagov",
+            "fighter_b": "Keith Berry",
+            "winner": "Adlan Amagov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/8e14eb886564af75"
+        },
+        {
+            "fight_id": "31f1ef43f7ee82ce",
+            "fighter_a": "Germaine de Randamie",
+            "fighter_b": "Hiroko Yamanaka",
+            "winner": "Germaine de Randamie",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/31f1ef43f7ee82ce"
+        },
+        {
+            "fight_id": "67f8ce4438cc1dd6",
+            "fighter_a": "King Green",
+            "fighter_b": "Matt Ricehouse",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/67f8ce4438cc1dd6"
+        }
+    ]
+}

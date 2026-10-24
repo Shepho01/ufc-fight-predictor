@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "d023ae89a2a4a41e",
+        "event_name": "UFC Live: Kongo vs Barry",
+        "event_day": 26,
+        "event_month": 6,
+        "event_year": 2011,
+        "location": "Pittsburgh, Pennsylvania, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4d6f492092d827cf",
+            "fighter_a": "Cheick Kongo",
+            "fighter_b": "Pat Barry",
+            "winner": "Cheick Kongo",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/4d6f492092d827cf"
+        },
+        {
+            "fight_id": "0212461ac95ae690",
+            "fighter_a": "Charlie Brenneman",
+            "fighter_b": "Rick Story",
+            "winner": "Charlie Brenneman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0212461ac95ae690"
+        },
+        {
+            "fight_id": "5ad0a7ec5e99955b",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "John Howard",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5ad0a7ec5e99955b"
+        },
+        {
+            "fight_id": "41f186bffee2bb29",
+            "fighter_a": "Matt Mitrione",
+            "fighter_b": "Christian Morecraft",
+            "winner": "Matt Mitrione",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 268,
+            "fight_url": "http://ufcstats.com/fight-details/41f186bffee2bb29"
+        },
+        {
+            "fight_id": "70ddd13934e6c0e9",
+            "fighter_a": "Tyson Griffin",
+            "fighter_b": "Manvel Gamburyan",
+            "winner": "Tyson Griffin",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/70ddd13934e6c0e9"
+        },
+        {
+            "fight_id": "4289bcb551b07bc1",
+            "fighter_a": "Javier Vazquez",
+            "fighter_b": "Joe Stevenson",
+            "winner": "Javier Vazquez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4289bcb551b07bc1"
+        },
+        {
+            "fight_id": "6b3038fe26a57b80",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Curt Warburton",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 118,
+            "fight_url": "http://ufcstats.com/fight-details/6b3038fe26a57b80"
+        },
+        {
+            "fight_id": "6cc8c21becd17ffa",
+            "fighter_a": "Rich Attonito",
+            "fighter_b": "Daniel Roberts",
+            "winner": "Rich Attonito",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6cc8c21becd17ffa"
+        },
+        {
+            "fight_id": "91daeeeea0a83e49",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Charles Oliveira",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "Overturned",
+            "round": 2,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/91daeeeea0a83e49"
+        },
+        {
+            "fight_id": "16da233dcf7fecc8",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Matt Grice",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 281,
+            "fight_url": "http://ufcstats.com/fight-details/16da233dcf7fecc8"
+        },
+        {
+            "fight_id": "daa06084bcc66645",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Edward Faaloloto",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 282,
+            "fight_url": "http://ufcstats.com/fight-details/daa06084bcc66645"
+        }
+    ]
+}

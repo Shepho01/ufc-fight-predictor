@@ -1,0 +1,72 @@
+{
+    "fighter_id": "0a97691039c4bbfb",
+    "name": "Mark Hominick",
+    "record": "20-12-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jul 22, 1982",
+    "sig_strikes_landed_per_min": "4.08",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "4.18",
+    "sig_strike_defense": "69%",
+    "takedowns_landed_per_15_min": "0.25",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "71%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "bc3323f172832a53",
+            "fight_url": "http://ufcstats.com/fight-details/bc3323f172832a53"
+        },
+        {
+            "fight_id": "eb5cd79e00dd5cd2",
+            "fight_url": "http://ufcstats.com/fight-details/eb5cd79e00dd5cd2"
+        },
+        {
+            "fight_id": "8abe79e6d300b639",
+            "fight_url": "http://ufcstats.com/fight-details/8abe79e6d300b639"
+        },
+        {
+            "fight_id": "12b94f0229c30ead",
+            "fight_url": "http://ufcstats.com/fight-details/12b94f0229c30ead"
+        },
+        {
+            "fight_id": "9a71dc94152a76ac",
+            "fight_url": "http://ufcstats.com/fight-details/9a71dc94152a76ac"
+        },
+        {
+            "fight_id": "1372409566d76c29",
+            "fight_url": "http://ufcstats.com/fight-details/1372409566d76c29"
+        },
+        {
+            "fight_id": "0a1cd93703423bf3",
+            "fight_url": "http://ufcstats.com/fight-details/0a1cd93703423bf3"
+        },
+        {
+            "fight_id": "458df792b7c7e872",
+            "fight_url": "http://ufcstats.com/fight-details/458df792b7c7e872"
+        },
+        {
+            "fight_id": "b3f0c32ef0008e91",
+            "fight_url": "http://ufcstats.com/fight-details/b3f0c32ef0008e91"
+        },
+        {
+            "fight_id": "1e02a945f4ada4ef",
+            "fight_url": "http://ufcstats.com/fight-details/1e02a945f4ada4ef"
+        },
+        {
+            "fight_id": "c108e8f2c0330460",
+            "fight_url": "http://ufcstats.com/fight-details/c108e8f2c0330460"
+        },
+        {
+            "fight_id": "e7225dcc3349ae57",
+            "fight_url": "http://ufcstats.com/fight-details/e7225dcc3349ae57"
+        },
+        {
+            "fight_id": "0cc225bf45697271",
+            "fight_url": "http://ufcstats.com/fight-details/0cc225bf45697271"
+        }
+    ]
+}

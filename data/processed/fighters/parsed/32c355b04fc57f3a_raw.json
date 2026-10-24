@@ -1,0 +1,80 @@
+{
+    "fighter_id": "32c355b04fc57f3a",
+    "name": "Marc Diakiese",
+    "record": "17-7-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Mar 16, 1993",
+    "sig_strikes_landed_per_min": "2.54",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "2.64",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "3.29",
+    "takedown_accuracy": "43%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "3c69bed42893da75",
+            "fight_url": "http://ufcstats.com/fight-details/3c69bed42893da75"
+        },
+        {
+            "fight_id": "319b96f615a0a154",
+            "fight_url": "http://ufcstats.com/fight-details/319b96f615a0a154"
+        },
+        {
+            "fight_id": "92c1d9a6d313cb0c",
+            "fight_url": "http://ufcstats.com/fight-details/92c1d9a6d313cb0c"
+        },
+        {
+            "fight_id": "dd6dbe644f599795",
+            "fight_url": "http://ufcstats.com/fight-details/dd6dbe644f599795"
+        },
+        {
+            "fight_id": "f6afaf2a39fa441c",
+            "fight_url": "http://ufcstats.com/fight-details/f6afaf2a39fa441c"
+        },
+        {
+            "fight_id": "2c21abbc28e3876a",
+            "fight_url": "http://ufcstats.com/fight-details/2c21abbc28e3876a"
+        },
+        {
+            "fight_id": "e5872dfa5b93fcbb",
+            "fight_url": "http://ufcstats.com/fight-details/e5872dfa5b93fcbb"
+        },
+        {
+            "fight_id": "951968aa52a84928",
+            "fight_url": "http://ufcstats.com/fight-details/951968aa52a84928"
+        },
+        {
+            "fight_id": "44ab00737c3fb890",
+            "fight_url": "http://ufcstats.com/fight-details/44ab00737c3fb890"
+        },
+        {
+            "fight_id": "4f16ef3e707447a0",
+            "fight_url": "http://ufcstats.com/fight-details/4f16ef3e707447a0"
+        },
+        {
+            "fight_id": "3d76ed7e224e9c99",
+            "fight_url": "http://ufcstats.com/fight-details/3d76ed7e224e9c99"
+        },
+        {
+            "fight_id": "6f836a82a0530884",
+            "fight_url": "http://ufcstats.com/fight-details/6f836a82a0530884"
+        },
+        {
+            "fight_id": "eee7f546c126ee8b",
+            "fight_url": "http://ufcstats.com/fight-details/eee7f546c126ee8b"
+        },
+        {
+            "fight_id": "a71febed166b7d42",
+            "fight_url": "http://ufcstats.com/fight-details/a71febed166b7d42"
+        },
+        {
+            "fight_id": "8794b5f9a591daf6",
+            "fight_url": "http://ufcstats.com/fight-details/8794b5f9a591daf6"
+        }
+    ]
+}

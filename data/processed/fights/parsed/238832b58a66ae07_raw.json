@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "238832b58a66ae07",
+        "event_id": "cbb682f5fcc44bfc",
+        "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "1:23",
+        "referee": "Mike Beltran",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "262a7d06203657e6",
+        "name": "Alexander Hernandez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 79",
+            "Sig. str. %": "46%",
+            "Total str.": "39 of 81",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 79",
+            "Sig. str. %": "46%",
+            "Head": "19 of 55",
+            "Body": "8 of 13",
+            "Leg": "10 of 11",
+            "Distance": "35 of 76",
+            "Clinch": "1 of 2",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 60",
+            "Sig. str. %": "55%",
+            "Total str.": "38 of 65",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 60",
+            "Sig. str. %": "55%",
+            "Head": "25 of 51",
+            "Body": "6 of 6",
+            "Leg": "2 of 3",
+            "Distance": "26 of 50",
+            "Clinch": "4 of 4",
+            "Ground": "3 of 6"
+        }
+    }
+}

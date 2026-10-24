@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "18524b46c570730b",
+        "event_name": "UFC 142: Aldo vs Mendes",
+        "event_day": 14,
+        "event_month": 1,
+        "event_year": 2012,
+        "location": "Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "9afcb091777f6a83",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Chad Mendes",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/9afcb091777f6a83"
+        },
+        {
+            "fight_id": "50bdcb20286690ff",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Anthony Johnson",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 289,
+            "fight_url": "http://ufcstats.com/fight-details/50bdcb20286690ff"
+        },
+        {
+            "fight_id": "c715c165cb3469d2",
+            "fighter_a": "Rousimar Palhares",
+            "fighter_b": "Mike Massenzio",
+            "winner": "Rousimar Palhares",
+            "weight_class": "Middleweight",
+            "method": "SUB Heel Hook",
+            "round": 1,
+            "time_seconds": 63,
+            "fight_url": "http://ufcstats.com/fight-details/c715c165cb3469d2"
+        },
+        {
+            "fight_id": "b2a91be41c3233cd",
+            "fighter_a": "Carlo Prater",
+            "fighter_b": "Erick Silva",
+            "winner": "Carlo Prater",
+            "weight_class": "Welterweight",
+            "method": "DQ",
+            "round": 1,
+            "time_seconds": 29,
+            "fight_url": "http://ufcstats.com/fight-details/b2a91be41c3233cd"
+        },
+        {
+            "fight_id": "11e7f12ecb2d1597",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Terry Etim",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 122,
+            "fight_url": "http://ufcstats.com/fight-details/11e7f12ecb2d1597"
+        },
+        {
+            "fight_id": "977e37adadd1b8ad",
+            "fighter_a": "Thiago Tavares",
+            "fighter_b": "Sam Stout",
+            "winner": "Thiago Tavares",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/977e37adadd1b8ad"
+        },
+        {
+            "fight_id": "0695d1f42b1550a2",
+            "fighter_a": "Gabriel Gonzaga",
+            "fighter_b": "Ednaldo Oliveira",
+            "winner": "Gabriel Gonzaga",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 202,
+            "fight_url": "http://ufcstats.com/fight-details/0695d1f42b1550a2"
+        },
+        {
+            "fight_id": "0be68308b5d63a47",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Michihiro Omigawa",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0be68308b5d63a47"
+        },
+        {
+            "fight_id": "f126491f024c1563",
+            "fighter_a": "Mike Pyle",
+            "fighter_b": "Ricardo Funch",
+            "winner": "Mike Pyle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knees",
+            "round": 1,
+            "time_seconds": 82,
+            "fight_url": "http://ufcstats.com/fight-details/f126491f024c1563"
+        },
+        {
+            "fight_id": "7bb603674999e675",
+            "fighter_a": "Felipe Arantes",
+            "fighter_b": "Antonio Carvalho",
+            "winner": "Felipe Arantes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7bb603674999e675"
+        }
+    ]
+}

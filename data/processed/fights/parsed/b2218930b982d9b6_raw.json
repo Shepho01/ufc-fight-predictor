@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b2218930b982d9b6",
+        "event_id": "92c96df8bdab5fea",
+        "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Rich Mitchell",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "b1b0729d27936f2f",
+        "name": "Belal Muhammad",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 139",
+            "Sig. str. %": "40%",
+            "Total str.": "97 of 197",
+            "Td": "0 of 7",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 139",
+            "Sig. str. %": "40%",
+            "Head": "45 of 126",
+            "Body": "8 of 9",
+            "Leg": "3 of 4",
+            "Distance": "52 of 131",
+            "Clinch": "4 of 8",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "72 of 141",
+            "Sig. str. %": "51%",
+            "Total str.": "96 of 167",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "72 of 141",
+            "Sig. str. %": "51%",
+            "Head": "35 of 98",
+            "Body": "10 of 15",
+            "Leg": "27 of 28",
+            "Distance": "66 of 134",
+            "Clinch": "6 of 7",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "3623bd267a2eef2e",
+    "name": "Yaotzin Meza",
+    "wins": 21,
+    "losses": 11,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 4,
+    "dob_month": 2,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 1.43,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 1.62,
+    "sig_strike_defense": 0.64,
+    "takedowns_landed_per_15_min": 1.06,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.18,
+    "submission_attempts_per_15_min": 1.4
+}

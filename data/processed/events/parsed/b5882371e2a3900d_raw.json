@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "b5882371e2a3900d",
+        "event_name": "UFC 234: Adesanya vs. Silva",
+        "event_date": "February 09, 2019",
+        "location": "Melbourne, Victoria, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "4eb91cfc892a108e",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Anderson Silva",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4eb91cfc892a108e"
+        },
+        {
+            "fight_id": "aa71cf96ba4e5a36",
+            "fighter_a": "Lando Vannata",
+            "fighter_b": "Marcos Mariano",
+            "winner": "Lando Vannata",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "4:55",
+            "fight_url": "http://ufcstats.com/fight-details/aa71cf96ba4e5a36"
+        },
+        {
+            "fight_id": "069e3e704cbf6337",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Rani Yahya",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/069e3e704cbf6337"
+        },
+        {
+            "fight_id": "fd1854062406d287",
+            "fighter_a": "Montana De La Rosa",
+            "fighter_b": "Nadia Kassem",
+            "winner": "Montana De La Rosa",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "2:37",
+            "fight_url": "http://ufcstats.com/fight-details/fd1854062406d287"
+        },
+        {
+            "fight_id": "e4862c4f20117cb8",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Sam Alvey",
+            "winner": "Jimmy Crute",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:49",
+            "fight_url": "http://ufcstats.com/fight-details/e4862c4f20117cb8"
+        },
+        {
+            "fight_id": "5ff8463edf8155c0",
+            "fighter_a": "Devonte Smith",
+            "fighter_b": "Dong Hyun Ma",
+            "winner": "Devonte Smith",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:53",
+            "fight_url": "http://ufcstats.com/fight-details/5ff8463edf8155c0"
+        },
+        {
+            "fight_id": "49f7186e1e3cf6c8",
+            "fighter_a": "Shane Young",
+            "fighter_b": "Austin Arnett",
+            "winner": "Shane Young",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/49f7186e1e3cf6c8"
+        },
+        {
+            "fight_id": "51db35a3cf225bda",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Raulian Paiva",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/51db35a3cf225bda"
+        },
+        {
+            "fight_id": "b247a1900cfae052",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Teruto Ishihara",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:59",
+            "fight_url": "http://ufcstats.com/fight-details/b247a1900cfae052"
+        },
+        {
+            "fight_id": "11c0ef97497303ef",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Callan Potter",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "0:53",
+            "fight_url": "http://ufcstats.com/fight-details/11c0ef97497303ef"
+        },
+        {
+            "fight_id": "8e43d61ca6f2d904",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Wulijiburen",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8e43d61ca6f2d904"
+        }
+    ]
+}

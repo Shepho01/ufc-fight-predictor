@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "42c96a9c4802e2e1",
+        "event_name": "UFC Fight Night: Korean Zombie vs. Rodriguez",
+        "event_day": 10,
+        "event_month": 11,
+        "event_year": 2018,
+        "location": "Denver, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0ccd16201ac41ef8",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbow",
+            "round": 5,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/0ccd16201ac41ef8"
+        },
+        {
+            "fight_id": "46cfd4aaa02ce202",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Mike Perry",
+            "winner": "Donald Cerrone",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 286,
+            "fight_url": "http://ufcstats.com/fight-details/46cfd4aaa02ce202"
+        },
+        {
+            "fight_id": "0a667143584a2d96",
+            "fighter_a": "Germaine de Randamie",
+            "fighter_b": "Raquel Pennington",
+            "winner": "Germaine de Randamie",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0a667143584a2d96"
+        },
+        {
+            "fight_id": "14cf0828d6e373ab",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Thiago Moises",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/14cf0828d6e373ab"
+        },
+        {
+            "fight_id": "17f69a241aa952fd",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Hannah Cifers",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 121,
+            "fight_url": "http://ufcstats.com/fight-details/17f69a241aa952fd"
+        },
+        {
+            "fight_id": "2c84f2cb1bb23ab8",
+            "fighter_a": "Michael Trizano",
+            "fighter_b": "Luis Pena",
+            "winner": "Michael Trizano",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2c84f2cb1bb23ab8"
+        },
+        {
+            "fight_id": "bd5efa4b53dc1642",
+            "fighter_a": "Ashley Yoder",
+            "fighter_b": "Amanda Cooper",
+            "winner": "Ashley Yoder",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bd5efa4b53dc1642"
+        },
+        {
+            "fight_id": "04d37c1c206c0efd",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Bobby Moffett",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "Overturned D'Arce Choke",
+            "round": 2,
+            "time_seconds": 163,
+            "fight_url": "http://ufcstats.com/fight-details/04d37c1c206c0efd"
+        },
+        {
+            "fight_id": "933cf2674503c63d",
+            "fighter_a": "Davi Ramos",
+            "fighter_b": "John Gunther",
+            "winner": "Davi Ramos",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 117,
+            "fight_url": "http://ufcstats.com/fight-details/933cf2674503c63d"
+        },
+        {
+            "fight_id": "79fb77a0b0294aec",
+            "fighter_a": "Devonte Smith",
+            "fighter_b": "Julian Erosa",
+            "winner": "Devonte Smith",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 46,
+            "fight_url": "http://ufcstats.com/fight-details/79fb77a0b0294aec"
+        },
+        {
+            "fight_id": "3210723fbb018fa7",
+            "fighter_a": "Eric Shelton",
+            "fighter_b": "Joseph Morales",
+            "winner": "Eric Shelton",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3210723fbb018fa7"
+        },
+        {
+            "fight_id": "38abefbf24624a35",
+            "fighter_a": "Mark De La Rosa",
+            "fighter_b": "Joby Sanchez",
+            "winner": "Mark De La Rosa",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/38abefbf24624a35"
+        }
+    ]
+}

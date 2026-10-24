@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1f5f59924b59408b",
+        "event_id": "eb42d4febfafefd1",
+        "event_name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "72db2a14ffa73ece"
+    },
+    "fighter_a": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "95 of 247",
+            "Sig. str. %": "38%",
+            "Total str.": "110 of 264",
+            "Td": "1 of 8",
+            "Td %": "12%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "95 of 247",
+            "Sig. str. %": "38%",
+            "Head": "43 of 182",
+            "Body": "39 of 48",
+            "Leg": "13 of 17",
+            "Distance": "88 of 235",
+            "Clinch": "3 of 6",
+            "Ground": "4 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "72db2a14ffa73ece",
+        "name": "Mateusz Gamrot",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "81 of 138",
+            "Sig. str. %": "58%",
+            "Total str.": "108 of 166",
+            "Td": "6 of 21",
+            "Td %": "28%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "81 of 138",
+            "Sig. str. %": "58%",
+            "Head": "68 of 121",
+            "Body": "9 of 12",
+            "Leg": "4 of 5",
+            "Distance": "73 of 129",
+            "Clinch": "4 of 5",
+            "Ground": "4 of 4"
+        }
+    }
+}

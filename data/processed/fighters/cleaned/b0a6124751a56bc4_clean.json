@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b0a6124751a56bc4",
+    "name": "Jonathan Brookins",
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 145,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 13,
+    "dob_month": 8,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 2.69,
+    "sig_striking_accuracy": 0.39,
+    "sig_strikes_absorbed_per_min": 3.63,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 1.94,
+    "takedown_accuracy": 0.17,
+    "takedown_defense": 0.8,
+    "submission_attempts_per_15_min": 0.3
+}

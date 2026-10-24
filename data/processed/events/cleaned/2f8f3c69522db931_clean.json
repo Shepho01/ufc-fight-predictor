@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "2f8f3c69522db931",
+        "event_name": "UFC Fight Night: De Randamie vs. Ladd",
+        "event_day": 13,
+        "event_month": 7,
+        "event_year": 2019,
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "edc87836fd998929",
+            "fighter_a": "Germaine de Randamie",
+            "fighter_b": "Aspen Ladd",
+            "winner": "Germaine de Randamie",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 16,
+            "fight_url": "http://ufcstats.com/fight-details/edc87836fd998929"
+        },
+        {
+            "fight_id": "75b1533cc3cafae9",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Ricky Simon",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 46,
+            "fight_url": "http://ufcstats.com/fight-details/75b1533cc3cafae9"
+        },
+        {
+            "fight_id": "138cb102906573f2",
+            "fighter_a": "Josh Emmett",
+            "fighter_b": "Mirsad Bektic",
+            "winner": "Josh Emmett",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/138cb102906573f2"
+        },
+        {
+            "fight_id": "a7cf716f5d73b558",
+            "fighter_a": "Karl Roberson",
+            "fighter_b": "Wellington Turman",
+            "winner": "Karl Roberson",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a7cf716f5d73b558"
+        },
+        {
+            "fight_id": "9b0de83b4e504bf6",
+            "fighter_a": "Marvin Vettori",
+            "fighter_b": "Cezar Ferreira",
+            "winner": "Marvin Vettori",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9b0de83b4e504bf6"
+        },
+        {
+            "fight_id": "aa6a9aeeb45577d4",
+            "fighter_a": "Mike Rodriguez",
+            "fighter_b": "John Allan",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/aa6a9aeeb45577d4"
+        },
+        {
+            "fight_id": "b436dda934059631",
+            "fighter_a": "Andre Fili",
+            "fighter_b": "Sheymon Moraes",
+            "winner": "Andre Fili",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 187,
+            "fight_url": "http://ufcstats.com/fight-details/b436dda934059631"
+        },
+        {
+            "fight_id": "60be02c5566c8348",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Nicco Montano",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/60be02c5566c8348"
+        },
+        {
+            "fight_id": "37a8c442fb38db75",
+            "fighter_a": "Ryan Hall",
+            "fighter_b": "Darren Elkins",
+            "winner": "Ryan Hall",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/37a8c442fb38db75"
+        },
+        {
+            "fight_id": "ad63c30e22e63344",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Pingyuan Liu",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 234,
+            "fight_url": "http://ufcstats.com/fight-details/ad63c30e22e63344"
+        },
+        {
+            "fight_id": "2d42ef44ad2470e1",
+            "fighter_a": "Brianna Fortino",
+            "fighter_b": "Livinha Souza",
+            "winner": "Brianna Fortino",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d42ef44ad2470e1"
+        },
+        {
+            "fight_id": "358468724d7d4322",
+            "fighter_a": "Benito Lopez",
+            "fighter_b": "Vince Morales",
+            "winner": "Benito Lopez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/358468724d7d4322"
+        }
+    ]
+}

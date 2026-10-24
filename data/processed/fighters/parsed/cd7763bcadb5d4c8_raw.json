@@ -1,0 +1,60 @@
+{
+    "fighter_id": "cd7763bcadb5d4c8",
+    "name": "Alan Patrick",
+    "record": "15-4-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Jul 19, 1983",
+    "sig_strikes_landed_per_min": "1.82",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "2.95",
+    "sig_strike_defense": "43%",
+    "takedowns_landed_per_15_min": "3.01",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "43%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "8a1aa64eb1f17913",
+            "fight_url": "http://ufcstats.com/fight-details/8a1aa64eb1f17913"
+        },
+        {
+            "fight_id": "9cdfcd164b48f55e",
+            "fight_url": "http://ufcstats.com/fight-details/9cdfcd164b48f55e"
+        },
+        {
+            "fight_id": "06910bddb0745856",
+            "fight_url": "http://ufcstats.com/fight-details/06910bddb0745856"
+        },
+        {
+            "fight_id": "c835ccffa472970e",
+            "fight_url": "http://ufcstats.com/fight-details/c835ccffa472970e"
+        },
+        {
+            "fight_id": "59b384dcc3ab49b2",
+            "fight_url": "http://ufcstats.com/fight-details/59b384dcc3ab49b2"
+        },
+        {
+            "fight_id": "1afa8d6ae4d8a5b2",
+            "fight_url": "http://ufcstats.com/fight-details/1afa8d6ae4d8a5b2"
+        },
+        {
+            "fight_id": "95d46f7a7e72f91c",
+            "fight_url": "http://ufcstats.com/fight-details/95d46f7a7e72f91c"
+        },
+        {
+            "fight_id": "0b98d84a2795f7f8",
+            "fight_url": "http://ufcstats.com/fight-details/0b98d84a2795f7f8"
+        },
+        {
+            "fight_id": "b9be2e52d02886e2",
+            "fight_url": "http://ufcstats.com/fight-details/b9be2e52d02886e2"
+        },
+        {
+            "fight_id": "79e7b986601fdd2a",
+            "fight_url": "http://ufcstats.com/fight-details/79e7b986601fdd2a"
+        }
+    ]
+}

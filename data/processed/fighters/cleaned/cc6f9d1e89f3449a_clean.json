@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cc6f9d1e89f3449a",
+    "name": "Manvel Gamburyan",
+    "wins": 15,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 165.1,
+    "weight_lbs": 135,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 8,
+    "dob_month": 5,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 2.13,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 2.83,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 3.26,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.69,
+    "submission_attempts_per_15_min": 0.7
+}

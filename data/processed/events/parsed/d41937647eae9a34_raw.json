@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "d41937647eae9a34",
+        "event_name": "UFC 154: St-Pierre vs Condit",
+        "event_date": "November 17, 2012",
+        "location": "Montreal, Quebec, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "8d12287f672cabd8",
+            "fighter_a": "Georges St-Pierre",
+            "fighter_b": "Carlos Condit",
+            "winner": "Georges St-Pierre",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8d12287f672cabd8"
+        },
+        {
+            "fight_id": "4a29c1f671bd89cb",
+            "fighter_a": "Johny Hendricks",
+            "fighter_b": "Martin Kampmann",
+            "winner": "Johny Hendricks",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:46",
+            "fight_url": "http://ufcstats.com/fight-details/4a29c1f671bd89cb"
+        },
+        {
+            "fight_id": "4861212df08bbf77",
+            "fighter_a": "Francis Carmont",
+            "fighter_b": "Tom Lawlor",
+            "winner": "Francis Carmont",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4861212df08bbf77"
+        },
+        {
+            "fight_id": "a65cf6951e097273",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Mark Bocek",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a65cf6951e097273"
+        },
+        {
+            "fight_id": "bc3323f172832a53",
+            "fighter_a": "Pablo Garza",
+            "fighter_b": "Mark Hominick",
+            "winner": "Pablo Garza",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc3323f172832a53"
+        },
+        {
+            "fight_id": "72a3ec0672871ab4",
+            "fighter_a": "Patrick Cote",
+            "fighter_b": "Alessio Sakara",
+            "winner": "Patrick Cote",
+            "weight_class": "Middleweight",
+            "method": "DQ",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/72a3ec0672871ab4"
+        },
+        {
+            "fight_id": "1f7c1c741b06a3ed",
+            "fighter_a": "Cyrille Diabate",
+            "fighter_b": "Chad Griggs",
+            "winner": "Cyrille Diabate",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:24",
+            "fight_url": "http://ufcstats.com/fight-details/1f7c1c741b06a3ed"
+        },
+        {
+            "fight_id": "467d2dc6a71e1b00",
+            "fighter_a": "John Makdessi",
+            "fighter_b": "Sam Stout",
+            "winner": "John Makdessi",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/467d2dc6a71e1b00"
+        },
+        {
+            "fight_id": "f6d8bdc3cdcf1dd8",
+            "fighter_a": "Antonio Carvalho",
+            "fighter_b": "Rodrigo Damm",
+            "winner": "Antonio Carvalho",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f6d8bdc3cdcf1dd8"
+        },
+        {
+            "fight_id": "30ebe705eac7b121",
+            "fighter_a": "Matthew Riddle",
+            "fighter_b": "John Maguire",
+            "winner": "Matthew Riddle",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/30ebe705eac7b121"
+        },
+        {
+            "fight_id": "9b6806203bc4875a",
+            "fighter_a": "Ivan Menjivar",
+            "fighter_b": "Azamat Gashimov",
+            "winner": "Ivan Menjivar",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "2:44",
+            "fight_url": "http://ufcstats.com/fight-details/9b6806203bc4875a"
+        },
+        {
+            "fight_id": "e843a7a6f49db3bb",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Steven Siler",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e843a7a6f49db3bb"
+        }
+    ]
+}

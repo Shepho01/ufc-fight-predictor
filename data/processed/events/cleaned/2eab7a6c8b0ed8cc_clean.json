@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "2eab7a6c8b0ed8cc",
+        "event_name": "UFC Fight Night: Blaydes vs. Volkov",
+        "event_day": 20,
+        "event_month": 6,
+        "event_year": 2020,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0c3622569cd8062a",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Alexander Volkov",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0c3622569cd8062a"
+        },
+        {
+            "fight_id": "4f99b4a39925cb47",
+            "fighter_a": "Josh Emmett",
+            "fighter_b": "Shane Burgos",
+            "winner": "Josh Emmett",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4f99b4a39925cb47"
+        },
+        {
+            "fight_id": "8b9e9f283e76b429",
+            "fighter_a": "Raquel Pennington",
+            "fighter_b": "Marion Reneau",
+            "winner": "Raquel Pennington",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8b9e9f283e76b429"
+        },
+        {
+            "fight_id": "f00921c62315be96",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Lyman Good",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f00921c62315be96"
+        },
+        {
+            "fight_id": "9b39e15b42422a08",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Roosevelt Roberts",
+            "winner": "Jim Miller",
+            "weight_class": "Catch Weight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 145,
+            "fight_url": "http://ufcstats.com/fight-details/9b39e15b42422a08"
+        },
+        {
+            "fight_id": "d851cbbbdfd05a49",
+            "fighter_a": "King Green",
+            "fighter_b": "Clay Guida",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d851cbbbdfd05a49"
+        },
+        {
+            "fight_id": "1adee75d6c671cc8",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Brianna Fortino",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1adee75d6c671cc8"
+        },
+        {
+            "fight_id": "f044802db5688bbe",
+            "fighter_a": "Marc-Andre Barriault",
+            "fighter_b": "Oskar Piechota",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "Overturned Punches",
+            "round": 2,
+            "time_seconds": 290,
+            "fight_url": "http://ufcstats.com/fight-details/f044802db5688bbe"
+        },
+        {
+            "fight_id": "90715135a543b6e3",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Cortney Casey",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 276,
+            "fight_url": "http://ufcstats.com/fight-details/90715135a543b6e3"
+        },
+        {
+            "fight_id": "7f0175f71481b63d",
+            "fighter_a": "Justin Jaynes",
+            "fighter_b": "Frank Camacho",
+            "winner": "Justin Jaynes",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/7f0175f71481b63d"
+        },
+        {
+            "fight_id": "088b47d890b389e9",
+            "fighter_a": "Lauren Murphy",
+            "fighter_b": "Roxanne Modafferi",
+            "winner": "Lauren Murphy",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/088b47d890b389e9"
+        },
+        {
+            "fight_id": "d333a6c34ff16397",
+            "fighter_a": "Austin Hubbard",
+            "fighter_b": "Max Rohskopf",
+            "winner": "Austin Hubbard",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d333a6c34ff16397"
+        }
+    ]
+}

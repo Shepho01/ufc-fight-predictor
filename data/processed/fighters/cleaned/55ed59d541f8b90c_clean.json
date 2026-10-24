@@ -1,0 +1,23 @@
+{
+    "fighter_id": "55ed59d541f8b90c",
+    "name": "Rolando Dy",
+    "wins": 9,
+    "losses": 7,
+    "draws": 1,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 11,
+    "dob_month": 8,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 3.04,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 4.47,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 0.3,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 0.0
+}

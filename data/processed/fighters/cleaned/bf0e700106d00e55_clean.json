@@ -1,0 +1,23 @@
+{
+    "fighter_id": "bf0e700106d00e55",
+    "name": "Austin Arnett",
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 22,
+    "dob_month": 10,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 4.52,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 6.38,
+    "sig_strike_defense": 0.62,
+    "takedowns_landed_per_15_min": 0.44,
+    "takedown_accuracy": 0.18,
+    "takedown_defense": 0.57,
+    "submission_attempts_per_15_min": 0.2
+}

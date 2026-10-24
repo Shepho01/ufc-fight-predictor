@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "18292c8eb20ae045",
+        "event_id": "20fbff570c678e1c",
+        "event_name": "The Ultimate Fighter: Team McGregor vs. Team Faber Finale",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:28",
+        "referee": "John McCarthy",
+        "winner_id": "f2688492b9a525a3"
+    },
+    "fighter_a": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "13 of 32",
+            "Sig. str. %": "40%",
+            "Total str.": "13 of 32",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 32",
+            "Sig. str. %": "40%",
+            "Head": "9 of 25",
+            "Body": "2 of 4",
+            "Leg": "2 of 3",
+            "Distance": "11 of 30",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 17",
+            "Sig. str. %": "29%",
+            "Total str.": "5 of 17",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 17",
+            "Sig. str. %": "29%",
+            "Head": "1 of 13",
+            "Body": "0 of 0",
+            "Leg": "4 of 4",
+            "Distance": "5 of 17",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "e4d2564ea0e34e2b",
+    "name": "Mehdi Baghdad",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 13,
+    "dob_month": 4,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 3.13,
+    "sig_striking_accuracy": 0.3,
+    "sig_strikes_absorbed_per_min": 4.56,
+    "sig_strike_defense": 0.46,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.33,
+    "submission_attempts_per_15_min": 0.0
+}

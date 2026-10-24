@@ -1,0 +1,48 @@
+{
+    "fighter_id": "01afe0916a40c7c5",
+    "name": "Shavkat Rakhmonov",
+    "record": "19-0-0",
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Oct 23, 1994",
+    "sig_strikes_landed_per_min": "3.25",
+    "sig_striking_accuracy": "60%",
+    "sig_strikes_absorbed_per_min": "2.17",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "1.40",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "85%",
+    "submission_attempts_per_15_min": "1.2",
+    "fight_history": [
+        {
+            "fight_id": "1569186ee820ea87",
+            "fight_url": "http://ufcstats.com/fight-details/1569186ee820ea87"
+        },
+        {
+            "fight_id": "1efc813ccd7a5aba",
+            "fight_url": "http://ufcstats.com/fight-details/1efc813ccd7a5aba"
+        },
+        {
+            "fight_id": "22fc6b3f4e48cfa3",
+            "fight_url": "http://ufcstats.com/fight-details/22fc6b3f4e48cfa3"
+        },
+        {
+            "fight_id": "3c98739eb42f96bf",
+            "fight_url": "http://ufcstats.com/fight-details/3c98739eb42f96bf"
+        },
+        {
+            "fight_id": "6b4c2cc27855506a",
+            "fight_url": "http://ufcstats.com/fight-details/6b4c2cc27855506a"
+        },
+        {
+            "fight_id": "086c2a0cae0835c4",
+            "fight_url": "http://ufcstats.com/fight-details/086c2a0cae0835c4"
+        },
+        {
+            "fight_id": "5b062be91c65fb73",
+            "fight_url": "http://ufcstats.com/fight-details/5b062be91c65fb73"
+        }
+    ]
+}

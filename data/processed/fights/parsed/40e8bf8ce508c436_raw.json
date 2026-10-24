@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "40e8bf8ce508c436",
+        "event_id": "b6c6d1731ff00eeb",
+        "event_name": "UFC 289: Nunes vs. Aldana",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:10",
+        "referee": "Jason Herzog",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "26 of 36",
+            "Sig. str. %": "72%",
+            "Total str.": "37 of 47",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 36",
+            "Sig. str. %": "72%",
+            "Head": "23 of 32",
+            "Body": "3 of 3",
+            "Leg": "0 of 1",
+            "Distance": "7 of 13",
+            "Clinch": "3 of 3",
+            "Ground": "16 of 20"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "08af939f41b5a57b",
+        "name": "Beneil Dariush",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 28",
+            "Sig. str. %": "42%",
+            "Total str.": "32 of 59",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 28",
+            "Sig. str. %": "42%",
+            "Head": "8 of 24",
+            "Body": "3 of 3",
+            "Leg": "1 of 1",
+            "Distance": "6 of 14",
+            "Clinch": "0 of 0",
+            "Ground": "6 of 14"
+        }
+    }
+}

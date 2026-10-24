@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "54de03e04f571735",
+        "event_id": "66e0a70352fef46a",
+        "event_name": "UFC Fight Night: Namajunas vs. Cortez",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "TKO - Doctor's Stoppage",
+        "finish_round": 3,
+        "finish_time": "1:28",
+        "referee": "Herb Dean",
+        "winner_id": "52ef95b5860fb28c"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 147",
+            "Sig. str. %": "40%",
+            "Total str.": "59 of 148",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 147",
+            "Sig. str. %": "40%",
+            "Head": "29 of 109",
+            "Body": "21 of 28",
+            "Leg": "9 of 10",
+            "Distance": "55 of 138",
+            "Clinch": "4 of 9",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "52ef95b5860fb28c",
+        "name": "Jean Silva",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "53 of 109",
+            "Sig. str. %": "48%",
+            "Total str.": "53 of 109",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "53 of 109",
+            "Sig. str. %": "48%",
+            "Head": "37 of 89",
+            "Body": "15 of 19",
+            "Leg": "1 of 1",
+            "Distance": "48 of 101",
+            "Clinch": "5 of 7",
+            "Ground": "0 of 1"
+        }
+    }
+}

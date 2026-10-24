@@ -1,0 +1,44 @@
+{
+    "fighter_id": "8866c6f509c19089",
+    "name": "Ryan Hall",
+    "record": "9-2-0",
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Feb 22, 1985",
+    "sig_strikes_landed_per_min": "2.38",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "1.33",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "0.22",
+    "takedown_accuracy": "9%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "2.2",
+    "fight_history": [
+        {
+            "fight_id": "537a5aa4c248830e",
+            "fight_url": "http://ufcstats.com/fight-details/537a5aa4c248830e"
+        },
+        {
+            "fight_id": "07468b6347ac5e3d",
+            "fight_url": "http://ufcstats.com/fight-details/07468b6347ac5e3d"
+        },
+        {
+            "fight_id": "37a8c442fb38db75",
+            "fight_url": "http://ufcstats.com/fight-details/37a8c442fb38db75"
+        },
+        {
+            "fight_id": "bd7a8c6c74655afc",
+            "fight_url": "http://ufcstats.com/fight-details/bd7a8c6c74655afc"
+        },
+        {
+            "fight_id": "019983faebec6d64",
+            "fight_url": "http://ufcstats.com/fight-details/019983faebec6d64"
+        },
+        {
+            "fight_id": "1123fceef316106e",
+            "fight_url": "http://ufcstats.com/fight-details/1123fceef316106e"
+        }
+    ]
+}

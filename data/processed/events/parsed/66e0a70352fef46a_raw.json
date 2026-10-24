@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "66e0a70352fef46a",
+        "event_name": "UFC Fight Night: Namajunas vs. Cortez",
+        "event_date": "July 13, 2024",
+        "location": "Denver, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1394ce1832ddefe0",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Tracy Cortez",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1394ce1832ddefe0"
+        },
+        {
+            "fight_id": "dff8e4ef87d69516",
+            "fighter_a": "Muslim Salikhov",
+            "fighter_b": "Santiago Ponzinibbio",
+            "winner": "Muslim Salikhov",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dff8e4ef87d69516"
+        },
+        {
+            "fight_id": "54de03e04f571735",
+            "fighter_a": "Jean Silva",
+            "fighter_b": "Drew Dober",
+            "winner": "Jean Silva",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/54de03e04f571735"
+        },
+        {
+            "fight_id": "dad759ec50508147",
+            "fighter_a": "Gabriel Bonfim",
+            "fighter_b": "Ange Loosa",
+            "winner": "Gabriel Bonfim",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dad759ec50508147"
+        },
+        {
+            "fight_id": "a63bb85cc39389c7",
+            "fighter_a": "Julian Erosa",
+            "fighter_b": "Christian Rodriguez",
+            "winner": "Julian Erosa",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/a63bb85cc39389c7"
+        },
+        {
+            "fight_id": "46fa8e79fe8a9539",
+            "fighter_a": "Abdul Razak Alhassan",
+            "fighter_b": "Cody Brundage",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "CNC",
+            "round": "1",
+            "time": "0:37",
+            "fight_url": "http://ufcstats.com/fight-details/46fa8e79fe8a9539"
+        },
+        {
+            "fight_id": "80108a70c4afa6c2",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Joshua Van",
+            "winner": "Charles Johnson",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:20",
+            "fight_url": "http://ufcstats.com/fight-details/80108a70c4afa6c2"
+        },
+        {
+            "fight_id": "582afc25875911d1",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Fatima Kline",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/582afc25875911d1"
+        },
+        {
+            "fight_id": "5eebde8fb4d67259",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Da'Mon Blackshear",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:18",
+            "fight_url": "http://ufcstats.com/fight-details/5eebde8fb4d67259"
+        },
+        {
+            "fight_id": "e06bfd0100eccbad",
+            "fighter_a": "Luana Santos",
+            "fighter_b": "Mariya Agapova",
+            "winner": "Luana Santos",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:27",
+            "fight_url": "http://ufcstats.com/fight-details/e06bfd0100eccbad"
+        },
+        {
+            "fight_id": "d8e8d41282fc90dc",
+            "fighter_a": "Andre Petroski",
+            "fighter_b": "Josh Fremd",
+            "winner": "Andre Petroski",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d8e8d41282fc90dc"
+        },
+        {
+            "fight_id": "25747d81ae5c6564",
+            "fighter_a": "Evan Elder",
+            "fighter_b": "Darrius Flowers",
+            "winner": "Evan Elder",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "1:46",
+            "fight_url": "http://ufcstats.com/fight-details/25747d81ae5c6564"
+        }
+    ]
+}

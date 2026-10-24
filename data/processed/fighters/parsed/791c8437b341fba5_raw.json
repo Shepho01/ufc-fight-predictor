@@ -1,0 +1,68 @@
+{
+    "fighter_id": "791c8437b341fba5",
+    "name": "Joanderson Brito",
+    "record": "20-5-1",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1995",
+    "sig_strikes_landed_per_min": "2.53",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.31",
+    "sig_strike_defense": "43%",
+    "takedowns_landed_per_15_min": "3.16",
+    "takedown_accuracy": "67%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "1.2",
+    "fight_history": [
+        {
+            "fight_id": "2e35163040eb3189",
+            "fight_url": "http://ufcstats.com/fight-details/2e35163040eb3189"
+        },
+        {
+            "fight_id": "44cfbb8c3c356c65",
+            "fight_url": "http://ufcstats.com/fight-details/44cfbb8c3c356c65"
+        },
+        {
+            "fight_id": "225e93ebed9b71b8",
+            "fight_url": "http://ufcstats.com/fight-details/225e93ebed9b71b8"
+        },
+        {
+            "fight_id": "a160e94fdb66de17",
+            "fight_url": "http://ufcstats.com/fight-details/a160e94fdb66de17"
+        },
+        {
+            "fight_id": "19706d8ba0edf9cd",
+            "fight_url": "http://ufcstats.com/fight-details/19706d8ba0edf9cd"
+        },
+        {
+            "fight_id": "c456b1950208e0b2",
+            "fight_url": "http://ufcstats.com/fight-details/c456b1950208e0b2"
+        },
+        {
+            "fight_id": "62b64802ea49e2fd",
+            "fight_url": "http://ufcstats.com/fight-details/62b64802ea49e2fd"
+        },
+        {
+            "fight_id": "f5a6acc99bc5c634",
+            "fight_url": "http://ufcstats.com/fight-details/f5a6acc99bc5c634"
+        },
+        {
+            "fight_id": "b4bbc1b7efa770f5",
+            "fight_url": "http://ufcstats.com/fight-details/b4bbc1b7efa770f5"
+        },
+        {
+            "fight_id": "632c2d4ed12f2bdf",
+            "fight_url": "http://ufcstats.com/fight-details/632c2d4ed12f2bdf"
+        },
+        {
+            "fight_id": "8693027377658e61",
+            "fight_url": "http://ufcstats.com/fight-details/8693027377658e61"
+        },
+        {
+            "fight_id": "c6ed2a253886099b",
+            "fight_url": "http://ufcstats.com/fight-details/c6ed2a253886099b"
+        }
+    ]
+}

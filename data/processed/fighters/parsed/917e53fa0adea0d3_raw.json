@@ -1,0 +1,88 @@
+{
+    "fighter_id": "917e53fa0adea0d3",
+    "name": "Leonard Garcia",
+    "record": "18-13-1",
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jul 14, 1979",
+    "sig_strikes_landed_per_min": "2.77",
+    "sig_striking_accuracy": "24%",
+    "sig_strikes_absorbed_per_min": "4.79",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.30",
+    "takedown_accuracy": "26%",
+    "takedown_defense": "42%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "44ad16cd4e6c93d7",
+            "fight_url": "http://ufcstats.com/fight-details/44ad16cd4e6c93d7"
+        },
+        {
+            "fight_id": "a551d93167533459",
+            "fight_url": "http://ufcstats.com/fight-details/a551d93167533459"
+        },
+        {
+            "fight_id": "a6d07c32a1cb9730",
+            "fight_url": "http://ufcstats.com/fight-details/a6d07c32a1cb9730"
+        },
+        {
+            "fight_id": "80538f958af30aa0",
+            "fight_url": "http://ufcstats.com/fight-details/80538f958af30aa0"
+        },
+        {
+            "fight_id": "bb70048e290f4a86",
+            "fight_url": "http://ufcstats.com/fight-details/bb70048e290f4a86"
+        },
+        {
+            "fight_id": "6e574bd614afffd9",
+            "fight_url": "http://ufcstats.com/fight-details/6e574bd614afffd9"
+        },
+        {
+            "fight_id": "1372409566d76c29",
+            "fight_url": "http://ufcstats.com/fight-details/1372409566d76c29"
+        },
+        {
+            "fight_id": "ba9438f43e212f52",
+            "fight_url": "http://ufcstats.com/fight-details/ba9438f43e212f52"
+        },
+        {
+            "fight_id": "745b1395a2698762",
+            "fight_url": "http://ufcstats.com/fight-details/745b1395a2698762"
+        },
+        {
+            "fight_id": "5bcde86d5f40cebb",
+            "fight_url": "http://ufcstats.com/fight-details/5bcde86d5f40cebb"
+        },
+        {
+            "fight_id": "dd10baec46e0290f",
+            "fight_url": "http://ufcstats.com/fight-details/dd10baec46e0290f"
+        },
+        {
+            "fight_id": "5a81ddab738c45e8",
+            "fight_url": "http://ufcstats.com/fight-details/5a81ddab738c45e8"
+        },
+        {
+            "fight_id": "dae788f34bcfcab9",
+            "fight_url": "http://ufcstats.com/fight-details/dae788f34bcfcab9"
+        },
+        {
+            "fight_id": "c1ac62bc08810aef",
+            "fight_url": "http://ufcstats.com/fight-details/c1ac62bc08810aef"
+        },
+        {
+            "fight_id": "be307e6647a655c8",
+            "fight_url": "http://ufcstats.com/fight-details/be307e6647a655c8"
+        },
+        {
+            "fight_id": "fda850240fb80339",
+            "fight_url": "http://ufcstats.com/fight-details/fda850240fb80339"
+        },
+        {
+            "fight_id": "e7fdbd5c65798a5c",
+            "fight_url": "http://ufcstats.com/fight-details/e7fdbd5c65798a5c"
+        }
+    ]
+}

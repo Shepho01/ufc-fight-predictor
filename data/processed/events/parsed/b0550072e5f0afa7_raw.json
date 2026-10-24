@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "b0550072e5f0afa7",
+        "event_name": "UFC 236: Holloway vs. Poirier 2",
+        "event_date": "April 13, 2019",
+        "location": "Atlanta, Georgia, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "87126427cfcaee52",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Max Holloway",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/87126427cfcaee52"
+        },
+        {
+            "fight_id": "9bfda7c26578aaac",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Kelvin Gastelum",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9bfda7c26578aaac"
+        },
+        {
+            "fight_id": "e0d92694d8a2d38b",
+            "fighter_a": "Khalil Rountree Jr.",
+            "fighter_b": "Eryk Anders",
+            "winner": "Khalil Rountree Jr.",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e0d92694d8a2d38b"
+        },
+        {
+            "fight_id": "7dc87736c304b3dd",
+            "fighter_a": "Dwight Grant",
+            "fighter_b": "Alan Jouban",
+            "winner": "Dwight Grant",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7dc87736c304b3dd"
+        },
+        {
+            "fight_id": "d22c19fd92426567",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Nikita Krylov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:30",
+            "fight_url": "http://ufcstats.com/fight-details/d22c19fd92426567"
+        },
+        {
+            "fight_id": "31b283a5559ad44d",
+            "fighter_a": "Matt Frevola",
+            "fighter_b": "Jalin Turner",
+            "winner": "Matt Frevola",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/31b283a5559ad44d"
+        },
+        {
+            "fight_id": "c6b040021b4ceb0f",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Wilson Reis",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:58",
+            "fight_url": "http://ufcstats.com/fight-details/c6b040021b4ceb0f"
+        },
+        {
+            "fight_id": "bf719cf83cab229b",
+            "fighter_a": "Max Griffin",
+            "fighter_b": "Zelim Imadaev",
+            "winner": "Max Griffin",
+            "weight_class": "Welterweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bf719cf83cab229b"
+        },
+        {
+            "fight_id": "2456c4550c26e5e8",
+            "fighter_a": "Khalid Taha",
+            "fighter_b": "Boston Salmon",
+            "winner": "Khalid Taha",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:25",
+            "fight_url": "http://ufcstats.com/fight-details/2456c4550c26e5e8"
+        },
+        {
+            "fight_id": "23fd92555246d61e",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Curtis Millender",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/23fd92555246d61e"
+        },
+        {
+            "fight_id": "8da5849a6e7307bf",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Andre Soukhamthath",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8da5849a6e7307bf"
+        },
+        {
+            "fight_id": "75e580d5ea37c519",
+            "fighter_a": "Poliana Botelho",
+            "fighter_b": "Lauren Mueller",
+            "winner": "Poliana Botelho",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/75e580d5ea37c519"
+        },
+        {
+            "fight_id": "79da0eacafb22f86",
+            "fighter_a": "Brandon Davis",
+            "fighter_b": "Randy Costa",
+            "winner": "Brandon Davis",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:12",
+            "fight_url": "http://ufcstats.com/fight-details/79da0eacafb22f86"
+        }
+    ]
+}

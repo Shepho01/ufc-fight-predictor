@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f7114bf73eec4022",
+        "event_id": "cfbccfed4e4796fe",
+        "event_name": "UFC on FOX: Maia vs. Condit",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "68f6e96c5fa6e044"
+    },
+    "fighter_a": {
+        "fighter_id": "68f6e96c5fa6e044",
+        "name": "Jeremy Kennedy",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 71",
+            "Sig. str. %": "38%",
+            "Total str.": "43 of 94",
+            "Td": "5 of 14",
+            "Td %": "35%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "11:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 71",
+            "Sig. str. %": "38%",
+            "Head": "16 of 51",
+            "Body": "8 of 15",
+            "Leg": "3 of 5",
+            "Distance": "15 of 45",
+            "Clinch": "11 of 23",
+            "Ground": "1 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "bf9bc96336922271",
+        "name": "Alex Ricci",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 60",
+            "Sig. str. %": "46%",
+            "Total str.": "83 of 118",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 60",
+            "Sig. str. %": "46%",
+            "Head": "7 of 25",
+            "Body": "16 of 28",
+            "Leg": "5 of 7",
+            "Distance": "13 of 37",
+            "Clinch": "15 of 22",
+            "Ground": "0 of 1"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "63dd38f0dcc2ee88",
+        "event_id": "0c1773639c795466",
+        "event_name": "UFC 246: McGregor vs. Cowboy",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:10",
+        "referee": "Mark Smith",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "13 of 26",
+            "Sig. str. %": "50%",
+            "Total str.": "13 of 26",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 26",
+            "Sig. str. %": "50%",
+            "Head": "12 of 24",
+            "Body": "1 of 2",
+            "Leg": "0 of 0",
+            "Distance": "2 of 15",
+            "Clinch": "0 of 0",
+            "Ground": "11 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b7b84ccd221be298",
+        "name": "Nasrat Haqparast",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 11",
+            "Sig. str. %": "63%",
+            "Total str.": "7 of 11",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 11",
+            "Sig. str. %": "63%",
+            "Head": "3 of 7",
+            "Body": "2 of 2",
+            "Leg": "2 of 2",
+            "Distance": "7 of 11",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

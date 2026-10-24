@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "b23388ff8ac6637b",
+        "event_name": "UFC Fight Night: Thompson vs. Holland",
+        "event_date": "December 03, 2022",
+        "location": "Orlando, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a419e6df765aa755",
+            "fighter_a": "Stephen Thompson",
+            "fighter_b": "Kevin Holland",
+            "winner": "Stephen Thompson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": "4",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a419e6df765aa755"
+        },
+        {
+            "fight_id": "f17813d03fcd8e7a",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Bryan Barberena",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:20",
+            "fight_url": "http://ufcstats.com/fight-details/f17813d03fcd8e7a"
+        },
+        {
+            "fight_id": "5a8f7afc5ea69537",
+            "fighter_a": "Matheus Nicolau",
+            "fighter_b": "Matt Schnell",
+            "winner": "Matheus Nicolau",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:44",
+            "fight_url": "http://ufcstats.com/fight-details/5a8f7afc5ea69537"
+        },
+        {
+            "fight_id": "972e17c1b98fca06",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/972e17c1b98fca06"
+        },
+        {
+            "fight_id": "a71764d5da04e3bc",
+            "fighter_a": "Roman Dolidze",
+            "fighter_b": "Jack Hermansson",
+            "winner": "Roman Dolidze",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:06",
+            "fight_url": "http://ufcstats.com/fight-details/a71764d5da04e3bc"
+        },
+        {
+            "fight_id": "ca0f0a35a1fcb453",
+            "fighter_a": "Eryk Anders",
+            "fighter_b": "Kyle Daukaus",
+            "winner": "Eryk Anders",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:45",
+            "fight_url": "http://ufcstats.com/fight-details/ca0f0a35a1fcb453"
+        },
+        {
+            "fight_id": "7fbf09533c59e43f",
+            "fighter_a": "Phil Rowe",
+            "fighter_b": "Niko Price",
+            "winner": "Phil Rowe",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/7fbf09533c59e43f"
+        },
+        {
+            "fight_id": "0c9faf26efe2cdcc",
+            "fighter_a": "Angela Hill",
+            "fighter_b": "Emily Ducote",
+            "winner": "Angela Hill",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0c9faf26efe2cdcc"
+        },
+        {
+            "fight_id": "7bd6969c4ed979f9",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Scott Holtzman",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7bd6969c4ed979f9"
+        },
+        {
+            "fight_id": "92c1d9a6d313cb0c",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Marc Diakiese",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/92c1d9a6d313cb0c"
+        },
+        {
+            "fight_id": "be977e524ef56aa4",
+            "fighter_a": "Jonathan Pearce",
+            "fighter_b": "Darren Elkins",
+            "winner": "Jonathan Pearce",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/be977e524ef56aa4"
+        },
+        {
+            "fight_id": "30abc50a2e71c576",
+            "fighter_a": "Natan Levy",
+            "fighter_b": "Genaro Valdez",
+            "winner": "Natan Levy",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/30abc50a2e71c576"
+        },
+        {
+            "fight_id": "1114cd1515cf3b8f",
+            "fighter_a": "Francis Marshall",
+            "fighter_b": "Marcelo Rojo",
+            "winner": "Francis Marshall",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:14",
+            "fight_url": "http://ufcstats.com/fight-details/1114cd1515cf3b8f"
+        },
+        {
+            "fight_id": "2cec230248d7eb97",
+            "fighter_a": "Yazmin Jauregui",
+            "fighter_b": "Istela Nunes",
+            "winner": "Yazmin Jauregui",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:06",
+            "fight_url": "http://ufcstats.com/fight-details/2cec230248d7eb97"
+        }
+    ]
+}

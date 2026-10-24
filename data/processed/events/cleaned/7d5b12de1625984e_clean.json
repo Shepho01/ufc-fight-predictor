@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "7d5b12de1625984e",
+        "event_name": "UFC 136: Edgar vs Maynard 3",
+        "event_day": 8,
+        "event_month": 10,
+        "event_year": 2011,
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8a660069ae42edc2",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Gray Maynard",
+            "winner": "Frankie Edgar",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 4,
+            "time_seconds": 234,
+            "fight_url": "http://ufcstats.com/fight-details/8a660069ae42edc2"
+        },
+        {
+            "fight_id": "21d2958e13389511",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Kenny Florian",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/21d2958e13389511"
+        },
+        {
+            "fight_id": "63ee688385bf7c69",
+            "fighter_a": "Chael Sonnen",
+            "fighter_b": "Brian Stann",
+            "winner": "Chael Sonnen",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 231,
+            "fight_url": "http://ufcstats.com/fight-details/63ee688385bf7c69"
+        },
+        {
+            "fight_id": "80538f958af30aa0",
+            "fighter_a": "Nam Phan",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Nam Phan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/80538f958af30aa0"
+        },
+        {
+            "fight_id": "a369d5ca5aef8b25",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Melvin Guillard",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 47,
+            "fight_url": "http://ufcstats.com/fight-details/a369d5ca5aef8b25"
+        },
+        {
+            "fight_id": "5f4284409503d874",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Jorge Santiago",
+            "winner": "Demian Maia",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f4284409503d874"
+        },
+        {
+            "fight_id": "24d92c89c893db42",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/24d92c89c893db42"
+        },
+        {
+            "fight_id": "9274af24eb96e4b1",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Joey Beltran",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9274af24eb96e4b1"
+        },
+        {
+            "fight_id": "a730a20ab0c61499",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Zhang Tiequan",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a730a20ab0c61499"
+        },
+        {
+            "fight_id": "b16534d6bb279b2a",
+            "fighter_a": "Aaron Simpson",
+            "fighter_b": "Eric Schafer",
+            "winner": "Aaron Simpson",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b16534d6bb279b2a"
+        },
+        {
+            "fight_id": "14b450e4ff3c5b97",
+            "fighter_a": "Mike Massenzio",
+            "fighter_b": "Steve Cantwell",
+            "winner": "Mike Massenzio",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/14b450e4ff3c5b97"
+        }
+    ]
+}

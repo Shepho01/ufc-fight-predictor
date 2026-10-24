@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "e57f0b06ea39e360",
+        "event_name": "UFC Fight Night: Sandhagen vs. Dillashaw",
+        "event_day": 24,
+        "event_month": 7,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "214b268e4a92f950",
+            "fighter_a": "TJ Dillashaw",
+            "fighter_b": "Cory Sandhagen",
+            "winner": "TJ Dillashaw",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/214b268e4a92f950"
+        },
+        {
+            "fight_id": "4bb77b1d8efc53a9",
+            "fighter_a": "Raulian Paiva",
+            "fighter_b": "Kyler Phillips",
+            "winner": "Raulian Paiva",
+            "weight_class": "Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4bb77b1d8efc53a9"
+        },
+        {
+            "fight_id": "1bde9cb65d31cc76",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Darrick Minner",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 228,
+            "fight_url": "http://ufcstats.com/fight-details/1bde9cb65d31cc76"
+        },
+        {
+            "fight_id": "7c3ad06a520b8716",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Miranda Maverick",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7c3ad06a520b8716"
+        },
+        {
+            "fight_id": "43c391b251337c9b",
+            "fighter_a": "Adrian Yanez",
+            "fighter_b": "Randy Costa",
+            "winner": "Adrian Yanez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/43c391b251337c9b"
+        },
+        {
+            "fight_id": "4911094a4ee26868",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Punahele Soriano",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4911094a4ee26868"
+        },
+        {
+            "fight_id": "dff1dbb8fe1f31cb",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Ian Heinisch",
+            "winner": "Nassourdine Imavov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 189,
+            "fight_url": "http://ufcstats.com/fight-details/dff1dbb8fe1f31cb"
+        },
+        {
+            "fight_id": "1be65a0d2c1383f6",
+            "fighter_a": "Mickey Gall",
+            "fighter_b": "Jordan Williams",
+            "winner": "Mickey Gall",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 177,
+            "fight_url": "http://ufcstats.com/fight-details/1be65a0d2c1383f6"
+        },
+        {
+            "fight_id": "cade0268dec56f3d",
+            "fighter_a": "Julio Arce",
+            "fighter_b": "Andre Ewell",
+            "winner": "Julio Arce",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 225,
+            "fight_url": "http://ufcstats.com/fight-details/cade0268dec56f3d"
+        },
+        {
+            "fight_id": "c13474b85d3ced32",
+            "fighter_a": "Sijara Eubanks",
+            "fighter_b": "Elise Reed",
+            "winner": "Sijara Eubanks",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 229,
+            "fight_url": "http://ufcstats.com/fight-details/c13474b85d3ced32"
+        },
+        {
+            "fight_id": "40ce202eaa78860c",
+            "fighter_a": "Diana Belbita",
+            "fighter_b": "Hannah Goldy",
+            "winner": "Diana Belbita",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/40ce202eaa78860c"
+        }
+    ]
+}

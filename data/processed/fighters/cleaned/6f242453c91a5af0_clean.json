@@ -1,0 +1,23 @@
+{
+    "fighter_id": "6f242453c91a5af0",
+    "name": "Dennis Bermudez",
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 155,
+    "reach_cm": 167.64000000000001,
+    "stance": "Orthodox",
+    "dob_day": 13,
+    "dob_month": 12,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 4.42,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 3.07,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 3.89,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.82,
+    "submission_attempts_per_15_min": 1.1
+}

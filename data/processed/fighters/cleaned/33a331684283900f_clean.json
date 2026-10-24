@@ -1,0 +1,23 @@
+{
+    "fighter_id": "33a331684283900f",
+    "name": "Eddie Alvarez",
+    "wins": 29,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 11,
+    "dob_month": 1,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 4.32,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 4.39,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 2.92,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.92,
+    "submission_attempts_per_15_min": 0.5
+}

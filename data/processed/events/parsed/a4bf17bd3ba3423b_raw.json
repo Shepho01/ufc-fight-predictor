@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "a4bf17bd3ba3423b",
+        "event_name": "UFC 198: Werdum vs Miocic",
+        "event_date": "May 14, 2016",
+        "location": "Curitiba, Parana, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "e27504d07ebbc441",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Fabricio Werdum",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:47",
+            "fight_url": "http://ufcstats.com/fight-details/e27504d07ebbc441"
+        },
+        {
+            "fight_id": "80c4f70b7f7a1945",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:38",
+            "fight_url": "http://ufcstats.com/fight-details/80c4f70b7f7a1945"
+        },
+        {
+            "fight_id": "ee9e4f8523a484a6",
+            "fighter_a": "Cristiane Justino",
+            "fighter_b": "Leslie Smith",
+            "winner": "Cristiane Justino",
+            "weight_class": "Catch Weight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:21",
+            "fight_url": "http://ufcstats.com/fight-details/ee9e4f8523a484a6"
+        },
+        {
+            "fight_id": "8ec7d82619bfb564",
+            "fighter_a": "Mauricio Rua",
+            "fighter_b": "Corey Anderson",
+            "winner": "Mauricio Rua",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8ec7d82619bfb564"
+        },
+        {
+            "fight_id": "93026e3763542c05",
+            "fighter_a": "Bryan Barberena",
+            "fighter_b": "Warlley Alves",
+            "winner": "Bryan Barberena",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/93026e3763542c05"
+        },
+        {
+            "fight_id": "9231cef371b89a46",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Matt Brown",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:31",
+            "fight_url": "http://ufcstats.com/fight-details/9231cef371b89a46"
+        },
+        {
+            "fight_id": "e99f92b92e90b228",
+            "fighter_a": "Thiago Santos",
+            "fighter_b": "Nate Marquardt",
+            "winner": "Thiago Santos",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/e99f92b92e90b228"
+        },
+        {
+            "fight_id": "65d777a16fce2be8",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Yancy Medeiros",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/65d777a16fce2be8"
+        },
+        {
+            "fight_id": "040f227553de7838",
+            "fighter_a": "John Lineker",
+            "fighter_b": "Rob Font",
+            "winner": "John Lineker",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/040f227553de7838"
+        },
+        {
+            "fight_id": "375c2ecb6fe54cc6",
+            "fighter_a": "Rogerio Nogueira",
+            "fighter_b": "Patrick Cummins",
+            "winner": "Rogerio Nogueira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:52",
+            "fight_url": "http://ufcstats.com/fight-details/375c2ecb6fe54cc6"
+        },
+        {
+            "fight_id": "bc6100e6dd239db7",
+            "fighter_a": "Sergio Moraes",
+            "fighter_b": "Luan Chagas",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc6100e6dd239db7"
+        },
+        {
+            "fight_id": "958f3b45c132c3b7",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Zubaira Tukhugov",
+            "winner": "Renato Moicano",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/958f3b45c132c3b7"
+        }
+    ]
+}

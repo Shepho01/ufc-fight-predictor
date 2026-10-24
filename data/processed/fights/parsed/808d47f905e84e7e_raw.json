@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "808d47f905e84e7e",
+        "event_id": "de3ed2e152520c8d",
+        "event_name": "UFC 68: The Uprising",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 83",
+            "Sig. str. %": "43%",
+            "Total str.": "112 of 174",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "12:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 83",
+            "Sig. str. %": "43%",
+            "Head": "33 of 79",
+            "Body": "1 of 1",
+            "Leg": "2 of 3",
+            "Distance": "6 of 25",
+            "Clinch": "0 of 0",
+            "Ground": "30 of 58"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "fa8b9e6b0c2269f8",
+        "name": "Jason Dent",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 42",
+            "Sig. str. %": "28%",
+            "Total str.": "116 of 151",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 42",
+            "Sig. str. %": "28%",
+            "Head": "4 of 27",
+            "Body": "4 of 9",
+            "Leg": "4 of 6",
+            "Distance": "10 of 39",
+            "Clinch": "1 of 2",
+            "Ground": "1 of 1"
+        }
+    }
+}

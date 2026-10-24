@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "099a2db0470d456b",
+        "event_id": "df2cf66d8c0123db",
+        "event_name": "UFC 143: Diaz vs Condit",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "3:23",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 25",
+            "Sig. str. %": "44%",
+            "Total str.": "15 of 29",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 25",
+            "Sig. str. %": "44%",
+            "Head": "6 of 19",
+            "Body": "0 of 1",
+            "Leg": "5 of 5",
+            "Distance": "7 of 21",
+            "Clinch": "2 of 2",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 32",
+            "Sig. str. %": "34%",
+            "Total str.": "11 of 32",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 32",
+            "Sig. str. %": "34%",
+            "Head": "8 of 26",
+            "Body": "2 of 5",
+            "Leg": "1 of 1",
+            "Distance": "11 of 30",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

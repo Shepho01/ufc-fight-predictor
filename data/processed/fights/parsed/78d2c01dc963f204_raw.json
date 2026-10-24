@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "78d2c01dc963f204",
+        "event_id": "2719f300b0439039",
+        "event_name": "UFC 292: Sterling vs. O'Malley",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "84b3e7d38f2d2ec5",
+        "name": "Neil Magny",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 66",
+            "Sig. str. %": "40%",
+            "Total str.": "51 of 93",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 66",
+            "Sig. str. %": "40%",
+            "Head": "10 of 41",
+            "Body": "7 of 11",
+            "Leg": "10 of 14",
+            "Distance": "25 of 61",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "91 of 150",
+            "Sig. str. %": "60%",
+            "Total str.": "111 of 171",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "91 of 150",
+            "Sig. str. %": "60%",
+            "Head": "32 of 90",
+            "Body": "16 of 17",
+            "Leg": "43 of 43",
+            "Distance": "84 of 140",
+            "Clinch": "4 of 5",
+            "Ground": "3 of 5"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5742025a09190829",
+        "event_id": "46effbd1135423c5",
+        "event_name": "UFC Fight Night: Rodriguez vs. Penn",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "0:24",
+        "referee": "John McCarthy",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "55 of 111",
+            "Sig. str. %": "49%",
+            "Total str.": "56 of 113",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 111",
+            "Sig. str. %": "49%",
+            "Head": "33 of 83",
+            "Body": "15 of 19",
+            "Leg": "7 of 9",
+            "Distance": "34 of 68",
+            "Clinch": "5 of 7",
+            "Ground": "16 of 36"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "73c7cfa551289285",
+        "name": "BJ Penn",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 22",
+            "Sig. str. %": "18%",
+            "Total str.": "7 of 27",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 22",
+            "Sig. str. %": "18%",
+            "Head": "4 of 22",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "3 of 21",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

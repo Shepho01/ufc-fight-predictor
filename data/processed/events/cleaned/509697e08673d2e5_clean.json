@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "509697e08673d2e5",
+        "event_name": "UFC Fight Night: Font vs. Aldo",
+        "event_day": 4,
+        "event_month": 12,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3109d1151f149aaf",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Rob Font",
+            "winner": "Jose Aldo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3109d1151f149aaf"
+        },
+        {
+            "fight_id": "a38648a1c190f9be",
+            "fighter_a": "Rafael Fiziev",
+            "fighter_b": "Brad Riddell",
+            "winner": "Rafael Fiziev",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 140,
+            "fight_url": "http://ufcstats.com/fight-details/a38648a1c190f9be"
+        },
+        {
+            "fight_id": "b3847772199e2639",
+            "fighter_a": "Jamahal Hill",
+            "fighter_b": "Jimmy Crute",
+            "winner": "Jamahal Hill",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/b3847772199e2639"
+        },
+        {
+            "fight_id": "5d64044b985004e7",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Leonardo Santos",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 81,
+            "fight_url": "http://ufcstats.com/fight-details/5d64044b985004e7"
+        },
+        {
+            "fight_id": "9e5bbbacf1d92cb4",
+            "fighter_a": "Chris Curtis",
+            "fighter_b": "Brendan Allen",
+            "winner": "Chris Curtis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knees",
+            "round": 2,
+            "time_seconds": 118,
+            "fight_url": "http://ufcstats.com/fight-details/9e5bbbacf1d92cb4"
+        },
+        {
+            "fight_id": "657b7da9c89352fe",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Mickey Gall",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/657b7da9c89352fe"
+        },
+        {
+            "fight_id": "723a8a8c82cab1c8",
+            "fighter_a": "Dusko Todorovic",
+            "fighter_b": "Maki Pitolo",
+            "winner": "Dusko Todorovic",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/723a8a8c82cab1c8"
+        },
+        {
+            "fight_id": "376dddfa82debbf4",
+            "fighter_a": "Manel Kape",
+            "fighter_b": "Zhalgas Zhumagulov",
+            "winner": "Manel Kape",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 242,
+            "fight_url": "http://ufcstats.com/fight-details/376dddfa82debbf4"
+        },
+        {
+            "fight_id": "405bded9cc7a7c15",
+            "fighter_a": "Bryan Barberena",
+            "fighter_b": "Darian Weeks",
+            "winner": "Bryan Barberena",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/405bded9cc7a7c15"
+        },
+        {
+            "fight_id": "3fc8afbb23b9ac16",
+            "fighter_a": "Cheyanne Vlismas",
+            "fighter_b": "Mallory Martin",
+            "winner": "Cheyanne Vlismas",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3fc8afbb23b9ac16"
+        },
+        {
+            "fight_id": "42b28adbed6966b7",
+            "fighter_a": "William Knight",
+            "fighter_b": "Alonzo Menifield",
+            "winner": "William Knight",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/42b28adbed6966b7"
+        },
+        {
+            "fight_id": "c74b03337a8441ed",
+            "fighter_a": "Claudio Puelles",
+            "fighter_b": "Chris Gruetzemacher",
+            "winner": "Claudio Puelles",
+            "weight_class": "Lightweight",
+            "method": "SUB Kneebar",
+            "round": 3,
+            "time_seconds": 205,
+            "fight_url": "http://ufcstats.com/fight-details/c74b03337a8441ed"
+        },
+        {
+            "fight_id": "1ce1a43ef68ffc7d",
+            "fighter_a": "Vince Morales",
+            "fighter_b": "Louis Smolka",
+            "winner": "Vince Morales",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 122,
+            "fight_url": "http://ufcstats.com/fight-details/1ce1a43ef68ffc7d"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9afcb091777f6a83",
+        "event_id": "18524b46c570730b",
+        "event_name": "UFC 142: Aldo vs Mendes",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:59",
+        "referee": "Mario Yamasaki",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "11 of 23",
+            "Sig. str. %": "47%",
+            "Total str.": "15 of 27",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 23",
+            "Sig. str. %": "47%",
+            "Head": "6 of 14",
+            "Body": "1 of 1",
+            "Leg": "4 of 8",
+            "Distance": "7 of 18",
+            "Clinch": "1 of 2",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 23",
+            "Sig. str. %": "56%",
+            "Total str.": "18 of 28",
+            "Td": "0 of 7",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 23",
+            "Sig. str. %": "56%",
+            "Head": "1 of 9",
+            "Body": "1 of 1",
+            "Leg": "11 of 13",
+            "Distance": "9 of 19",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

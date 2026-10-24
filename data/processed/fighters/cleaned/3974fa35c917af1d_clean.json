@@ -1,0 +1,23 @@
+{
+    "fighter_id": "3974fa35c917af1d",
+    "name": "Ricardo Lamas",
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 21,
+    "dob_month": 5,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 3.13,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 2.87,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 1.84,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.46,
+    "submission_attempts_per_15_min": 0.9
+}

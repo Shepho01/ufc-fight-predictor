@@ -1,0 +1,48 @@
+{
+    "fighter_id": "8e5bfd4e82352340",
+    "name": "Pablo Garza",
+    "record": "12-4-0",
+    "height": "6' 1\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Sep 16, 1983",
+    "sig_strikes_landed_per_min": "3.37",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.70",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.94",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "15%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "f3ebaf9af44c1e6d",
+            "fight_url": "http://ufcstats.com/fight-details/f3ebaf9af44c1e6d"
+        },
+        {
+            "fight_id": "bc3323f172832a53",
+            "fight_url": "http://ufcstats.com/fight-details/bc3323f172832a53"
+        },
+        {
+            "fight_id": "0387bc11a0a0c325",
+            "fight_url": "http://ufcstats.com/fight-details/0387bc11a0a0c325"
+        },
+        {
+            "fight_id": "db690563ae7fa070",
+            "fight_url": "http://ufcstats.com/fight-details/db690563ae7fa070"
+        },
+        {
+            "fight_id": "8348ff428d1687ab",
+            "fight_url": "http://ufcstats.com/fight-details/8348ff428d1687ab"
+        },
+        {
+            "fight_id": "7206d0aa1d53e518",
+            "fight_url": "http://ufcstats.com/fight-details/7206d0aa1d53e518"
+        },
+        {
+            "fight_id": "6954b6e02651e353",
+            "fight_url": "http://ufcstats.com/fight-details/6954b6e02651e353"
+        }
+    ]
+}

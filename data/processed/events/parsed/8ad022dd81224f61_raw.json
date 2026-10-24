@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "8ad022dd81224f61",
+        "event_name": "UFC Fight Night: Burns vs. Morales",
+        "event_date": "May 17, 2025",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a81ad236a2f221f2",
+            "fighter_a": "Michael Morales",
+            "fighter_b": "Gilbert Burns",
+            "winner": "Michael Morales",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/a81ad236a2f221f2"
+        },
+        {
+            "fight_id": "dcb27eef6441268c",
+            "fighter_a": "Mairon Santos",
+            "fighter_b": "Sodiq Yusuff",
+            "winner": "Mairon Santos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dcb27eef6441268c"
+        },
+        {
+            "fight_id": "b3044bf646306e7f",
+            "fighter_a": "Nursulton Ruziboev",
+            "fighter_b": "Dustin Stoltzfus",
+            "winner": "Nursulton Ruziboev",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b3044bf646306e7f"
+        },
+        {
+            "fight_id": "fe2acfdaaaec3dba",
+            "fighter_a": "Melquizael Costa",
+            "fighter_b": "Julian Erosa",
+            "winner": "Melquizael Costa",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fe2acfdaaaec3dba"
+        },
+        {
+            "fight_id": "a9a6cca4bbf7a5db",
+            "fighter_a": "Gabe Green",
+            "fighter_b": "Matheus Camilo",
+            "winner": "Gabe Green",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:43",
+            "fight_url": "http://ufcstats.com/fight-details/a9a6cca4bbf7a5db"
+        },
+        {
+            "fight_id": "8ba31cf0b3164b72",
+            "fighter_a": "Jared Gordon",
+            "fighter_b": "Thiago Moises",
+            "winner": "Jared Gordon",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:37",
+            "fight_url": "http://ufcstats.com/fight-details/8ba31cf0b3164b72"
+        },
+        {
+            "fight_id": "d6e2bc6e6c0cc4fe",
+            "fighter_a": "Yadier del Valle",
+            "fighter_b": "Connor Matthews",
+            "winner": "Yadier del Valle",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/d6e2bc6e6c0cc4fe"
+        },
+        {
+            "fight_id": "f75fe8b384b0db11",
+            "fighter_a": "Luana Santos",
+            "fighter_b": "Tainara Lisboa",
+            "winner": "Luana Santos",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Keylock",
+            "round": "2",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/f75fe8b384b0db11"
+        },
+        {
+            "fight_id": "66887532be2de5ee",
+            "fighter_a": "Denise Gomes",
+            "fighter_b": "Elise Reed",
+            "winner": "Denise Gomes",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:30",
+            "fight_url": "http://ufcstats.com/fight-details/66887532be2de5ee"
+        },
+        {
+            "fight_id": "18a7dc86279066f8",
+            "fighter_a": "HyunSung Park",
+            "fighter_b": "Carlos Hernandez",
+            "winner": "HyunSung Park",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:26",
+            "fight_url": "http://ufcstats.com/fight-details/18a7dc86279066f8"
+        },
+        {
+            "fight_id": "afdd95ae7b7cdb0c",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Luana Pinheiro",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/afdd95ae7b7cdb0c"
+        }
+    ]
+}

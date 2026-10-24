@@ -1,0 +1,56 @@
+{
+    "fighter_id": "a20d7dfaba74c067",
+    "name": "Rodrigo Damm",
+    "record": "13-9-0",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Feb 03, 1980",
+    "sig_strikes_landed_per_min": "3.50",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "5.61",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.44",
+    "takedown_accuracy": "16%",
+    "takedown_defense": "80%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "b10a94377bce3e22",
+            "fight_url": "http://ufcstats.com/fight-details/b10a94377bce3e22"
+        },
+        {
+            "fight_id": "1c980547431ddcef",
+            "fight_url": "http://ufcstats.com/fight-details/1c980547431ddcef"
+        },
+        {
+            "fight_id": "16216dcec4a48768",
+            "fight_url": "http://ufcstats.com/fight-details/16216dcec4a48768"
+        },
+        {
+            "fight_id": "420114bb94080b3c",
+            "fight_url": "http://ufcstats.com/fight-details/420114bb94080b3c"
+        },
+        {
+            "fight_id": "291bebbbf4f9128f",
+            "fight_url": "http://ufcstats.com/fight-details/291bebbbf4f9128f"
+        },
+        {
+            "fight_id": "f6d8bdc3cdcf1dd8",
+            "fight_url": "http://ufcstats.com/fight-details/f6d8bdc3cdcf1dd8"
+        },
+        {
+            "fight_id": "1bfb8faa1edd3867",
+            "fight_url": "http://ufcstats.com/fight-details/1bfb8faa1edd3867"
+        },
+        {
+            "fight_id": "30ef64733d9a487e",
+            "fight_url": "http://ufcstats.com/fight-details/30ef64733d9a487e"
+        },
+        {
+            "fight_id": "930f69163561f549",
+            "fight_url": "http://ufcstats.com/fight-details/930f69163561f549"
+        }
+    ]
+}

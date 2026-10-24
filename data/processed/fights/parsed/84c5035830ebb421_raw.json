@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "84c5035830ebb421",
+        "event_id": "aa5b4eff51bdc7d1",
+        "event_name": "UFC 200: Tate vs Nunes",
+        "weight_class": "Interim Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "80 of 192",
+            "Sig. str. %": "41%",
+            "Total str.": "81 of 193",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "80 of 192",
+            "Sig. str. %": "41%",
+            "Head": "68 of 174",
+            "Body": "8 of 14",
+            "Leg": "4 of 4",
+            "Distance": "79 of 190",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "79 of 264",
+            "Sig. str. %": "29%",
+            "Total str.": "81 of 267",
+            "Td": "0 of 11",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "79 of 264",
+            "Sig. str. %": "29%",
+            "Head": "42 of 213",
+            "Body": "14 of 25",
+            "Leg": "23 of 26",
+            "Distance": "72 of 254",
+            "Clinch": "7 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

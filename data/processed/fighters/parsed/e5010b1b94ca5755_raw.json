@@ -1,0 +1,80 @@
+{
+    "fighter_id": "e5010b1b94ca5755",
+    "name": "Paul Felder",
+    "record": "17-6-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Apr 25, 1984",
+    "sig_strikes_landed_per_min": "3.70",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.44",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "0.29",
+    "takedown_accuracy": "28%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "80cb3cf9134b677c",
+            "fight_url": "http://ufcstats.com/fight-details/80cb3cf9134b677c"
+        },
+        {
+            "fight_id": "5fceb95c29d929bc",
+            "fight_url": "http://ufcstats.com/fight-details/5fceb95c29d929bc"
+        },
+        {
+            "fight_id": "357a34207d70da69",
+            "fight_url": "http://ufcstats.com/fight-details/357a34207d70da69"
+        },
+        {
+            "fight_id": "a212e4c197983ad1",
+            "fight_url": "http://ufcstats.com/fight-details/a212e4c197983ad1"
+        },
+        {
+            "fight_id": "7a3947a0e7bc3558",
+            "fight_url": "http://ufcstats.com/fight-details/7a3947a0e7bc3558"
+        },
+        {
+            "fight_id": "c83487136636e9bf",
+            "fight_url": "http://ufcstats.com/fight-details/c83487136636e9bf"
+        },
+        {
+            "fight_id": "c62a90c19af6a0e2",
+            "fight_url": "http://ufcstats.com/fight-details/c62a90c19af6a0e2"
+        },
+        {
+            "fight_id": "f00ac5af033f44b4",
+            "fight_url": "http://ufcstats.com/fight-details/f00ac5af033f44b4"
+        },
+        {
+            "fight_id": "845907142e023077",
+            "fight_url": "http://ufcstats.com/fight-details/845907142e023077"
+        },
+        {
+            "fight_id": "6387fdb44c61ccdb",
+            "fight_url": "http://ufcstats.com/fight-details/6387fdb44c61ccdb"
+        },
+        {
+            "fight_id": "52abce3a11b43b1d",
+            "fight_url": "http://ufcstats.com/fight-details/52abce3a11b43b1d"
+        },
+        {
+            "fight_id": "0449c55a8c24a59e",
+            "fight_url": "http://ufcstats.com/fight-details/0449c55a8c24a59e"
+        },
+        {
+            "fight_id": "c97e99ca5422f03b",
+            "fight_url": "http://ufcstats.com/fight-details/c97e99ca5422f03b"
+        },
+        {
+            "fight_id": "cee94cd937bf64f2",
+            "fight_url": "http://ufcstats.com/fight-details/cee94cd937bf64f2"
+        },
+        {
+            "fight_id": "4e981b587c1012dd",
+            "fight_url": "http://ufcstats.com/fight-details/4e981b587c1012dd"
+        }
+    ]
+}

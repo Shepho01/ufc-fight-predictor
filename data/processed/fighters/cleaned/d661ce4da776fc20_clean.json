@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d661ce4da776fc20",
+    "name": "Petr Yan",
+    "wins": 20,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 135,
+    "reach_cm": 170.18,
+    "stance": "Switch",
+    "dob_day": 11,
+    "dob_month": 2,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.16,
+    "sig_striking_accuracy": 0.54,
+    "sig_strikes_absorbed_per_min": 4.24,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 1.7,
+    "takedown_accuracy": 0.49,
+    "takedown_defense": 0.86,
+    "submission_attempts_per_15_min": 0.1
+}

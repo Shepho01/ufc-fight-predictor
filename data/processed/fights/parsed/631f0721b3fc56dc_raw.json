@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "631f0721b3fc56dc",
+        "event_id": "480b702debcb5433",
+        "event_name": "UFC on FOX: Johnson vs. Benavidez 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John McCarthy",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 70",
+            "Sig. str. %": "50%",
+            "Total str.": "40 of 75",
+            "Td": "7 of 10",
+            "Td %": "70%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "5:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 70",
+            "Sig. str. %": "50%",
+            "Head": "24 of 56",
+            "Body": "1 of 2",
+            "Leg": "10 of 12",
+            "Distance": "32 of 61",
+            "Clinch": "2 of 6",
+            "Ground": "1 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "40 of 119",
+            "Sig. str. %": "33%",
+            "Total str.": "110 of 189",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "40 of 119",
+            "Sig. str. %": "33%",
+            "Head": "27 of 99",
+            "Body": "10 of 14",
+            "Leg": "3 of 6",
+            "Distance": "36 of 109",
+            "Clinch": "2 of 8",
+            "Ground": "2 of 2"
+        }
+    }
+}

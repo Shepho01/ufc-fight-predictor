@@ -1,0 +1,76 @@
+{
+    "fighter_id": "361d49960a196976",
+    "name": "Daniel Pineda",
+    "record": "28-17-0 (3 NC)",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Aug 06, 1985",
+    "sig_strikes_landed_per_min": "2.85",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "3.26",
+    "sig_strike_defense": "45%",
+    "takedowns_landed_per_15_min": "1.42",
+    "takedown_accuracy": "24%",
+    "takedown_defense": "54%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "0599f35e6679de02",
+            "fight_url": "http://ufcstats.com/fight-details/0599f35e6679de02"
+        },
+        {
+            "fight_id": "45e6a9b56ee3a9d1",
+            "fight_url": "http://ufcstats.com/fight-details/45e6a9b56ee3a9d1"
+        },
+        {
+            "fight_id": "7be3e513a31f6570",
+            "fight_url": "http://ufcstats.com/fight-details/7be3e513a31f6570"
+        },
+        {
+            "fight_id": "c6cc6ae23cbf8a27",
+            "fight_url": "http://ufcstats.com/fight-details/c6cc6ae23cbf8a27"
+        },
+        {
+            "fight_id": "4622ec182e7fed6b",
+            "fight_url": "http://ufcstats.com/fight-details/4622ec182e7fed6b"
+        },
+        {
+            "fight_id": "022bdd58cc6e571d",
+            "fight_url": "http://ufcstats.com/fight-details/022bdd58cc6e571d"
+        },
+        {
+            "fight_id": "0d9e9127c62811f9",
+            "fight_url": "http://ufcstats.com/fight-details/0d9e9127c62811f9"
+        },
+        {
+            "fight_id": "543dca66a449d9d5",
+            "fight_url": "http://ufcstats.com/fight-details/543dca66a449d9d5"
+        },
+        {
+            "fight_id": "a2c0f4142ba4ba75",
+            "fight_url": "http://ufcstats.com/fight-details/a2c0f4142ba4ba75"
+        },
+        {
+            "fight_id": "ae0fdb792308b0f8",
+            "fight_url": "http://ufcstats.com/fight-details/ae0fdb792308b0f8"
+        },
+        {
+            "fight_id": "64fa0e558f5d1b24",
+            "fight_url": "http://ufcstats.com/fight-details/64fa0e558f5d1b24"
+        },
+        {
+            "fight_id": "d5457867cbd0caf7",
+            "fight_url": "http://ufcstats.com/fight-details/d5457867cbd0caf7"
+        },
+        {
+            "fight_id": "60f53ad3f114da6e",
+            "fight_url": "http://ufcstats.com/fight-details/60f53ad3f114da6e"
+        },
+        {
+            "fight_id": "f4bdf10856c1760e",
+            "fight_url": "http://ufcstats.com/fight-details/f4bdf10856c1760e"
+        }
+    ]
+}

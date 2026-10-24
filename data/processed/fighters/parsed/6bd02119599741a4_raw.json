@@ -1,0 +1,108 @@
+{
+    "fighter_id": "6bd02119599741a4",
+    "name": "Pedro Munhoz",
+    "record": "20-10-0 (2 NC)",
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Sep 07, 1986",
+    "sig_strikes_landed_per_min": "5.38",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "6.29",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "0.48",
+    "takedown_accuracy": "16%",
+    "takedown_defense": "82%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "b989d4d7e220b3c1",
+            "fight_url": "http://ufcstats.com/fight-details/b989d4d7e220b3c1"
+        },
+        {
+            "fight_id": "ebb758b49e82d0ed",
+            "fight_url": "http://ufcstats.com/fight-details/ebb758b49e82d0ed"
+        },
+        {
+            "fight_id": "621e6f0929a3dbfc",
+            "fight_url": "http://ufcstats.com/fight-details/621e6f0929a3dbfc"
+        },
+        {
+            "fight_id": "d856812dc733690a",
+            "fight_url": "http://ufcstats.com/fight-details/d856812dc733690a"
+        },
+        {
+            "fight_id": "39dccca8e8083072",
+            "fight_url": "http://ufcstats.com/fight-details/39dccca8e8083072"
+        },
+        {
+            "fight_id": "abb8c6c0a057184e",
+            "fight_url": "http://ufcstats.com/fight-details/abb8c6c0a057184e"
+        },
+        {
+            "fight_id": "980927e7dcc131c0",
+            "fight_url": "http://ufcstats.com/fight-details/980927e7dcc131c0"
+        },
+        {
+            "fight_id": "c2ee423d1f0b4f6f",
+            "fight_url": "http://ufcstats.com/fight-details/c2ee423d1f0b4f6f"
+        },
+        {
+            "fight_id": "dfe14e13aa727a0c",
+            "fight_url": "http://ufcstats.com/fight-details/dfe14e13aa727a0c"
+        },
+        {
+            "fight_id": "17753b728e5404aa",
+            "fight_url": "http://ufcstats.com/fight-details/17753b728e5404aa"
+        },
+        {
+            "fight_id": "39fa341fb9161d6f",
+            "fight_url": "http://ufcstats.com/fight-details/39fa341fb9161d6f"
+        },
+        {
+            "fight_id": "aa7d691fc6385acb",
+            "fight_url": "http://ufcstats.com/fight-details/aa7d691fc6385acb"
+        },
+        {
+            "fight_id": "c8a9d3917d77ede2",
+            "fight_url": "http://ufcstats.com/fight-details/c8a9d3917d77ede2"
+        },
+        {
+            "fight_id": "c73b81e7c1c1cccc",
+            "fight_url": "http://ufcstats.com/fight-details/c73b81e7c1c1cccc"
+        },
+        {
+            "fight_id": "0b557aeb2169b59f",
+            "fight_url": "http://ufcstats.com/fight-details/0b557aeb2169b59f"
+        },
+        {
+            "fight_id": "9674c37e3a2bc399",
+            "fight_url": "http://ufcstats.com/fight-details/9674c37e3a2bc399"
+        },
+        {
+            "fight_id": "30a2c7e5b90e6d74",
+            "fight_url": "http://ufcstats.com/fight-details/30a2c7e5b90e6d74"
+        },
+        {
+            "fight_id": "a815119606930378",
+            "fight_url": "http://ufcstats.com/fight-details/a815119606930378"
+        },
+        {
+            "fight_id": "d2198a7ae05b24c1",
+            "fight_url": "http://ufcstats.com/fight-details/d2198a7ae05b24c1"
+        },
+        {
+            "fight_id": "1cad3dc6d7eccdfb",
+            "fight_url": "http://ufcstats.com/fight-details/1cad3dc6d7eccdfb"
+        },
+        {
+            "fight_id": "f132535656f28648",
+            "fight_url": "http://ufcstats.com/fight-details/f132535656f28648"
+        },
+        {
+            "fight_id": "faaa7340f4ede814",
+            "fight_url": "http://ufcstats.com/fight-details/faaa7340f4ede814"
+        }
+    ]
+}

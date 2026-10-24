@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "155a02a8b4311057",
+        "event_name": "UFC Fight Night: Edgar vs Swanson",
+        "event_day": 22,
+        "event_month": 11,
+        "event_year": 2014,
+        "location": "Austin, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8f9cfe0e283a6ccb",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Cub Swanson",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "SUB Neck Crank",
+            "round": 5,
+            "time_seconds": 296,
+            "fight_url": "http://ufcstats.com/fight-details/8f9cfe0e283a6ccb"
+        },
+        {
+            "fight_id": "2f93de8b39ec4625",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "King Green",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2f93de8b39ec4625"
+        },
+        {
+            "fight_id": "033d968f325842e7",
+            "fighter_a": "Chico Camus",
+            "fighter_b": "Brad Pickett",
+            "winner": "Chico Camus",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/033d968f325842e7"
+        },
+        {
+            "fight_id": "2ff14dfede1d02dd",
+            "fighter_a": "Aleksei Oleinik",
+            "fighter_b": "Jared Rosholt",
+            "winner": "Aleksei Oleinik",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 201,
+            "fight_url": "http://ufcstats.com/fight-details/2ff14dfede1d02dd"
+        },
+        {
+            "fight_id": "079308cc2efa2e5d",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Dustin Ortiz",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/079308cc2efa2e5d"
+        },
+        {
+            "fight_id": "a2bd4c46f89f19ae",
+            "fighter_a": "Matt Wiman",
+            "fighter_b": "Isaac Vallie-Flagg",
+            "winner": "Matt Wiman",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a2bd4c46f89f19ae"
+        },
+        {
+            "fight_id": "171af1114dbfc29d",
+            "fighter_a": "Ruslan Magomedov",
+            "fighter_b": "Josh Copeland",
+            "winner": "Ruslan Magomedov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/171af1114dbfc29d"
+        },
+        {
+            "fight_id": "55e9ea18b8a72b2e",
+            "fighter_a": "Roger Narvaez",
+            "fighter_b": "Luke Barnatt",
+            "winner": "Roger Narvaez",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/55e9ea18b8a72b2e"
+        },
+        {
+            "fight_id": "e947baa4cad609d0",
+            "fighter_a": "James Vick",
+            "fighter_b": "Nick Hein",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e947baa4cad609d0"
+        },
+        {
+            "fight_id": "56a0f335ef05c825",
+            "fighter_a": "Akbarh Arreola",
+            "fighter_b": "Yves Edwards",
+            "winner": "Akbarh Arreola",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/56a0f335ef05c825"
+        },
+        {
+            "fight_id": "e7859b4e70d4a9c1",
+            "fighter_a": "Paige VanZant",
+            "fighter_b": "Kailin Curran",
+            "winner": "Paige VanZant",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/e7859b4e70d4a9c1"
+        },
+        {
+            "fight_id": "1a637fbda4bdf575",
+            "fighter_a": "Dooho Choi",
+            "fighter_b": "Juan Manuel Puig",
+            "winner": "Dooho Choi",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/1a637fbda4bdf575"
+        }
+    ]
+}

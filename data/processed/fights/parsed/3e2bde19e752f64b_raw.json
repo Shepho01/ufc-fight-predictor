@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3e2bde19e752f64b",
+        "event_id": "026b4f7049085842",
+        "event_name": "UFC 304: Edwards vs. Muhammad 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "3:22",
+        "referee": "Lukasz Bosacki",
+        "winner_id": "7826923b47f8d72a"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 21",
+            "Sig. str. %": "71%",
+            "Total str.": "15 of 21",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 21",
+            "Sig. str. %": "71%",
+            "Head": "2 of 6",
+            "Body": "3 of 5",
+            "Leg": "10 of 10",
+            "Distance": "15 of 21",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7826923b47f8d72a",
+        "name": "Paddy Pimblett",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 13",
+            "Sig. str. %": "61%",
+            "Total str.": "10 of 16",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 13",
+            "Sig. str. %": "61%",
+            "Head": "2 of 4",
+            "Body": "0 of 0",
+            "Leg": "6 of 9",
+            "Distance": "8 of 13",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

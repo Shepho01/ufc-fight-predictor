@@ -1,0 +1,56 @@
+{
+    "fighter_id": "aceffa19749c4dc0",
+    "name": "Zubaira Tukhugov",
+    "record": "20-6-1",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jan 15, 1991",
+    "sig_strikes_landed_per_min": "3.17",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.07",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "2.13",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "0ac5fc42ba039211",
+            "fight_url": "http://ufcstats.com/fight-details/0ac5fc42ba039211"
+        },
+        {
+            "fight_id": "41cdfea7df63003f",
+            "fight_url": "http://ufcstats.com/fight-details/41cdfea7df63003f"
+        },
+        {
+            "fight_id": "5a00c73efbcf323e",
+            "fight_url": "http://ufcstats.com/fight-details/5a00c73efbcf323e"
+        },
+        {
+            "fight_id": "f882cf76a8bce308",
+            "fight_url": "http://ufcstats.com/fight-details/f882cf76a8bce308"
+        },
+        {
+            "fight_id": "bef4df43d6052a02",
+            "fight_url": "http://ufcstats.com/fight-details/bef4df43d6052a02"
+        },
+        {
+            "fight_id": "958f3b45c132c3b7",
+            "fight_url": "http://ufcstats.com/fight-details/958f3b45c132c3b7"
+        },
+        {
+            "fight_id": "f2ac86cd3e863243",
+            "fight_url": "http://ufcstats.com/fight-details/f2ac86cd3e863243"
+        },
+        {
+            "fight_id": "75a88258eb967e0c",
+            "fight_url": "http://ufcstats.com/fight-details/75a88258eb967e0c"
+        },
+        {
+            "fight_id": "816119e4d9d983b1",
+            "fight_url": "http://ufcstats.com/fight-details/816119e4d9d983b1"
+        }
+    ]
+}

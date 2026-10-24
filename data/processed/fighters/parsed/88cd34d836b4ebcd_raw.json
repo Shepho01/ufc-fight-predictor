@@ -1,0 +1,56 @@
+{
+    "fighter_id": "88cd34d836b4ebcd",
+    "name": "Teruto Ishihara",
+    "record": "10-7-2",
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Jul 23, 1991",
+    "sig_strikes_landed_per_min": "3.26",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.63",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "0.50",
+    "takedown_accuracy": "16%",
+    "takedown_defense": "30%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "b247a1900cfae052",
+            "fight_url": "http://ufcstats.com/fight-details/b247a1900cfae052"
+        },
+        {
+            "fight_id": "8167bd097a16062f",
+            "fight_url": "http://ufcstats.com/fight-details/8167bd097a16062f"
+        },
+        {
+            "fight_id": "58286d3126cc5263",
+            "fight_url": "http://ufcstats.com/fight-details/58286d3126cc5263"
+        },
+        {
+            "fight_id": "6be073563a421bca",
+            "fight_url": "http://ufcstats.com/fight-details/6be073563a421bca"
+        },
+        {
+            "fight_id": "88c2da7b33cca8d4",
+            "fight_url": "http://ufcstats.com/fight-details/88c2da7b33cca8d4"
+        },
+        {
+            "fight_id": "e4795ab9bdd6fb38",
+            "fight_url": "http://ufcstats.com/fight-details/e4795ab9bdd6fb38"
+        },
+        {
+            "fight_id": "34644c44229e41a1",
+            "fight_url": "http://ufcstats.com/fight-details/34644c44229e41a1"
+        },
+        {
+            "fight_id": "6ecd93dbbaba7e10",
+            "fight_url": "http://ufcstats.com/fight-details/6ecd93dbbaba7e10"
+        },
+        {
+            "fight_id": "2ab47d509ee7dc6d",
+            "fight_url": "http://ufcstats.com/fight-details/2ab47d509ee7dc6d"
+        }
+    ]
+}

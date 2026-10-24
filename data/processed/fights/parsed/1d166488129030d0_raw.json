@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1d166488129030d0",
+        "event_id": "bcd124bcd3d5be46",
+        "event_name": "UFC Fight Night: Swanson vs. Ortega",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "3:22",
+        "referee": "Mike Beltran",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "60 of 97",
+            "Sig. str. %": "61%",
+            "Total str.": "60 of 97",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "60 of 97",
+            "Sig. str. %": "61%",
+            "Head": "24 of 57",
+            "Body": "20 of 22",
+            "Leg": "16 of 18",
+            "Distance": "56 of 92",
+            "Clinch": "4 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 70",
+            "Sig. str. %": "34%",
+            "Total str.": "24 of 70",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 70",
+            "Sig. str. %": "34%",
+            "Head": "12 of 56",
+            "Body": "9 of 11",
+            "Leg": "3 of 3",
+            "Distance": "20 of 66",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

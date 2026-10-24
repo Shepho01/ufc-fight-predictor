@@ -1,0 +1,23 @@
+{
+    "fighter_id": "2747c60e42d9d75f",
+    "name": "David Teymur",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Southpaw",
+    "dob_day": 1,
+    "dob_month": 5,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 4.69,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 3.53,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 0.94,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.77,
+    "submission_attempts_per_15_min": 0.0
+}

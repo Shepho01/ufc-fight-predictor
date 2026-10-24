@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "966bf043577f8b6a",
+        "event_id": "c0c1bc0766df4c00",
+        "event_name": "UFC Fight Night: Ngannou vs. Dos Santos",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:07",
+        "referee": "Jason Herzog",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "16 of 27",
+            "Sig. str. %": "59%",
+            "Total str.": "17 of 29",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 27",
+            "Sig. str. %": "59%",
+            "Head": "15 of 22",
+            "Body": "0 of 3",
+            "Leg": "1 of 2",
+            "Distance": "11 of 22",
+            "Clinch": "1 of 1",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "edd02825c29028fe",
+        "name": "Marco Polo Reyes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 14",
+            "Sig. str. %": "35%",
+            "Total str.": "5 of 14",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 14",
+            "Sig. str. %": "35%",
+            "Head": "4 of 13",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "5 of 14",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

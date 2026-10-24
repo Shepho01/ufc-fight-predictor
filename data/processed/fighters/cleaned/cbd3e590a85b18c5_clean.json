@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cbd3e590a85b18c5",
+    "name": "Mirsad Bektic",
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 16,
+    "dob_month": 2,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 2.43,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 1.8,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 3.98,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.92,
+    "submission_attempts_per_15_min": 0.4
+}

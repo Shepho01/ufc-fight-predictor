@@ -1,0 +1,44 @@
+{
+    "fighter_id": "b0a6124751a56bc4",
+    "name": "Jonathan Brookins",
+    "record": "16-10-0",
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Aug 13, 1985",
+    "sig_strikes_landed_per_min": "2.69",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.63",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "1.94",
+    "takedown_accuracy": "17%",
+    "takedown_defense": "80%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "e88c59ad88e9dc27",
+            "fight_url": "http://ufcstats.com/fight-details/e88c59ad88e9dc27"
+        },
+        {
+            "fight_id": "0b5c7c95b0316276",
+            "fight_url": "http://ufcstats.com/fight-details/0b5c7c95b0316276"
+        },
+        {
+            "fight_id": "2341651d1043e2c0",
+            "fight_url": "http://ufcstats.com/fight-details/2341651d1043e2c0"
+        },
+        {
+            "fight_id": "b4daedb1e0c4ee02",
+            "fight_url": "http://ufcstats.com/fight-details/b4daedb1e0c4ee02"
+        },
+        {
+            "fight_id": "dca2a0eb4cd3deac",
+            "fight_url": "http://ufcstats.com/fight-details/dca2a0eb4cd3deac"
+        },
+        {
+            "fight_id": "464178a22a436f11",
+            "fight_url": "http://ufcstats.com/fight-details/464178a22a436f11"
+        }
+    ]
+}

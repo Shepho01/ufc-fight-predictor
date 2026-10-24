@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "1c2f2571b18791b6",
+        "event_name": "WEC 36: Faber vs. Brown",
+        "event_day": 5,
+        "event_month": 11,
+        "event_year": 2008,
+        "location": "Hollywood, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fe1eb1104377f2da",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Urijah Faber",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 143,
+            "fight_url": "http://ufcstats.com/fight-details/fe1eb1104377f2da"
+        },
+        {
+            "fight_id": "1bd393b287d14990",
+            "fighter_a": "Chael Sonnen",
+            "fighter_b": "Paulo Filho",
+            "winner": "Chael Sonnen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1bd393b287d14990"
+        },
+        {
+            "fight_id": "dae788f34bcfcab9",
+            "fighter_a": "Leonard Garcia",
+            "fighter_b": "Jens Pulver",
+            "winner": "Leonard Garcia",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 72,
+            "fight_url": "http://ufcstats.com/fight-details/dae788f34bcfcab9"
+        },
+        {
+            "fight_id": "e69e9676776712aa",
+            "fighter_a": "Jake Rosholt",
+            "fighter_b": "Nissen Osterneck",
+            "winner": "Jake Rosholt",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 228,
+            "fight_url": "http://ufcstats.com/fight-details/e69e9676776712aa"
+        },
+        {
+            "fight_id": "13ba941eae15552f",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Rob McCullough",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/13ba941eae15552f"
+        },
+        {
+            "fight_id": "e5908d0519fd0240",
+            "fighter_a": "Aaron Simpson",
+            "fighter_b": "David Avellan",
+            "winner": "Aaron Simpson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/e5908d0519fd0240"
+        },
+        {
+            "fight_id": "464178a22a436f11",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Jonathan Brookins",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 45,
+            "fight_url": "http://ufcstats.com/fight-details/464178a22a436f11"
+        },
+        {
+            "fight_id": "06341b344b45466a",
+            "fighter_a": "Carmelo Marrero",
+            "fighter_b": "Steve Steinbeiss",
+            "winner": "Carmelo Marrero",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/06341b344b45466a"
+        },
+        {
+            "fight_id": "f5b0055b226bace9",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Rafael Dias",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/f5b0055b226bace9"
+        },
+        {
+            "fight_id": "ba1fb8f4eb0cf2c8",
+            "fighter_a": "Rani Yahya",
+            "fighter_b": "Yoshiro Maeda",
+            "winner": "Rani Yahya",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 210,
+            "fight_url": "http://ufcstats.com/fight-details/ba1fb8f4eb0cf2c8"
+        }
+    ]
+}

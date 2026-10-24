@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a24121c70f773fe2",
+        "event_id": "acff437707625fc7",
+        "event_name": "UFC Fight Night: Marquardt vs Palhares",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:25",
+        "referee": "Kerry Hatley",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "83fd97284f4bb4a4",
+        "name": "Efrain Escudero",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 76",
+            "Sig. str. %": "17%",
+            "Total str.": "26 of 89",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 76",
+            "Sig. str. %": "17%",
+            "Head": "10 of 68",
+            "Body": "1 of 2",
+            "Leg": "2 of 6",
+            "Distance": "7 of 65",
+            "Clinch": "4 of 7",
+            "Ground": "2 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 91",
+            "Sig. str. %": "38%",
+            "Total str.": "60 of 118",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 91",
+            "Sig. str. %": "38%",
+            "Head": "9 of 52",
+            "Body": "9 of 17",
+            "Leg": "17 of 22",
+            "Distance": "31 of 86",
+            "Clinch": "4 of 5",
+            "Ground": "0 of 0"
+        }
+    }
+}

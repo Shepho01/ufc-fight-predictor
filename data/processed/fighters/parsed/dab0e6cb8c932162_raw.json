@@ -1,0 +1,28 @@
+{
+    "fighter_id": "dab0e6cb8c932162",
+    "name": "Anthony Morrison",
+    "record": "20-12-0 (1 NC)",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Mar 29, 1984",
+    "sig_strikes_landed_per_min": "1.70",
+    "sig_striking_accuracy": "33%",
+    "sig_strikes_absorbed_per_min": "0.49",
+    "sig_strike_defense": "80%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "ce17641f02fd29a9",
+            "fight_url": "http://ufcstats.com/fight-details/ce17641f02fd29a9"
+        },
+        {
+            "fight_id": "bb9ed6e1e0181299",
+            "fight_url": "http://ufcstats.com/fight-details/bb9ed6e1e0181299"
+        }
+    ]
+}

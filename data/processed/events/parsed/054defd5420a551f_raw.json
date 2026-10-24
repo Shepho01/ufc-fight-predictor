@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "054defd5420a551f",
+        "event_name": "UFC 118: Edgar vs Penn 2",
+        "event_date": "August 28, 2010",
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3d38022fdcb3b5c9",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "BJ Penn",
+            "winner": "Frankie Edgar",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3d38022fdcb3b5c9"
+        },
+        {
+            "fight_id": "bec66de67818a9b1",
+            "fighter_a": "Randy Couture",
+            "fighter_b": "James Toney",
+            "winner": "Randy Couture",
+            "weight_class": "Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/bec66de67818a9b1"
+        },
+        {
+            "fight_id": "4bb7363bb03628f6",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Mario Miranda",
+            "winner": "Demian Maia",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4bb7363bb03628f6"
+        },
+        {
+            "fight_id": "f484290346cfcf73",
+            "fighter_a": "Gray Maynard",
+            "fighter_b": "Kenny Florian",
+            "winner": "Gray Maynard",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f484290346cfcf73"
+        },
+        {
+            "fight_id": "17a8fbfbe8d32258",
+            "fighter_a": "Nate Diaz",
+            "fighter_b": "Marcus Davis",
+            "winner": "Nate Diaz",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "4:02",
+            "fight_url": "http://ufcstats.com/fight-details/17a8fbfbe8d32258"
+        },
+        {
+            "fight_id": "a5962421d687de8f",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Gabe Ruediger",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "2:01",
+            "fight_url": "http://ufcstats.com/fight-details/a5962421d687de8f"
+        },
+        {
+            "fight_id": "65290fc5216c2a73",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Andre Winner",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/65290fc5216c2a73"
+        },
+        {
+            "fight_id": "18cfc2f58d20c0f2",
+            "fighter_a": "Dan Miller",
+            "fighter_b": "John Salter",
+            "winner": "Dan Miller",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/18cfc2f58d20c0f2"
+        },
+        {
+            "fight_id": "dacca5ea6be14d08",
+            "fighter_a": "Greg Soto",
+            "fighter_b": "Nick Osipczak",
+            "winner": "Greg Soto",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dacca5ea6be14d08"
+        },
+        {
+            "fight_id": "9443197a9e0a22a2",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Amilcar Alves",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": "3",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/9443197a9e0a22a2"
+        }
+    ]
+}

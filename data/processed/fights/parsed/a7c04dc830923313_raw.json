@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a7c04dc830923313",
+        "event_id": "06dc1a58663579d2",
+        "event_name": "UFC Fight Night: Boetsch vs Henderson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Robbie Scheureumann",
+        "winner_id": "c8097968da5e5f13"
+    },
+    "fighter_a": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 57",
+            "Sig. str. %": "56%",
+            "Total str.": "55 of 80",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "2",
+            "Ctrl": "6:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 57",
+            "Sig. str. %": "56%",
+            "Head": "15 of 36",
+            "Body": "9 of 12",
+            "Leg": "8 of 9",
+            "Distance": "23 of 44",
+            "Clinch": "7 of 11",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "de45aaae23dfa392",
+        "name": "Christos Giagos",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 84",
+            "Sig. str. %": "33%",
+            "Total str.": "41 of 98",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "2:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 84",
+            "Sig. str. %": "33%",
+            "Head": "17 of 70",
+            "Body": "10 of 13",
+            "Leg": "1 of 1",
+            "Distance": "19 of 68",
+            "Clinch": "9 of 16",
+            "Ground": "0 of 0"
+        }
+    }
+}

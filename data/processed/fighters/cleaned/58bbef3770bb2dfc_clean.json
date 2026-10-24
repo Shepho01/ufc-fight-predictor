@@ -1,0 +1,23 @@
+{
+    "fighter_id": "58bbef3770bb2dfc",
+    "name": "Joel Alvarez",
+    "wins": 23,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 190.5,
+    "weight_lbs": 170,
+    "reach_cm": 195.58,
+    "stance": "Orthodox",
+    "dob_day": 2,
+    "dob_month": 3,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 4.59,
+    "sig_striking_accuracy": 0.52,
+    "sig_strikes_absorbed_per_min": 4.13,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 0.15,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.48,
+    "submission_attempts_per_15_min": 0.9
+}

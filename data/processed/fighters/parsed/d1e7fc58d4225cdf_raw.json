@@ -1,0 +1,108 @@
+{
+    "fighter_id": "d1e7fc58d4225cdf",
+    "name": "Danny Castillo",
+    "record": "17-10-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 25, 1979",
+    "sig_strikes_landed_per_min": "2.57",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "1.96",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "2.95",
+    "takedown_accuracy": "38%",
+    "takedown_defense": "63%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "0ad5c6752e679de5",
+            "fight_url": "http://ufcstats.com/fight-details/0ad5c6752e679de5"
+        },
+        {
+            "fight_id": "6275b448b6c35f1f",
+            "fight_url": "http://ufcstats.com/fight-details/6275b448b6c35f1f"
+        },
+        {
+            "fight_id": "cee94cd937bf64f2",
+            "fight_url": "http://ufcstats.com/fight-details/cee94cd937bf64f2"
+        },
+        {
+            "fight_id": "ae0b5ab5bc4bb6a7",
+            "fight_url": "http://ufcstats.com/fight-details/ae0b5ab5bc4bb6a7"
+        },
+        {
+            "fight_id": "e4fcad8261083dbf",
+            "fight_url": "http://ufcstats.com/fight-details/e4fcad8261083dbf"
+        },
+        {
+            "fight_id": "a5c76ead1a2767b6",
+            "fight_url": "http://ufcstats.com/fight-details/a5c76ead1a2767b6"
+        },
+        {
+            "fight_id": "dbd0ffc84699ad6b",
+            "fight_url": "http://ufcstats.com/fight-details/dbd0ffc84699ad6b"
+        },
+        {
+            "fight_id": "530558f01ac425af",
+            "fight_url": "http://ufcstats.com/fight-details/530558f01ac425af"
+        },
+        {
+            "fight_id": "3195350c98c9491d",
+            "fight_url": "http://ufcstats.com/fight-details/3195350c98c9491d"
+        },
+        {
+            "fight_id": "c039953c2f438832",
+            "fight_url": "http://ufcstats.com/fight-details/c039953c2f438832"
+        },
+        {
+            "fight_id": "68137e9ff22d426b",
+            "fight_url": "http://ufcstats.com/fight-details/68137e9ff22d426b"
+        },
+        {
+            "fight_id": "39e7bb2a0842b8a1",
+            "fight_url": "http://ufcstats.com/fight-details/39e7bb2a0842b8a1"
+        },
+        {
+            "fight_id": "03938272fb7c3971",
+            "fight_url": "http://ufcstats.com/fight-details/03938272fb7c3971"
+        },
+        {
+            "fight_id": "bbbb4c62c35f5390",
+            "fight_url": "http://ufcstats.com/fight-details/bbbb4c62c35f5390"
+        },
+        {
+            "fight_id": "494046cf92263b65",
+            "fight_url": "http://ufcstats.com/fight-details/494046cf92263b65"
+        },
+        {
+            "fight_id": "be17aaad7221e2d9",
+            "fight_url": "http://ufcstats.com/fight-details/be17aaad7221e2d9"
+        },
+        {
+            "fight_id": "15bb241ded012e00",
+            "fight_url": "http://ufcstats.com/fight-details/15bb241ded012e00"
+        },
+        {
+            "fight_id": "6cf2d02153029a7a",
+            "fight_url": "http://ufcstats.com/fight-details/6cf2d02153029a7a"
+        },
+        {
+            "fight_id": "f3fd6257c091fc56",
+            "fight_url": "http://ufcstats.com/fight-details/f3fd6257c091fc56"
+        },
+        {
+            "fight_id": "8bbf5502c291e020",
+            "fight_url": "http://ufcstats.com/fight-details/8bbf5502c291e020"
+        },
+        {
+            "fight_id": "f5b0055b226bace9",
+            "fight_url": "http://ufcstats.com/fight-details/f5b0055b226bace9"
+        },
+        {
+            "fight_id": "dc4ccf631665e8bb",
+            "fight_url": "http://ufcstats.com/fight-details/dc4ccf631665e8bb"
+        }
+    ]
+}

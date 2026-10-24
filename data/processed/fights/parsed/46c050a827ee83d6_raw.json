@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "46c050a827ee83d6",
+        "event_id": "5f8e00c27b7e7410",
+        "event_name": "UFC Fight Night: Smith vs. Teixeira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:25",
+        "referee": "Herb Dean",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "262a7d06203657e6",
+        "name": "Alexander Hernandez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 108",
+            "Sig. str. %": "31%",
+            "Total str.": "41 of 115",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 108",
+            "Sig. str. %": "31%",
+            "Head": "22 of 88",
+            "Body": "12 of 19",
+            "Leg": "0 of 1",
+            "Distance": "28 of 100",
+            "Clinch": "5 of 7",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "61 of 145",
+            "Sig. str. %": "42%",
+            "Total str.": "65 of 149",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "61 of 145",
+            "Sig. str. %": "42%",
+            "Head": "48 of 126",
+            "Body": "6 of 10",
+            "Leg": "7 of 9",
+            "Distance": "54 of 135",
+            "Clinch": "7 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

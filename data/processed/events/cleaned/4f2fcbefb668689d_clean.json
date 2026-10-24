@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "4f2fcbefb668689d",
+        "event_name": "UFC 172: Jones vs Teixeira",
+        "event_day": 26,
+        "event_month": 4,
+        "event_year": 2014,
+        "location": "Baltimore, Maryland, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e332aec001b34f50",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Glover Teixeira",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e332aec001b34f50"
+        },
+        {
+            "fight_id": "9a1d57966d8a17a4",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Phil Davis",
+            "winner": "Anthony Johnson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9a1d57966d8a17a4"
+        },
+        {
+            "fight_id": "9b10db4499b211b7",
+            "fighter_a": "Luke Rockhold",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Luke Rockhold",
+            "weight_class": "Middleweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 128,
+            "fight_url": "http://ufcstats.com/fight-details/9b10db4499b211b7"
+        },
+        {
+            "fight_id": "484cf23d5110ca04",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Yancy Medeiros",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 198,
+            "fight_url": "http://ufcstats.com/fight-details/484cf23d5110ca04"
+        },
+        {
+            "fight_id": "5b0cc074c657ebd4",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Andre Fili",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 219,
+            "fight_url": "http://ufcstats.com/fight-details/5b0cc074c657ebd4"
+        },
+        {
+            "fight_id": "553a788a44b8e794",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Tim Elliott",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 248,
+            "fight_url": "http://ufcstats.com/fight-details/553a788a44b8e794"
+        },
+        {
+            "fight_id": "23861a2085ea34a3",
+            "fighter_a": "Takanori Gomi",
+            "fighter_b": "Isaac Vallie-Flagg",
+            "winner": "Takanori Gomi",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/23861a2085ea34a3"
+        },
+        {
+            "fight_id": "c3455ba522bb37eb",
+            "fighter_a": "Bethe Correia",
+            "fighter_b": "Jessamyn Duke",
+            "winner": "Bethe Correia",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c3455ba522bb37eb"
+        },
+        {
+            "fight_id": "e4fcad8261083dbf",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Charlie Brenneman",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 21,
+            "fight_url": "http://ufcstats.com/fight-details/e4fcad8261083dbf"
+        },
+        {
+            "fight_id": "82f00e723ed5f6ea",
+            "fighter_a": "Chris Beal",
+            "fighter_b": "Patrick Williams",
+            "winner": "Chris Beal",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 2,
+            "time_seconds": 111,
+            "fight_url": "http://ufcstats.com/fight-details/82f00e723ed5f6ea"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "fighter_id": "9e8f6c728eb01124",
+    "name": "Justin Gaethje",
+    "record": "28-5-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 14, 1988",
+    "sig_strikes_landed_per_min": "6.29",
+    "sig_striking_accuracy": "57%",
+    "sig_strikes_absorbed_per_min": "6.83",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.30",
+    "takedown_accuracy": "26%",
+    "takedown_defense": "73%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "7208e40818401e88",
+            "fight_url": "http://ufcstats.com/fight-details/7208e40818401e88"
+        },
+        {
+            "fight_id": "fa4b3f5ce8055921",
+            "fight_url": "http://ufcstats.com/fight-details/fa4b3f5ce8055921"
+        },
+        {
+            "fight_id": "a2f31cf3a28a7730",
+            "fight_url": "http://ufcstats.com/fight-details/a2f31cf3a28a7730"
+        },
+        {
+            "fight_id": "cf5e8f98159c3971",
+            "fight_url": "http://ufcstats.com/fight-details/cf5e8f98159c3971"
+        },
+        {
+            "fight_id": "c27e33ee8ef53866",
+            "fight_url": "http://ufcstats.com/fight-details/c27e33ee8ef53866"
+        },
+        {
+            "fight_id": "90a83875e1d11238",
+            "fight_url": "http://ufcstats.com/fight-details/90a83875e1d11238"
+        },
+        {
+            "fight_id": "7d4e49d8a6678157",
+            "fight_url": "http://ufcstats.com/fight-details/7d4e49d8a6678157"
+        },
+        {
+            "fight_id": "999a0fad4c82148d",
+            "fight_url": "http://ufcstats.com/fight-details/999a0fad4c82148d"
+        },
+        {
+            "fight_id": "59eea37af7efb06c",
+            "fight_url": "http://ufcstats.com/fight-details/59eea37af7efb06c"
+        },
+        {
+            "fight_id": "d395828f5cb045a5",
+            "fight_url": "http://ufcstats.com/fight-details/d395828f5cb045a5"
+        },
+        {
+            "fight_id": "490724f8b3658f67",
+            "fight_url": "http://ufcstats.com/fight-details/490724f8b3658f67"
+        },
+        {
+            "fight_id": "b309cdde35310875",
+            "fight_url": "http://ufcstats.com/fight-details/b309cdde35310875"
+        },
+        {
+            "fight_id": "d6f6ac29008509db",
+            "fight_url": "http://ufcstats.com/fight-details/d6f6ac29008509db"
+        },
+        {
+            "fight_id": "bfae2fb50efbdb0f",
+            "fight_url": "http://ufcstats.com/fight-details/bfae2fb50efbdb0f"
+        },
+        {
+            "fight_id": "23e5acd1549b538a",
+            "fight_url": "http://ufcstats.com/fight-details/23e5acd1549b538a"
+        },
+        {
+            "fight_id": "0d5356c506111a57",
+            "fight_url": "http://ufcstats.com/fight-details/0d5356c506111a57"
+        }
+    ]
+}

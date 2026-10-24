@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bba8c0ab999b9e6f",
+        "event_id": "2144954270be834d",
+        "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:35",
+        "referee": "Marc Goddard",
+        "winner_id": "b3cb9dfccff3be76"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 31",
+            "Sig. str. %": "45%",
+            "Total str.": "14 of 31",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 31",
+            "Sig. str. %": "45%",
+            "Head": "0 of 9",
+            "Body": "2 of 3",
+            "Leg": "12 of 19",
+            "Distance": "14 of 31",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b3cb9dfccff3be76",
+        "name": "Salahdine Parnasse",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "12 of 17",
+            "Sig. str. %": "70%",
+            "Total str.": "12 of 17",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 17",
+            "Sig. str. %": "70%",
+            "Head": "7 of 12",
+            "Body": "2 of 2",
+            "Leg": "3 of 3",
+            "Distance": "9 of 14",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 3"
+        }
+    }
+}

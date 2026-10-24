@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "6d7886b094b471ac",
+        "event_name": "UFC 140: Jones vs Machida",
+        "event_date": "December 10, 2011",
+        "location": "Toronto, Ontario, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "834968d130e1f0e9",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Lyoto Machida",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "4:26",
+            "fight_url": "http://ufcstats.com/fight-details/834968d130e1f0e9"
+        },
+        {
+            "fight_id": "92d0c39f0df77c7e",
+            "fighter_a": "Frank Mir",
+            "fighter_b": "Antonio Rodrigo Nogueira",
+            "winner": "Frank Mir",
+            "weight_class": "Heavyweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "3:38",
+            "fight_url": "http://ufcstats.com/fight-details/92d0c39f0df77c7e"
+        },
+        {
+            "fight_id": "69d6d58d58cb81e3",
+            "fighter_a": "Rogerio Nogueira",
+            "fighter_b": "Tito Ortiz",
+            "winner": "Rogerio Nogueira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/69d6d58d58cb81e3"
+        },
+        {
+            "fight_id": "dbe53d31f4c1ccf7",
+            "fighter_a": "Brian Ebersole",
+            "fighter_b": "Claude Patrick",
+            "winner": "Brian Ebersole",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dbe53d31f4c1ccf7"
+        },
+        {
+            "fight_id": "8abe79e6d300b639",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Mark Hominick",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:07",
+            "fight_url": "http://ufcstats.com/fight-details/8abe79e6d300b639"
+        },
+        {
+            "fight_id": "e03ec6b24fca2386",
+            "fighter_a": "Igor Pokrajac",
+            "fighter_b": "Krzysztof Soszynski",
+            "winner": "Igor Pokrajac",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:35",
+            "fight_url": "http://ufcstats.com/fight-details/e03ec6b24fca2386"
+        },
+        {
+            "fight_id": "76d18b94f580be6e",
+            "fighter_a": "Constantinos Philippou",
+            "fighter_b": "Jared Hamman",
+            "winner": "Constantinos Philippou",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/76d18b94f580be6e"
+        },
+        {
+            "fight_id": "fd0c847858bd346f",
+            "fighter_a": "Dennis Hallman",
+            "fighter_b": "John Makdessi",
+            "winner": "Dennis Hallman",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:58",
+            "fight_url": "http://ufcstats.com/fight-details/fd0c847858bd346f"
+        },
+        {
+            "fight_id": "fef109b9f26585b3",
+            "fighter_a": "Yves Jabouin",
+            "fighter_b": "Walel Watson",
+            "winner": "Yves Jabouin",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fef109b9f26585b3"
+        },
+        {
+            "fight_id": "70995170c27c4143",
+            "fighter_a": "Mark Bocek",
+            "fighter_b": "Nik Lentz",
+            "winner": "Mark Bocek",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/70995170c27c4143"
+        },
+        {
+            "fight_id": "d6d812269487071e",
+            "fighter_a": "Jake Hecht",
+            "fighter_b": "Rich Attonito",
+            "winner": "Jake Hecht",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/d6d812269487071e"
+        },
+        {
+            "fight_id": "e094423979fc7c6a",
+            "fighter_a": "John Cholish",
+            "fighter_b": "Mitch Clarke",
+            "winner": "John Cholish",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:36",
+            "fight_url": "http://ufcstats.com/fight-details/e094423979fc7c6a"
+        }
+    ]
+}

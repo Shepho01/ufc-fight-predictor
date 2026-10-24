@@ -1,0 +1,23 @@
+{
+    "fighter_id": "2b4faacc16d66898",
+    "name": "Eiji Mitsuoka",
+    "wins": 18,
+    "losses": 9,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Southpaw",
+    "dob_day": 1,
+    "dob_month": 1,
+    "dob_year": 1976,
+    "sig_strikes_landed_per_min": 1.49,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 2.26,
+    "sig_strike_defense": 0.45,
+    "takedowns_landed_per_15_min": 2.3,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.2,
+    "submission_attempts_per_15_min": 1.6
+}

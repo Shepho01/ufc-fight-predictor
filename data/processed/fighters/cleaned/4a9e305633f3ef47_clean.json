@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4a9e305633f3ef47",
+    "name": "Rolando Perez",
+    "wins": 7,
+    "losses": 5,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 135,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": null,
+    "dob_month": null,
+    "dob_year": null,
+    "sig_strikes_landed_per_min": 4.23,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 4.83,
+    "sig_strike_defense": 0.63,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.0
+}

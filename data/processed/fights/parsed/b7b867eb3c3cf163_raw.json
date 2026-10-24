@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b7b867eb3c3cf163",
+        "event_id": "d0d43cb9b14f231c",
+        "event_name": "UFC 256: Figueiredo vs. Moreno",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "22a92d7f62195791",
+        "name": "Tony Ferguson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 42",
+            "Sig. str. %": "45%",
+            "Total str.": "26 of 49",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 42",
+            "Sig. str. %": "45%",
+            "Head": "14 of 29",
+            "Body": "3 of 10",
+            "Leg": "2 of 3",
+            "Distance": "15 of 38",
+            "Clinch": "1 of 1",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 63",
+            "Sig. str. %": "65%",
+            "Total str.": "86 of 112",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "11:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 63",
+            "Sig. str. %": "65%",
+            "Head": "26 of 43",
+            "Body": "7 of 11",
+            "Leg": "8 of 9",
+            "Distance": "17 of 34",
+            "Clinch": "0 of 0",
+            "Ground": "24 of 29"
+        }
+    }
+}

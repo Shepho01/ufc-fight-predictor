@@ -9,6 +9,7 @@
         "method": "KO/TKO",
         "finish_round": 1,
         "finish_time_seconds": 57,
+        "duration_seconds": 57,
         "referee": "Dan Miragliotta",
         "winner_id": "275aca31f61ba28c"
     },

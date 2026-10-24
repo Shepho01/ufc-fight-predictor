@@ -1,0 +1,23 @@
+{
+    "fighter_id": "029afd138865d20a",
+    "name": "Rafael Alves",
+    "wins": 20,
+    "losses": 12,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 11,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 1.85,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 3.3,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 0.29,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.44,
+    "submission_attempts_per_15_min": 1.5
+}

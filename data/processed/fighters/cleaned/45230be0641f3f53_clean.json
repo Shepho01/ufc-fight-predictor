@@ -1,0 +1,23 @@
+{
+    "fighter_id": "45230be0641f3f53",
+    "name": "Leonardo Morales",
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 135,
+    "reach_cm": null,
+    "stance": "Southpaw",
+    "dob_day": 22,
+    "dob_month": 12,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 2.05,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 2.05,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.62,
+    "submission_attempts_per_15_min": 0.0
+}

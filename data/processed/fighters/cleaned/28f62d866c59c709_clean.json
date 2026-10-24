@@ -1,0 +1,23 @@
+{
+    "fighter_id": "28f62d866c59c709",
+    "name": "Waylon Lowe",
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 2,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Southpaw",
+    "dob_day": 31,
+    "dob_month": 10,
+    "dob_year": 1980,
+    "sig_strikes_landed_per_min": 1.88,
+    "sig_striking_accuracy": 0.55,
+    "sig_strikes_absorbed_per_min": 2.4,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 4.47,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.83,
+    "submission_attempts_per_15_min": 0.3
+}

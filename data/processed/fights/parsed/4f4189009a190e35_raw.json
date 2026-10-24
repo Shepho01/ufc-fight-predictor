@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4f4189009a190e35",
+        "event_id": "daff32bc96d1eabf",
+        "event_name": "UFC 309: Jones vs. Miocic",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "88 of 122",
+            "Sig. str. %": "72%",
+            "Total str.": "117 of 153",
+            "Td": "5 of 12",
+            "Td %": "41%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "14:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "88 of 122",
+            "Sig. str. %": "72%",
+            "Head": "56 of 82",
+            "Body": "18 of 25",
+            "Leg": "14 of 15",
+            "Distance": "67 of 98",
+            "Clinch": "3 of 5",
+            "Ground": "18 of 19"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4b93a88f3b1de35b",
+        "name": "Michael Chandler",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "84 of 113",
+            "Sig. str. %": "74%",
+            "Total str.": "150 of 181",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:59"
+        },
+        "significant_strikes": {
+            "Sig. str": "84 of 113",
+            "Sig. str. %": "74%",
+            "Head": "59 of 85",
+            "Body": "16 of 18",
+            "Leg": "9 of 10",
+            "Distance": "60 of 89",
+            "Clinch": "0 of 0",
+            "Ground": "24 of 24"
+        }
+    }
+}

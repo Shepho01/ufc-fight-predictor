@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ecdbb3a5216b815e",
+        "event_id": "38e5d9dcb0fddc42",
+        "event_name": "UFC Fight Night: De Ridder vs. Allen",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "1:16",
+        "referee": "John Cooper",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "873626e5547b5235",
+        "name": "Kyle Prepolec",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "51 of 164",
+            "Sig. str. %": "31%",
+            "Total str.": "51 of 164",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "51 of 164",
+            "Sig. str. %": "31%",
+            "Head": "36 of 139",
+            "Body": "7 of 13",
+            "Leg": "8 of 12",
+            "Distance": "51 of 164",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "83 of 161",
+            "Sig. str. %": "51%",
+            "Total str.": "85 of 163",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "83 of 161",
+            "Sig. str. %": "51%",
+            "Head": "46 of 117",
+            "Body": "18 of 22",
+            "Leg": "19 of 22",
+            "Distance": "77 of 153",
+            "Clinch": "6 of 8",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b55605791a4d72b9",
+        "event_id": "d856a0080ac09ed7",
+        "event_name": "UFC Fight Night: Poirier vs. Pettis",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "2:08",
+        "referee": "Keith Peterson",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "53 of 100",
+            "Sig. str. %": "53%",
+            "Total str.": "71 of 119",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "53 of 100",
+            "Sig. str. %": "53%",
+            "Head": "47 of 92",
+            "Body": "5 of 6",
+            "Leg": "1 of 2",
+            "Distance": "25 of 62",
+            "Clinch": "8 of 10",
+            "Ground": "20 of 28"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cbb682f5fcc44bfc",
+        "name": "Anthony Pettis",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 54",
+            "Sig. str. %": "62%",
+            "Total str.": "46 of 66",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "4",
+            "Rev.": "2",
+            "Ctrl": "1:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 54",
+            "Sig. str. %": "62%",
+            "Head": "29 of 45",
+            "Body": "3 of 7",
+            "Leg": "2 of 2",
+            "Distance": "23 of 43",
+            "Clinch": "1 of 1",
+            "Ground": "10 of 10"
+        }
+    }
+}

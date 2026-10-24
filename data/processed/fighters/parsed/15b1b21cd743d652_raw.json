@@ -1,0 +1,52 @@
+{
+    "fighter_id": "15b1b21cd743d652",
+    "name": "Rafaello Oliveira",
+    "record": "17-8-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 26, 1982",
+    "sig_strikes_landed_per_min": "2.19",
+    "sig_striking_accuracy": "33%",
+    "sig_strikes_absorbed_per_min": "3.38",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "2.49",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "11%",
+    "submission_attempts_per_15_min": "1.6",
+    "fight_history": [
+        {
+            "fight_id": "dc28c6e66f333d2a",
+            "fight_url": "http://ufcstats.com/fight-details/dc28c6e66f333d2a"
+        },
+        {
+            "fight_id": "005723fb99440272",
+            "fight_url": "http://ufcstats.com/fight-details/005723fb99440272"
+        },
+        {
+            "fight_id": "8e7b1dfc608a2ef4",
+            "fight_url": "http://ufcstats.com/fight-details/8e7b1dfc608a2ef4"
+        },
+        {
+            "fight_id": "765a1fde5ee12784",
+            "fight_url": "http://ufcstats.com/fight-details/765a1fde5ee12784"
+        },
+        {
+            "fight_id": "6299412d7bbfbce6",
+            "fight_url": "http://ufcstats.com/fight-details/6299412d7bbfbce6"
+        },
+        {
+            "fight_id": "eeb8b25df8543e0f",
+            "fight_url": "http://ufcstats.com/fight-details/eeb8b25df8543e0f"
+        },
+        {
+            "fight_id": "0949caefc6735f9b",
+            "fight_url": "http://ufcstats.com/fight-details/0949caefc6735f9b"
+        },
+        {
+            "fight_id": "92ea4999f99f55fd",
+            "fight_url": "http://ufcstats.com/fight-details/92ea4999f99f55fd"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "2620f3eb21c79614",
+        "event_name": "WEC 38: Varner vs. Cerrone",
+        "event_day": 25,
+        "event_month": 1,
+        "event_year": 2009,
+        "location": "San Diego, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2f4bdcee104aa82c",
+            "fighter_a": "Jamie Varner",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Jamie Varner",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/2f4bdcee104aa82c"
+        },
+        {
+            "fight_id": "6654ed9d9d930e92",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Jens Pulver",
+            "winner": "Urijah Faber",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 94,
+            "fight_url": "http://ufcstats.com/fight-details/6654ed9d9d930e92"
+        },
+        {
+            "fight_id": "4ed7a81bb2b85dff",
+            "fighter_a": "Danillo Villefort",
+            "fighter_b": "Mike Campbell",
+            "winner": "Danillo Villefort",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 233,
+            "fight_url": "http://ufcstats.com/fight-details/4ed7a81bb2b85dff"
+        },
+        {
+            "fight_id": "3bdba539a350721c",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Rolando Perez",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/3bdba539a350721c"
+        },
+        {
+            "fight_id": "8a7ff52167188be3",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Anthony Njokuani",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 42,
+            "fight_url": "http://ufcstats.com/fight-details/8a7ff52167188be3"
+        },
+        {
+            "fight_id": "766c216bbcaa55db",
+            "fighter_a": "Edgar Garcia",
+            "fighter_b": "Hiromitsu Miura",
+            "winner": "Edgar Garcia",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/766c216bbcaa55db"
+        },
+        {
+            "fight_id": "5c9f13e6e789fdee",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Ian McCall",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5c9f13e6e789fdee"
+        },
+        {
+            "fight_id": "3b2dc7f39710bb58",
+            "fighter_a": "Scott Jorgensen",
+            "fighter_b": "Frank Gomez",
+            "winner": "Scott Jorgensen",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/3b2dc7f39710bb58"
+        },
+        {
+            "fight_id": "1949b87bce92c00c",
+            "fighter_a": "Jesse Lennox",
+            "fighter_b": "Blas Avena",
+            "winner": "Jesse Lennox",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/1949b87bce92c00c"
+        },
+        {
+            "fight_id": "5d155122e50305b2",
+            "fighter_a": "Charlie Valencia",
+            "fighter_b": "Seth Dikun",
+            "winner": "Charlie Valencia",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5d155122e50305b2"
+        }
+    ]
+}

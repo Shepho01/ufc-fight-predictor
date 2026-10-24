@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d7507e2741fd4d05",
+        "event_id": "b8e2f10efb6eca85",
+        "event_name": "UFC 318: Holloway vs. Poirier 3",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "198 of 375",
+            "Sig. str. %": "52%",
+            "Total str.": "201 of 378",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "198 of 375",
+            "Sig. str. %": "52%",
+            "Head": "103 of 253",
+            "Body": "64 of 80",
+            "Leg": "31 of 42",
+            "Distance": "182 of 351",
+            "Clinch": "0 of 1",
+            "Ground": "16 of 23"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "109 of 255",
+            "Sig. str. %": "42%",
+            "Total str.": "109 of 255",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "109 of 255",
+            "Sig. str. %": "42%",
+            "Head": "94 of 235",
+            "Body": "6 of 10",
+            "Leg": "9 of 10",
+            "Distance": "102 of 243",
+            "Clinch": "3 of 6",
+            "Ground": "4 of 6"
+        }
+    }
+}

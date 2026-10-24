@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d2cd7a69cc55e7ed",
+    "name": "Austin Hubbard",
+    "wins": 17,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 22,
+    "dob_month": 12,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 3.97,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 4.1,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 1.63,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 0.1
+}

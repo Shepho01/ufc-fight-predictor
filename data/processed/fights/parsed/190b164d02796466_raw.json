@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "190b164d02796466",
+        "event_id": "b18fb36a4aa00093",
+        "event_name": "WEC 48: Aldo vs. Faber",
+        "weight_class": "WEC Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Josh Rosenthal",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "77 of 103",
+            "Sig. str. %": "74%",
+            "Total str.": "138 of 165",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 103",
+            "Sig. str. %": "74%",
+            "Head": "33 of 56",
+            "Body": "17 of 18",
+            "Leg": "27 of 29",
+            "Distance": "54 of 78",
+            "Clinch": "0 of 0",
+            "Ground": "23 of 25"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "78114b7199cef90c",
+        "name": "Urijah Faber",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 112",
+            "Sig. str. %": "17%",
+            "Total str.": "27 of 119",
+            "Td": "0 of 9",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 112",
+            "Sig. str. %": "17%",
+            "Head": "10 of 94",
+            "Body": "9 of 17",
+            "Leg": "1 of 1",
+            "Distance": "19 of 108",
+            "Clinch": "1 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

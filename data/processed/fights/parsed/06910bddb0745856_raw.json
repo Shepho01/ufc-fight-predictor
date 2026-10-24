@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "06910bddb0745856",
+        "event_id": "9c37681096c6f3a9",
+        "event_name": "UFC Fight Night: Waterson vs. Hill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "61 of 95",
+            "Sig. str. %": "64%",
+            "Total str.": "109 of 149",
+            "Td": "4 of 6",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "61 of 95",
+            "Sig. str. %": "64%",
+            "Head": "41 of 74",
+            "Body": "18 of 19",
+            "Leg": "2 of 2",
+            "Distance": "35 of 63",
+            "Clinch": "17 of 18",
+            "Ground": "9 of 14"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cd7763bcadb5d4c8",
+        "name": "Alan Patrick",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 69",
+            "Sig. str. %": "27%",
+            "Total str.": "38 of 89",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 69",
+            "Sig. str. %": "27%",
+            "Head": "8 of 50",
+            "Body": "7 of 15",
+            "Leg": "4 of 4",
+            "Distance": "18 of 68",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

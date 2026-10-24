@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "bf12aca029bfcc47",
+        "event_name": "UFC 86: Jackson vs Griffin",
+        "event_day": 5,
+        "event_month": 7,
+        "event_year": 2008,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ae674ec42bd0a979",
+            "fighter_a": "Forrest Griffin",
+            "fighter_b": "Quinton Jackson",
+            "winner": "Forrest Griffin",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ae674ec42bd0a979"
+        },
+        {
+            "fight_id": "6760e48a36571feb",
+            "fighter_a": "Patrick Cote",
+            "fighter_b": "Ricardo Almeida",
+            "winner": "Patrick Cote",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6760e48a36571feb"
+        },
+        {
+            "fight_id": "51b0cc51799e7d5d",
+            "fighter_a": "Joe Stevenson",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Joe Stevenson",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 177,
+            "fight_url": "http://ufcstats.com/fight-details/51b0cc51799e7d5d"
+        },
+        {
+            "fight_id": "ac82d28aaa5faaf0",
+            "fighter_a": "Josh Koscheck",
+            "fighter_b": "Chris Lytle",
+            "winner": "Josh Koscheck",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ac82d28aaa5faaf0"
+        },
+        {
+            "fight_id": "61f0ceb980c1ae81",
+            "fighter_a": "Tyson Griffin",
+            "fighter_b": "Marcus Aurelio",
+            "winner": "Tyson Griffin",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/61f0ceb980c1ae81"
+        },
+        {
+            "fight_id": "bbe3d2a2ad8d204e",
+            "fighter_a": "Gabriel Gonzaga",
+            "fighter_b": "Justin McCully",
+            "winner": "Gabriel Gonzaga",
+            "weight_class": "Heavyweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 117,
+            "fight_url": "http://ufcstats.com/fight-details/bbe3d2a2ad8d204e"
+        },
+        {
+            "fight_id": "66f0238fac31130f",
+            "fighter_a": "Cole Miller",
+            "fighter_b": "Jorge Gurgel",
+            "winner": "Cole Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 3,
+            "time_seconds": 288,
+            "fight_url": "http://ufcstats.com/fight-details/66f0238fac31130f"
+        },
+        {
+            "fight_id": "13858ffdaaef5671",
+            "fighter_a": "Melvin Guillard",
+            "fighter_b": "Dennis Siver",
+            "winner": "Melvin Guillard",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 36,
+            "fight_url": "http://ufcstats.com/fight-details/13858ffdaaef5671"
+        },
+        {
+            "fight_id": "bcefcb29bec709d6",
+            "fighter_a": "Justin Buchholz",
+            "fighter_b": "Corey Hill",
+            "winner": "Justin Buchholz",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 237,
+            "fight_url": "http://ufcstats.com/fight-details/bcefcb29bec709d6"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "733dcfec0cc9b439",
+        "event_id": "48e093ea1f43a053",
+        "event_name": "UFC 268: Usman vs. Covington 2",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:59",
+        "referee": "Mike Beltran",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "18 of 28",
+            "Sig. str. %": "64%",
+            "Total str.": "22 of 32",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 28",
+            "Sig. str. %": "64%",
+            "Head": "11 of 21",
+            "Body": "5 of 5",
+            "Leg": "2 of 2",
+            "Distance": "14 of 22",
+            "Clinch": "4 of 6",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e26bd53b751d61d9",
+        "name": "Jordan Williams",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 50",
+            "Sig. str. %": "44%",
+            "Total str.": "24 of 54",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:47"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 50",
+            "Sig. str. %": "44%",
+            "Head": "16 of 44",
+            "Body": "3 of 3",
+            "Leg": "3 of 3",
+            "Distance": "20 of 48",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

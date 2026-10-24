@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "c8a49ff2acb6f3c5",
+        "event_name": "UFC Fight Night: Dawson vs. Green",
+        "event_date": "October 07, 2023",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1aa4c2fa5ffaff00",
+            "fighter_a": "King Green",
+            "fighter_b": "Grant Dawson",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:33",
+            "fight_url": "http://ufcstats.com/fight-details/1aa4c2fa5ffaff00"
+        },
+        {
+            "fight_id": "e966de63c8e6b1d5",
+            "fighter_a": "Joe Pyfer",
+            "fighter_b": "Abdul Razak Alhassan",
+            "winner": "Joe Pyfer",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/e966de63c8e6b1d5"
+        },
+        {
+            "fight_id": "eb76a5b76a68e4c4",
+            "fighter_a": "Joaquin Buckley",
+            "fighter_b": "Alex Morono",
+            "winner": "Joaquin Buckley",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/eb76a5b76a68e4c4"
+        },
+        {
+            "fight_id": "68095e551ff6bbfd",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Ricky Glenn",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:36",
+            "fight_url": "http://ufcstats.com/fight-details/68095e551ff6bbfd"
+        },
+        {
+            "fight_id": "b638646fb297228d",
+            "fighter_a": "Bill Algeo",
+            "fighter_b": "Alexander Hernandez",
+            "winner": "Bill Algeo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b638646fb297228d"
+        },
+        {
+            "fight_id": "b6a6ba08898f3b6a",
+            "fighter_a": "Karolina Kowalkiewicz",
+            "fighter_b": "Diana Belbita",
+            "winner": "Karolina Kowalkiewicz",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b6a6ba08898f3b6a"
+        },
+        {
+            "fight_id": "eb7b0a6f06dbdb4f",
+            "fighter_a": "Nate Maness",
+            "fighter_b": "Mateus Mendonca",
+            "winner": "Nate Maness",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:40",
+            "fight_url": "http://ufcstats.com/fight-details/eb7b0a6f06dbdb4f"
+        },
+        {
+            "fight_id": "5ee83e03aaff5fa1",
+            "fighter_a": "Vanessa Demopoulos",
+            "fighter_b": "Kanako Murata",
+            "winner": "Vanessa Demopoulos",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5ee83e03aaff5fa1"
+        },
+        {
+            "fight_id": "df146b0592259e5d",
+            "fighter_a": "Aoriqileng",
+            "fighter_b": "Johnny Munoz",
+            "winner": "Aoriqileng",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/df146b0592259e5d"
+        },
+        {
+            "fight_id": "cc4fcfede19bc196",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Montana De La Rosa",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/cc4fcfede19bc196"
+        }
+    ]
+}

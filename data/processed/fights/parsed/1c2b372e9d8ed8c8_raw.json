@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1c2b372e9d8ed8c8",
+        "event_id": "234f3767ff0e5701",
+        "event_name": "WEC 51: Aldo vs. Gamburyan",
+        "weight_class": "WEC Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:32",
+        "referee": "Herb Dean",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 36",
+            "Sig. str. %": "69%",
+            "Total str.": "28 of 39",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 36",
+            "Sig. str. %": "69%",
+            "Head": "15 of 26",
+            "Body": "5 of 5",
+            "Leg": "5 of 5",
+            "Distance": "18 of 28",
+            "Clinch": "0 of 0",
+            "Ground": "7 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cc6f9d1e89f3449a",
+        "name": "Manvel Gamburyan",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 30",
+            "Sig. str. %": "26%",
+            "Total str.": "8 of 30",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 30",
+            "Sig. str. %": "26%",
+            "Head": "4 of 23",
+            "Body": "0 of 1",
+            "Leg": "4 of 6",
+            "Distance": "8 of 30",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

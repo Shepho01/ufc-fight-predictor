@@ -1,0 +1,52 @@
+{
+    "fighter_id": "9c393e836a852f30",
+    "name": "Mauricio Ruffy",
+    "record": "14-3-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Jun 17, 1996",
+    "sig_strikes_landed_per_min": "3.93",
+    "sig_striking_accuracy": "56%",
+    "sig_strikes_absorbed_per_min": "3.66",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "87%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "fe612d20eec7ef35",
+            "fight_url": "http://ufcstats.com/fight-details/fe612d20eec7ef35"
+        },
+        {
+            "fight_id": "9a9b30b3165b62e4",
+            "fight_url": "http://ufcstats.com/fight-details/9a9b30b3165b62e4"
+        },
+        {
+            "fight_id": "57d7a683b85bb87b",
+            "fight_url": "http://ufcstats.com/fight-details/57d7a683b85bb87b"
+        },
+        {
+            "fight_id": "d14fea43712707f0",
+            "fight_url": "http://ufcstats.com/fight-details/d14fea43712707f0"
+        },
+        {
+            "fight_id": "231968c02cdfe65e",
+            "fight_url": "http://ufcstats.com/fight-details/231968c02cdfe65e"
+        },
+        {
+            "fight_id": "55eebc2ee92bf00a",
+            "fight_url": "http://ufcstats.com/fight-details/55eebc2ee92bf00a"
+        },
+        {
+            "fight_id": "b9de363e6b406853",
+            "fight_url": "http://ufcstats.com/fight-details/b9de363e6b406853"
+        },
+        {
+            "fight_id": "b681b56a1245ee07",
+            "fight_url": "http://ufcstats.com/fight-details/b681b56a1245ee07"
+        }
+    ]
+}

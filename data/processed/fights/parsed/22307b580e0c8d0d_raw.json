@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "22307b580e0c8d0d",
+        "event_id": "81ca2c245b19b3c5",
+        "event_name": "UFC Fight Night: Blachowicz vs. Jacare",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Eduardo Herdy",
+        "winner_id": "a8283a4f415e1eb9"
+    },
+    "fighter_a": {
+        "fighter_id": "a8283a4f415e1eb9",
+        "name": "Francisco Trinaldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 122",
+            "Sig. str. %": "25%",
+            "Total str.": "36 of 127",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 122",
+            "Sig. str. %": "25%",
+            "Head": "20 of 100",
+            "Body": "5 of 14",
+            "Leg": "6 of 8",
+            "Distance": "26 of 109",
+            "Clinch": "5 of 13",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 115",
+            "Sig. str. %": "43%",
+            "Total str.": "67 of 135",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 115",
+            "Sig. str. %": "43%",
+            "Head": "27 of 77",
+            "Body": "13 of 24",
+            "Leg": "10 of 14",
+            "Distance": "43 of 106",
+            "Clinch": "1 of 2",
+            "Ground": "6 of 7"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "aceffa19749c4dc0",
+    "name": "Zubaira Tukhugov",
+    "wins": 20,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 15,
+    "dob_month": 1,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 3.17,
+    "sig_striking_accuracy": 0.39,
+    "sig_strikes_absorbed_per_min": 3.07,
+    "sig_strike_defense": 0.63,
+    "takedowns_landed_per_15_min": 2.13,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.0
+}

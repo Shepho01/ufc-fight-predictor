@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "154a6b3ffae264cd",
+        "event_name": "UFC 204: Bisping vs. Henderson",
+        "event_date": "October 08, 2016",
+        "location": "Manchester, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "eaa63c8fb9379426",
+            "fighter_a": "Michael Bisping",
+            "fighter_b": "Dan Henderson",
+            "winner": "Michael Bisping",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/eaa63c8fb9379426"
+        },
+        {
+            "fight_id": "ebc7ec239faf7b0b",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/ebc7ec239faf7b0b"
+        },
+        {
+            "fight_id": "451d7d8c2a6bacb3",
+            "fighter_a": "Jimi Manuwa",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Jimi Manuwa",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/451d7d8c2a6bacb3"
+        },
+        {
+            "fight_id": "17067cf55726c673",
+            "fighter_a": "Stefan Struve",
+            "fighter_b": "Daniel Omielanczuk",
+            "winner": "Stefan Struve",
+            "weight_class": "Heavyweight",
+            "method": "SUB D'Arce Choke",
+            "round": "2",
+            "time": "1:41",
+            "fight_url": "http://ufcstats.com/fight-details/17067cf55726c673"
+        },
+        {
+            "fight_id": "23253ebb1d86d8b4",
+            "fighter_a": "Mirsad Bektic",
+            "fighter_b": "Russell Doane",
+            "winner": "Mirsad Bektic",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:22",
+            "fight_url": "http://ufcstats.com/fight-details/23253ebb1d86d8b4"
+        },
+        {
+            "fight_id": "2f9a8807807b80d6",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Brad Pickett",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/2f9a8807807b80d6"
+        },
+        {
+            "fight_id": "3be121d4f5460893",
+            "fighter_a": "Damian Stasiak",
+            "fighter_b": "Davey Grant",
+            "winner": "Damian Stasiak",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": "3",
+            "time": "2:56",
+            "fight_url": "http://ufcstats.com/fight-details/3be121d4f5460893"
+        },
+        {
+            "fight_id": "47dfd70b5780d68a",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Albert Tumenov",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/47dfd70b5780d68a"
+        },
+        {
+            "fight_id": "8794b5f9a591daf6",
+            "fighter_a": "Marc Diakiese",
+            "fighter_b": "Lukasz Sajewski",
+            "winner": "Marc Diakiese",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:40",
+            "fight_url": "http://ufcstats.com/fight-details/8794b5f9a591daf6"
+        },
+        {
+            "fight_id": "85bec51d0bdf511f",
+            "fighter_a": "Mike Perry",
+            "fighter_b": "Danny Roberts",
+            "winner": "Mike Perry",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "4:40",
+            "fight_url": "http://ufcstats.com/fight-details/85bec51d0bdf511f"
+        },
+        {
+            "fight_id": "87b61c1d72232a84",
+            "fighter_a": "Leonardo Santos",
+            "fighter_b": "Adriano Martins",
+            "winner": "Leonardo Santos",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/87b61c1d72232a84"
+        }
+    ]
+}

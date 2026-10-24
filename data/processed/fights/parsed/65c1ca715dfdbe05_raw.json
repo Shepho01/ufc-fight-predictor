@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "65c1ca715dfdbe05",
+        "event_id": "6b8f28da9a483049",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Lee",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "0052de90691d4a93"
+    },
+    "fighter_a": {
+        "fighter_id": "0052de90691d4a93",
+        "name": "Davi Ramos",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "63 of 114",
+            "Sig. str. %": "55%",
+            "Total str.": "76 of 128",
+            "Td": "3 of 7",
+            "Td %": "42%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "63 of 114",
+            "Sig. str. %": "55%",
+            "Head": "44 of 86",
+            "Body": "7 of 15",
+            "Leg": "12 of 13",
+            "Distance": "41 of 92",
+            "Clinch": "5 of 5",
+            "Ground": "17 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d2cd7a69cc55e7ed",
+        "name": "Austin Hubbard",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 116",
+            "Sig. str. %": "37%",
+            "Total str.": "46 of 119",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 116",
+            "Sig. str. %": "37%",
+            "Head": "19 of 73",
+            "Body": "8 of 24",
+            "Leg": "17 of 19",
+            "Distance": "40 of 111",
+            "Clinch": "2 of 3",
+            "Ground": "2 of 2"
+        }
+    }
+}

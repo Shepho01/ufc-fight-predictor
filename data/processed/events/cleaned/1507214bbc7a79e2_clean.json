@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "1507214bbc7a79e2",
+        "event_name": "UFC 212: Aldo vs. Holloway",
+        "event_day": 3,
+        "event_month": 6,
+        "event_year": 2017,
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "9ed0c3acc436eb56",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Jose Aldo",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/9ed0c3acc436eb56"
+        },
+        {
+            "fight_id": "5bfaa389a67139fd",
+            "fighter_a": "Claudia Gadelha",
+            "fighter_b": "Karolina Kowalkiewicz",
+            "winner": "Claudia Gadelha",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 183,
+            "fight_url": "http://ufcstats.com/fight-details/5bfaa389a67139fd"
+        },
+        {
+            "fight_id": "823e9449bd47e408",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Nate Marquardt",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/823e9449bd47e408"
+        },
+        {
+            "fight_id": "6b581bb1bc9289ef",
+            "fighter_a": "Paulo Costa",
+            "fighter_b": "Oluwale Bamgbose",
+            "winner": "Paulo Costa",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 66,
+            "fight_url": "http://ufcstats.com/fight-details/6b581bb1bc9289ef"
+        },
+        {
+            "fight_id": "6c9fdcb95393a49c",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "Erick Silva",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 121,
+            "fight_url": "http://ufcstats.com/fight-details/6c9fdcb95393a49c"
+        },
+        {
+            "fight_id": "228879162d8be605",
+            "fighter_a": "Raphael Assuncao",
+            "fighter_b": "Marlon Moraes",
+            "winner": "Raphael Assuncao",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/228879162d8be605"
+        },
+        {
+            "fight_id": "3ad3acca165a5d90",
+            "fighter_a": "Antonio Carlos Junior",
+            "fighter_b": "Eric Spicely",
+            "winner": "Antonio Carlos Junior",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 229,
+            "fight_url": "http://ufcstats.com/fight-details/3ad3acca165a5d90"
+        },
+        {
+            "fight_id": "36f0c6d7126e09ee",
+            "fighter_a": "Matthew Lopez",
+            "fighter_b": "Johnny Eduardo",
+            "winner": "Matthew Lopez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 177,
+            "fight_url": "http://ufcstats.com/fight-details/36f0c6d7126e09ee"
+        },
+        {
+            "fight_id": "cb2844bb15d22cc6",
+            "fighter_a": "Brian Kelleher",
+            "fighter_b": "Iuri Alcantara",
+            "winner": "Brian Kelleher",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/cb2844bb15d22cc6"
+        },
+        {
+            "fight_id": "2fd43be584ef522b",
+            "fighter_a": "Viviane Pereira",
+            "fighter_b": "Jamie Moyle",
+            "winner": "Viviane Pereira",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2fd43be584ef522b"
+        },
+        {
+            "fight_id": "88e0de323a83f241",
+            "fighter_a": "Luan Chagas",
+            "fighter_b": "Jim Wallhead",
+            "winner": "Luan Chagas",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 288,
+            "fight_url": "http://ufcstats.com/fight-details/88e0de323a83f241"
+        },
+        {
+            "fight_id": "6486579eee778b4d",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Marco Beltran",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6486579eee778b4d"
+        }
+    ]
+}

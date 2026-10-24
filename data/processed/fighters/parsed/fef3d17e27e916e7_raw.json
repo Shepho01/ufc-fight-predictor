@@ -1,0 +1,36 @@
+{
+    "fighter_id": "fef3d17e27e916e7",
+    "name": "Antonio Carvalho",
+    "record": "15-6-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "May 30, 1979",
+    "sig_strikes_landed_per_min": "3.03",
+    "sig_striking_accuracy": "29%",
+    "sig_strikes_absorbed_per_min": "3.62",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "7b9de06ef8c09ba6",
+            "fight_url": "http://ufcstats.com/fight-details/7b9de06ef8c09ba6"
+        },
+        {
+            "fight_id": "f6d8bdc3cdcf1dd8",
+            "fight_url": "http://ufcstats.com/fight-details/f6d8bdc3cdcf1dd8"
+        },
+        {
+            "fight_id": "64fa0e558f5d1b24",
+            "fight_url": "http://ufcstats.com/fight-details/64fa0e558f5d1b24"
+        },
+        {
+            "fight_id": "7bb603674999e675",
+            "fight_url": "http://ufcstats.com/fight-details/7bb603674999e675"
+        }
+    ]
+}

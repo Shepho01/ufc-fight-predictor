@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "2c104b7e59a72629",
+        "event_name": "UFC Fight Night: Andrade vs. Zhang",
+        "event_day": 31,
+        "event_month": 8,
+        "event_year": 2019,
+        "location": "Shenzhen, Guangdong, China"
+    },
+    "fights": [
+        {
+            "fight_id": "357cf8a9b6737625",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 42,
+            "fight_url": "http://ufcstats.com/fight-details/357cf8a9b6737625"
+        },
+        {
+            "fight_id": "55480808b1fa1f9c",
+            "fighter_a": "Li Jingliang",
+            "fighter_b": "Elizeu Zaleski dos Santos",
+            "winner": "Li Jingliang",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 291,
+            "fight_url": "http://ufcstats.com/fight-details/55480808b1fa1f9c"
+        },
+        {
+            "fight_id": "b07188063c49b755",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Mark De La Rosa",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b07188063c49b755"
+        },
+        {
+            "fight_id": "676561d9690ce31d",
+            "fighter_a": "Song Kenan",
+            "fighter_b": "Derrick Krantz",
+            "winner": "Song Kenan",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/676561d9690ce31d"
+        },
+        {
+            "fight_id": "5f900e4437e079b3",
+            "fighter_a": "Mizuki",
+            "fighter_b": "Wu Yanan",
+            "winner": "Mizuki",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f900e4437e079b3"
+        },
+        {
+            "fight_id": "8182dbc752c71137",
+            "fighter_a": "Anthony Hernandez",
+            "fighter_b": "JunYong Park",
+            "winner": "Anthony Hernandez",
+            "weight_class": "Middleweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 279,
+            "fight_url": "http://ufcstats.com/fight-details/8182dbc752c71137"
+        },
+        {
+            "fight_id": "09b91014bd88f815",
+            "fighter_a": "Sumudaerji",
+            "fighter_b": "Andre Soukhamthath",
+            "winner": "Sumudaerji",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/09b91014bd88f815"
+        },
+        {
+            "fight_id": "5ff390f7bbf2bec8",
+            "fighter_a": "Da Woon Jung",
+            "fighter_b": "Khadis Ibragimov",
+            "winner": "Da Woon Jung",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/5ff390f7bbf2bec8"
+        },
+        {
+            "fight_id": "060dfbc982c6c4ef",
+            "fighter_a": "Damir Ismagulov",
+            "fighter_b": "Thiago Moises",
+            "winner": "Damir Ismagulov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/060dfbc982c6c4ef"
+        },
+        {
+            "fight_id": "2e001d8c2f6106fc",
+            "fighter_a": "Alatengheili",
+            "fighter_b": "Batgerel Danaa",
+            "winner": "Alatengheili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2e001d8c2f6106fc"
+        },
+        {
+            "fight_id": "a072be4f806d360f",
+            "fighter_a": "Karol Rosa",
+            "fighter_b": "Lara Procopio",
+            "winner": "Karol Rosa",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a072be4f806d360f"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "e8efeb9cf33b1941",
+        "event_name": "UFC 148: Silva vs Sonnen 2",
+        "event_day": 7,
+        "event_month": 7,
+        "event_year": 2012,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "83526f699d25e4e4",
+            "fighter_a": "Anderson Silva",
+            "fighter_b": "Chael Sonnen",
+            "winner": "Anderson Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 115,
+            "fight_url": "http://ufcstats.com/fight-details/83526f699d25e4e4"
+        },
+        {
+            "fight_id": "cf04a408cedb37ff",
+            "fighter_a": "Forrest Griffin",
+            "fighter_b": "Tito Ortiz",
+            "winner": "Forrest Griffin",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf04a408cedb37ff"
+        },
+        {
+            "fight_id": "64d4c58a37e1d29b",
+            "fighter_a": "Cung Le",
+            "fighter_b": "Patrick Cote",
+            "winner": "Cung Le",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/64d4c58a37e1d29b"
+        },
+        {
+            "fight_id": "61cb2ca1469c83ba",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Dong Hyun Kim",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 47,
+            "fight_url": "http://ufcstats.com/fight-details/61cb2ca1469c83ba"
+        },
+        {
+            "fight_id": "d1268ffa059f9d42",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Cody McKenzie",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 31,
+            "fight_url": "http://ufcstats.com/fight-details/d1268ffa059f9d42"
+        },
+        {
+            "fight_id": "21751a3cc69e5aae",
+            "fighter_a": "Mike Easton",
+            "fighter_b": "Ivan Menjivar",
+            "winner": "Mike Easton",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/21751a3cc69e5aae"
+        },
+        {
+            "fight_id": "0c37ff69a00c0e74",
+            "fighter_a": "Melvin Guillard",
+            "fighter_b": "Fabricio Camoes",
+            "winner": "Melvin Guillard",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0c37ff69a00c0e74"
+        },
+        {
+            "fight_id": "ded18af0e4eae2f7",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ded18af0e4eae2f7"
+        },
+        {
+            "fight_id": "2f5e137118d57d0e",
+            "fighter_a": "Constantinos Philippou",
+            "fighter_b": "Riki Fukuda",
+            "winner": "Constantinos Philippou",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2f5e137118d57d0e"
+        },
+        {
+            "fight_id": "5c783d455daff573",
+            "fighter_a": "Shane Roller",
+            "fighter_b": "John Alessio",
+            "winner": "Shane Roller",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5c783d455daff573"
+        },
+        {
+            "fight_id": "8e7b1dfc608a2ef4",
+            "fighter_a": "Rafaello Oliveira",
+            "fighter_b": "Yoislandy Izquierdo",
+            "winner": "Rafaello Oliveira",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8e7b1dfc608a2ef4"
+        }
+    ]
+}

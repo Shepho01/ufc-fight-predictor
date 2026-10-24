@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3bdba539a350721c",
+        "event_id": "2620f3eb21c79614",
+        "event_name": "WEC 38: Varner vs. Cerrone",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:15",
+        "referee": "Jon Schorle",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "27 of 57",
+            "Sig. str. %": "47%",
+            "Total str.": "27 of 57",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 57",
+            "Sig. str. %": "47%",
+            "Head": "17 of 46",
+            "Body": "1 of 1",
+            "Leg": "9 of 10",
+            "Distance": "24 of 53",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4a9e305633f3ef47",
+        "name": "Rolando Perez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 86",
+            "Sig. str. %": "15%",
+            "Total str.": "13 of 86",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 86",
+            "Sig. str. %": "15%",
+            "Head": "2 of 66",
+            "Body": "4 of 11",
+            "Leg": "7 of 9",
+            "Distance": "13 of 86",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

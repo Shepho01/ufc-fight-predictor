@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7afe2a15ae7359e9",
+        "event_id": "81ca2c245b19b3c5",
+        "event_name": "UFC Fight Night: Blachowicz vs. Jacare",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:26",
+        "referee": "Osiris Maia",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "10 of 16",
+            "Sig. str. %": "62%",
+            "Total str.": "10 of 16",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 16",
+            "Sig. str. %": "62%",
+            "Head": "5 of 9",
+            "Body": "1 of 3",
+            "Leg": "4 of 4",
+            "Distance": "8 of 14",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7026eca45f65377b",
+        "name": "Jared Gordon",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 18",
+            "Sig. str. %": "38%",
+            "Total str.": "7 of 18",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 18",
+            "Sig. str. %": "38%",
+            "Head": "7 of 16",
+            "Body": "0 of 2",
+            "Leg": "0 of 0",
+            "Distance": "7 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

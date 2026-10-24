@@ -1,0 +1,72 @@
+{
+    "fighter_id": "cf9d24e4bd0cf2ce",
+    "name": "Mark Bocek",
+    "record": "12-5-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Oct 24, 1981",
+    "sig_strikes_landed_per_min": "2.34",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "2.32",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "3.65",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "31%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "a7aac5f6b470ddaa",
+            "fight_url": "http://ufcstats.com/fight-details/a7aac5f6b470ddaa"
+        },
+        {
+            "fight_id": "a65cf6951e097273",
+            "fight_url": "http://ufcstats.com/fight-details/a65cf6951e097273"
+        },
+        {
+            "fight_id": "c1c8b38d315d487b",
+            "fight_url": "http://ufcstats.com/fight-details/c1c8b38d315d487b"
+        },
+        {
+            "fight_id": "70995170c27c4143",
+            "fight_url": "http://ufcstats.com/fight-details/70995170c27c4143"
+        },
+        {
+            "fight_id": "eb8e4c57d131fb46",
+            "fight_url": "http://ufcstats.com/fight-details/eb8e4c57d131fb46"
+        },
+        {
+            "fight_id": "94a3e3df3d28d8f0",
+            "fight_url": "http://ufcstats.com/fight-details/94a3e3df3d28d8f0"
+        },
+        {
+            "fight_id": "3b8e793ed8151a51",
+            "fight_url": "http://ufcstats.com/fight-details/3b8e793ed8151a51"
+        },
+        {
+            "fight_id": "7f0e469103ab46b6",
+            "fight_url": "http://ufcstats.com/fight-details/7f0e469103ab46b6"
+        },
+        {
+            "fight_id": "bdb62b661d033fe2",
+            "fight_url": "http://ufcstats.com/fight-details/bdb62b661d033fe2"
+        },
+        {
+            "fight_id": "8191b8edfde3b9c3",
+            "fight_url": "http://ufcstats.com/fight-details/8191b8edfde3b9c3"
+        },
+        {
+            "fight_id": "df3b75809b7fe252",
+            "fight_url": "http://ufcstats.com/fight-details/df3b75809b7fe252"
+        },
+        {
+            "fight_id": "c1b59b145d064048",
+            "fight_url": "http://ufcstats.com/fight-details/c1b59b145d064048"
+        },
+        {
+            "fight_id": "2748001ead121b8a",
+            "fight_url": "http://ufcstats.com/fight-details/2748001ead121b8a"
+        }
+    ]
+}

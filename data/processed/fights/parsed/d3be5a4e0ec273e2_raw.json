@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d3be5a4e0ec273e2",
+        "event_id": "22f4b6cb6b1bd7fd",
+        "event_name": "UFC 314: Volkanovski vs. Lopes",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Andrew Glenn",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "70 of 122",
+            "Sig. str. %": "57%",
+            "Total str.": "97 of 157",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 122",
+            "Sig. str. %": "57%",
+            "Head": "38 of 82",
+            "Body": "18 of 23",
+            "Leg": "14 of 17",
+            "Distance": "43 of 89",
+            "Clinch": "2 of 2",
+            "Ground": "25 of 31"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "98a58c26c5b1ed17",
+        "name": "Patricio Pitbull",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 50",
+            "Sig. str. %": "34%",
+            "Total str.": "23 of 60",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 50",
+            "Sig. str. %": "34%",
+            "Head": "8 of 38",
+            "Body": "2 of 4",
+            "Leg": "7 of 8",
+            "Distance": "17 of 50",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

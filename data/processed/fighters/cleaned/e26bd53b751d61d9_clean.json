@@ -1,0 +1,23 @@
+{
+    "fighter_id": "e26bd53b751d61d9",
+    "name": "Jordan Williams",
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 185.42,
+    "weight_lbs": 185,
+    "reach_cm": 190.5,
+    "stance": "Southpaw",
+    "dob_day": 13,
+    "dob_month": 10,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 5.83,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 5.46,
+    "sig_strike_defense": 0.35,
+    "takedowns_landed_per_15_min": 1.11,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.85,
+    "submission_attempts_per_15_min": 0.0
+}

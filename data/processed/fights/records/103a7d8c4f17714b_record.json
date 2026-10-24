@@ -9,6 +9,7 @@
         "method": "Decision - Unanimous",
         "finish_round": 3,
         "finish_time_seconds": 300,
+        "duration_seconds": 900,
         "referee": "Herb Dean",
         "winner_id": "275aca31f61ba28c",
         "event_day": 20,

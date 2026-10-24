@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c03520b5c88ed6b4",
+    "name": "Merab Dvalishvili",
+    "wins": 21,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 135,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 10,
+    "dob_month": 1,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 4.42,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 2.8,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 5.97,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.76,
+    "submission_attempts_per_15_min": 0.3
+}

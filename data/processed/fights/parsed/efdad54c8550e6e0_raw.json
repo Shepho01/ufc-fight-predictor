@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "efdad54c8550e6e0",
+        "event_id": "6750e338922a099d",
+        "event_name": "UFC 300: Pereira vs. Hill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "186 of 319",
+            "Sig. str. %": "58%",
+            "Total str.": "187 of 320",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:54"
+        },
+        "significant_strikes": {
+            "Sig. str": "186 of 319",
+            "Sig. str. %": "58%",
+            "Head": "136 of 245",
+            "Body": "40 of 56",
+            "Leg": "10 of 18",
+            "Distance": "167 of 295",
+            "Clinch": "7 of 8",
+            "Ground": "12 of 16"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d1941565abf50b16",
+        "name": "Jim Miller",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 144",
+            "Sig. str. %": "39%",
+            "Total str.": "58 of 145",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 144",
+            "Sig. str. %": "39%",
+            "Head": "29 of 103",
+            "Body": "10 of 18",
+            "Leg": "18 of 23",
+            "Distance": "55 of 141",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

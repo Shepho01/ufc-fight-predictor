@@ -1,0 +1,23 @@
+{
+    "fighter_id": "be5cfd73617a5b1a",
+    "name": "Javier Vazquez",
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Southpaw",
+    "dob_day": 16,
+    "dob_month": 7,
+    "dob_year": 1977,
+    "sig_strikes_landed_per_min": 2.43,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 1.99,
+    "sig_strike_defense": 0.72,
+    "takedowns_landed_per_15_min": 2.56,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.57,
+    "submission_attempts_per_15_min": 1.5
+}

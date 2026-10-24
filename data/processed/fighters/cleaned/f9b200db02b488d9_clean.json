@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f9b200db02b488d9",
+    "name": "Lando Vannata",
+    "wins": 12,
+    "losses": 8,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 3,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 4.52,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 4.71,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 1.24,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.3
+}

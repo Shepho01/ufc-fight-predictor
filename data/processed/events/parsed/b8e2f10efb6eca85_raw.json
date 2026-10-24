@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "b8e2f10efb6eca85",
+        "event_name": "UFC 318: Holloway vs. Poirier 3",
+        "event_date": "July 19, 2025",
+        "location": "New Orleans, Louisiana, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d7507e2741fd4d05",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Max Holloway",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d7507e2741fd4d05"
+        },
+        {
+            "fight_id": "23c963be9de38205",
+            "fighter_a": "Paulo Costa",
+            "fighter_b": "Roman Kopylov",
+            "winner": "Paulo Costa",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/23c963be9de38205"
+        },
+        {
+            "fight_id": "5dde61734080ac4a",
+            "fighter_a": "Daniel Rodriguez",
+            "fighter_b": "Kevin Holland",
+            "winner": "Daniel Rodriguez",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5dde61734080ac4a"
+        },
+        {
+            "fight_id": "acc961fd5cf5c62e",
+            "fighter_a": "Patricio Pitbull",
+            "fighter_b": "Dan Ige",
+            "winner": "Patricio Pitbull",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/acc961fd5cf5c62e"
+        },
+        {
+            "fight_id": "a95b03e9b5a91e47",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Daniel Zellhuber",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a95b03e9b5a91e47"
+        },
+        {
+            "fight_id": "d2cb92fdf6a497e9",
+            "fighter_a": "Vinicius Oliveira",
+            "fighter_b": "Kyler Phillips",
+            "winner": "Vinicius Oliveira",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d2cb92fdf6a497e9"
+        },
+        {
+            "fight_id": "8e1feda9141602f1",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Marvin Vettori",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8e1feda9141602f1"
+        },
+        {
+            "fight_id": "df2ed8b509fbdbdc",
+            "fighter_a": "Nikolay Veretennikov",
+            "fighter_b": "Francisco Prado",
+            "winner": "Nikolay Veretennikov",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/df2ed8b509fbdbdc"
+        },
+        {
+            "fight_id": "72e477b41f44e358",
+            "fighter_a": "Ateba Gautier",
+            "fighter_b": "Robert Valentin",
+            "winner": "Ateba Gautier",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/72e477b41f44e358"
+        },
+        {
+            "fight_id": "37bc72d5d211b189",
+            "fighter_a": "Islam Dulatov",
+            "fighter_b": "Adam Fugitt",
+            "winner": "Islam Dulatov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:06",
+            "fight_url": "http://ufcstats.com/fight-details/37bc72d5d211b189"
+        },
+        {
+            "fight_id": "798652dbea086910",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Marcin Prachnio",
+            "winner": "Jimmy Crute",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/798652dbea086910"
+        },
+        {
+            "fight_id": "182ee320edb1b5ed",
+            "fighter_a": "Ryan Spann",
+            "fighter_b": "Lukasz Brzeski",
+            "winner": "Ryan Spann",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:47",
+            "fight_url": "http://ufcstats.com/fight-details/182ee320edb1b5ed"
+        },
+        {
+            "fight_id": "74099d470e8d2765",
+            "fighter_a": "Brunno Ferreira",
+            "fighter_b": "Jackson McVey",
+            "winner": "Brunno Ferreira",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "3:35",
+            "fight_url": "http://ufcstats.com/fight-details/74099d470e8d2765"
+        },
+        {
+            "fight_id": "a602c68147b752b2",
+            "fighter_a": "Carli Judice",
+            "fighter_b": "Nicolle Caliari",
+            "winner": "Carli Judice",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "1:30",
+            "fight_url": "http://ufcstats.com/fight-details/a602c68147b752b2"
+        }
+    ]
+}

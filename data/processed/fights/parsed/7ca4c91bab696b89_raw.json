@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7ca4c91bab696b89",
+        "event_id": "079488710f012779",
+        "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "TKO - Doctor's Stoppage",
+        "finish_round": 2,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 72",
+            "Sig. str. %": "69%",
+            "Total str.": "72 of 98",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 72",
+            "Sig. str. %": "69%",
+            "Head": "46 of 66",
+            "Body": "0 of 1",
+            "Leg": "4 of 5",
+            "Distance": "17 of 35",
+            "Clinch": "0 of 1",
+            "Ground": "33 of 36"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c2299ec916bc7c56",
+        "name": "Benoit Saint Denis",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 60",
+            "Sig. str. %": "41%",
+            "Total str.": "35 of 70",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 60",
+            "Sig. str. %": "41%",
+            "Head": "13 of 44",
+            "Body": "10 of 14",
+            "Leg": "2 of 2",
+            "Distance": "25 of 60",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

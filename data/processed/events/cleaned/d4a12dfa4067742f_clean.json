@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "d4a12dfa4067742f",
+        "event_name": "UFC on FOX: Dos Santos vs Miocic",
+        "event_day": 13,
+        "event_month": 12,
+        "event_year": 2014,
+        "location": "Phoenix, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2ab2753040f455e0",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Stipe Miocic",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2ab2753040f455e0"
+        },
+        {
+            "fight_id": "d4bfe75b61d2cbc6",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Nate Diaz",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d4bfe75b61d2cbc6"
+        },
+        {
+            "fight_id": "002921976d27b7da",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Stefan Struve",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/002921976d27b7da"
+        },
+        {
+            "fight_id": "5a346087f4120fa3",
+            "fighter_a": "Matt Mitrione",
+            "fighter_b": "Gabriel Gonzaga",
+            "winner": "Matt Mitrione",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/5a346087f4120fa3"
+        },
+        {
+            "fight_id": "70d69cf33984d7d1",
+            "fighter_a": "Joanna Jedrzejczyk",
+            "fighter_b": "Claudia Gadelha",
+            "winner": "Joanna Jedrzejczyk",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/70d69cf33984d7d1"
+        },
+        {
+            "fight_id": "64f5c4f3f3d8ad2c",
+            "fighter_a": "John Moraga",
+            "fighter_b": "Willie Gates",
+            "winner": "John Moraga",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/64f5c4f3f3d8ad2c"
+        },
+        {
+            "fight_id": "1cf53a0b9db52ac6",
+            "fighter_a": "Ben Saunders",
+            "fighter_b": "Joe Riggs",
+            "winner": "Ben Saunders",
+            "weight_class": "Welterweight",
+            "method": "SUB Injury",
+            "round": 1,
+            "time_seconds": 57,
+            "fight_url": "http://ufcstats.com/fight-details/1cf53a0b9db52ac6"
+        },
+        {
+            "fight_id": "deaeb2383bbd32bf",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Jamie Varner",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/deaeb2383bbd32bf"
+        },
+        {
+            "fight_id": "7ab72866ff2a6a7e",
+            "fighter_a": "Bryan Barberena",
+            "fighter_b": "Joe Ellenberger",
+            "winner": "Bryan Barberena",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 204,
+            "fight_url": "http://ufcstats.com/fight-details/7ab72866ff2a6a7e"
+        },
+        {
+            "fight_id": "a4816be2c49e3942",
+            "fighter_a": "David Michaud",
+            "fighter_b": "Garett Whiteley",
+            "winner": "David Michaud",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a4816be2c49e3942"
+        },
+        {
+            "fight_id": "383f0de18e7ab9c5",
+            "fighter_a": "Henry Cejudo",
+            "fighter_b": "Dustin Kimura",
+            "winner": "Henry Cejudo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/383f0de18e7ab9c5"
+        },
+        {
+            "fight_id": "1b23096378482313",
+            "fighter_a": "Ian Entwistle",
+            "fighter_b": "Anthony Birchak",
+            "winner": "Ian Entwistle",
+            "weight_class": "Bantamweight",
+            "method": "SUB Heel Hook",
+            "round": 1,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/1b23096378482313"
+        }
+    ]
+}

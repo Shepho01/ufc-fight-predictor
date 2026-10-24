@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d1941565abf50b16",
+    "name": "Jim Miller",
+    "wins": 39,
+    "losses": 19,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Southpaw",
+    "dob_day": 30,
+    "dob_month": 8,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.92,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.43,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 1.49,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.47,
+    "submission_attempts_per_15_min": 1.7
+}

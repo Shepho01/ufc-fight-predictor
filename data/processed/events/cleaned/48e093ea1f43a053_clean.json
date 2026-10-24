@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "48e093ea1f43a053",
+        "event_name": "UFC 268: Usman vs. Covington 2",
+        "event_day": 6,
+        "event_month": 11,
+        "event_year": 2021,
+        "location": "New York City, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "31b3ae9352d9389b",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Colby Covington",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/31b3ae9352d9389b"
+        },
+        {
+            "fight_id": "19722043e7eb4e39",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Zhang Weili",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/19722043e7eb4e39"
+        },
+        {
+            "fight_id": "c634ed84212723ca",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 230,
+            "fight_url": "http://ufcstats.com/fight-details/c634ed84212723ca"
+        },
+        {
+            "fight_id": "a260238fdb9c47cf",
+            "fighter_a": "Shane Burgos",
+            "fighter_b": "Billy Quarantillo",
+            "winner": "Shane Burgos",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a260238fdb9c47cf"
+        },
+        {
+            "fight_id": "999a0fad4c82148d",
+            "fighter_a": "Justin Gaethje",
+            "fighter_b": "Michael Chandler",
+            "winner": "Justin Gaethje",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/999a0fad4c82148d"
+        },
+        {
+            "fight_id": "385101e8ad828c39",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Andreas Michailidis",
+            "winner": "Alex Pereira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 2,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/385101e8ad828c39"
+        },
+        {
+            "fight_id": "d69e3677060af4c7",
+            "fighter_a": "King Green",
+            "fighter_b": "Al Iaquinta",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 145,
+            "fight_url": "http://ufcstats.com/fight-details/d69e3677060af4c7"
+        },
+        {
+            "fight_id": "fa3b28ff3585b4a0",
+            "fighter_a": "Chris Curtis",
+            "fighter_b": "Phil Hawes",
+            "winner": "Chris Curtis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/fa3b28ff3585b4a0"
+        },
+        {
+            "fight_id": "095a351dd6f09f7e",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Edmen Shahbazyan",
+            "winner": "Nassourdine Imavov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 292,
+            "fight_url": "http://ufcstats.com/fight-details/095a351dd6f09f7e"
+        },
+        {
+            "fight_id": "733dcfec0cc9b439",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Jordan Williams",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/733dcfec0cc9b439"
+        },
+        {
+            "fight_id": "e25875165648162b",
+            "fighter_a": "Chris Barnett",
+            "fighter_b": "Gian Villante",
+            "winner": "Chris Barnett",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 143,
+            "fight_url": "http://ufcstats.com/fight-details/e25875165648162b"
+        },
+        {
+            "fight_id": "88cc78d2d5d6bcaa",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "John Allan",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/88cc78d2d5d6bcaa"
+        },
+        {
+            "fight_id": "73d541adc2909dc8",
+            "fighter_a": "Melsik Baghdasaryan",
+            "fighter_b": "Bruno Souza",
+            "winner": "Melsik Baghdasaryan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/73d541adc2909dc8"
+        },
+        {
+            "fight_id": "8081cb92f71401c6",
+            "fighter_a": "Ode Osbourne",
+            "fighter_b": "CJ Vergara",
+            "winner": "Ode Osbourne",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8081cb92f71401c6"
+        }
+    ]
+}

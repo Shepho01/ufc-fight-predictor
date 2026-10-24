@@ -1,0 +1,23 @@
+{
+    "fighter_id": "873626e5547b5235",
+    "name": "Kyle Prepolec",
+    "wins": 18,
+    "losses": 11,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 30,
+    "dob_month": 8,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.01,
+    "sig_striking_accuracy": 0.33,
+    "sig_strikes_absorbed_per_min": 6.59,
+    "sig_strike_defense": 0.45,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.41,
+    "submission_attempts_per_15_min": 0.0
+}

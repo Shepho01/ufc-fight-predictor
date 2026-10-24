@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1569186ee820ea87",
+        "event_id": "ad23903ef3af7406",
+        "event_name": "UFC 310: Pantoja vs. Asakura",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "01afe0916a40c7c5"
+    },
+    "fighter_a": {
+        "fighter_id": "01afe0916a40c7c5",
+        "name": "Shavkat Rakhmonov",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 67",
+            "Sig. str. %": "55%",
+            "Total str.": "65 of 102",
+            "Td": "2 of 10",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "11:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 67",
+            "Sig. str. %": "55%",
+            "Head": "29 of 55",
+            "Body": "6 of 10",
+            "Leg": "2 of 2",
+            "Distance": "24 of 50",
+            "Clinch": "3 of 4",
+            "Ground": "10 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "42 of 84",
+            "Sig. str. %": "50%",
+            "Total str.": "102 of 157",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "42 of 84",
+            "Sig. str. %": "50%",
+            "Head": "11 of 40",
+            "Body": "10 of 15",
+            "Leg": "21 of 29",
+            "Distance": "35 of 72",
+            "Clinch": "7 of 12",
+            "Ground": "0 of 0"
+        }
+    }
+}

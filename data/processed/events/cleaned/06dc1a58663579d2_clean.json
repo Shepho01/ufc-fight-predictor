@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "06dc1a58663579d2",
+        "event_name": "UFC Fight Night: Boetsch vs Henderson",
+        "event_day": 6,
+        "event_month": 6,
+        "event_year": 2015,
+        "location": "New Orleans, Louisiana, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "97febb293c99e5a8",
+            "fighter_a": "Dan Henderson",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Dan Henderson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 28,
+            "fight_url": "http://ufcstats.com/fight-details/97febb293c99e5a8"
+        },
+        {
+            "fight_id": "09f67db0cfaee022",
+            "fighter_a": "Ben Rothwell",
+            "fighter_b": "Matt Mitrione",
+            "winner": "Ben Rothwell",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/09f67db0cfaee022"
+        },
+        {
+            "fight_id": "f930743af6564795",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Yancy Medeiros",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/f930743af6564795"
+        },
+        {
+            "fight_id": "29c7cb102ddd7ec4",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Thiago Tavares",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 250,
+            "fight_url": "http://ufcstats.com/fight-details/29c7cb102ddd7ec4"
+        },
+        {
+            "fight_id": "cad44cd2466fb68f",
+            "fighter_a": "Anthony Birchak",
+            "fighter_b": "Joe Soto",
+            "winner": "Anthony Birchak",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 97,
+            "fight_url": "http://ufcstats.com/fight-details/cad44cd2466fb68f"
+        },
+        {
+            "fight_id": "c611e81778c0b1fc",
+            "fighter_a": "Francisco Rivera",
+            "fighter_b": "Alex Caceres",
+            "winner": "Francisco Rivera",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 21,
+            "fight_url": "http://ufcstats.com/fight-details/c611e81778c0b1fc"
+        },
+        {
+            "fight_id": "5b0fcecc55bebd5c",
+            "fighter_a": "Shawn Jordan",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Shawn Jordan",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/5b0fcecc55bebd5c"
+        },
+        {
+            "fight_id": "245009a9e1a0f60b",
+            "fighter_a": "Omari Akhmedov",
+            "fighter_b": "Brian Ebersole",
+            "winner": "Omari Akhmedov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/245009a9e1a0f60b"
+        },
+        {
+            "fight_id": "a7c04dc830923313",
+            "fighter_a": "Chris Wade",
+            "fighter_b": "Christos Giagos",
+            "winner": "Chris Wade",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a7c04dc830923313"
+        },
+        {
+            "fight_id": "3caa22209cb559b7",
+            "fighter_a": "Joe Proctor",
+            "fighter_b": "Justin Edwards",
+            "winner": "Joe Proctor",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 298,
+            "fight_url": "http://ufcstats.com/fight-details/3caa22209cb559b7"
+        },
+        {
+            "fight_id": "c39da8538d9c0321",
+            "fighter_a": "Jake Collier",
+            "fighter_b": "Ricardo Abreu",
+            "winner": "Jake Collier",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c39da8538d9c0321"
+        },
+        {
+            "fight_id": "5a36c9362552e0dc",
+            "fighter_a": "Jose Quinonez",
+            "fighter_b": "Leonardo Morales",
+            "winner": "Jose Quinonez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 154,
+            "fight_url": "http://ufcstats.com/fight-details/5a36c9362552e0dc"
+        }
+    ]
+}

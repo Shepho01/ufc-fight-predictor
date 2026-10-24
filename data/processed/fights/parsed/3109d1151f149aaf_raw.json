@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3109d1151f149aaf",
+        "event_id": "509697e08673d2e5",
+        "event_name": "UFC Fight Night: Font vs. Aldo",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "05339613bf8e9808",
+        "name": "Rob Font",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "149 of 305",
+            "Sig. str. %": "48%",
+            "Total str.": "193 of 350",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "149 of 305",
+            "Sig. str. %": "48%",
+            "Head": "94 of 238",
+            "Body": "38 of 48",
+            "Leg": "17 of 19",
+            "Distance": "135 of 289",
+            "Clinch": "6 of 8",
+            "Ground": "8 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "86 of 161",
+            "Sig. str. %": "53%",
+            "Total str.": "96 of 172",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "9:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "86 of 161",
+            "Sig. str. %": "53%",
+            "Head": "57 of 129",
+            "Body": "19 of 20",
+            "Leg": "10 of 12",
+            "Distance": "75 of 146",
+            "Clinch": "2 of 3",
+            "Ground": "9 of 12"
+        }
+    }
+}

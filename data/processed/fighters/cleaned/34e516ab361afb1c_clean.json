@@ -1,0 +1,23 @@
+{
+    "fighter_id": "34e516ab361afb1c",
+    "name": "Darrick Minner",
+    "wins": 26,
+    "losses": 14,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 28,
+    "dob_month": 4,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 2.63,
+    "sig_striking_accuracy": 0.65,
+    "sig_strikes_absorbed_per_min": 2.28,
+    "sig_strike_defense": 0.35,
+    "takedowns_landed_per_15_min": 2.4,
+    "takedown_accuracy": 0.72,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 2.7
+}

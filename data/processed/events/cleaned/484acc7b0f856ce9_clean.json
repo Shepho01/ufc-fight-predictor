@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "484acc7b0f856ce9",
+        "event_name": "WEC 52: Faber vs. Mizugaki",
+        "event_day": 11,
+        "event_month": 11,
+        "event_year": 2010,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d17339f98fbdc293",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Takeya Mizugaki",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 290,
+            "fight_url": "http://ufcstats.com/fight-details/d17339f98fbdc293"
+        },
+        {
+            "fight_id": "65df45b296cfa7d8",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Javier Vazquez",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/65df45b296cfa7d8"
+        },
+        {
+            "fight_id": "90f4c4a4e30e6abf",
+            "fighter_a": "Erik Koch",
+            "fighter_b": "Francisco Rivera",
+            "winner": "Erik Koch",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 96,
+            "fight_url": "http://ufcstats.com/fight-details/90f4c4a4e30e6abf"
+        },
+        {
+            "fight_id": "c0d6f26e4922a2e5",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Wagnney Fabiano",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 165,
+            "fight_url": "http://ufcstats.com/fight-details/c0d6f26e4922a2e5"
+        },
+        {
+            "fight_id": "4736d5a918cb4936",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Damacio Page",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/4736d5a918cb4936"
+        },
+        {
+            "fight_id": "c7be8d0fab28955e",
+            "fighter_a": "Raphael Assuncao",
+            "fighter_b": "LC Davis",
+            "winner": "Raphael Assuncao",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c7be8d0fab28955e"
+        },
+        {
+            "fight_id": "114b7d71ff214a91",
+            "fighter_a": "Anthony Njokuani",
+            "fighter_b": "Edward Faaloloto",
+            "winner": "Anthony Njokuani",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/114b7d71ff214a91"
+        },
+        {
+            "fight_id": "54a527a7a711a430",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Zachary Micklewright",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 53,
+            "fight_url": "http://ufcstats.com/fight-details/54a527a7a711a430"
+        },
+        {
+            "fight_id": "b0fd04c4528268f5",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Clint Godfrey",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/b0fd04c4528268f5"
+        },
+        {
+            "fight_id": "acbe07e3131d14dc",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Mackens Semerzier",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/acbe07e3131d14dc"
+        },
+        {
+            "fight_id": "76759187ab442283",
+            "fighter_a": "Yves Jabouin",
+            "fighter_b": "Brandon Visher",
+            "winner": "Yves Jabouin",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/76759187ab442283"
+        }
+    ]
+}

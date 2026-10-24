@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "5d7c18191b8aa432",
+        "event_name": "UFC Fight Night: Belfort vs Henderson 2",
+        "event_day": 9,
+        "event_month": 11,
+        "event_year": 2013,
+        "location": "Goiania, Goias, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "1d34e2f80cb91188",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Dan Henderson",
+            "winner": "Vitor Belfort",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 77,
+            "fight_url": "http://ufcstats.com/fight-details/1d34e2f80cb91188"
+        },
+        {
+            "fight_id": "2d57ce76f7922ed9",
+            "fighter_a": "Cezar Ferreira",
+            "fighter_b": "Daniel Sarafian",
+            "winner": "Cezar Ferreira",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d57ce76f7922ed9"
+        },
+        {
+            "fight_id": "c6c37a9e8990baba",
+            "fighter_a": "Rafael Cavalcante",
+            "fighter_b": "Igor Pokrajac",
+            "winner": "Rafael Cavalcante",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/c6c37a9e8990baba"
+        },
+        {
+            "fight_id": "8de959ac3c3eeb85",
+            "fighter_a": "Brandon Thatch",
+            "fighter_b": "Paulo Thiago",
+            "winner": "Brandon Thatch",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/8de959ac3c3eeb85"
+        },
+        {
+            "fight_id": "389c844a1a56177c",
+            "fighter_a": "Ryan LaFlare",
+            "fighter_b": "Santiago Ponzinibbio",
+            "winner": "Ryan LaFlare",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/389c844a1a56177c"
+        },
+        {
+            "fight_id": "2e042964c6498e7a",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Rony Jason",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 40,
+            "fight_url": "http://ufcstats.com/fight-details/2e042964c6498e7a"
+        },
+        {
+            "fight_id": "0a70601cc9f2426f",
+            "fighter_a": "Sam Sicilia",
+            "fighter_b": "Godofredo Pepey",
+            "winner": "Sam Sicilia",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 102,
+            "fight_url": "http://ufcstats.com/fight-details/0a70601cc9f2426f"
+        },
+        {
+            "fight_id": "e9bc416752cadd29",
+            "fighter_a": "Omari Akhmedov",
+            "fighter_b": "Thiago Perpetuo",
+            "winner": "Omari Akhmedov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 211,
+            "fight_url": "http://ufcstats.com/fight-details/e9bc416752cadd29"
+        },
+        {
+            "fight_id": "ee4d086121100177",
+            "fighter_a": "Thiago Tavares",
+            "fighter_b": "Justin Salas",
+            "winner": "Thiago Tavares",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/ee4d086121100177"
+        },
+        {
+            "fight_id": "2dd0a47f43dfe8f6",
+            "fighter_a": "Adriano Martins",
+            "fighter_b": "Daron Cruickshank",
+            "winner": "Adriano Martins",
+            "weight_class": "Lightweight",
+            "method": "SUB Straight Armbar",
+            "round": 2,
+            "time_seconds": 169,
+            "fight_url": "http://ufcstats.com/fight-details/2dd0a47f43dfe8f6"
+        },
+        {
+            "fight_id": "5cce3bc28ddb158f",
+            "fighter_a": "Dustin Ortiz",
+            "fighter_b": "Jose Maria",
+            "winner": "Dustin Ortiz",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 199,
+            "fight_url": "http://ufcstats.com/fight-details/5cce3bc28ddb158f"
+        }
+    ]
+}

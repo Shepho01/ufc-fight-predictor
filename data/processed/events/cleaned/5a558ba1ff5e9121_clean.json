@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "5a558ba1ff5e9121",
+        "event_name": "UFC 295: Prochazka vs. Pereira",
+        "event_day": 11,
+        "event_month": 11,
+        "event_year": 2023,
+        "location": "New York City, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b1f2ec122beda7a5",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Jiri Prochazka",
+            "winner": "Alex Pereira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 248,
+            "fight_url": "http://ufcstats.com/fight-details/b1f2ec122beda7a5"
+        },
+        {
+            "fight_id": "db49619221b282af",
+            "fighter_a": "Tom Aspinall",
+            "fighter_b": "Sergei Pavlovich",
+            "winner": "Tom Aspinall",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/db49619221b282af"
+        },
+        {
+            "fight_id": "6fd67582d8adb1c7",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Mackenzie Dern",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 195,
+            "fight_url": "http://ufcstats.com/fight-details/6fd67582d8adb1c7"
+        },
+        {
+            "fight_id": "9fe98de1eac21f2e",
+            "fighter_a": "Benoit Saint Denis",
+            "fighter_b": "Matt Frevola",
+            "winner": "Benoit Saint Denis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 91,
+            "fight_url": "http://ufcstats.com/fight-details/9fe98de1eac21f2e"
+        },
+        {
+            "fight_id": "128ab9aa4802c73f",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Pat Sabatini",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/128ab9aa4802c73f"
+        },
+        {
+            "fight_id": "5704e73f91b9e7f7",
+            "fighter_a": "Steve Erceg",
+            "fighter_b": "Alessandro Costa",
+            "winner": "Steve Erceg",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5704e73f91b9e7f7"
+        },
+        {
+            "fight_id": "a0362d60d2e1db0d",
+            "fighter_a": "Loopy Godinez",
+            "fighter_b": "Tabatha Ricci",
+            "winner": "Loopy Godinez",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a0362d60d2e1db0d"
+        },
+        {
+            "fight_id": "480c4dbd2e792d86",
+            "fighter_a": "Mateusz Rebecki",
+            "fighter_b": "Roosevelt Roberts",
+            "winner": "Mateusz Rebecki",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 188,
+            "fight_url": "http://ufcstats.com/fight-details/480c4dbd2e792d86"
+        },
+        {
+            "fight_id": "83a0fff04494bfc4",
+            "fighter_a": "Nazim Sadykhov",
+            "fighter_b": "Viacheslav Borshchev",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/83a0fff04494bfc4"
+        },
+        {
+            "fight_id": "4c025d1fff9e9fce",
+            "fighter_a": "Jared Gordon",
+            "fighter_b": "Mark Madsen",
+            "winner": "Jared Gordon",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 282,
+            "fight_url": "http://ufcstats.com/fight-details/4c025d1fff9e9fce"
+        },
+        {
+            "fight_id": "57333b7bff20ece0",
+            "fighter_a": "John Castaneda",
+            "fighter_b": "Kyung Ho Kang",
+            "winner": "John Castaneda",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/57333b7bff20ece0"
+        },
+        {
+            "fight_id": "8a0fc4624578a7e4",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Kevin Borjas",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8a0fc4624578a7e4"
+        },
+        {
+            "fight_id": "1cf69de0eea46877",
+            "fighter_a": "Jamall Emmers",
+            "fighter_b": "Dennis Buzukja",
+            "winner": "Jamall Emmers",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 49,
+            "fight_url": "http://ufcstats.com/fight-details/1cf69de0eea46877"
+        }
+    ]
+}

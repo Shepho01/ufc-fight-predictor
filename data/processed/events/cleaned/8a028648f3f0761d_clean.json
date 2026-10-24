@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "8a028648f3f0761d",
+        "event_name": "UFC on FOX: Holm vs. Shevchenko",
+        "event_day": 23,
+        "event_month": 7,
+        "event_year": 2016,
+        "location": "Chicago, Illinois, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "9e90800495c1d607",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Holly Holm",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9e90800495c1d607"
+        },
+        {
+            "fight_id": "b1dee00c3052e65e",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Gilbert Melendez",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b1dee00c3052e65e"
+        },
+        {
+            "fight_id": "9d2f46b677246e41",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Bojan Mihajlovic",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 94,
+            "fight_url": "http://ufcstats.com/fight-details/9d2f46b677246e41"
+        },
+        {
+            "fight_id": "5a09a7a3f2792d1a",
+            "fighter_a": "Felice Herrig",
+            "fighter_b": "Kailin Curran",
+            "winner": "Felice Herrig",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/5a09a7a3f2792d1a"
+        },
+        {
+            "fight_id": "8167500af262bba5",
+            "fighter_a": "Eddie Wineland",
+            "fighter_b": "Frankie Saenz",
+            "winner": "Eddie Wineland",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/8167500af262bba5"
+        },
+        {
+            "fight_id": "1eb0491642f276ed",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Godofredo Pepey",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1eb0491642f276ed"
+        },
+        {
+            "fight_id": "e09d17f97d6fc6b8",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Alexander Yakovlev",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e09d17f97d6fc6b8"
+        },
+        {
+            "fight_id": "adb86e0206cba97d",
+            "fighter_a": "Michel Prazeres",
+            "fighter_b": "JC Cottrell",
+            "winner": "Michel Prazeres",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/adb86e0206cba97d"
+        },
+        {
+            "fight_id": "3aace29fcc65ec51",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "James Moontasri",
+            "winner": "Alex Oliveira",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3aace29fcc65ec51"
+        },
+        {
+            "fight_id": "435c93cb89016fd1",
+            "fighter_a": "Jason Knight",
+            "fighter_b": "Jim Alers",
+            "winner": "Jason Knight",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/435c93cb89016fd1"
+        },
+        {
+            "fight_id": "43fbc59edc7dfa9f",
+            "fighter_a": "Luis Henrique",
+            "fighter_b": "Dmitrii Smoliakov",
+            "winner": "Luis Henrique",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 238,
+            "fight_url": "http://ufcstats.com/fight-details/43fbc59edc7dfa9f"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0273dbd5dedbdbe0",
+        "event_id": "b5abaa65f87938eb",
+        "event_name": "UFC Fight Night: Holloway vs. Rodriguez",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:01",
+        "referee": "Marc Goddard",
+        "winner_id": "58bbef3770bb2dfc"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 24",
+            "Sig. str. %": "45%",
+            "Total str.": "11 of 24",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 24",
+            "Sig. str. %": "45%",
+            "Head": "5 of 18",
+            "Body": "3 of 3",
+            "Leg": "3 of 3",
+            "Distance": "11 of 24",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "58bbef3770bb2dfc",
+        "name": "Joel Alvarez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 73",
+            "Sig. str. %": "60%",
+            "Total str.": "44 of 73",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 73",
+            "Sig. str. %": "60%",
+            "Head": "27 of 54",
+            "Body": "12 of 14",
+            "Leg": "5 of 5",
+            "Distance": "36 of 61",
+            "Clinch": "8 of 12",
+            "Ground": "0 of 0"
+        }
+    }
+}

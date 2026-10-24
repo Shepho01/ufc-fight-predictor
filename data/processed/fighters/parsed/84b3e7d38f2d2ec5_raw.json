@@ -1,0 +1,172 @@
+{
+    "fighter_id": "84b3e7d38f2d2ec5",
+    "name": "Neil Magny",
+    "record": "32-15-0",
+    "height": "6' 3\"",
+    "weight": "170 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Aug 03, 1987",
+    "sig_strikes_landed_per_min": "3.39",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "2.41",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "2.13",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "e7077d030d5fc15f",
+            "fight_url": "http://ufcstats.com/fight-details/e7077d030d5fc15f"
+        },
+        {
+            "fight_id": "0fca825e14429c1f",
+            "fight_url": "http://ufcstats.com/fight-details/0fca825e14429c1f"
+        },
+        {
+            "fight_id": "1ff24d5f760e0491",
+            "fight_url": "http://ufcstats.com/fight-details/1ff24d5f760e0491"
+        },
+        {
+            "fight_id": "ac57250e3de89d5d",
+            "fight_url": "http://ufcstats.com/fight-details/ac57250e3de89d5d"
+        },
+        {
+            "fight_id": "73f451d894a1d4ca",
+            "fight_url": "http://ufcstats.com/fight-details/73f451d894a1d4ca"
+        },
+        {
+            "fight_id": "ae50a1a655b1a8f6",
+            "fight_url": "http://ufcstats.com/fight-details/ae50a1a655b1a8f6"
+        },
+        {
+            "fight_id": "97817609ed46baa0",
+            "fight_url": "http://ufcstats.com/fight-details/97817609ed46baa0"
+        },
+        {
+            "fight_id": "78d2c01dc963f204",
+            "fight_url": "http://ufcstats.com/fight-details/78d2c01dc963f204"
+        },
+        {
+            "fight_id": "ced01368259428f5",
+            "fight_url": "http://ufcstats.com/fight-details/ced01368259428f5"
+        },
+        {
+            "fight_id": "1c51f405e5c46572",
+            "fight_url": "http://ufcstats.com/fight-details/1c51f405e5c46572"
+        },
+        {
+            "fight_id": "b279559f15ecf29b",
+            "fight_url": "http://ufcstats.com/fight-details/b279559f15ecf29b"
+        },
+        {
+            "fight_id": "3c98739eb42f96bf",
+            "fight_url": "http://ufcstats.com/fight-details/3c98739eb42f96bf"
+        },
+        {
+            "fight_id": "3f92025b29e06bfd",
+            "fight_url": "http://ufcstats.com/fight-details/3f92025b29e06bfd"
+        },
+        {
+            "fight_id": "178c4926223dca0c",
+            "fight_url": "http://ufcstats.com/fight-details/178c4926223dca0c"
+        },
+        {
+            "fight_id": "61bedad39b15db7a",
+            "fight_url": "http://ufcstats.com/fight-details/61bedad39b15db7a"
+        },
+        {
+            "fight_id": "864cddd6e165ea2d",
+            "fight_url": "http://ufcstats.com/fight-details/864cddd6e165ea2d"
+        },
+        {
+            "fight_id": "8bede5047e97d602",
+            "fight_url": "http://ufcstats.com/fight-details/8bede5047e97d602"
+        },
+        {
+            "fight_id": "d66a8591af39ca7b",
+            "fight_url": "http://ufcstats.com/fight-details/d66a8591af39ca7b"
+        },
+        {
+            "fight_id": "7e695ad026b2ec66",
+            "fight_url": "http://ufcstats.com/fight-details/7e695ad026b2ec66"
+        },
+        {
+            "fight_id": "426ca5caeb857f1e",
+            "fight_url": "http://ufcstats.com/fight-details/426ca5caeb857f1e"
+        },
+        {
+            "fight_id": "c381ad2c0bf34dd9",
+            "fight_url": "http://ufcstats.com/fight-details/c381ad2c0bf34dd9"
+        },
+        {
+            "fight_id": "b6082b551288aa5a",
+            "fight_url": "http://ufcstats.com/fight-details/b6082b551288aa5a"
+        },
+        {
+            "fight_id": "abf0f8234f6be37e",
+            "fight_url": "http://ufcstats.com/fight-details/abf0f8234f6be37e"
+        },
+        {
+            "fight_id": "ec067e9c9efd7aa1",
+            "fight_url": "http://ufcstats.com/fight-details/ec067e9c9efd7aa1"
+        },
+        {
+            "fight_id": "a26db2cee9eab1f9",
+            "fight_url": "http://ufcstats.com/fight-details/a26db2cee9eab1f9"
+        },
+        {
+            "fight_id": "d3ccf71e68480007",
+            "fight_url": "http://ufcstats.com/fight-details/d3ccf71e68480007"
+        },
+        {
+            "fight_id": "2c01f4df404ff6ee",
+            "fight_url": "http://ufcstats.com/fight-details/2c01f4df404ff6ee"
+        },
+        {
+            "fight_id": "17daeb7e36e60cdf",
+            "fight_url": "http://ufcstats.com/fight-details/17daeb7e36e60cdf"
+        },
+        {
+            "fight_id": "14a40f30e0cb22c9",
+            "fight_url": "http://ufcstats.com/fight-details/14a40f30e0cb22c9"
+        },
+        {
+            "fight_id": "0bdb170e1fef36b6",
+            "fight_url": "http://ufcstats.com/fight-details/0bdb170e1fef36b6"
+        },
+        {
+            "fight_id": "d1b2ce8ee57307c0",
+            "fight_url": "http://ufcstats.com/fight-details/d1b2ce8ee57307c0"
+        },
+        {
+            "fight_id": "954362efa4564d60",
+            "fight_url": "http://ufcstats.com/fight-details/954362efa4564d60"
+        },
+        {
+            "fight_id": "2bb2a2652fe38809",
+            "fight_url": "http://ufcstats.com/fight-details/2bb2a2652fe38809"
+        },
+        {
+            "fight_id": "107079f548338ac3",
+            "fight_url": "http://ufcstats.com/fight-details/107079f548338ac3"
+        },
+        {
+            "fight_id": "7a91b26b3e231fff",
+            "fight_url": "http://ufcstats.com/fight-details/7a91b26b3e231fff"
+        },
+        {
+            "fight_id": "6017ccf5fa09da34",
+            "fight_url": "http://ufcstats.com/fight-details/6017ccf5fa09da34"
+        },
+        {
+            "fight_id": "3846db1456151f80",
+            "fight_url": "http://ufcstats.com/fight-details/3846db1456151f80"
+        },
+        {
+            "fight_id": "919ddc634c54ad20",
+            "fight_url": "http://ufcstats.com/fight-details/919ddc634c54ad20"
+        }
+    ]
+}

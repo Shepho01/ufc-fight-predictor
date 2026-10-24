@@ -1,0 +1,80 @@
+{
+    "fighter_id": "f4c49976c75c5ab2",
+    "name": "Conor McGregor",
+    "record": "22-7-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Jul 14, 1988",
+    "sig_strikes_landed_per_min": "5.27",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "4.71",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "0.66",
+    "takedown_accuracy": "55%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "989760fa75321d69",
+            "fight_url": "http://ufcstats.com/fight-details/989760fa75321d69"
+        },
+        {
+            "fight_id": "7d0ce28ce8a77eb1",
+            "fight_url": "http://ufcstats.com/fight-details/7d0ce28ce8a77eb1"
+        },
+        {
+            "fight_id": "3d3e7dc7b4bf2bc4",
+            "fight_url": "http://ufcstats.com/fight-details/3d3e7dc7b4bf2bc4"
+        },
+        {
+            "fight_id": "eed6c9aff2234b7a",
+            "fight_url": "http://ufcstats.com/fight-details/eed6c9aff2234b7a"
+        },
+        {
+            "fight_id": "3eea92e7f26fb05b",
+            "fight_url": "http://ufcstats.com/fight-details/3eea92e7f26fb05b"
+        },
+        {
+            "fight_id": "1d7015553debd1c8",
+            "fight_url": "http://ufcstats.com/fight-details/1d7015553debd1c8"
+        },
+        {
+            "fight_id": "648396cc751c730d",
+            "fight_url": "http://ufcstats.com/fight-details/648396cc751c730d"
+        },
+        {
+            "fight_id": "4ace70bff9debdfb",
+            "fight_url": "http://ufcstats.com/fight-details/4ace70bff9debdfb"
+        },
+        {
+            "fight_id": "b302e12550278ffd",
+            "fight_url": "http://ufcstats.com/fight-details/b302e12550278ffd"
+        },
+        {
+            "fight_id": "70290140b6a8e038",
+            "fight_url": "http://ufcstats.com/fight-details/70290140b6a8e038"
+        },
+        {
+            "fight_id": "3d468536e8904b93",
+            "fight_url": "http://ufcstats.com/fight-details/3d468536e8904b93"
+        },
+        {
+            "fight_id": "6bcea00473e43a59",
+            "fight_url": "http://ufcstats.com/fight-details/6bcea00473e43a59"
+        },
+        {
+            "fight_id": "1e603e6aa6d1a750",
+            "fight_url": "http://ufcstats.com/fight-details/1e603e6aa6d1a750"
+        },
+        {
+            "fight_id": "5d839e4eda09d6e4",
+            "fight_url": "http://ufcstats.com/fight-details/5d839e4eda09d6e4"
+        },
+        {
+            "fight_id": "24393bea0c4cf49a",
+            "fight_url": "http://ufcstats.com/fight-details/24393bea0c4cf49a"
+        }
+    ]
+}

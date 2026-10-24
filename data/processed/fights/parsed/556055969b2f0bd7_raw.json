@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "556055969b2f0bd7",
+        "event_id": "5eedbf1e9601be35",
+        "event_name": "WEC 41: Brown vs. Faber 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:08",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "2 of 3",
+            "Sig. str. %": "66%",
+            "Total str.": "2 of 3",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 3",
+            "Sig. str. %": "66%",
+            "Head": "2 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "1 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 0",
+            "Sig. str. %": "---",
+            "Total str.": "0 of 0",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 0",
+            "Sig. str. %": "---",
+            "Head": "0 of 0",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 0",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

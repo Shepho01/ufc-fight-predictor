@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f3ccbfd7036f3cf3",
+        "event_id": "4304992c2acc187b",
+        "event_name": "UFC 257: Poirier vs. McGregor",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Lukasz Bosacki",
+        "winner_id": "76e2870ffafbe38f"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 127",
+            "Sig. str. %": "36%",
+            "Total str.": "50 of 137",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "1:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 127",
+            "Sig. str. %": "36%",
+            "Head": "24 of 100",
+            "Body": "15 of 20",
+            "Leg": "7 of 7",
+            "Distance": "41 of 120",
+            "Clinch": "5 of 7",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "76e2870ffafbe38f",
+        "name": "Movsar Evloev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "82 of 170",
+            "Sig. str. %": "48%",
+            "Total str.": "137 of 235",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "82 of 170",
+            "Sig. str. %": "48%",
+            "Head": "70 of 153",
+            "Body": "7 of 10",
+            "Leg": "5 of 7",
+            "Distance": "78 of 165",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 5"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c5af5750e8bae4f0",
+    "name": "Kyle Bochniak",
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 5,
+    "dob_month": 2,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 2.63,
+    "sig_striking_accuracy": 0.31,
+    "sig_strikes_absorbed_per_min": 5.11,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 1.14,
+    "takedown_accuracy": 0.15,
+    "takedown_defense": 0.62,
+    "submission_attempts_per_15_min": 0.0
+}

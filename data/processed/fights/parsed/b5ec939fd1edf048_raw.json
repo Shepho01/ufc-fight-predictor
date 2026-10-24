@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b5ec939fd1edf048",
+        "event_id": "4565d435005319c0",
+        "event_name": "UFC 245: Usman vs. Covington",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "fea79f9bc8c68769"
+    },
+    "fighter_a": {
+        "fighter_id": "fea79f9bc8c68769",
+        "name": "Marlon Moraes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 137",
+            "Sig. str. %": "43%",
+            "Total str.": "59 of 137",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 137",
+            "Sig. str. %": "43%",
+            "Head": "48 of 124",
+            "Body": "7 of 9",
+            "Leg": "4 of 4",
+            "Distance": "58 of 136",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "58 of 147",
+            "Sig. str. %": "39%",
+            "Total str.": "63 of 152",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "58 of 147",
+            "Sig. str. %": "39%",
+            "Head": "39 of 109",
+            "Body": "16 of 34",
+            "Leg": "3 of 4",
+            "Distance": "57 of 146",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "06de2289364efcd5",
+        "event_id": "c2a7623f398d9bd7",
+        "event_name": "WEC 34: Faber vs. Pulver",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "3:22",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 82",
+            "Sig. str. %": "42%",
+            "Total str.": "49 of 100",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 82",
+            "Sig. str. %": "42%",
+            "Head": "30 of 75",
+            "Body": "4 of 6",
+            "Leg": "1 of 1",
+            "Distance": "17 of 60",
+            "Clinch": "3 of 4",
+            "Ground": "15 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4c27ca8c8481f79a",
+        "name": "Alexandre Franca Nogueira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 25",
+            "Sig. str. %": "20%",
+            "Total str.": "5 of 25",
+            "Td": "0 of 8",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 25",
+            "Sig. str. %": "20%",
+            "Head": "1 of 21",
+            "Body": "0 of 0",
+            "Leg": "4 of 4",
+            "Distance": "4 of 23",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "14cf0828d6e373ab",
+        "event_id": "42c96a9c4802e2e1",
+        "event_name": "UFC Fight Night: Korean Zombie vs. Rodriguez",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "08af939f41b5a57b"
+    },
+    "fighter_a": {
+        "fighter_id": "08af939f41b5a57b",
+        "name": "Beneil Dariush",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 68",
+            "Sig. str. %": "64%",
+            "Total str.": "113 of 161",
+            "Td": "4 of 8",
+            "Td %": "50%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "13:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 68",
+            "Sig. str. %": "64%",
+            "Head": "22 of 44",
+            "Body": "11 of 12",
+            "Leg": "11 of 12",
+            "Distance": "7 of 16",
+            "Clinch": "3 of 4",
+            "Ground": "34 of 48"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 16",
+            "Sig. str. %": "50%",
+            "Total str.": "20 of 30",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 16",
+            "Sig. str. %": "50%",
+            "Head": "5 of 11",
+            "Body": "3 of 5",
+            "Leg": "0 of 0",
+            "Distance": "6 of 13",
+            "Clinch": "1 of 2",
+            "Ground": "1 of 1"
+        }
+    }
+}

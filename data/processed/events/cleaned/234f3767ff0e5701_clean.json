@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "234f3767ff0e5701",
+        "event_name": "WEC 51: Aldo vs. Gamburyan",
+        "event_day": 30,
+        "event_month": 9,
+        "event_year": 2010,
+        "location": "Broomfield, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1c2b372e9d8ed8c8",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Manvel Gamburyan",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 92,
+            "fight_url": "http://ufcstats.com/fight-details/1c2b372e9d8ed8c8"
+        },
+        {
+            "fight_id": "a2fe941d5ce1b149",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Jamie Varner",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a2fe941d5ce1b149"
+        },
+        {
+            "fight_id": "9ba87ef51d1be403",
+            "fighter_a": "Miguel Torres",
+            "fighter_b": "Charlie Valencia",
+            "winner": "Miguel Torres",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 145,
+            "fight_url": "http://ufcstats.com/fight-details/9ba87ef51d1be403"
+        },
+        {
+            "fight_id": "0091e56e746971f4",
+            "fighter_a": "George Roop",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "George Roop",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/0091e56e746971f4"
+        },
+        {
+            "fight_id": "1372409566d76c29",
+            "fighter_a": "Mark Hominick",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Mark Hominick",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1372409566d76c29"
+        },
+        {
+            "fight_id": "6954b6e02651e353",
+            "fighter_a": "Zhang Tiequan",
+            "fighter_b": "Pablo Garza",
+            "winner": "Zhang Tiequan",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 146,
+            "fight_url": "http://ufcstats.com/fight-details/6954b6e02651e353"
+        },
+        {
+            "fight_id": "310cc5580bf9b3c0",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Cole Province",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/310cc5580bf9b3c0"
+        },
+        {
+            "fight_id": "acd102ea1153953c",
+            "fighter_a": "Chris Horodecki",
+            "fighter_b": "Ed Ratcliff",
+            "winner": "Chris Horodecki",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/acd102ea1153953c"
+        },
+        {
+            "fight_id": "dbbdfdfed9194b17",
+            "fighter_a": "Diego Nunes",
+            "fighter_b": "Tyler Toner",
+            "winner": "Diego Nunes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dbbdfdfed9194b17"
+        },
+        {
+            "fight_id": "ed2653ba1ee3e216",
+            "fighter_a": "Antonio Banuelos",
+            "fighter_b": "Chad George",
+            "winner": "Antonio Banuelos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ed2653ba1ee3e216"
+        },
+        {
+            "fight_id": "ec20f2d4c8d2b03f",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Nick Pace",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ec20f2d4c8d2b03f"
+        }
+    ]
+}

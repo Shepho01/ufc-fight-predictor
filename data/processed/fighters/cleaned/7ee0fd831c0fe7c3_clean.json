@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7ee0fd831c0fe7c3",
+    "name": "Carlos Prates",
+    "wins": 24,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 170,
+    "reach_cm": 198.12,
+    "stance": "Switch",
+    "dob_day": 17,
+    "dob_month": 8,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 4.41,
+    "sig_striking_accuracy": 0.54,
+    "sig_strikes_absorbed_per_min": 4.3,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 0.18,
+    "takedown_accuracy": 1.0,
+    "takedown_defense": 0.77,
+    "submission_attempts_per_15_min": 0.0
+}

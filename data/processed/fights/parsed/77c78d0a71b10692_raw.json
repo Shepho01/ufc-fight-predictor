@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "77c78d0a71b10692",
+        "event_id": "b3b6e80b7d5f8f0d",
+        "event_name": "UFC 281: Adesanya vs. Pereira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:06",
+        "referee": "Keith Peterson",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "29 of 63",
+            "Sig. str. %": "46%",
+            "Total str.": "37 of 73",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 63",
+            "Sig. str. %": "46%",
+            "Head": "8 of 34",
+            "Body": "13 of 16",
+            "Leg": "8 of 13",
+            "Distance": "24 of 58",
+            "Clinch": "0 of 0",
+            "Ground": "5 of 5"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d747eb273a40a920",
+        "name": "Claudio Puelles",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 18",
+            "Sig. str. %": "27%",
+            "Total str.": "5 of 18",
+            "Td": "0 of 8",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 18",
+            "Sig. str. %": "27%",
+            "Head": "1 of 12",
+            "Body": "3 of 5",
+            "Leg": "1 of 1",
+            "Distance": "5 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

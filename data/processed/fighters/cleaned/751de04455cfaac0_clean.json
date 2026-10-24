@@ -1,0 +1,23 @@
+{
+    "fighter_id": "751de04455cfaac0",
+    "name": "Calvin Kattar",
+    "wins": 23,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 26,
+    "dob_month": 3,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 4.41,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 6.55,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.34,
+    "takedown_accuracy": 0.29,
+    "takedown_defense": 0.77,
+    "submission_attempts_per_15_min": 0.1
+}

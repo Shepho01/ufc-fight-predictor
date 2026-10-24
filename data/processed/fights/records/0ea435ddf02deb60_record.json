@@ -9,6 +9,7 @@
         "method": "KO/TKO",
         "finish_round": 1,
         "finish_time_seconds": 186,
+        "duration_seconds": 186,
         "referee": "Marc Goddard",
         "winner_id": "275aca31f61ba28c",
         "event_day": 21,
@@ -64,7 +65,7 @@
         "fighter_id": "e1248941344b3288",
         "name": "Alexander Volkanovski",
         "age_at_fight": 35,
-        "height_cm": 167.64000000000001,
+        "height_cm": 167.64,
         "weight_lbs": 145,
         "reach_cm": 180.34,
         "stance": "Orthodox",
@@ -106,7 +107,7 @@
     },
     "matchup": {
         "age_diff": -4,
-        "height_diff_cm": 10.159999999999997,
+        "height_diff_cm": 10.160000000000025,
         "reach_diff_cm": -2.539999999999992
     }
 }

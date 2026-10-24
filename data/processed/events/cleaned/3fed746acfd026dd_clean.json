@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "3fed746acfd026dd",
+        "event_name": "UFC 65: Bad Intentions",
+        "event_day": 18,
+        "event_month": 11,
+        "event_year": 2006,
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "148f5128a45e9212",
+            "fighter_a": "Georges St-Pierre",
+            "fighter_b": "Matt Hughes",
+            "winner": "Georges St-Pierre",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 85,
+            "fight_url": "http://ufcstats.com/fight-details/148f5128a45e9212"
+        },
+        {
+            "fight_id": "2f379b530fefb7ea",
+            "fighter_a": "Tim Sylvia",
+            "fighter_b": "Jeff Monson",
+            "winner": "Tim Sylvia",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2f379b530fefb7ea"
+        },
+        {
+            "fight_id": "cb17062bfd400fb2",
+            "fighter_a": "Drew McFedries",
+            "fighter_b": "Alessio Sakara",
+            "winner": "Drew McFedries",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 247,
+            "fight_url": "http://ufcstats.com/fight-details/cb17062bfd400fb2"
+        },
+        {
+            "fight_id": "ba0a3a4b80418db9",
+            "fighter_a": "Brandon Vera",
+            "fighter_b": "Frank Mir",
+            "winner": "Brandon Vera",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/ba0a3a4b80418db9"
+        },
+        {
+            "fight_id": "e3d9bbea4c51dec4",
+            "fighter_a": "Joe Stevenson",
+            "fighter_b": "Dokonjonosuke Mishima",
+            "winner": "Joe Stevenson",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 127,
+            "fight_url": "http://ufcstats.com/fight-details/e3d9bbea4c51dec4"
+        },
+        {
+            "fight_id": "b03109dd04b2fa60",
+            "fighter_a": "Nick Diaz",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Nick Diaz",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/b03109dd04b2fa60"
+        },
+        {
+            "fight_id": "3f7bf047b310943d",
+            "fighter_a": "Antoni Hardonk",
+            "fighter_b": "Sherman Pendergarst",
+            "winner": "Antoni Hardonk",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 195,
+            "fight_url": "http://ufcstats.com/fight-details/3f7bf047b310943d"
+        },
+        {
+            "fight_id": "719dbfab71e6c0bd",
+            "fighter_a": "James Irvin",
+            "fighter_b": "Hector Ramirez",
+            "winner": "James Irvin",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 156,
+            "fight_url": "http://ufcstats.com/fight-details/719dbfab71e6c0bd"
+        },
+        {
+            "fight_id": "f743abae6896c1e8",
+            "fighter_a": "Jake O'Brien",
+            "fighter_b": "Josh Shockman",
+            "winner": "Jake O'Brien",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f743abae6896c1e8"
+        }
+    ]
+}

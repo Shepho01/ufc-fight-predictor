@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c23e3d4875340d8d",
+    "name": "Zhang Tiequan",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 25,
+    "dob_month": 7,
+    "dob_year": 1978,
+    "sig_strikes_landed_per_min": 1.23,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 2.14,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 1.95,
+    "takedown_accuracy": 0.58,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 3.4
+}

@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "026b4f7049085842",
+        "event_name": "UFC 304: Edwards vs. Muhammad 2",
+        "event_day": 27,
+        "event_month": 7,
+        "event_year": 2024,
+        "location": "Manchester, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "ec5163539a133f17",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Leon Edwards",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ec5163539a133f17"
+        },
+        {
+            "fight_id": "ec434314c5438fc7",
+            "fighter_a": "Tom Aspinall",
+            "fighter_b": "Curtis Blaydes",
+            "winner": "Tom Aspinall",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/ec434314c5438fc7"
+        },
+        {
+            "fight_id": "3e2bde19e752f64b",
+            "fighter_a": "Paddy Pimblett",
+            "fighter_b": "King Green",
+            "winner": "Paddy Pimblett",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 202,
+            "fight_url": "http://ufcstats.com/fight-details/3e2bde19e752f64b"
+        },
+        {
+            "fight_id": "f02fed4e98048471",
+            "fighter_a": "Gregory Rodrigues",
+            "fighter_b": "Christian Leroy Duncan",
+            "winner": "Gregory Rodrigues",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f02fed4e98048471"
+        },
+        {
+            "fight_id": "8a2e28da18ba6a25",
+            "fighter_a": "Arnold Allen",
+            "fighter_b": "Giga Chikadze",
+            "winner": "Arnold Allen",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8a2e28da18ba6a25"
+        },
+        {
+            "fight_id": "45e6a9b56ee3a9d1",
+            "fighter_a": "Nathaniel Wood",
+            "fighter_b": "Daniel Pineda",
+            "winner": "Nathaniel Wood",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/45e6a9b56ee3a9d1"
+        },
+        {
+            "fight_id": "678eda89a096dde8",
+            "fighter_a": "Bruna Brasil",
+            "fighter_b": "Molly McCann",
+            "winner": "Bruna Brasil",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/678eda89a096dde8"
+        },
+        {
+            "fight_id": "9d8c32c60df0e287",
+            "fighter_a": "Jake Hadley",
+            "fighter_b": "Caolan Loughran",
+            "winner": "Jake Hadley",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9d8c32c60df0e287"
+        },
+        {
+            "fight_id": "d6e240c47ba6034d",
+            "fighter_a": "Muhammad Mokaev",
+            "fighter_b": "Manel Kape",
+            "winner": "Muhammad Mokaev",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d6e240c47ba6034d"
+        },
+        {
+            "fight_id": "16b0a16ab2e20fdb",
+            "fighter_a": "Oban Elliott",
+            "fighter_b": "Preston Parsons",
+            "winner": "Oban Elliott",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/16b0a16ab2e20fdb"
+        },
+        {
+            "fight_id": "026bb9fd1b3f239d",
+            "fighter_a": "Modestas Bukauskas",
+            "fighter_b": "Marcin Prachnio",
+            "winner": "Modestas Bukauskas",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 192,
+            "fight_url": "http://ufcstats.com/fight-details/026bb9fd1b3f239d"
+        },
+        {
+            "fight_id": "3183dfe66fcdd25f",
+            "fighter_a": "Sam Patterson",
+            "fighter_b": "Kiefer Crosbie",
+            "winner": "Sam Patterson",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 170,
+            "fight_url": "http://ufcstats.com/fight-details/3183dfe66fcdd25f"
+        },
+        {
+            "fight_id": "a5558e8fec59a687",
+            "fighter_a": "Mick Parkin",
+            "fighter_b": "Lukasz Brzeski",
+            "winner": "Mick Parkin",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 203,
+            "fight_url": "http://ufcstats.com/fight-details/a5558e8fec59a687"
+        },
+        {
+            "fight_id": "dff2ef8fdde8c502",
+            "fighter_a": "Shauna Bannon",
+            "fighter_b": "Alice Ardelean",
+            "winner": "Shauna Bannon",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dff2ef8fdde8c502"
+        }
+    ]
+}

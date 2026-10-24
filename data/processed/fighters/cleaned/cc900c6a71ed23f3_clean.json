@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cc900c6a71ed23f3",
+    "name": "Clay Collard",
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 10,
+    "dob_month": 3,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 4.22,
+    "sig_striking_accuracy": 0.32,
+    "sig_strikes_absorbed_per_min": 5.0,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 2.81,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.71,
+    "submission_attempts_per_15_min": 0.5
+}

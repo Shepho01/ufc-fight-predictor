@@ -1,0 +1,36 @@
+{
+    "fighter_id": "98a58c26c5b1ed17",
+    "name": "Patricio Pitbull",
+    "record": "38-9-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jul 07, 1987",
+    "sig_strikes_landed_per_min": "3.06",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "4.66",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "1.21",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "74%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "f7810c98786c3dd8",
+            "fight_url": "http://ufcstats.com/fight-details/f7810c98786c3dd8"
+        },
+        {
+            "fight_id": "10ab34056720b6b4",
+            "fight_url": "http://ufcstats.com/fight-details/10ab34056720b6b4"
+        },
+        {
+            "fight_id": "acc961fd5cf5c62e",
+            "fight_url": "http://ufcstats.com/fight-details/acc961fd5cf5c62e"
+        },
+        {
+            "fight_id": "d3be5a4e0ec273e2",
+            "fight_url": "http://ufcstats.com/fight-details/d3be5a4e0ec273e2"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "891b2faf1bff38ee",
+        "event_id": "118463dd8db16e7f",
+        "event_name": "UFC 315: Muhammad vs. Della Maddalena",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "24656ef4d605c96f"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "68 of 167",
+            "Sig. str. %": "40%",
+            "Total str.": "71 of 170",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "68 of 167",
+            "Sig. str. %": "40%",
+            "Head": "48 of 135",
+            "Body": "13 of 25",
+            "Leg": "7 of 7",
+            "Distance": "67 of 166",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "24656ef4d605c96f",
+        "name": "Aiemann Zahabi",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "99 of 199",
+            "Sig. str. %": "49%",
+            "Total str.": "109 of 209",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "99 of 199",
+            "Sig. str. %": "49%",
+            "Head": "79 of 167",
+            "Body": "14 of 22",
+            "Leg": "6 of 10",
+            "Distance": "66 of 151",
+            "Clinch": "8 of 11",
+            "Ground": "25 of 37"
+        }
+    }
+}

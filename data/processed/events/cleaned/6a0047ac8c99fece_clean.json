@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "6a0047ac8c99fece",
+        "event_name": "UFC Fight Night: Hernandez vs. Pereira",
+        "event_day": 19,
+        "event_month": 10,
+        "event_year": 2024,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a2f2c64f9fb3fb1c",
+            "fighter_a": "Anthony Hernandez",
+            "fighter_b": "Michel Pereira",
+            "winner": "Anthony Hernandez",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 5,
+            "time_seconds": 142,
+            "fight_url": "http://ufcstats.com/fight-details/a2f2c64f9fb3fb1c"
+        },
+        {
+            "fight_id": "f01b97e864cb4b8b",
+            "fighter_a": "Rob Font",
+            "fighter_b": "Kyler Phillips",
+            "winner": "Rob Font",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f01b97e864cb4b8b"
+        },
+        {
+            "fight_id": "503d7342cc08109f",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Sumudaerji",
+            "winner": "Charles Johnson",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/503d7342cc08109f"
+        },
+        {
+            "fight_id": "a2f46e94aa6b0c64",
+            "fighter_a": "Cameron Smotherman",
+            "fighter_b": "Jake Hadley",
+            "winner": "Cameron Smotherman",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a2f46e94aa6b0c64"
+        },
+        {
+            "fight_id": "0599f35e6679de02",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Daniel Pineda",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0599f35e6679de02"
+        },
+        {
+            "fight_id": "c61923255389e67c",
+            "fighter_a": "Asu Almabayev",
+            "fighter_b": "Matheus Nicolau",
+            "winner": "Asu Almabayev",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c61923255389e67c"
+        },
+        {
+            "fight_id": "308f6cb830019ea9",
+            "fighter_a": "Jean Matsumoto",
+            "fighter_b": "Brad Katona",
+            "winner": "Jean Matsumoto",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/308f6cb830019ea9"
+        },
+        {
+            "fight_id": "fc73ecbd83b7f159",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Tamires Vidal",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 273,
+            "fight_url": "http://ufcstats.com/fight-details/fc73ecbd83b7f159"
+        },
+        {
+            "fight_id": "53f7f1b4834387a8",
+            "fighter_a": "Elise Reed",
+            "fighter_b": "Jessica Penne",
+            "winner": "Elise Reed",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/53f7f1b4834387a8"
+        },
+        {
+            "fight_id": "4277b02a4dadac40",
+            "fighter_a": "Melissa Martinez",
+            "fighter_b": "Alice Ardelean",
+            "winner": "Melissa Martinez",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4277b02a4dadac40"
+        },
+        {
+            "fight_id": "32b8c6c4b735d712",
+            "fighter_a": "Austen Lane",
+            "fighter_b": "Robelis Despaigne",
+            "winner": "Austen Lane",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/32b8c6c4b735d712"
+        }
+    ]
+}

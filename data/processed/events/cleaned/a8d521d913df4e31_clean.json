@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "a8d521d913df4e31",
+        "event_name": "UFC on FOX: Henderson vs Thomson",
+        "event_day": 25,
+        "event_month": 1,
+        "event_year": 2014,
+        "location": "Chicago, Illinois, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7fda79ba69b06c0b",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Josh Thomson",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7fda79ba69b06c0b"
+        },
+        {
+            "fight_id": "77d82e8a220053ea",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Gabriel Gonzaga",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/77d82e8a220053ea"
+        },
+        {
+            "fight_id": "ca8e482388e7ac82",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Adriano Martins",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 280,
+            "fight_url": "http://ufcstats.com/fight-details/ca8e482388e7ac82"
+        },
+        {
+            "fight_id": "6fdcd1caa0e9d239",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Darren Elkins",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6fdcd1caa0e9d239"
+        },
+        {
+            "fight_id": "6a7f68feb5c0755d",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Sergio Pettis",
+            "winner": "Alex Caceres",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 279,
+            "fight_url": "http://ufcstats.com/fight-details/6a7f68feb5c0755d"
+        },
+        {
+            "fight_id": "97ad3419f2029ba1",
+            "fighter_a": "Eddie Wineland",
+            "fighter_b": "Yves Jabouin",
+            "winner": "Eddie Wineland",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/97ad3419f2029ba1"
+        },
+        {
+            "fight_id": "80cb366cd1e54aec",
+            "fighter_a": "Chico Camus",
+            "fighter_b": "Yaotzin Meza",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/80cb366cd1e54aec"
+        },
+        {
+            "fight_id": "df7cf7ef41eccbe6",
+            "fighter_a": "Hugo Viana",
+            "fighter_b": "Ramiro Hernandez",
+            "winner": "Hugo Viana",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/df7cf7ef41eccbe6"
+        },
+        {
+            "fight_id": "3f1d1bd33a296f26",
+            "fighter_a": "Daron Cruickshank",
+            "fighter_b": "Mike Rio",
+            "winner": "Daron Cruickshank",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 296,
+            "fight_url": "http://ufcstats.com/fight-details/3f1d1bd33a296f26"
+        },
+        {
+            "fight_id": "ea0f7fe570c1533f",
+            "fighter_a": "George Sullivan",
+            "fighter_b": "Mike Rhodes",
+            "winner": "George Sullivan",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ea0f7fe570c1533f"
+        },
+        {
+            "fight_id": "e53c8a20819f9be6",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Walt Harris",
+            "winner": "Nikita Krylov",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/e53c8a20819f9be6"
+        }
+    ]
+}

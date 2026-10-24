@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "b9415726dc3ec526",
+        "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+        "event_day": 17,
+        "event_month": 6,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "175d9e1ac0725145",
+            "fighter_a": "Jared Cannonier",
+            "fighter_b": "Marvin Vettori",
+            "winner": "Jared Cannonier",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/175d9e1ac0725145"
+        },
+        {
+            "fight_id": "6c2199524d762b11",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Joaquim Silva",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 205,
+            "fight_url": "http://ufcstats.com/fight-details/6c2199524d762b11"
+        },
+        {
+            "fight_id": "5d9b84493f1ed114",
+            "fighter_a": "Armen Petrosyan",
+            "fighter_b": "Christian Leroy Duncan",
+            "winner": "Armen Petrosyan",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5d9b84493f1ed114"
+        },
+        {
+            "fight_id": "76fd6919d828d5c2",
+            "fighter_a": "Pat Sabatini",
+            "fighter_b": "Lucas Almeida",
+            "winner": "Pat Sabatini",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/76fd6919d828d5c2"
+        },
+        {
+            "fight_id": "98458778348ea5d7",
+            "fighter_a": "Manuel Torres",
+            "fighter_b": "Nikolas Motta",
+            "winner": "Manuel Torres",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbow",
+            "round": 1,
+            "time_seconds": 110,
+            "fight_url": "http://ufcstats.com/fight-details/98458778348ea5d7"
+        },
+        {
+            "fight_id": "870672b1b443311e",
+            "fighter_a": "Nicolas Dalby",
+            "fighter_b": "Muslim Salikhov",
+            "winner": "Nicolas Dalby",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/870672b1b443311e"
+        },
+        {
+            "fight_id": "bc1be168c064f028",
+            "fighter_a": "Alessandro Costa",
+            "fighter_b": "Jimmy Flick",
+            "winner": "Alessandro Costa",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 63,
+            "fight_url": "http://ufcstats.com/fight-details/bc1be168c064f028"
+        },
+        {
+            "fight_id": "7ba54a10f28c9496",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Cristian Quinonez",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 145,
+            "fight_url": "http://ufcstats.com/fight-details/7ba54a10f28c9496"
+        },
+        {
+            "fight_id": "8ea12c7360fa0f6b",
+            "fighter_a": "Carlos Hernandez",
+            "fighter_b": "Denys Bondar",
+            "winner": "Carlos Hernandez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/8ea12c7360fa0f6b"
+        },
+        {
+            "fight_id": "9cfb84817a43b63c",
+            "fighter_a": "Tereza Bleda",
+            "fighter_b": "Gabriella Fernandes",
+            "winner": "Tereza Bleda",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9cfb84817a43b63c"
+        },
+        {
+            "fight_id": "9a2d3ebab827d333",
+            "fighter_a": "Dan Argueta",
+            "fighter_b": "Ronnie Lawrence",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "Overturned",
+            "round": 1,
+            "time_seconds": 140,
+            "fight_url": "http://ufcstats.com/fight-details/9a2d3ebab827d333"
+        },
+        {
+            "fight_id": "8794031c523bf534",
+            "fighter_a": "Modestas Bukauskas",
+            "fighter_b": "Zac Pauga",
+            "winner": "Modestas Bukauskas",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8794031c523bf534"
+        }
+    ]
+}

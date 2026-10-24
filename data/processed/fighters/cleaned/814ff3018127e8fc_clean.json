@@ -1,0 +1,23 @@
+{
+    "fighter_id": "814ff3018127e8fc",
+    "name": "Ricky Glenn",
+    "wins": 22,
+    "losses": 9,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 170,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 12,
+    "dob_month": 4,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.79,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 4.3,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 0.72,
+    "takedown_accuracy": 0.13,
+    "takedown_defense": 0.69,
+    "submission_attempts_per_15_min": 0.4
+}

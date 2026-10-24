@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b6ea8880cc7af439",
+        "event_id": "6085ceb59087514b",
+        "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "4d8fa64202cee4c1",
+        "name": "Jalin Turner",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "100 of 177",
+            "Sig. str. %": "56%",
+            "Total str.": "113 of 191",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "100 of 177",
+            "Sig. str. %": "56%",
+            "Head": "63 of 128",
+            "Body": "30 of 37",
+            "Leg": "7 of 12",
+            "Distance": "78 of 152",
+            "Clinch": "18 of 21",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "125 of 197",
+            "Sig. str. %": "63%",
+            "Total str.": "172 of 247",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "125 of 197",
+            "Sig. str. %": "63%",
+            "Head": "77 of 139",
+            "Body": "25 of 32",
+            "Leg": "23 of 26",
+            "Distance": "100 of 157",
+            "Clinch": "19 of 31",
+            "Ground": "6 of 9"
+        }
+    }
+}

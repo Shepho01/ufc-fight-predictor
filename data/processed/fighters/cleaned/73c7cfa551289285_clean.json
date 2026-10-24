@@ -1,0 +1,23 @@
+{
+    "fighter_id": "73c7cfa551289285",
+    "name": "BJ Penn",
+    "wins": 16,
+    "losses": 14,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 13,
+    "dob_month": 12,
+    "dob_year": 1978,
+    "sig_strikes_landed_per_min": 2.76,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 3.2,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 1.19,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.74,
+    "submission_attempts_per_15_min": 0.5
+}

@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "2144954270be834d",
+        "event_name": "UFC Fight Night: Hooker vs. Parnasse",
+        "event_day": 5,
+        "event_month": 9,
+        "event_year": 2026,
+        "location": "Paris, Ile-de-France, France"
+    },
+    "fights": [
+        {
+            "fight_id": "bba8c0ab999b9e6f",
+            "fighter_a": "Salahdine Parnasse",
+            "fighter_b": "Dan Hooker",
+            "winner": "Salahdine Parnasse",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 155,
+            "fight_url": "http://ufcstats.com/fight-details/bba8c0ab999b9e6f"
+        },
+        {
+            "fight_id": "55f698e5c4ed2c47",
+            "fighter_a": "Axel Sola",
+            "fighter_b": "Fares Ziam",
+            "winner": "Axel Sola",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/55f698e5c4ed2c47"
+        },
+        {
+            "fight_id": "c23197c7e4f2fd9d",
+            "fighter_a": "Michael Page",
+            "fighter_b": "Nursulton Ruziboev",
+            "winner": "Michael Page",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c23197c7e4f2fd9d"
+        },
+        {
+            "fight_id": "8300a095a4908ab1",
+            "fighter_a": "Daniil Donchenko",
+            "fighter_b": "Punahele Soriano",
+            "winner": "Daniil Donchenko",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8300a095a4908ab1"
+        },
+        {
+            "fight_id": "cbf9063d23513661",
+            "fighter_a": "Kurtis Campbell",
+            "fighter_b": "Trevor Peek",
+            "winner": "Kurtis Campbell",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 187,
+            "fight_url": "http://ufcstats.com/fight-details/cbf9063d23513661"
+        },
+        {
+            "fight_id": "b90b099c1f47bb93",
+            "fighter_a": "Losene Keita",
+            "fighter_b": "Muhammad Naimov",
+            "winner": "Losene Keita",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/b90b099c1f47bb93"
+        },
+        {
+            "fight_id": "ad17c34e0cc7d702",
+            "fighter_a": "Felipe Lima",
+            "fighter_b": "Morgan Charriere",
+            "winner": "Felipe Lima",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ad17c34e0cc7d702"
+        },
+        {
+            "fight_id": "b1c6ea7d7d413bd5",
+            "fighter_a": "Mario Pinto",
+            "fighter_b": "Ryan Spann",
+            "winner": "Mario Pinto",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 55,
+            "fight_url": "http://ufcstats.com/fight-details/b1c6ea7d7d413bd5"
+        },
+        {
+            "fight_id": "94d411112ebe8fad",
+            "fighter_a": "Modestas Bukauskas",
+            "fighter_b": "Oumar Sy",
+            "winner": "Modestas Bukauskas",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 237,
+            "fight_url": "http://ufcstats.com/fight-details/94d411112ebe8fad"
+        },
+        {
+            "fight_id": "ac3af13ffe39b1d8",
+            "fighter_a": "Pavel Andrusca",
+            "fighter_b": "Nathaniel Wood",
+            "winner": "Pavel Andrusca",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ac3af13ffe39b1d8"
+        },
+        {
+            "fight_id": "1f973e21581b082a",
+            "fighter_a": "Fabia Sintes",
+            "fighter_b": "Michael Aljarouj",
+            "winner": "Fabia Sintes",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1f973e21581b082a"
+        },
+        {
+            "fight_id": "809ebb0cfdd01ce2",
+            "fighter_a": "Nora Cornolle",
+            "fighter_b": "Klaudia Sygula",
+            "winner": "Nora Cornolle",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/809ebb0cfdd01ce2"
+        },
+        {
+            "fight_id": "e5fd7ef7ccf955b8",
+            "fighter_a": "Matthieu Duclos",
+            "fighter_b": "Luis Felipe Dias",
+            "winner": "Matthieu Duclos",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 275,
+            "fight_url": "http://ufcstats.com/fight-details/e5fd7ef7ccf955b8"
+        },
+        {
+            "fight_id": "9226a13d001b49ec",
+            "fighter_a": "Delphine Benouaich",
+            "fighter_b": "Sofia Montenegro",
+            "winner": "Delphine Benouaich",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 262,
+            "fight_url": "http://ufcstats.com/fight-details/9226a13d001b49ec"
+        }
+    ]
+}

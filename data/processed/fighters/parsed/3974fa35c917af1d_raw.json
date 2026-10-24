@@ -1,0 +1,112 @@
+{
+    "fighter_id": "3974fa35c917af1d",
+    "name": "Ricardo Lamas",
+    "record": "20-8-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 21, 1982",
+    "sig_strikes_landed_per_min": "3.13",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "2.87",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "1.84",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "3a8e4b830750e9d4",
+            "fight_url": "http://ufcstats.com/fight-details/3a8e4b830750e9d4"
+        },
+        {
+            "fight_id": "bf2a9732af50c84c",
+            "fight_url": "http://ufcstats.com/fight-details/bf2a9732af50c84c"
+        },
+        {
+            "fight_id": "f9ab603b763998f7",
+            "fight_url": "http://ufcstats.com/fight-details/f9ab603b763998f7"
+        },
+        {
+            "fight_id": "32990cbf8976d94b",
+            "fight_url": "http://ufcstats.com/fight-details/32990cbf8976d94b"
+        },
+        {
+            "fight_id": "6f350d91fb07a819",
+            "fight_url": "http://ufcstats.com/fight-details/6f350d91fb07a819"
+        },
+        {
+            "fight_id": "dffad417175400ba",
+            "fight_url": "http://ufcstats.com/fight-details/dffad417175400ba"
+        },
+        {
+            "fight_id": "e322eae035f7c00f",
+            "fight_url": "http://ufcstats.com/fight-details/e322eae035f7c00f"
+        },
+        {
+            "fight_id": "345b1bc51f0f5e86",
+            "fight_url": "http://ufcstats.com/fight-details/345b1bc51f0f5e86"
+        },
+        {
+            "fight_id": "34a39beb93225e2e",
+            "fight_url": "http://ufcstats.com/fight-details/34a39beb93225e2e"
+        },
+        {
+            "fight_id": "bbebfc54abbb1d8b",
+            "fight_url": "http://ufcstats.com/fight-details/bbebfc54abbb1d8b"
+        },
+        {
+            "fight_id": "7228398a1ab12183",
+            "fight_url": "http://ufcstats.com/fight-details/7228398a1ab12183"
+        },
+        {
+            "fight_id": "2c8d1f5bb73a812b",
+            "fight_url": "http://ufcstats.com/fight-details/2c8d1f5bb73a812b"
+        },
+        {
+            "fight_id": "a3b37f8ea171b962",
+            "fight_url": "http://ufcstats.com/fight-details/a3b37f8ea171b962"
+        },
+        {
+            "fight_id": "4e87af7e5156bbf7",
+            "fight_url": "http://ufcstats.com/fight-details/4e87af7e5156bbf7"
+        },
+        {
+            "fight_id": "8a1678a54dc82206",
+            "fight_url": "http://ufcstats.com/fight-details/8a1678a54dc82206"
+        },
+        {
+            "fight_id": "0f22781ab4635414",
+            "fight_url": "http://ufcstats.com/fight-details/0f22781ab4635414"
+        },
+        {
+            "fight_id": "16da233dcf7fecc8",
+            "fight_url": "http://ufcstats.com/fight-details/16da233dcf7fecc8"
+        },
+        {
+            "fight_id": "32e0753d3f017d1b",
+            "fight_url": "http://ufcstats.com/fight-details/32e0753d3f017d1b"
+        },
+        {
+            "fight_id": "54447cee0aa2e38f",
+            "fight_url": "http://ufcstats.com/fight-details/54447cee0aa2e38f"
+        },
+        {
+            "fight_id": "7e66baaed59c4f14",
+            "fight_url": "http://ufcstats.com/fight-details/7e66baaed59c4f14"
+        },
+        {
+            "fight_id": "71e8c99c13943254",
+            "fight_url": "http://ufcstats.com/fight-details/71e8c99c13943254"
+        },
+        {
+            "fight_id": "f3fd6257c091fc56",
+            "fight_url": "http://ufcstats.com/fight-details/f3fd6257c091fc56"
+        },
+        {
+            "fight_id": "3d80efab061e456c",
+            "fight_url": "http://ufcstats.com/fight-details/3d80efab061e456c"
+        }
+    ]
+}

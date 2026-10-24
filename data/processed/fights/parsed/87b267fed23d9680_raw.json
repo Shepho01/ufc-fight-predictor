@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "87b267fed23d9680",
+        "event_id": "59583ff832fe9d68",
+        "event_name": "WEC 39: Brown vs. Garcia",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:39",
+        "referee": "Rafael Ramos",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 31",
+            "Sig. str. %": "51%",
+            "Total str.": "16 of 31",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 31",
+            "Sig. str. %": "51%",
+            "Head": "11 of 25",
+            "Body": "3 of 4",
+            "Leg": "2 of 2",
+            "Distance": "16 of 31",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f903967fd320da38",
+        "name": "Chris Mickle",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 18",
+            "Sig. str. %": "27%",
+            "Total str.": "5 of 18",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 18",
+            "Sig. str. %": "27%",
+            "Head": "1 of 14",
+            "Body": "0 of 0",
+            "Leg": "4 of 4",
+            "Distance": "5 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "cfbccfed4e4796fe",
+        "event_name": "UFC on FOX: Maia vs. Condit",
+        "event_day": 27,
+        "event_month": 8,
+        "event_year": 2016,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "f19d1c8ca5660240",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Carlos Condit",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/f19d1c8ca5660240"
+        },
+        {
+            "fight_id": "51d3be5e8aee5cd9",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Anthony Pettis",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 109,
+            "fight_url": "http://ufcstats.com/fight-details/51d3be5e8aee5cd9"
+        },
+        {
+            "fight_id": "0bf8bb9b4ef329f9",
+            "fighter_a": "Paige VanZant",
+            "fighter_b": "Bec Rawlings",
+            "winner": "Paige VanZant",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 17,
+            "fight_url": "http://ufcstats.com/fight-details/0bf8bb9b4ef329f9"
+        },
+        {
+            "fight_id": "e15b393a27c07043",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e15b393a27c07043"
+        },
+        {
+            "fight_id": "70ab91b37be75408",
+            "fighter_a": "Sam Alvey",
+            "fighter_b": "Kevin Casey",
+            "winner": "Sam Alvey",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 296,
+            "fight_url": "http://ufcstats.com/fight-details/70ab91b37be75408"
+        },
+        {
+            "fight_id": "df33799f117000cb",
+            "fighter_a": "Kyle Bochniak",
+            "fighter_b": "Enrique Barzola",
+            "winner": "Kyle Bochniak",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/df33799f117000cb"
+        },
+        {
+            "fight_id": "f8df4cb5f22656c0",
+            "fighter_a": "Alessio Di Chirico",
+            "fighter_b": "Garreth McLellan",
+            "winner": "Alessio Di Chirico",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f8df4cb5f22656c0"
+        },
+        {
+            "fight_id": "c64537874352793a",
+            "fighter_a": "Felipe Silva",
+            "fighter_b": "Shane Campbell",
+            "winner": "Felipe Silva",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 73,
+            "fight_url": "http://ufcstats.com/fight-details/c64537874352793a"
+        },
+        {
+            "fight_id": "00742aea8da72a35",
+            "fighter_a": "Chad Laprise",
+            "fighter_b": "Thibault Gouti",
+            "winner": "Chad Laprise",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 96,
+            "fight_url": "http://ufcstats.com/fight-details/00742aea8da72a35"
+        },
+        {
+            "fight_id": "f7114bf73eec4022",
+            "fighter_a": "Jeremy Kennedy",
+            "fighter_b": "Alex Ricci",
+            "winner": "Jeremy Kennedy",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f7114bf73eec4022"
+        }
+    ]
+}

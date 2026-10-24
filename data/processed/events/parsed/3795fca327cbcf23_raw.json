@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "3795fca327cbcf23",
+        "event_name": "UFC Live: Vera vs Jones",
+        "event_date": "March 21, 2010",
+        "location": "Broomfield, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "43f0495855470427",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Brandon Vera",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": "1",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/43f0495855470427"
+        },
+        {
+            "fight_id": "7aa7b0c5706a0492",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Gabriel Gonzaga",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:53",
+            "fight_url": "http://ufcstats.com/fight-details/7aa7b0c5706a0492"
+        },
+        {
+            "fight_id": "d215c4e6dc1346ae",
+            "fighter_a": "Cheick Kongo",
+            "fighter_b": "Paul Buentello",
+            "winner": "Cheick Kongo",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "1:16",
+            "fight_url": "http://ufcstats.com/fight-details/d215c4e6dc1346ae"
+        },
+        {
+            "fight_id": "275c22a93bdd84d8",
+            "fighter_a": "Alessio Sakara",
+            "fighter_b": "James Irvin",
+            "winner": "Alessio Sakara",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/275c22a93bdd84d8"
+        },
+        {
+            "fight_id": "9368a80ba62d87e2",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Shannon Gugerty",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:40",
+            "fight_url": "http://ufcstats.com/fight-details/9368a80ba62d87e2"
+        },
+        {
+            "fight_id": "2270b89b17067838",
+            "fighter_a": "Vladimir Matyushenko",
+            "fighter_b": "Eliot Marshall",
+            "winner": "Vladimir Matyushenko",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2270b89b17067838"
+        },
+        {
+            "fight_id": "f63a647b74359194",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Duane Ludwig",
+            "winner": "Darren Elkins",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "0:44",
+            "fight_url": "http://ufcstats.com/fight-details/f63a647b74359194"
+        },
+        {
+            "fight_id": "eb62bfcd3d96a182",
+            "fighter_a": "John Howard",
+            "fighter_b": "Daniel Roberts",
+            "winner": "John Howard",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:01",
+            "fight_url": "http://ufcstats.com/fight-details/eb62bfcd3d96a182"
+        },
+        {
+            "fight_id": "dd56acbfb08aa6b2",
+            "fighter_a": "Brendan Schaub",
+            "fighter_b": "Chase Gormley",
+            "winner": "Brendan Schaub",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:47",
+            "fight_url": "http://ufcstats.com/fight-details/dd56acbfb08aa6b2"
+        },
+        {
+            "fight_id": "a41be337367884e6",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Julio Paulino",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a41be337367884e6"
+        },
+        {
+            "fight_id": "9f6f356a56e4fe6f",
+            "fighter_a": "Jason Brilz",
+            "fighter_b": "Eric Schafer",
+            "winner": "Jason Brilz",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f6f356a56e4fe6f"
+        }
+    ]
+}

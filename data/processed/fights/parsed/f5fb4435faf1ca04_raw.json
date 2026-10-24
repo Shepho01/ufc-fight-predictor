@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f5fb4435faf1ca04",
+        "event_id": "480b702debcb5433",
+        "event_name": "UFC on FOX: Johnson vs. Benavidez 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "80 of 138",
+            "Sig. str. %": "57%",
+            "Total str.": "93 of 152",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "80 of 138",
+            "Sig. str. %": "57%",
+            "Head": "68 of 119",
+            "Body": "8 of 14",
+            "Leg": "4 of 5",
+            "Distance": "68 of 126",
+            "Clinch": "10 of 10",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "50d2f0018bcf9eef",
+        "name": "Pat Healy",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 227",
+            "Sig. str. %": "25%",
+            "Total str.": "105 of 285",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 227",
+            "Sig. str. %": "25%",
+            "Head": "45 of 188",
+            "Body": "13 of 37",
+            "Leg": "1 of 2",
+            "Distance": "43 of 199",
+            "Clinch": "7 of 13",
+            "Ground": "9 of 15"
+        }
+    }
+}

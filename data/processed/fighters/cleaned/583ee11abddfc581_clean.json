@@ -1,0 +1,23 @@
+{
+    "fighter_id": "583ee11abddfc581",
+    "name": "Nate Landwehr",
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 6,
+    "dob_month": 6,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 5.38,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 6.18,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.69,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.69,
+    "submission_attempts_per_15_min": 0.7
+}

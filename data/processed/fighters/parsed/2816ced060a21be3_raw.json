@@ -1,0 +1,52 @@
+{
+    "fighter_id": "2816ced060a21be3",
+    "name": "Nick Hein",
+    "record": "14-5-0 (1 NC)",
+    "height": "5' 6\"",
+    "weight": "155 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Apr 24, 1984",
+    "sig_strikes_landed_per_min": "2.65",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "3.61",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.86",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "fedb6a1b15b05694",
+            "fight_url": "http://ufcstats.com/fight-details/fedb6a1b15b05694"
+        },
+        {
+            "fight_id": "3ce7f58911773a56",
+            "fight_url": "http://ufcstats.com/fight-details/3ce7f58911773a56"
+        },
+        {
+            "fight_id": "5ea39e0fc3b64e83",
+            "fight_url": "http://ufcstats.com/fight-details/5ea39e0fc3b64e83"
+        },
+        {
+            "fight_id": "31dd8b5d6444f19b",
+            "fight_url": "http://ufcstats.com/fight-details/31dd8b5d6444f19b"
+        },
+        {
+            "fight_id": "374508c76108d7fe",
+            "fight_url": "http://ufcstats.com/fight-details/374508c76108d7fe"
+        },
+        {
+            "fight_id": "951ccd0041bd1700",
+            "fight_url": "http://ufcstats.com/fight-details/951ccd0041bd1700"
+        },
+        {
+            "fight_id": "e947baa4cad609d0",
+            "fight_url": "http://ufcstats.com/fight-details/e947baa4cad609d0"
+        },
+        {
+            "fight_id": "042fee3d05e105fa",
+            "fight_url": "http://ufcstats.com/fight-details/042fee3d05e105fa"
+        }
+    ]
+}

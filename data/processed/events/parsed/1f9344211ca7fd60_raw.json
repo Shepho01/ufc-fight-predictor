@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "1f9344211ca7fd60",
+        "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+        "event_date": "March 12, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8aa16cc1ba99aac1",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Thiago Santos",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8aa16cc1ba99aac1"
+        },
+        {
+            "fight_id": "9b46a662b8fa1d8d",
+            "fighter_a": "Song Yadong",
+            "fighter_b": "Marlon Moraes",
+            "winner": "Song Yadong",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:06",
+            "fight_url": "http://ufcstats.com/fight-details/9b46a662b8fa1d8d"
+        },
+        {
+            "fight_id": "70b8d357e89383bd",
+            "fighter_a": "Sodiq Yusuff",
+            "fighter_b": "Alex Caceres",
+            "winner": "Sodiq Yusuff",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/70b8d357e89383bd"
+        },
+        {
+            "fight_id": "23eec2d9cb2d78cd",
+            "fighter_a": "Khalil Rountree Jr.",
+            "fighter_b": "Karl Roberson",
+            "winner": "Khalil Rountree Jr.",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:25",
+            "fight_url": "http://ufcstats.com/fight-details/23eec2d9cb2d78cd"
+        },
+        {
+            "fight_id": "463fac0e48505b62",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Terrance McKinney",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:17",
+            "fight_url": "http://ufcstats.com/fight-details/463fac0e48505b62"
+        },
+        {
+            "fight_id": "226884e46a10865d",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Bruno Silva",
+            "winner": "Alex Pereira",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/226884e46a10865d"
+        },
+        {
+            "fight_id": "3b06c512abfa0494",
+            "fighter_a": "Matthew Semelsberger",
+            "fighter_b": "AJ Fletcher",
+            "winner": "Matthew Semelsberger",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3b06c512abfa0494"
+        },
+        {
+            "fight_id": "26fbee4ed13ff35d",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Gillian Robertson",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/26fbee4ed13ff35d"
+        },
+        {
+            "fight_id": "b70313eae7c24b27",
+            "fighter_a": "Javid Basharat",
+            "fighter_b": "Trevin Jones",
+            "winner": "Javid Basharat",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b70313eae7c24b27"
+        },
+        {
+            "fight_id": "5cad3ab6553e9ec9",
+            "fighter_a": "Damon Jackson",
+            "fighter_b": "Kamuela Kirk",
+            "winner": "Damon Jackson",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/5cad3ab6553e9ec9"
+        },
+        {
+            "fight_id": "b55de7d791b9f62d",
+            "fighter_a": "Miranda Maverick",
+            "fighter_b": "Sabina Mazo",
+            "winner": "Miranda Maverick",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:15",
+            "fight_url": "http://ufcstats.com/fight-details/b55de7d791b9f62d"
+        },
+        {
+            "fight_id": "9cb78122a23e6a7d",
+            "fighter_a": "Cody Brundage",
+            "fighter_b": "Dalcha Lungiambula",
+            "winner": "Cody Brundage",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "3:41",
+            "fight_url": "http://ufcstats.com/fight-details/9cb78122a23e6a7d"
+        },
+        {
+            "fight_id": "b400c29fbeee0206",
+            "fighter_a": "Guido Cannetti",
+            "fighter_b": "Kris Moutinho",
+            "winner": "Guido Cannetti",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/b400c29fbeee0206"
+        },
+        {
+            "fight_id": "f10c2c84652ef573",
+            "fighter_a": "Azamat Murzakanov",
+            "fighter_b": "Tafon Nchukwi",
+            "winner": "Azamat Murzakanov",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "0:44",
+            "fight_url": "http://ufcstats.com/fight-details/f10c2c84652ef573"
+        }
+    ]
+}

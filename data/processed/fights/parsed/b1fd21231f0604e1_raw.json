@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b1fd21231f0604e1",
+        "event_id": "83d0de122f2f9664",
+        "event_name": "UFC 168: Weidman vs Silva 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:32",
+        "referee": "Yves Lavigne",
+        "winner_id": "511e82663651438d"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 63",
+            "Sig. str. %": "19%",
+            "Total str.": "17 of 68",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:59"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 63",
+            "Sig. str. %": "19%",
+            "Head": "10 of 59",
+            "Body": "0 of 2",
+            "Leg": "2 of 2",
+            "Distance": "10 of 58",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "511e82663651438d",
+        "name": "Michael Johnson",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "22 of 85",
+            "Sig. str. %": "25%",
+            "Total str.": "23 of 86",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 85",
+            "Sig. str. %": "25%",
+            "Head": "12 of 65",
+            "Body": "7 of 12",
+            "Leg": "3 of 8",
+            "Distance": "20 of 81",
+            "Clinch": "0 of 1",
+            "Ground": "2 of 3"
+        }
+    }
+}

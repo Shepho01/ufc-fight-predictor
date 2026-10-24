@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "838bb84a5a976a9c",
+        "event_id": "75e0d3cc2262b732",
+        "event_name": "UFC 272: Covington vs. Masvidal",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "6a2f7c151031653d"
+    },
+    "fighter_a": {
+        "fighter_id": "6a2f7c151031653d",
+        "name": "Rafael Dos Anjos",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "149 of 286",
+            "Sig. str. %": "52%",
+            "Total str.": "179 of 318",
+            "Td": "5 of 15",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "13:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "149 of 286",
+            "Sig. str. %": "52%",
+            "Head": "119 of 255",
+            "Body": "23 of 24",
+            "Leg": "7 of 7",
+            "Distance": "84 of 198",
+            "Clinch": "7 of 8",
+            "Ground": "58 of 80"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "88 of 172",
+            "Sig. str. %": "51%",
+            "Total str.": "99 of 185",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "88 of 172",
+            "Sig. str. %": "51%",
+            "Head": "77 of 158",
+            "Body": "8 of 11",
+            "Leg": "3 of 3",
+            "Distance": "81 of 164",
+            "Clinch": "7 of 7",
+            "Ground": "0 of 1"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "fighter_id": "c814b4c899793af6",
+    "name": "Rafael Fiziev",
+    "record": "14-5-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Mar 05, 1993",
+    "sig_strikes_landed_per_min": "4.71",
+    "sig_striking_accuracy": "52%",
+    "sig_strikes_absorbed_per_min": "4.81",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.00",
+    "takedown_accuracy": "71%",
+    "takedown_defense": "90%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "c13dc0cccef263f7",
+            "fight_url": "http://ufcstats.com/fight-details/c13dc0cccef263f7"
+        },
+        {
+            "fight_id": "57d7a683b85bb87b",
+            "fight_url": "http://ufcstats.com/fight-details/57d7a683b85bb87b"
+        },
+        {
+            "fight_id": "a1afc16e21d1a807",
+            "fight_url": "http://ufcstats.com/fight-details/a1afc16e21d1a807"
+        },
+        {
+            "fight_id": "a2f31cf3a28a7730",
+            "fight_url": "http://ufcstats.com/fight-details/a2f31cf3a28a7730"
+        },
+        {
+            "fight_id": "23a604f460289271",
+            "fight_url": "http://ufcstats.com/fight-details/23a604f460289271"
+        },
+        {
+            "fight_id": "90a83875e1d11238",
+            "fight_url": "http://ufcstats.com/fight-details/90a83875e1d11238"
+        },
+        {
+            "fight_id": "be69cbf1f1671c8e",
+            "fight_url": "http://ufcstats.com/fight-details/be69cbf1f1671c8e"
+        },
+        {
+            "fight_id": "a38648a1c190f9be",
+            "fight_url": "http://ufcstats.com/fight-details/a38648a1c190f9be"
+        },
+        {
+            "fight_id": "76ece0ee2ef5d240",
+            "fight_url": "http://ufcstats.com/fight-details/76ece0ee2ef5d240"
+        },
+        {
+            "fight_id": "cb7616f92a9a4e5b",
+            "fight_url": "http://ufcstats.com/fight-details/cb7616f92a9a4e5b"
+        },
+        {
+            "fight_id": "e5872dfa5b93fcbb",
+            "fight_url": "http://ufcstats.com/fight-details/e5872dfa5b93fcbb"
+        },
+        {
+            "fight_id": "1c91deb42b991d18",
+            "fight_url": "http://ufcstats.com/fight-details/1c91deb42b991d18"
+        },
+        {
+            "fight_id": "75bc89630027c601",
+            "fight_url": "http://ufcstats.com/fight-details/75bc89630027c601"
+        }
+    ]
+}

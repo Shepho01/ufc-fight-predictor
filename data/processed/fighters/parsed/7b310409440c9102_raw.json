@@ -1,0 +1,36 @@
+{
+    "fighter_id": "7b310409440c9102",
+    "name": "Zhang Lipeng",
+    "record": "23-9-1",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Mar 10, 1990",
+    "sig_strikes_landed_per_min": "1.28",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "1.88",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "1.75",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "69%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "97c302628f231da3",
+            "fight_url": "http://ufcstats.com/fight-details/97c302628f231da3"
+        },
+        {
+            "fight_id": "cf38ced734978fb8",
+            "fight_url": "http://ufcstats.com/fight-details/cf38ced734978fb8"
+        },
+        {
+            "fight_id": "0067048aaa2aa2da",
+            "fight_url": "http://ufcstats.com/fight-details/0067048aaa2aa2da"
+        },
+        {
+            "fight_id": "0fea1cff62e26b46",
+            "fight_url": "http://ufcstats.com/fight-details/0fea1cff62e26b46"
+        }
+    ]
+}

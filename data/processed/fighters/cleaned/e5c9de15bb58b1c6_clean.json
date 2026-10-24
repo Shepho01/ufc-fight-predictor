@@ -1,0 +1,23 @@
+{
+    "fighter_id": "e5c9de15bb58b1c6",
+    "name": "Evan Dunham",
+    "wins": 18,
+    "losses": 9,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 18,
+    "dob_month": 12,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 5.33,
+    "sig_striking_accuracy": 0.39,
+    "sig_strikes_absorbed_per_min": 3.54,
+    "sig_strike_defense": 0.61,
+    "takedowns_landed_per_15_min": 1.82,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.79,
+    "submission_attempts_per_15_min": 1.0
+}

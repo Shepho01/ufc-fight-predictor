@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b69d3d55c84f5dd6",
+        "event_id": "7a703c565ccaa18f",
+        "event_name": "UFC Fight Night: Lee vs. Iaquinta",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "7cbf7c78d3b34218"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "92 of 154",
+            "Sig. str. %": "59%",
+            "Total str.": "110 of 176",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "92 of 154",
+            "Sig. str. %": "59%",
+            "Head": "39 of 91",
+            "Body": "27 of 31",
+            "Leg": "26 of 32",
+            "Distance": "69 of 126",
+            "Clinch": "13 of 15",
+            "Ground": "10 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7cbf7c78d3b34218",
+        "name": "Drakkar Klose",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "58 of 131",
+            "Sig. str. %": "44%",
+            "Total str.": "69 of 143",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "58 of 131",
+            "Sig. str. %": "44%",
+            "Head": "26 of 89",
+            "Body": "12 of 16",
+            "Leg": "20 of 26",
+            "Distance": "45 of 114",
+            "Clinch": "9 of 11",
+            "Ground": "4 of 6"
+        }
+    }
+}

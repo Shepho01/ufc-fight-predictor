@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "6750e338922a099d",
+        "event_name": "UFC 300: Pereira vs. Hill",
+        "event_date": "April 13, 2024",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e4931f3ab3bf4141",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Jamahal Hill",
+            "winner": "Alex Pereira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/e4931f3ab3bf4141"
+        },
+        {
+            "fight_id": "66eddbe35056c06d",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Yan Xiaonan",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/66eddbe35056c06d"
+        },
+        {
+            "fight_id": "cf5e8f98159c3971",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Justin Gaethje",
+            "winner": "Max Holloway",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "5",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/cf5e8f98159c3971"
+        },
+        {
+            "fight_id": "01f7c28804746979",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/01f7c28804746979"
+        },
+        {
+            "fight_id": "0c2e3988793b418c",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Cody Brundage",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:38",
+            "fight_url": "http://ufcstats.com/fight-details/0c2e3988793b418c"
+        },
+        {
+            "fight_id": "eda1e8c285a0a788",
+            "fighter_a": "Jiri Prochazka",
+            "fighter_b": "Aleksandar Rakic",
+            "winner": "Jiri Prochazka",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:17",
+            "fight_url": "http://ufcstats.com/fight-details/eda1e8c285a0a788"
+        },
+        {
+            "fight_id": "d95f21817a56eb05",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Calvin Kattar",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d95f21817a56eb05"
+        },
+        {
+            "fight_id": "b1ac165326d8f29e",
+            "fighter_a": "Kayla Harrison",
+            "fighter_b": "Holly Holm",
+            "winner": "Kayla Harrison",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:47",
+            "fight_url": "http://ufcstats.com/fight-details/b1ac165326d8f29e"
+        },
+        {
+            "fight_id": "538ca98010ed00ec",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Sodiq Yusuff",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:29",
+            "fight_url": "http://ufcstats.com/fight-details/538ca98010ed00ec"
+        },
+        {
+            "fight_id": "18824fa5c15c212f",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Jalin Turner",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:11",
+            "fight_url": "http://ufcstats.com/fight-details/18824fa5c15c212f"
+        },
+        {
+            "fight_id": "603afedc31d95999",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Marina Rodriguez",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/603afedc31d95999"
+        },
+        {
+            "fight_id": "efdad54c8550e6e0",
+            "fighter_a": "King Green",
+            "fighter_b": "Jim Miller",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/efdad54c8550e6e0"
+        },
+        {
+            "fight_id": "3ab0d8b344d2ebea",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Cody Garbrandt",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:02",
+            "fight_url": "http://ufcstats.com/fight-details/3ab0d8b344d2ebea"
+        }
+    ]
+}

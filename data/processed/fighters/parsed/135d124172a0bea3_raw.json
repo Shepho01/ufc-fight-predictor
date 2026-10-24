@@ -1,0 +1,48 @@
+{
+    "fighter_id": "135d124172a0bea3",
+    "name": "Damir Ismagulov",
+    "record": "24-3-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Feb 03, 1991",
+    "sig_strikes_landed_per_min": "3.36",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "2.44",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "1.00",
+    "takedown_accuracy": "28%",
+    "takedown_defense": "70%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "4dc5a41f357a7d85",
+            "fight_url": "http://ufcstats.com/fight-details/4dc5a41f357a7d85"
+        },
+        {
+            "fight_id": "ce7744d45a698aa6",
+            "fight_url": "http://ufcstats.com/fight-details/ce7744d45a698aa6"
+        },
+        {
+            "fight_id": "4e6218b6b892b017",
+            "fight_url": "http://ufcstats.com/fight-details/4e6218b6b892b017"
+        },
+        {
+            "fight_id": "82d48296fd06c27f",
+            "fight_url": "http://ufcstats.com/fight-details/82d48296fd06c27f"
+        },
+        {
+            "fight_id": "060dfbc982c6c4ef",
+            "fight_url": "http://ufcstats.com/fight-details/060dfbc982c6c4ef"
+        },
+        {
+            "fight_id": "e4b13f7f43018ec0",
+            "fight_url": "http://ufcstats.com/fight-details/e4b13f7f43018ec0"
+        },
+        {
+            "fight_id": "44c60f91b4f7b23d",
+            "fight_url": "http://ufcstats.com/fight-details/44c60f91b4f7b23d"
+        }
+    ]
+}

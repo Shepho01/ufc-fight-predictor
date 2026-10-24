@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "295c2e1ae2d54287",
+        "event_id": "4c8d6fde2dde07c4",
+        "event_name": "UFC Live: Hardy vs Lytle",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:01",
+        "referee": "Mario Yamasaki",
+        "winner_id": "1d00756835ca67c9"
+    },
+    "fighter_a": {
+        "fighter_id": "1d00756835ca67c9",
+        "name": "Donald Cerrone",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 60",
+            "Sig. str. %": "50%",
+            "Total str.": "32 of 63",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 60",
+            "Sig. str. %": "50%",
+            "Head": "22 of 49",
+            "Body": "2 of 4",
+            "Leg": "6 of 7",
+            "Distance": "14 of 34",
+            "Clinch": "1 of 2",
+            "Ground": "15 of 24"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 29",
+            "Sig. str. %": "34%",
+            "Total str.": "10 of 29",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 29",
+            "Sig. str. %": "34%",
+            "Head": "5 of 19",
+            "Body": "3 of 6",
+            "Leg": "2 of 4",
+            "Distance": "10 of 27",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

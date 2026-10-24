@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0f88658e787815c8",
+        "event_id": "ad99fa5325519169",
+        "event_name": "UFC Fight Night: Barboza vs. Lee",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:00",
+        "referee": "Gary Copeland",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "d1941565abf50b16",
+        "name": "Jim Miller",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 20",
+            "Sig. str. %": "50%",
+            "Total str.": "13 of 23",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 20",
+            "Sig. str. %": "50%",
+            "Head": "6 of 16",
+            "Body": "2 of 2",
+            "Leg": "2 of 2",
+            "Distance": "8 of 17",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "24 of 44",
+            "Sig. str. %": "54%",
+            "Total str.": "24 of 44",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 44",
+            "Sig. str. %": "54%",
+            "Head": "15 of 33",
+            "Body": "4 of 4",
+            "Leg": "5 of 7",
+            "Distance": "23 of 43",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

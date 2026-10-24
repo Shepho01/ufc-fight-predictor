@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5a440bdee19efaab",
+        "event_id": "d4f364dd076bb0e2",
+        "event_name": "UFC Fight Night: Ortega vs. The Korean Zombie",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Lukasz Bosacki",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "127 of 212",
+            "Sig. str. %": "59%",
+            "Total str.": "129 of 214",
+            "Td": "3 of 10",
+            "Td %": "30%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "127 of 212",
+            "Sig. str. %": "59%",
+            "Head": "64 of 135",
+            "Body": "22 of 28",
+            "Leg": "41 of 49",
+            "Distance": "118 of 199",
+            "Clinch": "5 of 7",
+            "Ground": "4 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 163",
+            "Sig. str. %": "38%",
+            "Total str.": "64 of 166",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 163",
+            "Sig. str. %": "38%",
+            "Head": "35 of 127",
+            "Body": "14 of 21",
+            "Leg": "13 of 15",
+            "Distance": "62 of 162",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

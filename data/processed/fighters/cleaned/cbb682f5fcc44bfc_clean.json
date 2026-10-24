@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cbb682f5fcc44bfc",
+    "name": "Anthony Pettis",
+    "wins": 24,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 27,
+    "dob_month": 1,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.05,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 3.44,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.61,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 1.1
+}

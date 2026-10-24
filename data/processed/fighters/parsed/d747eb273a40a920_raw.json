@@ -1,0 +1,56 @@
+{
+    "fighter_id": "d747eb273a40a920",
+    "name": "Claudio Puelles",
+    "record": "13-5-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Apr 21, 1996",
+    "sig_strikes_landed_per_min": "1.54",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "2.62",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "3.29",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "352839a03b428e74",
+            "fight_url": "http://ufcstats.com/fight-details/352839a03b428e74"
+        },
+        {
+            "fight_id": "a376f6d5806d0c90",
+            "fight_url": "http://ufcstats.com/fight-details/a376f6d5806d0c90"
+        },
+        {
+            "fight_id": "77c78d0a71b10692",
+            "fight_url": "http://ufcstats.com/fight-details/77c78d0a71b10692"
+        },
+        {
+            "fight_id": "6017351e164dbca3",
+            "fight_url": "http://ufcstats.com/fight-details/6017351e164dbca3"
+        },
+        {
+            "fight_id": "c74b03337a8441ed",
+            "fight_url": "http://ufcstats.com/fight-details/c74b03337a8441ed"
+        },
+        {
+            "fight_id": "58c5d506181812fa",
+            "fight_url": "http://ufcstats.com/fight-details/58c5d506181812fa"
+        },
+        {
+            "fight_id": "4f7ec66199bba232",
+            "fight_url": "http://ufcstats.com/fight-details/4f7ec66199bba232"
+        },
+        {
+            "fight_id": "866b2c2e354aa27b",
+            "fight_url": "http://ufcstats.com/fight-details/866b2c2e354aa27b"
+        },
+        {
+            "fight_id": "43a941e005a2d463",
+            "fight_url": "http://ufcstats.com/fight-details/43a941e005a2d463"
+        }
+    ]
+}

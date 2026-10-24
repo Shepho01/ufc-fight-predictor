@@ -1,0 +1,104 @@
+{
+    "fighter_id": "05339613bf8e9808",
+    "name": "Rob Font",
+    "record": "22-10-0",
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 25, 1987",
+    "sig_strikes_landed_per_min": "5.11",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "3.53",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.70",
+    "takedown_accuracy": "29%",
+    "takedown_defense": "37%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "bed89a91da9d04c1",
+            "fight_url": "http://ufcstats.com/fight-details/bed89a91da9d04c1"
+        },
+        {
+            "fight_id": "944b929130b23c2a",
+            "fight_url": "http://ufcstats.com/fight-details/944b929130b23c2a"
+        },
+        {
+            "fight_id": "19c8092496e94b85",
+            "fight_url": "http://ufcstats.com/fight-details/19c8092496e94b85"
+        },
+        {
+            "fight_id": "f01b97e864cb4b8b",
+            "fight_url": "http://ufcstats.com/fight-details/f01b97e864cb4b8b"
+        },
+        {
+            "fight_id": "246d06693b5ca1e8",
+            "fight_url": "http://ufcstats.com/fight-details/246d06693b5ca1e8"
+        },
+        {
+            "fight_id": "554163b1c8c05522",
+            "fight_url": "http://ufcstats.com/fight-details/554163b1c8c05522"
+        },
+        {
+            "fight_id": "678d27af287476f8",
+            "fight_url": "http://ufcstats.com/fight-details/678d27af287476f8"
+        },
+        {
+            "fight_id": "5ae5eb729c6bb169",
+            "fight_url": "http://ufcstats.com/fight-details/5ae5eb729c6bb169"
+        },
+        {
+            "fight_id": "3109d1151f149aaf",
+            "fight_url": "http://ufcstats.com/fight-details/3109d1151f149aaf"
+        },
+        {
+            "fight_id": "d16f7ab4e28171ea",
+            "fight_url": "http://ufcstats.com/fight-details/d16f7ab4e28171ea"
+        },
+        {
+            "fight_id": "8955ea3c7c332e6c",
+            "fight_url": "http://ufcstats.com/fight-details/8955ea3c7c332e6c"
+        },
+        {
+            "fight_id": "b9ff9ebe19ae6358",
+            "fight_url": "http://ufcstats.com/fight-details/b9ff9ebe19ae6358"
+        },
+        {
+            "fight_id": "4da4c5ef6a4ffc5b",
+            "fight_url": "http://ufcstats.com/fight-details/4da4c5ef6a4ffc5b"
+        },
+        {
+            "fight_id": "148c26038e80465b",
+            "fight_url": "http://ufcstats.com/fight-details/148c26038e80465b"
+        },
+        {
+            "fight_id": "889207e3c622a5aa",
+            "fight_url": "http://ufcstats.com/fight-details/889207e3c622a5aa"
+        },
+        {
+            "fight_id": "0b557aeb2169b59f",
+            "fight_url": "http://ufcstats.com/fight-details/0b557aeb2169b59f"
+        },
+        {
+            "fight_id": "a5a065cb6d33ba9e",
+            "fight_url": "http://ufcstats.com/fight-details/a5a065cb6d33ba9e"
+        },
+        {
+            "fight_id": "63b35df1276b3d64",
+            "fight_url": "http://ufcstats.com/fight-details/63b35df1276b3d64"
+        },
+        {
+            "fight_id": "040f227553de7838",
+            "fight_url": "http://ufcstats.com/fight-details/040f227553de7838"
+        },
+        {
+            "fight_id": "18cdc16fc7ab7ce1",
+            "fight_url": "http://ufcstats.com/fight-details/18cdc16fc7ab7ce1"
+        },
+        {
+            "fight_id": "c576e311ea337a32",
+            "fight_url": "http://ufcstats.com/fight-details/c576e311ea337a32"
+        }
+    ]
+}

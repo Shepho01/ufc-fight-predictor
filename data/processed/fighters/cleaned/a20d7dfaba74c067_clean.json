@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a20d7dfaba74c067",
+    "name": "Rodrigo Damm",
+    "wins": 13,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 3,
+    "dob_month": 2,
+    "dob_year": 1980,
+    "sig_strikes_landed_per_min": 3.5,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 5.61,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.44,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.8,
+    "submission_attempts_per_15_min": 0.3
+}

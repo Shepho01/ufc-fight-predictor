@@ -1,0 +1,116 @@
+{
+    "fighter_id": "cb696ebfb6598724",
+    "name": "Aljamain Sterling",
+    "record": "26-5-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jul 31, 1989",
+    "sig_strikes_landed_per_min": "4.26",
+    "sig_striking_accuracy": "52%",
+    "sig_strikes_absorbed_per_min": "2.15",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "2.54",
+    "takedown_accuracy": "32%",
+    "takedown_defense": "44%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "07ea5460ba2f04c6",
+            "fight_url": "http://ufcstats.com/fight-details/07ea5460ba2f04c6"
+        },
+        {
+            "fight_id": "f524e42c36028de0",
+            "fight_url": "http://ufcstats.com/fight-details/f524e42c36028de0"
+        },
+        {
+            "fight_id": "58080e8989927500",
+            "fight_url": "http://ufcstats.com/fight-details/58080e8989927500"
+        },
+        {
+            "fight_id": "df30514e0674d598",
+            "fight_url": "http://ufcstats.com/fight-details/df30514e0674d598"
+        },
+        {
+            "fight_id": "d95f21817a56eb05",
+            "fight_url": "http://ufcstats.com/fight-details/d95f21817a56eb05"
+        },
+        {
+            "fight_id": "ee796ecb4ee8680b",
+            "fight_url": "http://ufcstats.com/fight-details/ee796ecb4ee8680b"
+        },
+        {
+            "fight_id": "e3aad51099a23ba4",
+            "fight_url": "http://ufcstats.com/fight-details/e3aad51099a23ba4"
+        },
+        {
+            "fight_id": "1f0d4572e0facbea",
+            "fight_url": "http://ufcstats.com/fight-details/1f0d4572e0facbea"
+        },
+        {
+            "fight_id": "9a8964b148cb5923",
+            "fight_url": "http://ufcstats.com/fight-details/9a8964b148cb5923"
+        },
+        {
+            "fight_id": "15c9cb5f9320c555",
+            "fight_url": "http://ufcstats.com/fight-details/15c9cb5f9320c555"
+        },
+        {
+            "fight_id": "c03b6b6ce5d03276",
+            "fight_url": "http://ufcstats.com/fight-details/c03b6b6ce5d03276"
+        },
+        {
+            "fight_id": "17753b728e5404aa",
+            "fight_url": "http://ufcstats.com/fight-details/17753b728e5404aa"
+        },
+        {
+            "fight_id": "58e21d505c082a9e",
+            "fight_url": "http://ufcstats.com/fight-details/58e21d505c082a9e"
+        },
+        {
+            "fight_id": "e65ffb177a2c7669",
+            "fight_url": "http://ufcstats.com/fight-details/e65ffb177a2c7669"
+        },
+        {
+            "fight_id": "6dd0874dec826397",
+            "fight_url": "http://ufcstats.com/fight-details/6dd0874dec826397"
+        },
+        {
+            "fight_id": "1aaa1a9ceecd6063",
+            "fight_url": "http://ufcstats.com/fight-details/1aaa1a9ceecd6063"
+        },
+        {
+            "fight_id": "ac9e19a4075f6557",
+            "fight_url": "http://ufcstats.com/fight-details/ac9e19a4075f6557"
+        },
+        {
+            "fight_id": "677e98ae5834ba70",
+            "fight_url": "http://ufcstats.com/fight-details/677e98ae5834ba70"
+        },
+        {
+            "fight_id": "637f561cd731fb44",
+            "fight_url": "http://ufcstats.com/fight-details/637f561cd731fb44"
+        },
+        {
+            "fight_id": "6e093a1d4286dad6",
+            "fight_url": "http://ufcstats.com/fight-details/6e093a1d4286dad6"
+        },
+        {
+            "fight_id": "5574c020655b435e",
+            "fight_url": "http://ufcstats.com/fight-details/5574c020655b435e"
+        },
+        {
+            "fight_id": "2230a5dbc0907859",
+            "fight_url": "http://ufcstats.com/fight-details/2230a5dbc0907859"
+        },
+        {
+            "fight_id": "02a183fa803a33fe",
+            "fight_url": "http://ufcstats.com/fight-details/02a183fa803a33fe"
+        },
+        {
+            "fight_id": "41727d51af72b1d5",
+            "fight_url": "http://ufcstats.com/fight-details/41727d51af72b1d5"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "fighter_id": "6a2f7c151031653d",
+    "name": "Rafael Dos Anjos",
+    "record": "32-18-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 26, 1984",
+    "sig_strikes_landed_per_min": "3.48",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.25",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "1.92",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "54%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "d0d2339f56681707",
+            "fight_url": "http://ufcstats.com/fight-details/d0d2339f56681707"
+        },
+        {
+            "fight_id": "1d65c141776949d6",
+            "fight_url": "http://ufcstats.com/fight-details/1d65c141776949d6"
+        },
+        {
+            "fight_id": "8baff440b82afd2b",
+            "fight_url": "http://ufcstats.com/fight-details/8baff440b82afd2b"
+        },
+        {
+            "fight_id": "e346f2b7af63e804",
+            "fight_url": "http://ufcstats.com/fight-details/e346f2b7af63e804"
+        },
+        {
+            "fight_id": "f17813d03fcd8e7a",
+            "fight_url": "http://ufcstats.com/fight-details/f17813d03fcd8e7a"
+        },
+        {
+            "fight_id": "be69cbf1f1671c8e",
+            "fight_url": "http://ufcstats.com/fight-details/be69cbf1f1671c8e"
+        },
+        {
+            "fight_id": "838bb84a5a976a9c",
+            "fight_url": "http://ufcstats.com/fight-details/838bb84a5a976a9c"
+        },
+        {
+            "fight_id": "80cb3cf9134b677c",
+            "fight_url": "http://ufcstats.com/fight-details/80cb3cf9134b677c"
+        },
+        {
+            "fight_id": "2ef54419defb2364",
+            "fight_url": "http://ufcstats.com/fight-details/2ef54419defb2364"
+        },
+        {
+            "fight_id": "816662e622987a14",
+            "fight_url": "http://ufcstats.com/fight-details/816662e622987a14"
+        },
+        {
+            "fight_id": "d401522de73b7bee",
+            "fight_url": "http://ufcstats.com/fight-details/d401522de73b7bee"
+        },
+        {
+            "fight_id": "0d077813b6164fe1",
+            "fight_url": "http://ufcstats.com/fight-details/0d077813b6164fe1"
+        },
+        {
+            "fight_id": "eb6f80ccaf2a3dbc",
+            "fight_url": "http://ufcstats.com/fight-details/eb6f80ccaf2a3dbc"
+        },
+        {
+            "fight_id": "d9375ede2ec2f924",
+            "fight_url": "http://ufcstats.com/fight-details/d9375ede2ec2f924"
+        },
+        {
+            "fight_id": "b6082b551288aa5a",
+            "fight_url": "http://ufcstats.com/fight-details/b6082b551288aa5a"
+        },
+        {
+            "fight_id": "a69a155a25b84679",
+            "fight_url": "http://ufcstats.com/fight-details/a69a155a25b84679"
+        },
+        {
+            "fight_id": "9220acccebf14a46",
+            "fight_url": "http://ufcstats.com/fight-details/9220acccebf14a46"
+        },
+        {
+            "fight_id": "bb9020ac324fb706",
+            "fight_url": "http://ufcstats.com/fight-details/bb9020ac324fb706"
+        },
+        {
+            "fight_id": "81f287d035190506",
+            "fight_url": "http://ufcstats.com/fight-details/81f287d035190506"
+        },
+        {
+            "fight_id": "39e6cba2480c6d82",
+            "fight_url": "http://ufcstats.com/fight-details/39e6cba2480c6d82"
+        },
+        {
+            "fight_id": "d4bfe75b61d2cbc6",
+            "fight_url": "http://ufcstats.com/fight-details/d4bfe75b61d2cbc6"
+        },
+        {
+            "fight_id": "351532f2fe6804d1",
+            "fight_url": "http://ufcstats.com/fight-details/351532f2fe6804d1"
+        },
+        {
+            "fight_id": "b97d2f97d109cfc8",
+            "fight_url": "http://ufcstats.com/fight-details/b97d2f97d109cfc8"
+        },
+        {
+            "fight_id": "9d1722fb8b83a92a",
+            "fight_url": "http://ufcstats.com/fight-details/9d1722fb8b83a92a"
+        },
+        {
+            "fight_id": "ca17e1385ef98e57",
+            "fight_url": "http://ufcstats.com/fight-details/ca17e1385ef98e57"
+        },
+        {
+            "fight_id": "05f8696303709939",
+            "fight_url": "http://ufcstats.com/fight-details/05f8696303709939"
+        },
+        {
+            "fight_id": "a65cf6951e097273",
+            "fight_url": "http://ufcstats.com/fight-details/a65cf6951e097273"
+        },
+        {
+            "fight_id": "34e67c2b110f6b6a",
+            "fight_url": "http://ufcstats.com/fight-details/34e67c2b110f6b6a"
+        },
+        {
+            "fight_id": "ade59be2e9bc1108",
+            "fight_url": "http://ufcstats.com/fight-details/ade59be2e9bc1108"
+        },
+        {
+            "fight_id": "a117805ab030b194",
+            "fight_url": "http://ufcstats.com/fight-details/a117805ab030b194"
+        },
+        {
+            "fight_id": "65171ae917df102f",
+            "fight_url": "http://ufcstats.com/fight-details/65171ae917df102f"
+        },
+        {
+            "fight_id": "3559cab3329e5431",
+            "fight_url": "http://ufcstats.com/fight-details/3559cab3329e5431"
+        },
+        {
+            "fight_id": "38ea5a7a5b4932cb",
+            "fight_url": "http://ufcstats.com/fight-details/38ea5a7a5b4932cb"
+        },
+        {
+            "fight_id": "c4fa93a4f37a6ca7",
+            "fight_url": "http://ufcstats.com/fight-details/c4fa93a4f37a6ca7"
+        },
+        {
+            "fight_id": "329a097e0b53daac",
+            "fight_url": "http://ufcstats.com/fight-details/329a097e0b53daac"
+        },
+        {
+            "fight_id": "f1100f1bc6cbb351",
+            "fight_url": "http://ufcstats.com/fight-details/f1100f1bc6cbb351"
+        },
+        {
+            "fight_id": "9e99536eae6d709b",
+            "fight_url": "http://ufcstats.com/fight-details/9e99536eae6d709b"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "ad99fa5325519169",
+        "event_name": "UFC Fight Night: Barboza vs. Lee",
+        "event_day": 21,
+        "event_month": 4,
+        "event_year": 2018,
+        "location": "Atlantic City, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "dbb0ca0198ac514a",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Edson Barboza",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 5,
+            "time_seconds": 138,
+            "fight_url": "http://ufcstats.com/fight-details/dbb0ca0198ac514a"
+        },
+        {
+            "fight_id": "6d8ce1abde550bc6",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Cub Swanson",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6d8ce1abde550bc6"
+        },
+        {
+            "fight_id": "bef2a2e68fb4dfa8",
+            "fighter_a": "Justin Willis",
+            "fighter_b": "Chase Sherman",
+            "winner": "Justin Willis",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bef2a2e68fb4dfa8"
+        },
+        {
+            "fight_id": "62aab95c866a9c5b",
+            "fighter_a": "David Branch",
+            "fighter_b": "Thiago Santos",
+            "winner": "David Branch",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 150,
+            "fight_url": "http://ufcstats.com/fight-details/62aab95c866a9c5b"
+        },
+        {
+            "fight_id": "6dd0874dec826397",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Brett Johns",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6dd0874dec826397"
+        },
+        {
+            "fight_id": "0f88658e787815c8",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Jim Miller",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 180,
+            "fight_url": "http://ufcstats.com/fight-details/0f88658e787815c8"
+        },
+        {
+            "fight_id": "ef86720364837f68",
+            "fighter_a": "Ryan LaFlare",
+            "fighter_b": "Alex Garcia",
+            "winner": "Ryan LaFlare",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ef86720364837f68"
+        },
+        {
+            "fight_id": "a017d5806eaa6018",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Merab Dvalishvili",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a017d5806eaa6018"
+        },
+        {
+            "fight_id": "dbed6292db8b0212",
+            "fighter_a": "Siyar Bahadurzada",
+            "fighter_b": "Luan Chagas",
+            "winner": "Siyar Bahadurzada",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 160,
+            "fight_url": "http://ufcstats.com/fight-details/dbed6292db8b0212"
+        },
+        {
+            "fight_id": "a22add1024153ddb",
+            "fighter_a": "Corey Anderson",
+            "fighter_b": "Patrick Cummins",
+            "winner": "Corey Anderson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a22add1024153ddb"
+        },
+        {
+            "fight_id": "d2b5ce5548b71668",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Keita Nakamura",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d2b5ce5548b71668"
+        }
+    ]
+}

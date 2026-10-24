@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "87b61c1d72232a84",
+        "event_id": "154a6b3ffae264cd",
+        "event_name": "UFC 204: Bisping vs. Henderson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin Sataki",
+        "winner_id": "9c65736747ca92ec"
+    },
+    "fighter_a": {
+        "fighter_id": "9c65736747ca92ec",
+        "name": "Leonardo Santos",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 70",
+            "Sig. str. %": "32%",
+            "Total str.": "23 of 70",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 70",
+            "Sig. str. %": "32%",
+            "Head": "9 of 47",
+            "Body": "7 of 16",
+            "Leg": "7 of 7",
+            "Distance": "22 of 69",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7dcf06c1967801c1",
+        "name": "Adriano Martins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 83",
+            "Sig. str. %": "40%",
+            "Total str.": "34 of 84",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 83",
+            "Sig. str. %": "40%",
+            "Head": "8 of 48",
+            "Body": "6 of 10",
+            "Leg": "20 of 25",
+            "Distance": "34 of 83",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

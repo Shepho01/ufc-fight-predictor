@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "e69c5ce12f4e762b",
+        "event_name": "UFC 253: Adesanya vs. Costa",
+        "event_day": 26,
+        "event_month": 9,
+        "event_year": 2020,
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "fd76b75c28dc247a",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Paulo Costa",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 239,
+            "fight_url": "http://ufcstats.com/fight-details/fd76b75c28dc247a"
+        },
+        {
+            "fight_id": "4c12c9085200121f",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Dominick Reyes",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 276,
+            "fight_url": "http://ufcstats.com/fight-details/4c12c9085200121f"
+        },
+        {
+            "fight_id": "9e674a02db6c03c8",
+            "fighter_a": "Brandon Royval",
+            "fighter_b": "Kai Kara-France",
+            "winner": "Brandon Royval",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/9e674a02db6c03c8"
+        },
+        {
+            "fight_id": "e842c6f63fa2e27a",
+            "fighter_a": "Ketlen Vieira",
+            "fighter_b": "Sijara Eubanks",
+            "winner": "Ketlen Vieira",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e842c6f63fa2e27a"
+        },
+        {
+            "fight_id": "5a00c73efbcf323e",
+            "fighter_a": "Hakeem Dawodu",
+            "fighter_b": "Zubaira Tukhugov",
+            "winner": "Hakeem Dawodu",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5a00c73efbcf323e"
+        },
+        {
+            "fight_id": "9f4d6d192ab4a027",
+            "fighter_a": "Brad Riddell",
+            "fighter_b": "Alex Da Silva",
+            "winner": "Brad Riddell",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9f4d6d192ab4a027"
+        },
+        {
+            "fight_id": "73dbbdfcf7f989c0",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Diego Sanchez",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/73dbbdfcf7f989c0"
+        },
+        {
+            "fight_id": "eed8c9955cad1e30",
+            "fighter_a": "Ludovit Klein",
+            "fighter_b": "Shane Young",
+            "winner": "Ludovit Klein",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 76,
+            "fight_url": "http://ufcstats.com/fight-details/eed8c9955cad1e30"
+        },
+        {
+            "fight_id": "5fb63c34935acce9",
+            "fighter_a": "William Knight",
+            "fighter_b": "Aleksa Camur",
+            "winner": "William Knight",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5fb63c34935acce9"
+        },
+        {
+            "fight_id": "8e7b2d62f834b417",
+            "fighter_a": "Juan Espino",
+            "fighter_b": "Jeff Hughes",
+            "winner": "Juan Espino",
+            "weight_class": "Heavyweight",
+            "method": "SUB Scarf Hold",
+            "round": 1,
+            "time_seconds": 228,
+            "fight_url": "http://ufcstats.com/fight-details/8e7b2d62f834b417"
+        },
+        {
+            "fight_id": "e10481ee3fda7080",
+            "fighter_a": "Danilo Marques",
+            "fighter_b": "Khadis Ibragimov",
+            "winner": "Danilo Marques",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e10481ee3fda7080"
+        }
+    ]
+}

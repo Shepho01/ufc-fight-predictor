@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "04076783ca83d6ae",
+        "event_name": "UFC 219: Cyborg vs. Holm",
+        "event_day": 30,
+        "event_month": 12,
+        "event_year": 2017,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "279b4190d9ef1379",
+            "fighter_a": "Cristiane Justino",
+            "fighter_b": "Holly Holm",
+            "winner": "Cristiane Justino",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/279b4190d9ef1379"
+        },
+        {
+            "fight_id": "a88a4c126d585320",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Edson Barboza",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a88a4c126d585320"
+        },
+        {
+            "fight_id": "3d76ed7e224e9c99",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Marc Diakiese",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 42,
+            "fight_url": "http://ufcstats.com/fight-details/3d76ed7e224e9c99"
+        },
+        {
+            "fight_id": "f77e3c681fe1b04e",
+            "fighter_a": "Carla Esparza",
+            "fighter_b": "Cynthia Calvillo",
+            "winner": "Carla Esparza",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f77e3c681fe1b04e"
+        },
+        {
+            "fight_id": "c381ad2c0bf34dd9",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Carlos Condit",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c381ad2c0bf34dd9"
+        },
+        {
+            "fight_id": "e3a2bf2d9ee83318",
+            "fighter_a": "Khalil Rountree Jr.",
+            "fighter_b": "Michal Oleksiejczuk",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e3a2bf2d9ee83318"
+        },
+        {
+            "fight_id": "147d2ab0230af48d",
+            "fighter_a": "Myles Jury",
+            "fighter_b": "Ricky Glenn",
+            "winner": "Myles Jury",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/147d2ab0230af48d"
+        },
+        {
+            "fight_id": "0be6540982a5b0cd",
+            "fighter_a": "Marvin Vettori",
+            "fighter_b": "Omari Akhmedov",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0be6540982a5b0cd"
+        },
+        {
+            "fight_id": "7e9ed49a1831056f",
+            "fighter_a": "Matheus Nicolau",
+            "fighter_b": "Louis Smolka",
+            "winner": "Matheus Nicolau",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7e9ed49a1831056f"
+        },
+        {
+            "fight_id": "8f40ac90544d0003",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Mark De La Rosa",
+            "winner": "Tim Elliott",
+            "weight_class": "Bantamweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 101,
+            "fight_url": "http://ufcstats.com/fight-details/8f40ac90544d0003"
+        }
+    ]
+}

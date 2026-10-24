@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4d8fa64202cee4c1",
+    "name": "Jalin Turner",
+    "wins": 16,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 190.5,
+    "weight_lbs": 155,
+    "reach_cm": 195.58,
+    "stance": "Southpaw",
+    "dob_day": 18,
+    "dob_month": 5,
+    "dob_year": 1995,
+    "sig_strikes_landed_per_min": 5.84,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 4.53,
+    "sig_strike_defense": 0.41,
+    "takedowns_landed_per_15_min": 0.75,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 1.1
+}

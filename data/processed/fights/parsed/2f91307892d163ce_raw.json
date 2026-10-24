@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2f91307892d163ce",
+        "event_id": "1c5879330d42255f",
+        "event_name": "The Ultimate Fighter: Team Edgar vs. Team Penn Finale",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:21",
+        "referee": "Yves Lavigne",
+        "winner_id": "7dcf06c1967801c1"
+    },
+    "fighter_a": {
+        "fighter_id": "7dcf06c1967801c1",
+        "name": "Adriano Martins",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "9 of 24",
+            "Sig. str. %": "37%",
+            "Total str.": "10 of 25",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 24",
+            "Sig. str. %": "37%",
+            "Head": "9 of 24",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "9 of 22",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "85d0fafb8b75d634",
+        "name": "Juan Manuel Puig",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 51",
+            "Sig. str. %": "25%",
+            "Total str.": "13 of 51",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 51",
+            "Sig. str. %": "25%",
+            "Head": "4 of 37",
+            "Body": "1 of 1",
+            "Leg": "8 of 13",
+            "Distance": "13 of 51",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

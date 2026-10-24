@@ -1,0 +1,68 @@
+{
+    "fighter_id": "97cf1a2c7c5e7889",
+    "name": "Steve Garcia",
+    "record": "19-6-0",
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "May 22, 1992",
+    "sig_strikes_landed_per_min": "5.46",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "2.22",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.77",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "89%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "127ba4a1ccb3d4a6",
+            "fight_url": "http://ufcstats.com/fight-details/127ba4a1ccb3d4a6"
+        },
+        {
+            "fight_id": "747d922b329b7f30",
+            "fight_url": "http://ufcstats.com/fight-details/747d922b329b7f30"
+        },
+        {
+            "fight_id": "f368475c366c6d85",
+            "fight_url": "http://ufcstats.com/fight-details/f368475c366c6d85"
+        },
+        {
+            "fight_id": "453e6f2665c85fd7",
+            "fight_url": "http://ufcstats.com/fight-details/453e6f2665c85fd7"
+        },
+        {
+            "fight_id": "120ec60ad18cf6c5",
+            "fight_url": "http://ufcstats.com/fight-details/120ec60ad18cf6c5"
+        },
+        {
+            "fight_id": "5ac1725f775c6f00",
+            "fight_url": "http://ufcstats.com/fight-details/5ac1725f775c6f00"
+        },
+        {
+            "fight_id": "0810cdbeb9dd4d02",
+            "fight_url": "http://ufcstats.com/fight-details/0810cdbeb9dd4d02"
+        },
+        {
+            "fight_id": "86dff1593d8b9a1f",
+            "fight_url": "http://ufcstats.com/fight-details/86dff1593d8b9a1f"
+        },
+        {
+            "fight_id": "4a116a55ffaa0d64",
+            "fight_url": "http://ufcstats.com/fight-details/4a116a55ffaa0d64"
+        },
+        {
+            "fight_id": "ddb927b0dfcfac2a",
+            "fight_url": "http://ufcstats.com/fight-details/ddb927b0dfcfac2a"
+        },
+        {
+            "fight_id": "9d2f7d29bb9c9034",
+            "fight_url": "http://ufcstats.com/fight-details/9d2f7d29bb9c9034"
+        },
+        {
+            "fight_id": "aa6b4b792711d970",
+            "fight_url": "http://ufcstats.com/fight-details/aa6b4b792711d970"
+        }
+    ]
+}

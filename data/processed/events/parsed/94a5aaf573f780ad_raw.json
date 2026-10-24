@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "94a5aaf573f780ad",
+        "event_name": "UFC Fight Night: Rodriguez vs. Stephens",
+        "event_date": "September 21, 2019",
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "62acea88e628c3ca",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Jeremy Stephens",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "CNC",
+            "round": "1",
+            "time": "0:15",
+            "fight_url": "http://ufcstats.com/fight-details/62acea88e628c3ca"
+        },
+        {
+            "fight_id": "b2cdb4c34f37ad37",
+            "fighter_a": "Carla Esparza",
+            "fighter_b": "Alexa Grasso",
+            "winner": "Carla Esparza",
+            "weight_class": "Women's Strawweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b2cdb4c34f37ad37"
+        },
+        {
+            "fight_id": "fd3e8f61d8fda839",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Askar Askarov",
+            "winner": null,
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fd3e8f61d8fda839"
+        },
+        {
+            "fight_id": "c163ed45c21c8548",
+            "fighter_a": "Irene Aldana",
+            "fighter_b": "Vanessa Melo",
+            "winner": "Irene Aldana",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c163ed45c21c8548"
+        },
+        {
+            "fight_id": "49b2a6a93d529981",
+            "fighter_a": "Steven Peterson",
+            "fighter_b": "Martin Bravo",
+            "winner": "Steven Peterson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": "2",
+            "time": "1:31",
+            "fight_url": "http://ufcstats.com/fight-details/49b2a6a93d529981"
+        },
+        {
+            "fight_id": "953c89aa931082e4",
+            "fighter_a": "Jose Quinonez",
+            "fighter_b": "Carlos Huachin",
+            "winner": "Jose Quinonez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/953c89aa931082e4"
+        },
+        {
+            "fight_id": "ad878cdd4fa36a3a",
+            "fighter_a": "Kyle Nelson",
+            "fighter_b": "Marco Polo Reyes",
+            "winner": "Kyle Nelson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:36",
+            "fight_url": "http://ufcstats.com/fight-details/ad878cdd4fa36a3a"
+        },
+        {
+            "fight_id": "52311c2cd0c84d67",
+            "fighter_a": "Angela Hill",
+            "fighter_b": "Ariane Carnelossi",
+            "winner": "Angela Hill",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Elbow",
+            "round": "3",
+            "time": "1:56",
+            "fight_url": "http://ufcstats.com/fight-details/52311c2cd0c84d67"
+        },
+        {
+            "fight_id": "d9c0351cd21e40e0",
+            "fighter_a": "Sergio Pettis",
+            "fighter_b": "Tyson Nam",
+            "winner": "Sergio Pettis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d9c0351cd21e40e0"
+        },
+        {
+            "fight_id": "8cf6b22995c9efb8",
+            "fighter_a": "Paul Craig",
+            "fighter_b": "Vinicius Moreira",
+            "winner": "Paul Craig",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/8cf6b22995c9efb8"
+        },
+        {
+            "fight_id": "c2b842fae4e9f1dc",
+            "fighter_a": "Bethe Correia",
+            "fighter_b": "Sijara Eubanks",
+            "winner": "Bethe Correia",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c2b842fae4e9f1dc"
+        },
+        {
+            "fight_id": "4f7ec66199bba232",
+            "fighter_a": "Claudio Puelles",
+            "fighter_b": "Marcos Mariano",
+            "winner": "Claudio Puelles",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4f7ec66199bba232"
+        }
+    ]
+}

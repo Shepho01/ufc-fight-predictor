@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7aa3d6964eff4877",
+    "name": "Alex Caceres",
+    "wins": 21,
+    "losses": 15,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Southpaw",
+    "dob_day": 20,
+    "dob_month": 6,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 4.21,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 3.09,
+    "sig_strike_defense": 0.62,
+    "takedowns_landed_per_15_min": 0.54,
+    "takedown_accuracy": 0.68,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.7
+}

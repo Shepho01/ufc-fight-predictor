@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8515f07911765f89",
+        "event_id": "f6a7b02c42e9fc5b",
+        "event_name": "UFC Fight Night: Makhachev vs. Green",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:57",
+        "referee": "Chris Tognoni",
+        "winner_id": "eae48ff31db420c2"
+    },
+    "fighter_a": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 53",
+            "Sig. str. %": "67%",
+            "Total str.": "93 of 122",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 53",
+            "Sig. str. %": "67%",
+            "Head": "31 of 48",
+            "Body": "3 of 3",
+            "Leg": "2 of 2",
+            "Distance": "4 of 9",
+            "Clinch": "0 of 0",
+            "Ground": "32 of 44"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "58bbef3770bb2dfc",
+        "name": "Joel Alvarez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 10",
+            "Sig. str. %": "70%",
+            "Total str.": "27 of 33",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 10",
+            "Sig. str. %": "70%",
+            "Head": "5 of 8",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "4 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 4"
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "579fcdfcabd23a7b",
+        "event_name": "UFC Fight Night: Brown vs Silva",
+        "event_date": "May 10, 2014",
+        "location": "Cincinnati, Ohio, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f8cceeabeb2afd4d",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Erick Silva",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:11",
+            "fight_url": "http://ufcstats.com/fight-details/f8cceeabeb2afd4d"
+        },
+        {
+            "fight_id": "2d14f73c374f2875",
+            "fighter_a": "Constantinos Philippou",
+            "fighter_b": "Lorenz Larkin",
+            "winner": "Constantinos Philippou",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/2d14f73c374f2875"
+        },
+        {
+            "fight_id": "3ee1a3216cf66b95",
+            "fighter_a": "Daron Cruickshank",
+            "fighter_b": "Erik Koch",
+            "winner": "Daron Cruickshank",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "3:21",
+            "fight_url": "http://ufcstats.com/fight-details/3ee1a3216cf66b95"
+        },
+        {
+            "fight_id": "107079f548338ac3",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Tim Means",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/107079f548338ac3"
+        },
+        {
+            "fight_id": "4ceadad9c2dd0a87",
+            "fighter_a": "Soa Palelei",
+            "fighter_b": "Ruan Potts",
+            "winner": "Soa Palelei",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:20",
+            "fight_url": "http://ufcstats.com/fight-details/4ceadad9c2dd0a87"
+        },
+        {
+            "fight_id": "7d947be4c15ebe36",
+            "fighter_a": "Chris Cariaso",
+            "fighter_b": "Louis Smolka",
+            "winner": "Chris Cariaso",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7d947be4c15ebe36"
+        },
+        {
+            "fight_id": "289004336bd71d34",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Rafael Natal",
+            "winner": "Ed Herman",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/289004336bd71d34"
+        },
+        {
+            "fight_id": "8ea70cfd5d3aa5ee",
+            "fighter_a": "Kyoji Horiguchi",
+            "fighter_b": "Darrell Montague",
+            "winner": "Kyoji Horiguchi",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8ea70cfd5d3aa5ee"
+        },
+        {
+            "fight_id": "9a8fedc4fa968bbd",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Yan Cabral",
+            "winner": "Zak Cummings",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9a8fedc4fa968bbd"
+        },
+        {
+            "fight_id": "23e96ddeb14b5936",
+            "fighter_a": "Johnny Eduardo",
+            "fighter_b": "Eddie Wineland",
+            "winner": "Johnny Eduardo",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:37",
+            "fight_url": "http://ufcstats.com/fight-details/23e96ddeb14b5936"
+        },
+        {
+            "fight_id": "687b9b2c11667531",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Manvel Gamburyan",
+            "winner": "Nik Lentz",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/687b9b2c11667531"
+        },
+        {
+            "fight_id": "2b6c2cdccb2cc659",
+            "fighter_a": "Justin Salas",
+            "fighter_b": "Ben Wall",
+            "winner": "Justin Salas",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/2b6c2cdccb2cc659"
+        },
+        {
+            "fight_id": "d6e4d0d62a96a948",
+            "fighter_a": "Albert Tumenov",
+            "fighter_b": "Anthony Lapsley",
+            "winner": "Albert Tumenov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:56",
+            "fight_url": "http://ufcstats.com/fight-details/d6e4d0d62a96a948"
+        }
+    ]
+}

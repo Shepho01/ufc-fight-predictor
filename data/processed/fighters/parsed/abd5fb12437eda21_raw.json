@@ -1,0 +1,52 @@
+{
+    "fighter_id": "abd5fb12437eda21",
+    "name": "Ramazan Emeev",
+    "record": "20-6-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Southpaw",
+    "dob": "May 23, 1987",
+    "sig_strikes_landed_per_min": "2.53",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "2.14",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "2.37",
+    "takedown_accuracy": "29%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "f115a91066a77ee7",
+            "fight_url": "http://ufcstats.com/fight-details/f115a91066a77ee7"
+        },
+        {
+            "fight_id": "e3881a6895be3e9e",
+            "fight_url": "http://ufcstats.com/fight-details/e3881a6895be3e9e"
+        },
+        {
+            "fight_id": "3fcd53eb27945231",
+            "fight_url": "http://ufcstats.com/fight-details/3fcd53eb27945231"
+        },
+        {
+            "fight_id": "87daaa6db4f6940c",
+            "fight_url": "http://ufcstats.com/fight-details/87daaa6db4f6940c"
+        },
+        {
+            "fight_id": "1317d7cd79495a0e",
+            "fight_url": "http://ufcstats.com/fight-details/1317d7cd79495a0e"
+        },
+        {
+            "fight_id": "67f559403a6ec7cb",
+            "fight_url": "http://ufcstats.com/fight-details/67f559403a6ec7cb"
+        },
+        {
+            "fight_id": "53d6a7634c7fc036",
+            "fight_url": "http://ufcstats.com/fight-details/53d6a7634c7fc036"
+        },
+        {
+            "fight_id": "9da4e06a403f0d27",
+            "fight_url": "http://ufcstats.com/fight-details/9da4e06a403f0d27"
+        }
+    ]
+}

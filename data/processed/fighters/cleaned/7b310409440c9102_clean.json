@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7b310409440c9102",
+    "name": "Zhang Lipeng",
+    "wins": 23,
+    "losses": 9,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Southpaw",
+    "dob_day": 10,
+    "dob_month": 3,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 1.28,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 1.88,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 1.75,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.69,
+    "submission_attempts_per_15_min": 0.8
+}

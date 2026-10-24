@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "744f50016c39c26c",
+        "event_name": "UFC 262: Oliveira vs. Chandler",
+        "event_day": 15,
+        "event_month": 5,
+        "event_year": 2021,
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fef29aa73bd5b907",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Michael Chandler",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 19,
+            "fight_url": "http://ufcstats.com/fight-details/fef29aa73bd5b907"
+        },
+        {
+            "fight_id": "cfbaeb80b5ff7c00",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Tony Ferguson",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cfbaeb80b5ff7c00"
+        },
+        {
+            "fight_id": "969aa613824c5dfe",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Rogerio Bontorin",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/969aa613824c5dfe"
+        },
+        {
+            "fight_id": "8cb4e3f056a84b0d",
+            "fighter_a": "Katlyn Cerminara",
+            "fighter_b": "Viviane Araujo",
+            "winner": "Katlyn Cerminara",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8cb4e3f056a84b0d"
+        },
+        {
+            "fight_id": "6655a8da2655f2d0",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Shane Burgos",
+            "winner": "Edson Barboza",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 76,
+            "fight_url": "http://ufcstats.com/fight-details/6655a8da2655f2d0"
+        },
+        {
+            "fight_id": "ca22bafab913aae7",
+            "fighter_a": "Andre Muniz",
+            "fighter_b": "Jacare Souza",
+            "winner": "Andre Muniz",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 239,
+            "fight_url": "http://ufcstats.com/fight-details/ca22bafab913aae7"
+        },
+        {
+            "fight_id": "be2e28ba3bdeb400",
+            "fighter_a": "Lando Vannata",
+            "fighter_b": "Mike Grundy",
+            "winner": "Lando Vannata",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/be2e28ba3bdeb400"
+        },
+        {
+            "fight_id": "5573d46130d6b967",
+            "fighter_a": "Jordan Wright",
+            "fighter_b": "Jamie Pickett",
+            "winner": "Jordan Wright",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/5573d46130d6b967"
+        },
+        {
+            "fight_id": "2b894d87ad9aae05",
+            "fighter_a": "Andrea Lee",
+            "fighter_b": "Antonina Shevchenko",
+            "winner": "Andrea Lee",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Triangle Armbar",
+            "round": 2,
+            "time_seconds": 292,
+            "fight_url": "http://ufcstats.com/fight-details/2b894d87ad9aae05"
+        },
+        {
+            "fight_id": "bfd672cac0726a9a",
+            "fighter_a": "Priscila Cachoeira",
+            "fighter_b": "Gina Mazany",
+            "winner": "Priscila Cachoeira",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 291,
+            "fight_url": "http://ufcstats.com/fight-details/bfd672cac0726a9a"
+        },
+        {
+            "fight_id": "1f2f27b36e79da74",
+            "fighter_a": "Tucker Lutz",
+            "fighter_b": "Kevin Aguilar",
+            "winner": "Tucker Lutz",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1f2f27b36e79da74"
+        },
+        {
+            "fight_id": "de332779baa1b103",
+            "fighter_a": "Christos Giagos",
+            "fighter_b": "Sean Soriano",
+            "winner": "Christos Giagos",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": 2,
+            "time_seconds": 59,
+            "fight_url": "http://ufcstats.com/fight-details/de332779baa1b103"
+        }
+    ]
+}

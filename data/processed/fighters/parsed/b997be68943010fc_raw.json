@@ -1,0 +1,80 @@
+{
+    "fighter_id": "b997be68943010fc",
+    "name": "Geoff Neal",
+    "record": "16-8-0",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Aug 28, 1990",
+    "sig_strikes_landed_per_min": "5.02",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "5.50",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.54",
+    "takedown_accuracy": "45%",
+    "takedown_defense": "87%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "dd12bf51c5ed7f1e",
+            "fight_url": "http://ufcstats.com/fight-details/dd12bf51c5ed7f1e"
+        },
+        {
+            "fight_id": "42585ce706c086de",
+            "fight_url": "http://ufcstats.com/fight-details/42585ce706c086de"
+        },
+        {
+            "fight_id": "1d65c141776949d6",
+            "fight_url": "http://ufcstats.com/fight-details/1d65c141776949d6"
+        },
+        {
+            "fight_id": "8fb0092430448368",
+            "fight_url": "http://ufcstats.com/fight-details/8fb0092430448368"
+        },
+        {
+            "fight_id": "22fc6b3f4e48cfa3",
+            "fight_url": "http://ufcstats.com/fight-details/22fc6b3f4e48cfa3"
+        },
+        {
+            "fight_id": "a6b328733d610e2b",
+            "fight_url": "http://ufcstats.com/fight-details/a6b328733d610e2b"
+        },
+        {
+            "fight_id": "2d0d13dfc6c37ba8",
+            "fight_url": "http://ufcstats.com/fight-details/2d0d13dfc6c37ba8"
+        },
+        {
+            "fight_id": "178c4926223dca0c",
+            "fight_url": "http://ufcstats.com/fight-details/178c4926223dca0c"
+        },
+        {
+            "fight_id": "c7375d5db21cbaae",
+            "fight_url": "http://ufcstats.com/fight-details/c7375d5db21cbaae"
+        },
+        {
+            "fight_id": "ad5ef8d8678ff97f",
+            "fight_url": "http://ufcstats.com/fight-details/ad5ef8d8678ff97f"
+        },
+        {
+            "fight_id": "e186bd5e556f1b5e",
+            "fight_url": "http://ufcstats.com/fight-details/e186bd5e556f1b5e"
+        },
+        {
+            "fight_id": "2cc1fe3570999428",
+            "fight_url": "http://ufcstats.com/fight-details/2cc1fe3570999428"
+        },
+        {
+            "fight_id": "6caf9ebf42ddae2e",
+            "fight_url": "http://ufcstats.com/fight-details/6caf9ebf42ddae2e"
+        },
+        {
+            "fight_id": "4335683beee93652",
+            "fight_url": "http://ufcstats.com/fight-details/4335683beee93652"
+        },
+        {
+            "fight_id": "9d92dd4a6733d680",
+            "fight_url": "http://ufcstats.com/fight-details/9d92dd4a6733d680"
+        }
+    ]
+}

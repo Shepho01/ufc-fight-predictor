@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c46d51fb87a4f485",
+        "event_id": "cc5834a495d1ea08",
+        "event_name": "UFC 216: Ferguson vs. Lee",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "f9b200db02b488d9",
+        "name": "Lando Vannata",
+        "result": "D",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "104 of 232",
+            "Sig. str. %": "44%",
+            "Total str.": "111 of 239",
+            "Td": "4 of 5",
+            "Td %": "80%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "104 of 232",
+            "Sig. str. %": "44%",
+            "Head": "67 of 180",
+            "Body": "19 of 32",
+            "Leg": "18 of 20",
+            "Distance": "89 of 206",
+            "Clinch": "6 of 9",
+            "Ground": "9 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "D",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "93 of 232",
+            "Sig. str. %": "40%",
+            "Total str.": "104 of 246",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "93 of 232",
+            "Sig. str. %": "40%",
+            "Head": "66 of 195",
+            "Body": "15 of 22",
+            "Leg": "12 of 15",
+            "Distance": "74 of 210",
+            "Clinch": "19 of 22",
+            "Ground": "0 of 0"
+        }
+    }
+}

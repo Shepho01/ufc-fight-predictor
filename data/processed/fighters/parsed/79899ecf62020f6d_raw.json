@@ -1,0 +1,108 @@
+{
+    "fighter_id": "79899ecf62020f6d",
+    "name": "Joe Stevenson",
+    "record": "33-16-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jun 15, 1982",
+    "sig_strikes_landed_per_min": "2.05",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.44",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "2.75",
+    "takedown_accuracy": "44%",
+    "takedown_defense": "39%",
+    "submission_attempts_per_15_min": "2.2",
+    "fight_history": [
+        {
+            "fight_id": "4289bcb551b07bc1",
+            "fight_url": "http://ufcstats.com/fight-details/4289bcb551b07bc1"
+        },
+        {
+            "fight_id": "bbbb4c62c35f5390",
+            "fight_url": "http://ufcstats.com/fight-details/bbbb4c62c35f5390"
+        },
+        {
+            "fight_id": "ecc41acbd699812a",
+            "fight_url": "http://ufcstats.com/fight-details/ecc41acbd699812a"
+        },
+        {
+            "fight_id": "b4d624bdc27dff83",
+            "fight_url": "http://ufcstats.com/fight-details/b4d624bdc27dff83"
+        },
+        {
+            "fight_id": "1238f31a41b78528",
+            "fight_url": "http://ufcstats.com/fight-details/1238f31a41b78528"
+        },
+        {
+            "fight_id": "11871325db7a13ec",
+            "fight_url": "http://ufcstats.com/fight-details/11871325db7a13ec"
+        },
+        {
+            "fight_id": "56aac937d9f1d13a",
+            "fight_url": "http://ufcstats.com/fight-details/56aac937d9f1d13a"
+        },
+        {
+            "fight_id": "821c27f0dbb27e86",
+            "fight_url": "http://ufcstats.com/fight-details/821c27f0dbb27e86"
+        },
+        {
+            "fight_id": "51b0cc51799e7d5d",
+            "fight_url": "http://ufcstats.com/fight-details/51b0cc51799e7d5d"
+        },
+        {
+            "fight_id": "d98d5a3800cd21fb",
+            "fight_url": "http://ufcstats.com/fight-details/d98d5a3800cd21fb"
+        },
+        {
+            "fight_id": "f00b588a0d9a90e4",
+            "fight_url": "http://ufcstats.com/fight-details/f00b588a0d9a90e4"
+        },
+        {
+            "fight_id": "e9390cff6e5d52d0",
+            "fight_url": "http://ufcstats.com/fight-details/e9390cff6e5d52d0"
+        },
+        {
+            "fight_id": "e3d9bbea4c51dec4",
+            "fight_url": "http://ufcstats.com/fight-details/e3d9bbea4c51dec4"
+        },
+        {
+            "fight_id": "4000e1f32058796a",
+            "fight_url": "http://ufcstats.com/fight-details/4000e1f32058796a"
+        },
+        {
+            "fight_id": "d066287b31c871a6",
+            "fight_url": "http://ufcstats.com/fight-details/d066287b31c871a6"
+        },
+        {
+            "fight_id": "e364cd5772cfd27c",
+            "fight_url": "http://ufcstats.com/fight-details/e364cd5772cfd27c"
+        },
+        {
+            "fight_id": "5606cdf32577404f",
+            "fight_url": "http://ufcstats.com/fight-details/5606cdf32577404f"
+        },
+        {
+            "fight_id": "74f4debc34873601",
+            "fight_url": "http://ufcstats.com/fight-details/74f4debc34873601"
+        },
+        {
+            "fight_id": "010793ad35d686d5",
+            "fight_url": "http://ufcstats.com/fight-details/010793ad35d686d5"
+        },
+        {
+            "fight_id": "e8ec95cdef577733",
+            "fight_url": "http://ufcstats.com/fight-details/e8ec95cdef577733"
+        },
+        {
+            "fight_id": "d0d97f7c471c87ce",
+            "fight_url": "http://ufcstats.com/fight-details/d0d97f7c471c87ce"
+        },
+        {
+            "fight_id": "31a648a4e311a248",
+            "fight_url": "http://ufcstats.com/fight-details/31a648a4e311a248"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "047d6739aa1d5c1e",
+        "event_id": "c0342805a1948cbb",
+        "event_name": "UFC Fight Night: Gaethje vs. Vick",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Blake Grice",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "60 of 136",
+            "Sig. str. %": "44%",
+            "Total str.": "122 of 208",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "60 of 136",
+            "Sig. str. %": "44%",
+            "Head": "42 of 111",
+            "Body": "9 of 13",
+            "Leg": "9 of 12",
+            "Distance": "36 of 108",
+            "Clinch": "3 of 3",
+            "Ground": "21 of 25"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "53ec9cb470e1a4ea",
+        "name": "Jon Tuck",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 75",
+            "Sig. str. %": "44%",
+            "Total str.": "39 of 81",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 75",
+            "Sig. str. %": "44%",
+            "Head": "16 of 53",
+            "Body": "10 of 15",
+            "Leg": "7 of 7",
+            "Distance": "29 of 68",
+            "Clinch": "1 of 2",
+            "Ground": "3 of 5"
+        }
+    }
+}

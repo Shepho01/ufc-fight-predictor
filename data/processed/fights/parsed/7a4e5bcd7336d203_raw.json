@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7a4e5bcd7336d203",
+        "event_id": "c3c23c99477c041b",
+        "event_name": "UFC on FOX: Evans vs Davis",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:43",
+        "referee": "John McCarthy",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 12",
+            "Sig. str. %": "50%",
+            "Total str.": "7 of 13",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 12",
+            "Sig. str. %": "50%",
+            "Head": "2 of 6",
+            "Body": "1 of 2",
+            "Leg": "3 of 4",
+            "Distance": "3 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "53f84637dfffab7a",
+        "name": "Eric Wisely",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 4",
+            "Sig. str. %": "50%",
+            "Total str.": "3 of 5",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 4",
+            "Sig. str. %": "50%",
+            "Head": "0 of 1",
+            "Body": "1 of 2",
+            "Leg": "1 of 1",
+            "Distance": "2 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

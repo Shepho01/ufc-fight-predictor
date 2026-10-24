@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "231968c02cdfe65e",
+        "event_id": "ca936c67687789e9",
+        "event_name": "UFC 313: Pereira vs. Ankalaev",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:07",
+        "referee": "Chris Tognoni",
+        "winner_id": "9c393e836a852f30"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 15",
+            "Sig. str. %": "26%",
+            "Total str.": "4 of 15",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 15",
+            "Sig. str. %": "26%",
+            "Head": "1 of 7",
+            "Body": "1 of 3",
+            "Leg": "2 of 5",
+            "Distance": "4 of 15",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9c393e836a852f30",
+        "name": "Mauricio Ruffy",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "4 of 9",
+            "Sig. str. %": "44%",
+            "Total str.": "4 of 9",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 9",
+            "Sig. str. %": "44%",
+            "Head": "4 of 7",
+            "Body": "0 of 0",
+            "Leg": "0 of 2",
+            "Distance": "4 of 9",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

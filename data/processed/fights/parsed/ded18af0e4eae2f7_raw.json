@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ded18af0e4eae2f7",
+        "event_id": "e8efeb9cf33b1941",
+        "event_name": "UFC 148: Silva vs Sonnen 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "032cc3922d871c7f"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 87",
+            "Sig. str. %": "32%",
+            "Total str.": "46 of 110",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 87",
+            "Sig. str. %": "32%",
+            "Head": "15 of 70",
+            "Body": "13 of 17",
+            "Leg": "0 of 0",
+            "Distance": "19 of 78",
+            "Clinch": "9 of 9",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "032cc3922d871c7f",
+        "name": "Khabib Nurmagomedov",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 101",
+            "Sig. str. %": "24%",
+            "Total str.": "33 of 112",
+            "Td": "0 of 13",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 101",
+            "Sig. str. %": "24%",
+            "Head": "13 of 82",
+            "Body": "7 of 12",
+            "Leg": "5 of 7",
+            "Distance": "15 of 89",
+            "Clinch": "10 of 12",
+            "Ground": "0 of 0"
+        }
+    }
+}

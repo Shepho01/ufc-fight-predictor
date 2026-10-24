@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "302ce74d8b0d12a6",
+        "event_id": "56f4b81ec4db61af",
+        "event_name": "UFC on FX: Belfort vs Bisping",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "3a24769a4855040a",
+        "name": "Diego Nunes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 32",
+            "Sig. str. %": "56%",
+            "Total str.": "19 of 33",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 32",
+            "Sig. str. %": "56%",
+            "Head": "12 of 24",
+            "Body": "4 of 6",
+            "Leg": "2 of 2",
+            "Distance": "13 of 25",
+            "Clinch": "3 of 5",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 74",
+            "Sig. str. %": "75%",
+            "Total str.": "205 of 234",
+            "Td": "10 of 21",
+            "Td %": "47%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "12:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 74",
+            "Sig. str. %": "75%",
+            "Head": "34 of 51",
+            "Body": "7 of 7",
+            "Leg": "15 of 16",
+            "Distance": "9 of 21",
+            "Clinch": "16 of 17",
+            "Ground": "31 of 36"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "fighter_id": "7413b80dbb0f8f9f",
+    "name": "Lucas Martins",
+    "record": "19-3-0",
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Nov 11, 1988",
+    "sig_strikes_landed_per_min": "2.87",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "4.14",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "42afd8c4fc85f485",
+            "fight_url": "http://ufcstats.com/fight-details/42afd8c4fc85f485"
+        },
+        {
+            "fight_id": "e54fe354981fe3e7",
+            "fight_url": "http://ufcstats.com/fight-details/e54fe354981fe3e7"
+        },
+        {
+            "fight_id": "ffd3e3d37cba32da",
+            "fight_url": "http://ufcstats.com/fight-details/ffd3e3d37cba32da"
+        },
+        {
+            "fight_id": "0dff8509f6a861f1",
+            "fight_url": "http://ufcstats.com/fight-details/0dff8509f6a861f1"
+        },
+        {
+            "fight_id": "b8e1a9db956e245b",
+            "fight_url": "http://ufcstats.com/fight-details/b8e1a9db956e245b"
+        },
+        {
+            "fight_id": "eacfc05c3e5ead5e",
+            "fight_url": "http://ufcstats.com/fight-details/eacfc05c3e5ead5e"
+        },
+        {
+            "fight_id": "470f6fdd47f671fd",
+            "fight_url": "http://ufcstats.com/fight-details/470f6fdd47f671fd"
+        }
+    ]
+}

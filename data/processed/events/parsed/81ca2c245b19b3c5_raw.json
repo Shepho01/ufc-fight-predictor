@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "81ca2c245b19b3c5",
+        "event_name": "UFC Fight Night: Blachowicz vs. Jacare",
+        "event_date": "November 16, 2019",
+        "location": "Sao Paulo, Sao Paulo, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "c04274c8caa505dd",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Jacare Souza",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c04274c8caa505dd"
+        },
+        {
+            "fight_id": "c63edd25d2201a46",
+            "fighter_a": "Mauricio Rua",
+            "fighter_b": "Paul Craig",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c63edd25d2201a46"
+        },
+        {
+            "fight_id": "7afe2a15ae7359e9",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Jared Gordon",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/7afe2a15ae7359e9"
+        },
+        {
+            "fight_id": "57b111b54a2d2323",
+            "fighter_a": "Andre Muniz",
+            "fighter_b": "Antonio Arroyo",
+            "winner": "Andre Muniz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/57b111b54a2d2323"
+        },
+        {
+            "fight_id": "9e1ecdb9a8856a8c",
+            "fighter_a": "Wellington Turman",
+            "fighter_b": "Markus Perez",
+            "winner": "Wellington Turman",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9e1ecdb9a8856a8c"
+        },
+        {
+            "fight_id": "aa232e53d285cc6d",
+            "fighter_a": "James Krause",
+            "fighter_b": "Sergio Moraes",
+            "winner": "James Krause",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "4:19",
+            "fight_url": "http://ufcstats.com/fight-details/aa232e53d285cc6d"
+        },
+        {
+            "fight_id": "094790e50afae55e",
+            "fighter_a": "Ricardo Ramos",
+            "fighter_b": "Eduardo Garagorri",
+            "winner": "Ricardo Ramos",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:57",
+            "fight_url": "http://ufcstats.com/fight-details/094790e50afae55e"
+        },
+        {
+            "fight_id": "22307b580e0c8d0d",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "King Green",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/22307b580e0c8d0d"
+        },
+        {
+            "fight_id": "e6a0f19af995c432",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Warlley Alves",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "1:22",
+            "fight_url": "http://ufcstats.com/fight-details/e6a0f19af995c432"
+        },
+        {
+            "fight_id": "80ce8f7d988d5e57",
+            "fighter_a": "Douglas Silva de Andrade",
+            "fighter_b": "Renan Barao",
+            "winner": "Douglas Silva de Andrade",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/80ce8f7d988d5e57"
+        },
+        {
+            "fight_id": "1800ffbb34ac7ed8",
+            "fighter_a": "Ariane da Silva",
+            "fighter_b": "Isabela de Padua",
+            "winner": "Ariane da Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1800ffbb34ac7ed8"
+        },
+        {
+            "fight_id": "18e1b0df8da7010e",
+            "fighter_a": "Tracy Cortez",
+            "fighter_b": "Vanessa Melo",
+            "winner": "Tracy Cortez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/18e1b0df8da7010e"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "92c96df8bdab5fea",
+        "event_name": "UFC Fight Night: Tsarukyan vs. Hooker",
+        "event_date": "November 22, 2025",
+        "location": "Doha, Qatar"
+    },
+    "fights": [
+        {
+            "fight_id": "5f5b626e67529056",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Dan Hooker",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:34",
+            "fight_url": "http://ufcstats.com/fight-details/5f5b626e67529056"
+        },
+        {
+            "fight_id": "b2218930b982d9b6",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Belal Muhammad",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b2218930b982d9b6"
+        },
+        {
+            "fight_id": "870d374f8d9af65a",
+            "fighter_a": "Volkan Oezdemir",
+            "fighter_b": "Alonzo Menifield",
+            "winner": "Volkan Oezdemir",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:27",
+            "fight_url": "http://ufcstats.com/fight-details/870d374f8d9af65a"
+        },
+        {
+            "fight_id": "8ed609d80e135d94",
+            "fighter_a": "Myktybek Orolbai",
+            "fighter_b": "Jack Hermansson",
+            "winner": "Myktybek Orolbai",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:46",
+            "fight_url": "http://ufcstats.com/fight-details/8ed609d80e135d94"
+        },
+        {
+            "fight_id": "e8307c7686c42d8c",
+            "fighter_a": "Waldo Cortes Acosta",
+            "fighter_b": "Shamil Gaziev",
+            "winner": "Waldo Cortes Acosta",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:22",
+            "fight_url": "http://ufcstats.com/fight-details/e8307c7686c42d8c"
+        },
+        {
+            "fight_id": "00ee51bba08b7a08",
+            "fighter_a": "Kyoji Horiguchi",
+            "fighter_b": "Tagir Ulanbekov",
+            "winner": "Kyoji Horiguchi",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/00ee51bba08b7a08"
+        },
+        {
+            "fight_id": "5e6a74db89f5410c",
+            "fighter_a": "Luke Riley",
+            "fighter_b": "Bogdan Grad",
+            "winner": "Luke Riley",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:30",
+            "fight_url": "http://ufcstats.com/fight-details/5e6a74db89f5410c"
+        },
+        {
+            "fight_id": "c49485cedb878cf0",
+            "fighter_a": "Nicolas Dalby",
+            "fighter_b": "Saygid Izagakhmaev",
+            "winner": "Nicolas Dalby",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c49485cedb878cf0"
+        },
+        {
+            "fight_id": "443f30a4a856584a",
+            "fighter_a": "Asu Almabayev",
+            "fighter_b": "Alex Perez",
+            "winner": "Asu Almabayev",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "0:22",
+            "fight_url": "http://ufcstats.com/fight-details/443f30a4a856584a"
+        },
+        {
+            "fight_id": "f5564a9eeebd4ea0",
+            "fighter_a": "Abdul Rakhman Yakhyaev",
+            "fighter_b": "Rafael Cerqueira",
+            "winner": "Abdul Rakhman Yakhyaev",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "0:33",
+            "fight_url": "http://ufcstats.com/fight-details/f5564a9eeebd4ea0"
+        },
+        {
+            "fight_id": "6f0231915cc28507",
+            "fighter_a": "Aleksandre Topuria",
+            "fighter_b": "Bekzat Almakhan",
+            "winner": "Aleksandre Topuria",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6f0231915cc28507"
+        },
+        {
+            "fight_id": "335064c3380e2f10",
+            "fighter_a": "Ismail Naurdiev",
+            "fighter_b": "Ryan Loder",
+            "winner": "Ismail Naurdiev",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/335064c3380e2f10"
+        },
+        {
+            "fight_id": "46f81d5ecd974c1c",
+            "fighter_a": "Nurullo Aliev",
+            "fighter_b": "Shem Rock",
+            "winner": "Nurullo Aliev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/46f81d5ecd974c1c"
+        },
+        {
+            "fight_id": "9027e156c6f1988a",
+            "fighter_a": "Denzel Freeman",
+            "fighter_b": "Marek Bujlo",
+            "winner": "Denzel Freeman",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9027e156c6f1988a"
+        }
+    ]
+}

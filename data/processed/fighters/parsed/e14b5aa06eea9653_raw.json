@@ -1,0 +1,64 @@
+{
+    "fighter_id": "e14b5aa06eea9653",
+    "name": "Abel Trujillo",
+    "record": "15-8-0 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 18, 1983",
+    "sig_strikes_landed_per_min": "2.65",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.31",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "2.18",
+    "takedown_accuracy": "45%",
+    "takedown_defense": "40%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "9a1a57b0abcd4599",
+            "fight_url": "http://ufcstats.com/fight-details/9a1a57b0abcd4599"
+        },
+        {
+            "fight_id": "94cecf4bd29793e1",
+            "fight_url": "http://ufcstats.com/fight-details/94cecf4bd29793e1"
+        },
+        {
+            "fight_id": "f457d55f78d581f9",
+            "fight_url": "http://ufcstats.com/fight-details/f457d55f78d581f9"
+        },
+        {
+            "fight_id": "5337461354f23b98",
+            "fight_url": "http://ufcstats.com/fight-details/5337461354f23b98"
+        },
+        {
+            "fight_id": "37c732554828dcc3",
+            "fight_url": "http://ufcstats.com/fight-details/37c732554828dcc3"
+        },
+        {
+            "fight_id": "7e8f4240725316a4",
+            "fight_url": "http://ufcstats.com/fight-details/7e8f4240725316a4"
+        },
+        {
+            "fight_id": "fe936088ec4dcb0d",
+            "fight_url": "http://ufcstats.com/fight-details/fe936088ec4dcb0d"
+        },
+        {
+            "fight_id": "4618dcef2dc6250f",
+            "fight_url": "http://ufcstats.com/fight-details/4618dcef2dc6250f"
+        },
+        {
+            "fight_id": "6b30fe49b6df63de",
+            "fight_url": "http://ufcstats.com/fight-details/6b30fe49b6df63de"
+        },
+        {
+            "fight_id": "e1d33aa47b35d021",
+            "fight_url": "http://ufcstats.com/fight-details/e1d33aa47b35d021"
+        },
+        {
+            "fight_id": "ed8944898353b526",
+            "fight_url": "http://ufcstats.com/fight-details/ed8944898353b526"
+        }
+    ]
+}

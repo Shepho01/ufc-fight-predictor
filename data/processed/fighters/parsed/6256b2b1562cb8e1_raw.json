@@ -1,0 +1,76 @@
+{
+    "fighter_id": "6256b2b1562cb8e1",
+    "name": "James Vick",
+    "record": "13-5-0",
+    "height": "6' 3\"",
+    "weight": "155 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 23, 1987",
+    "sig_strikes_landed_per_min": "4.13",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.31",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "0.26",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "f3169b755afcdc5b",
+            "fight_url": "http://ufcstats.com/fight-details/f3169b755afcdc5b"
+        },
+        {
+            "fight_id": "9d6b46a3cf5ec494",
+            "fight_url": "http://ufcstats.com/fight-details/9d6b46a3cf5ec494"
+        },
+        {
+            "fight_id": "a212e4c197983ad1",
+            "fight_url": "http://ufcstats.com/fight-details/a212e4c197983ad1"
+        },
+        {
+            "fight_id": "d6f6ac29008509db",
+            "fight_url": "http://ufcstats.com/fight-details/d6f6ac29008509db"
+        },
+        {
+            "fight_id": "6ae96d1de3bb0506",
+            "fight_url": "http://ufcstats.com/fight-details/6ae96d1de3bb0506"
+        },
+        {
+            "fight_id": "13635ba71963ad0c",
+            "fight_url": "http://ufcstats.com/fight-details/13635ba71963ad0c"
+        },
+        {
+            "fight_id": "567cefcaba821205",
+            "fight_url": "http://ufcstats.com/fight-details/567cefcaba821205"
+        },
+        {
+            "fight_id": "94cecf4bd29793e1",
+            "fight_url": "http://ufcstats.com/fight-details/94cecf4bd29793e1"
+        },
+        {
+            "fight_id": "2c65d5d20cc893e4",
+            "fight_url": "http://ufcstats.com/fight-details/2c65d5d20cc893e4"
+        },
+        {
+            "fight_id": "f519753cc38362d0",
+            "fight_url": "http://ufcstats.com/fight-details/f519753cc38362d0"
+        },
+        {
+            "fight_id": "418b6f692abe9e35",
+            "fight_url": "http://ufcstats.com/fight-details/418b6f692abe9e35"
+        },
+        {
+            "fight_id": "e947baa4cad609d0",
+            "fight_url": "http://ufcstats.com/fight-details/e947baa4cad609d0"
+        },
+        {
+            "fight_id": "20f0129fc4861674",
+            "fight_url": "http://ufcstats.com/fight-details/20f0129fc4861674"
+        },
+        {
+            "fight_id": "f12126b5c49a318a",
+            "fight_url": "http://ufcstats.com/fight-details/f12126b5c49a318a"
+        }
+    ]
+}

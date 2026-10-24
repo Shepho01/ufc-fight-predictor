@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "84283233ec42be5f",
+        "event_name": "UFC Fight Night: Assuncao vs. Moraes 2",
+        "event_date": "February 02, 2019",
+        "location": "Fortaleza, Ceara, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "4e8b2357fea211e9",
+            "fighter_a": "Marlon Moraes",
+            "fighter_b": "Raphael Assuncao",
+            "winner": "Marlon Moraes",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "3:17",
+            "fight_url": "http://ufcstats.com/fight-details/4e8b2357fea211e9"
+        },
+        {
+            "fight_id": "300f1489174a3ece",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Renato Moicano",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:44",
+            "fight_url": "http://ufcstats.com/fight-details/300f1489174a3ece"
+        },
+        {
+            "fight_id": "ce246b336b6bd638",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Lyman Good",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/ce246b336b6bd638"
+        },
+        {
+            "fight_id": "85036b967403cdab",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "David Teymur",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Anaconda Choke",
+            "round": "2",
+            "time": "0:55",
+            "fight_url": "http://ufcstats.com/fight-details/85036b967403cdab"
+        },
+        {
+            "fight_id": "44cfd4330eb6e2bf",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Justin Ledet",
+            "winner": "Johnny Walker",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": "1",
+            "time": "0:15",
+            "fight_url": "http://ufcstats.com/fight-details/44cfd4330eb6e2bf"
+        },
+        {
+            "fight_id": "53abea410a0541c8",
+            "fighter_a": "Livinha Souza",
+            "fighter_b": "Sarah Frota",
+            "winner": "Livinha Souza",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/53abea410a0541c8"
+        },
+        {
+            "fight_id": "ebb685a81f65ce1b",
+            "fighter_a": "Markus Perez",
+            "fighter_b": "Anthony Hernandez",
+            "winner": "Markus Perez",
+            "weight_class": "Middleweight",
+            "method": "SUB Anaconda Choke",
+            "round": "2",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/ebb685a81f65ce1b"
+        },
+        {
+            "fight_id": "904e0e46392dff93",
+            "fighter_a": "Mara Romero Borella",
+            "fighter_b": "Taila Santos",
+            "winner": "Mara Romero Borella",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/904e0e46392dff93"
+        },
+        {
+            "fight_id": "59097097bc09cdef",
+            "fighter_a": "Thiago Alves",
+            "fighter_b": "Max Griffin",
+            "winner": "Thiago Alves",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/59097097bc09cdef"
+        },
+        {
+            "fight_id": "491b7d974254596d",
+            "fighter_a": "Jairzinho Rozenstruik",
+            "fighter_b": "Junior Albini",
+            "winner": "Jairzinho Rozenstruik",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/491b7d974254596d"
+        },
+        {
+            "fight_id": "818456a713fdabe6",
+            "fighter_a": "Geraldo de Freitas",
+            "fighter_b": "Felipe Colares",
+            "winner": "Geraldo de Freitas",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/818456a713fdabe6"
+        },
+        {
+            "fight_id": "9192053a3884aadf",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Ricardo Ramos",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": "1",
+            "time": "2:28",
+            "fight_url": "http://ufcstats.com/fight-details/9192053a3884aadf"
+        },
+        {
+            "fight_id": "8f8a6c578308d014",
+            "fighter_a": "Rogerio Bontorin",
+            "fighter_b": "Magomed Bibulatov",
+            "winner": "Rogerio Bontorin",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8f8a6c578308d014"
+        }
+    ]
+}

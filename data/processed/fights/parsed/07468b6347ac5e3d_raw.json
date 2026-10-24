@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "07468b6347ac5e3d",
+        "event_id": "8a0be41c0380188d",
+        "event_name": "UFC 264: Poirier vs. McGregor 3",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:47",
+        "referee": "Jason Herzog",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "8866c6f509c19089",
+        "name": "Ryan Hall",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 17",
+            "Sig. str. %": "58%",
+            "Total str.": "13 of 21",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 17",
+            "Sig. str. %": "58%",
+            "Head": "2 of 7",
+            "Body": "4 of 5",
+            "Leg": "4 of 5",
+            "Distance": "9 of 16",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 32",
+            "Sig. str. %": "56%",
+            "Total str.": "18 of 32",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 32",
+            "Sig. str. %": "56%",
+            "Head": "11 of 24",
+            "Body": "2 of 2",
+            "Leg": "5 of 6",
+            "Distance": "3 of 8",
+            "Clinch": "0 of 0",
+            "Ground": "15 of 24"
+        }
+    }
+}

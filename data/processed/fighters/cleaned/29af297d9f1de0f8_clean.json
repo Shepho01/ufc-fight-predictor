@@ -1,0 +1,23 @@
+{
+    "fighter_id": "29af297d9f1de0f8",
+    "name": "Damon Jackson",
+    "wins": 23,
+    "losses": 8,
+    "draws": 1,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Switch",
+    "dob_day": 8,
+    "dob_month": 8,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 2.96,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.47,
+    "sig_strike_defense": 0.49,
+    "takedowns_landed_per_15_min": 2.3,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 0.37,
+    "submission_attempts_per_15_min": 1.2
+}

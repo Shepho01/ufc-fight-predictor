@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "495add4fbede0a44",
+        "event_name": "UFC Fight Night: Gamrot vs. Salkilld",
+        "event_date": "August 08, 2026",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a10deecfb8558335",
+            "fighter_a": "Quillan Salkilld",
+            "fighter_b": "Mateusz Gamrot",
+            "winner": "Quillan Salkilld",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:25",
+            "fight_url": "http://ufcstats.com/fight-details/a10deecfb8558335"
+        },
+        {
+            "fight_id": "d5245f5b96b8afdf",
+            "fighter_a": "Diego Ferreira",
+            "fighter_b": "Billy Quarantillo",
+            "winner": "Diego Ferreira",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d5245f5b96b8afdf"
+        },
+        {
+            "fight_id": "06bfde3e3577906f",
+            "fighter_a": "Yadier del Valle",
+            "fighter_b": "Darren Elkins",
+            "winner": "Yadier del Valle",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:35",
+            "fight_url": "http://ufcstats.com/fight-details/06bfde3e3577906f"
+        },
+        {
+            "fight_id": "13f31f7a784013a3",
+            "fighter_a": "Alexia Thainara",
+            "fighter_b": "Amanda Lemos",
+            "winner": "Alexia Thainara",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/13f31f7a784013a3"
+        },
+        {
+            "fight_id": "f44ab9e9e4a89735",
+            "fighter_a": "Ty Miller",
+            "fighter_b": "Billy Ray Goff",
+            "winner": "Ty Miller",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "0:15",
+            "fight_url": "http://ufcstats.com/fight-details/f44ab9e9e4a89735"
+        },
+        {
+            "fight_id": "3050549d19395f6f",
+            "fighter_a": "Steven Asplund",
+            "fighter_b": "Guilherme Pat",
+            "winner": "Steven Asplund",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3050549d19395f6f"
+        },
+        {
+            "fight_id": "13380a8d6cdbb381",
+            "fighter_a": "Diyar Nurgozhay",
+            "fighter_b": "Bruno Lopes",
+            "winner": "Diyar Nurgozhay",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/13380a8d6cdbb381"
+        },
+        {
+            "fight_id": "64829a32c78ab656",
+            "fighter_a": "Jose Montanha",
+            "fighter_b": "Louie Sutherland",
+            "winner": "Jose Montanha",
+            "weight_class": "Heavyweight",
+            "method": "SUB Neck Crank",
+            "round": "1",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/64829a32c78ab656"
+        },
+        {
+            "fight_id": "81ae2a465e0dfa4f",
+            "fighter_a": "Manoel Sousa",
+            "fighter_b": "Richie Miranda",
+            "winner": "Manoel Sousa",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/81ae2a465e0dfa4f"
+        },
+        {
+            "fight_id": "1168a8e59aacfd72",
+            "fighter_a": "Miles Johns",
+            "fighter_b": "Gianni Vazquez",
+            "winner": "Miles Johns",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:09",
+            "fight_url": "http://ufcstats.com/fight-details/1168a8e59aacfd72"
+        },
+        {
+            "fight_id": "d463229133909215",
+            "fighter_a": "Juliana Miller",
+            "fighter_b": "Ravena Oliveira",
+            "winner": "Juliana Miller",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/d463229133909215"
+        },
+        {
+            "fight_id": "ded584e13276cbcb",
+            "fighter_a": "Carol Foro",
+            "fighter_b": "Gigi Canuto",
+            "winner": "Carol Foro",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ded584e13276cbcb"
+        }
+    ]
+}

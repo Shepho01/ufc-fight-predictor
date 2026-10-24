@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a661c0bee7c8d5af",
+        "event_id": "c3ac8d0da7b05772",
+        "event_name": "UFC Fight Night: Burns vs. Malott",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "b2a78df161bd67f9"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "45 of 101",
+            "Sig. str. %": "44%",
+            "Total str.": "46 of 103",
+            "Td": "2 of 15",
+            "Td %": "13%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 101",
+            "Sig. str. %": "44%",
+            "Head": "34 of 81",
+            "Body": "1 of 3",
+            "Leg": "10 of 17",
+            "Distance": "42 of 97",
+            "Clinch": "2 of 3",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b2a78df161bd67f9",
+        "name": "Gauge Young",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "122 of 226",
+            "Sig. str. %": "53%",
+            "Total str.": "131 of 237",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "122 of 226",
+            "Sig. str. %": "53%",
+            "Head": "62 of 157",
+            "Body": "27 of 34",
+            "Leg": "33 of 35",
+            "Distance": "114 of 211",
+            "Clinch": "2 of 2",
+            "Ground": "6 of 13"
+        }
+    }
+}

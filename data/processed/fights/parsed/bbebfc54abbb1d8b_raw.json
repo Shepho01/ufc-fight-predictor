@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bbebfc54abbb1d8b",
+        "event_id": "16d09e800ad7ec79",
+        "event_name": "UFC Fight Night: Mendes vs Lamas",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:45",
+        "referee": "Dan Miragliotta",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "27 of 32",
+            "Sig. str. %": "84%",
+            "Total str.": "32 of 37",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 32",
+            "Sig. str. %": "84%",
+            "Head": "24 of 28",
+            "Body": "0 of 0",
+            "Leg": "3 of 4",
+            "Distance": "5 of 7",
+            "Clinch": "5 of 7",
+            "Ground": "17 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "3974fa35c917af1d",
+        "name": "Ricardo Lamas",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 22",
+            "Sig. str. %": "36%",
+            "Total str.": "8 of 22",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 22",
+            "Sig. str. %": "36%",
+            "Head": "2 of 16",
+            "Body": "0 of 0",
+            "Leg": "6 of 6",
+            "Distance": "8 of 22",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

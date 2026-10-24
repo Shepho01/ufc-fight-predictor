@@ -1,0 +1,36 @@
+{
+    "fighter_id": "f59e9e49ef85b469",
+    "name": "Jason Young",
+    "record": "9-6-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jun 28, 1986",
+    "sig_strikes_landed_per_min": "2.97",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "3.20",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.98",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "e0a69c1f4a019727",
+            "fight_url": "http://ufcstats.com/fight-details/e0a69c1f4a019727"
+        },
+        {
+            "fight_id": "0890d21317c9aa2d",
+            "fight_url": "http://ufcstats.com/fight-details/0890d21317c9aa2d"
+        },
+        {
+            "fight_id": "77862f580ce9bca8",
+            "fight_url": "http://ufcstats.com/fight-details/77862f580ce9bca8"
+        },
+        {
+            "fight_id": "b3a0fc0a945a31f7",
+            "fight_url": "http://ufcstats.com/fight-details/b3a0fc0a945a31f7"
+        }
+    ]
+}

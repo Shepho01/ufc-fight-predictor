@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "989760fa75321d69",
+        "event_id": "fccb0fee256b7b4d",
+        "event_name": "UFC 329: McGregor vs. Holloway 2",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:09",
+        "referee": "Mike Beltran",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "f4c49976c75c5ab2",
+        "name": "Conor McGregor",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 6",
+            "Sig. str. %": "0%",
+            "Total str.": "5 of 11",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 6",
+            "Sig. str. %": "0%",
+            "Head": "0 of 6",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 5",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 19",
+            "Sig. str. %": "63%",
+            "Total str.": "14 of 22",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 19",
+            "Sig. str. %": "63%",
+            "Head": "8 of 15",
+            "Body": "0 of 0",
+            "Leg": "4 of 4",
+            "Distance": "5 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "7 of 13"
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "c32eab6c2119e989",
+        "event_name": "UFC Fight Night: Poirier vs. Hooker",
+        "event_date": "June 27, 2020",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f8dd1e75978a3957",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Dan Hooker",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f8dd1e75978a3957"
+        },
+        {
+            "fight_id": "f2d9814936a6eb35",
+            "fighter_a": "Mike Perry",
+            "fighter_b": "Mickey Gall",
+            "winner": "Mike Perry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f2d9814936a6eb35"
+        },
+        {
+            "fight_id": "9ce56acac775d386",
+            "fighter_a": "Maurice Greene",
+            "fighter_b": "Gian Villante",
+            "winner": "Maurice Greene",
+            "weight_class": "Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:44",
+            "fight_url": "http://ufcstats.com/fight-details/9ce56acac775d386"
+        },
+        {
+            "fight_id": "cfd47fddbb705f26",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Kyle Daukaus",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/cfd47fddbb705f26"
+        },
+        {
+            "fight_id": "67ed3ad521ef619c",
+            "fighter_a": "Takashi Sato",
+            "fighter_b": "Jason Witt",
+            "winner": "Takashi Sato",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:48",
+            "fight_url": "http://ufcstats.com/fight-details/67ed3ad521ef619c"
+        },
+        {
+            "fight_id": "8a8fea2c10512434",
+            "fighter_a": "Julian Erosa",
+            "fighter_b": "Sean Woodson",
+            "winner": "Julian Erosa",
+            "weight_class": "Catch Weight",
+            "method": "SUB D'Arce Choke",
+            "round": "3",
+            "time": "2:44",
+            "fight_url": "http://ufcstats.com/fight-details/8a8fea2c10512434"
+        },
+        {
+            "fight_id": "9025e3c6b6d71253",
+            "fighter_a": "Khama Worthy",
+            "fighter_b": "Luis Pena",
+            "winner": "Khama Worthy",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "2:53",
+            "fight_url": "http://ufcstats.com/fight-details/9025e3c6b6d71253"
+        },
+        {
+            "fight_id": "75570ea2da94a4fb",
+            "fighter_a": "Tanner Boser",
+            "fighter_b": "Philipe Lins",
+            "winner": "Tanner Boser",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/75570ea2da94a4fb"
+        },
+        {
+            "fight_id": "1b8d366ac0f110f3",
+            "fighter_a": "Kay Hansen",
+            "fighter_b": "Jinh Yu Frey",
+            "winner": "Kay Hansen",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": "3",
+            "time": "2:26",
+            "fight_url": "http://ufcstats.com/fight-details/1b8d366ac0f110f3"
+        },
+        {
+            "fight_id": "0f369d09416b9e34",
+            "fighter_a": "Youssef Zalal",
+            "fighter_b": "Jordan Griffin",
+            "winner": "Youssef Zalal",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f369d09416b9e34"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "4c27ca8c8481f79a",
+        "event_name": "UFC Fight Night: Smith vs. Spann",
+        "event_day": 18,
+        "event_month": 9,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d1621b3da377f34b",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Ryan Spann",
+            "winner": "Anthony Smith",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 227,
+            "fight_url": "http://ufcstats.com/fight-details/d1621b3da377f34b"
+        },
+        {
+            "fight_id": "4b5f9b7c31d1205d",
+            "fighter_a": "Ion Cutelaba",
+            "fighter_b": "Devin Clark",
+            "winner": "Ion Cutelaba",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4b5f9b7c31d1205d"
+        },
+        {
+            "fight_id": "ceaf7ed5ade30d9f",
+            "fighter_a": "Ariane da Silva",
+            "fighter_b": "Mandy Bohm",
+            "winner": "Ariane da Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ceaf7ed5ade30d9f"
+        },
+        {
+            "fight_id": "13a8ddb1c3f55ed4",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Christos Giagos",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 129,
+            "fight_url": "http://ufcstats.com/fight-details/13a8ddb1c3f55ed4"
+        },
+        {
+            "fight_id": "576b795e33ddd62d",
+            "fighter_a": "Nate Maness",
+            "fighter_b": "Tony Gravely",
+            "winner": "Nate Maness",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/576b795e33ddd62d"
+        },
+        {
+            "fight_id": "401f5f4714132d50",
+            "fighter_a": "Joaquin Buckley",
+            "fighter_b": "Antonio Arroyo",
+            "winner": "Joaquin Buckley",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 146,
+            "fight_url": "http://ufcstats.com/fight-details/401f5f4714132d50"
+        },
+        {
+            "fight_id": "d06495deb1ff1750",
+            "fighter_a": "Tafon Nchukwi",
+            "fighter_b": "Mike Rodriguez",
+            "winner": "Tafon Nchukwi",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d06495deb1ff1750"
+        },
+        {
+            "fight_id": "2d42742aade53799",
+            "fighter_a": "Raquel Pennington",
+            "fighter_b": "Pannie Kianzad",
+            "winner": "Raquel Pennington",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d42742aade53799"
+        },
+        {
+            "fight_id": "85e5498808346d6b",
+            "fighter_a": "Rongzhu",
+            "fighter_b": "Brandon Jenkins",
+            "winner": "Rongzhu",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 275,
+            "fight_url": "http://ufcstats.com/fight-details/85e5498808346d6b"
+        },
+        {
+            "fight_id": "dc870fab1e0f15e1",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "JP Buys",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dc870fab1e0f15e1"
+        },
+        {
+            "fight_id": "0ce63c2148e70b4c",
+            "fighter_a": "Erin Blanchfield",
+            "fighter_b": "Sarah Alpar",
+            "winner": "Erin Blanchfield",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0ce63c2148e70b4c"
+        },
+        {
+            "fight_id": "06b3226c34c17001",
+            "fighter_a": "Carlston Harris",
+            "fighter_b": "Impa Kasanganay",
+            "winner": "Carlston Harris",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/06b3226c34c17001"
+        },
+        {
+            "fight_id": "178756c3cb23b884",
+            "fighter_a": "Gustavo Lopez",
+            "fighter_b": "Alatengheili",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/178756c3cb23b884"
+        },
+        {
+            "fight_id": "eb10feae98ea7d36",
+            "fighter_a": "Hannah Goldy",
+            "fighter_b": "Emily Whitmire",
+            "winner": "Hannah Goldy",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 257,
+            "fight_url": "http://ufcstats.com/fight-details/eb10feae98ea7d36"
+        }
+    ]
+}

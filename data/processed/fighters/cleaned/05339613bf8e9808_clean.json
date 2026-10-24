@@ -1,0 +1,23 @@
+{
+    "fighter_id": "05339613bf8e9808",
+    "name": "Rob Font",
+    "wins": 22,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 135,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 25,
+    "dob_month": 6,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 5.11,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 3.53,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.7,
+    "takedown_accuracy": 0.29,
+    "takedown_defense": 0.37,
+    "submission_attempts_per_15_min": 0.3
+}

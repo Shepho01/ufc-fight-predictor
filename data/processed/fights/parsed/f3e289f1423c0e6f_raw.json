@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f3e289f1423c0e6f",
+        "event_id": "7a703c565ccaa18f",
+        "event_name": "UFC Fight Night: Lee vs. Iaquinta",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:15",
+        "referee": "Keith Peterson",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "d1941565abf50b16",
+        "name": "Jim Miller",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 2",
+            "Sig. str. %": "50%",
+            "Total str.": "1 of 2",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 2",
+            "Sig. str. %": "50%",
+            "Head": "0 of 1",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "1 of 2",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 1",
+            "Sig. str. %": "0%",
+            "Total str.": "1 of 2",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:47"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 1",
+            "Sig. str. %": "0%",
+            "Head": "0 of 0",
+            "Body": "0 of 0",
+            "Leg": "0 of 1",
+            "Distance": "0 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

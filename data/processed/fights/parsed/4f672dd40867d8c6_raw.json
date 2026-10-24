@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4f672dd40867d8c6",
+        "event_id": "01dd4cdc2446f665",
+        "event_name": "UFC 284: Makhachev vs. Volkanovski",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "2:13",
+        "referee": "Marc Goddard",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "14 of 31",
+            "Sig. str. %": "45%",
+            "Total str.": "18 of 35",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 31",
+            "Sig. str. %": "45%",
+            "Head": "9 of 23",
+            "Body": "1 of 2",
+            "Leg": "4 of 6",
+            "Distance": "5 of 18",
+            "Clinch": "2 of 2",
+            "Ground": "7 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c6aee362c7a7d482",
+        "name": "Randy Brown",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 39",
+            "Sig. str. %": "28%",
+            "Total str.": "11 of 39",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 39",
+            "Sig. str. %": "28%",
+            "Head": "6 of 33",
+            "Body": "2 of 3",
+            "Leg": "3 of 3",
+            "Distance": "11 of 39",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

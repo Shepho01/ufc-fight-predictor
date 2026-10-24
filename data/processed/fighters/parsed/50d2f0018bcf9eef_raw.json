@@ -1,0 +1,84 @@
+{
+    "fighter_id": "50d2f0018bcf9eef",
+    "name": "Pat Healy",
+    "record": "34-23-0 (1 NC)",
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 20, 1983",
+    "sig_strikes_landed_per_min": "2.57",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "2.57",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "3.08",
+    "takedown_accuracy": "37%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "b0271fa12935bf88",
+            "fight_url": "http://ufcstats.com/fight-details/b0271fa12935bf88"
+        },
+        {
+            "fight_id": "f8c9a597f719d75c",
+            "fight_url": "http://ufcstats.com/fight-details/f8c9a597f719d75c"
+        },
+        {
+            "fight_id": "f5fb4435faf1ca04",
+            "fight_url": "http://ufcstats.com/fight-details/f5fb4435faf1ca04"
+        },
+        {
+            "fight_id": "ca2b48fd007126e0",
+            "fight_url": "http://ufcstats.com/fight-details/ca2b48fd007126e0"
+        },
+        {
+            "fight_id": "bb59b82bddc96cca",
+            "fight_url": "http://ufcstats.com/fight-details/bb59b82bddc96cca"
+        },
+        {
+            "fight_id": "02fb1b19e5987e38",
+            "fight_url": "http://ufcstats.com/fight-details/02fb1b19e5987e38"
+        },
+        {
+            "fight_id": "29fcd261bdb5bd5f",
+            "fight_url": "http://ufcstats.com/fight-details/29fcd261bdb5bd5f"
+        },
+        {
+            "fight_id": "827cec94aa5deeb2",
+            "fight_url": "http://ufcstats.com/fight-details/827cec94aa5deeb2"
+        },
+        {
+            "fight_id": "5700cce4f56a4de6",
+            "fight_url": "http://ufcstats.com/fight-details/5700cce4f56a4de6"
+        },
+        {
+            "fight_id": "f0c53220b4201b43",
+            "fight_url": "http://ufcstats.com/fight-details/f0c53220b4201b43"
+        },
+        {
+            "fight_id": "3611fe9d10a3a32e",
+            "fight_url": "http://ufcstats.com/fight-details/3611fe9d10a3a32e"
+        },
+        {
+            "fight_id": "fb2c55c96429544d",
+            "fight_url": "http://ufcstats.com/fight-details/fb2c55c96429544d"
+        },
+        {
+            "fight_id": "f54a156c054bca14",
+            "fight_url": "http://ufcstats.com/fight-details/f54a156c054bca14"
+        },
+        {
+            "fight_id": "0c96a5a8ab740ca8",
+            "fight_url": "http://ufcstats.com/fight-details/0c96a5a8ab740ca8"
+        },
+        {
+            "fight_id": "ed7d3a32576f4f1e",
+            "fight_url": "http://ufcstats.com/fight-details/ed7d3a32576f4f1e"
+        },
+        {
+            "fight_id": "e6c3c9d1c80dc59a",
+            "fight_url": "http://ufcstats.com/fight-details/e6c3c9d1c80dc59a"
+        }
+    ]
+}

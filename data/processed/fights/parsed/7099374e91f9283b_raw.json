@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7099374e91f9283b",
+        "event_id": "53f02bbc41d99432",
+        "event_name": "UFC 179: Aldo vs Mendes 2",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "102 of 269",
+            "Sig. str. %": "37%",
+            "Total str.": "122 of 289",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "102 of 269",
+            "Sig. str. %": "37%",
+            "Head": "80 of 237",
+            "Body": "16 of 25",
+            "Leg": "6 of 7",
+            "Distance": "91 of 256",
+            "Clinch": "1 of 2",
+            "Ground": "10 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "77 of 194",
+            "Sig. str. %": "39%",
+            "Total str.": "85 of 203",
+            "Td": "1 of 8",
+            "Td %": "12%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 194",
+            "Sig. str. %": "39%",
+            "Head": "50 of 149",
+            "Body": "9 of 17",
+            "Leg": "18 of 28",
+            "Distance": "75 of 188",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 1"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "1dafccb62a0f98ec",
+    "name": "Robert Whiteford",
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Southpaw",
+    "dob_day": 12,
+    "dob_month": 4,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.33,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 1.99,
+    "sig_strike_defense": 0.62,
+    "takedowns_landed_per_15_min": 1.9,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.45,
+    "submission_attempts_per_15_min": 0.0
+}

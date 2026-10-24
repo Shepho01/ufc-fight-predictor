@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "aac5ac38148f0528",
+        "event_name": "UFC 131: Dos Santos vs Carwin",
+        "event_date": "June 11, 2011",
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "60be440e54760b40",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Shane Carwin",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60be440e54760b40"
+        },
+        {
+            "fight_id": "c1039954c3457fe7",
+            "fighter_a": "Kenny Florian",
+            "fighter_b": "Diego Nunes",
+            "winner": "Kenny Florian",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c1039954c3457fe7"
+        },
+        {
+            "fight_id": "6dc666fd76a3b280",
+            "fighter_a": "Mark Munoz",
+            "fighter_b": "Demian Maia",
+            "winner": "Mark Munoz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6dc666fd76a3b280"
+        },
+        {
+            "fight_id": "65270a16c25b59ad",
+            "fighter_a": "Dave Herman",
+            "fighter_b": "Jon Olav Einemo",
+            "winner": "Dave Herman",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/65270a16c25b59ad"
+        },
+        {
+            "fight_id": "9f69f6420f21080a",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Vagner Rocha",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f69f6420f21080a"
+        },
+        {
+            "fight_id": "44e24628e8eda0b1",
+            "fighter_a": "Sam Stout",
+            "fighter_b": "Yves Edwards",
+            "winner": "Sam Stout",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/44e24628e8eda0b1"
+        },
+        {
+            "fight_id": "65ac65daa51720e2",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Jesse Bongfeldt",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:54",
+            "fight_url": "http://ufcstats.com/fight-details/65ac65daa51720e2"
+        },
+        {
+            "fight_id": "1878e37418f1dfcd",
+            "fighter_a": "Krzysztof Soszynski",
+            "fighter_b": "Mike Massenzio",
+            "winner": "Krzysztof Soszynski",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1878e37418f1dfcd"
+        },
+        {
+            "fight_id": "06db48a74d81a15e",
+            "fighter_a": "Nick Ring",
+            "fighter_b": "James Head",
+            "winner": "Nick Ring",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:33",
+            "fight_url": "http://ufcstats.com/fight-details/06db48a74d81a15e"
+        },
+        {
+            "fight_id": "b3a0fc0a945a31f7",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Jason Young",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b3a0fc0a945a31f7"
+        },
+        {
+            "fight_id": "9a18479792f990f7",
+            "fighter_a": "Joey Beltran",
+            "fighter_b": "Aaron Rosa",
+            "winner": "Joey Beltran",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/9a18479792f990f7"
+        },
+        {
+            "fight_id": "29bf7862fb1c28d6",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Michihiro Omigawa",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/29bf7862fb1c28d6"
+        }
+    ]
+}

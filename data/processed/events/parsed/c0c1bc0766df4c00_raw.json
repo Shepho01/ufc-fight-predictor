@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "c0c1bc0766df4c00",
+        "event_name": "UFC Fight Night: Ngannou vs. Dos Santos",
+        "event_date": "June 29, 2019",
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4e71dbef18157288",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Junior Dos Santos",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:11",
+            "fight_url": "http://ufcstats.com/fight-details/4e71dbef18157288"
+        },
+        {
+            "fight_id": "2418af6da44fd361",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Jussier Formiga",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:47",
+            "fight_url": "http://ufcstats.com/fight-details/2418af6da44fd361"
+        },
+        {
+            "fight_id": "5fcf65d4de66c970",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Anthony Rocco Martin",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5fcf65d4de66c970"
+        },
+        {
+            "fight_id": "2b01da1699f0305f",
+            "fighter_a": "Vinc Pichel",
+            "fighter_b": "Roosevelt Roberts",
+            "winner": "Vinc Pichel",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2b01da1699f0305f"
+        },
+        {
+            "fight_id": "966bf043577f8b6a",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Marco Polo Reyes",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/966bf043577f8b6a"
+        },
+        {
+            "fight_id": "c770192a9f3261cd",
+            "fighter_a": "Alonzo Menifield",
+            "fighter_b": "Paul Craig",
+            "winner": "Alonzo Menifield",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/c770192a9f3261cd"
+        },
+        {
+            "fight_id": "8f5d5dd10a167cc0",
+            "fighter_a": "Ricardo Ramos",
+            "fighter_b": "Journey Newson",
+            "winner": "Ricardo Ramos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8f5d5dd10a167cc0"
+        },
+        {
+            "fight_id": "c0982b3919cc74f0",
+            "fighter_a": "Eryk Anders",
+            "fighter_b": "Vinicius Moreira",
+            "winner": "Eryk Anders",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:18",
+            "fight_url": "http://ufcstats.com/fight-details/c0982b3919cc74f0"
+        },
+        {
+            "fight_id": "3f8c6e31ebbe54bc",
+            "fighter_a": "Jared Gordon",
+            "fighter_b": "Dan Moret",
+            "winner": "Jared Gordon",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f8c6e31ebbe54bc"
+        },
+        {
+            "fight_id": "7ce7075951c9aa31",
+            "fighter_a": "Dalcha Lungiambula",
+            "fighter_b": "Dequan Townsend",
+            "winner": "Dalcha Lungiambula",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/7ce7075951c9aa31"
+        },
+        {
+            "fight_id": "e460bf4db340ca9e",
+            "fighter_a": "Amanda Ribas",
+            "fighter_b": "Emily Whitmire",
+            "winner": "Amanda Ribas",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:10",
+            "fight_url": "http://ufcstats.com/fight-details/e460bf4db340ca9e"
+        },
+        {
+            "fight_id": "9ba051e0f5674108",
+            "fighter_a": "Maurice Greene",
+            "fighter_b": "Junior Albini",
+            "winner": "Maurice Greene",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:38",
+            "fight_url": "http://ufcstats.com/fight-details/9ba051e0f5674108"
+        }
+    ]
+}

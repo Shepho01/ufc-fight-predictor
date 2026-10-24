@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9cfad21ef1911728",
+        "event_id": "e96d8538d3f9d0ed",
+        "event_name": "UFC Fight Night: Lewis vs. Dos Santos",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:41",
+        "referee": "Rob Hinds",
+        "winner_id": "08af939f41b5a57b"
+    },
+    "fighter_a": {
+        "fighter_id": "08af939f41b5a57b",
+        "name": "Beneil Dariush",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 65",
+            "Sig. str. %": "56%",
+            "Total str.": "41 of 69",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "5:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 65",
+            "Sig. str. %": "56%",
+            "Head": "22 of 47",
+            "Body": "12 of 14",
+            "Leg": "3 of 4",
+            "Distance": "17 of 39",
+            "Clinch": "10 of 14",
+            "Ground": "10 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 58",
+            "Sig. str. %": "53%",
+            "Total str.": "38 of 66",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 58",
+            "Sig. str. %": "53%",
+            "Head": "17 of 44",
+            "Body": "9 of 9",
+            "Leg": "5 of 5",
+            "Distance": "17 of 43",
+            "Clinch": "14 of 15",
+            "Ground": "0 of 0"
+        }
+    }
+}

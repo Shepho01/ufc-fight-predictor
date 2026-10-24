@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "6b8f28da9a483049",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Lee",
+        "event_date": "May 18, 2019",
+        "location": "Rochester, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d401522de73b7bee",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Kevin Lee",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "4",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/d401522de73b7bee"
+        },
+        {
+            "fight_id": "9fb9af6599d67b1d",
+            "fighter_a": "Ian Heinisch",
+            "fighter_b": "Antonio Carlos Junior",
+            "winner": "Ian Heinisch",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9fb9af6599d67b1d"
+        },
+        {
+            "fight_id": "4fe799b4fa1afb76",
+            "fighter_a": "Felicia Spencer",
+            "fighter_b": "Megan Anderson",
+            "winner": "Felicia Spencer",
+            "weight_class": "Women's Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:24",
+            "fight_url": "http://ufcstats.com/fight-details/4fe799b4fa1afb76"
+        },
+        {
+            "fight_id": "083a6edd8bb21bc8",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Derrick Krantz",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/083a6edd8bb21bc8"
+        },
+        {
+            "fight_id": "5782666ca117fa5b",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Nik Lentz",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:11",
+            "fight_url": "http://ufcstats.com/fight-details/5782666ca117fa5b"
+        },
+        {
+            "fight_id": "65c1ca715dfdbe05",
+            "fighter_a": "Davi Ramos",
+            "fighter_b": "Austin Hubbard",
+            "winner": "Davi Ramos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/65c1ca715dfdbe05"
+        },
+        {
+            "fight_id": "1f5178fe56c5423f",
+            "fighter_a": "Aspen Ladd",
+            "fighter_b": "Sijara Eubanks",
+            "winner": "Aspen Ladd",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1f5178fe56c5423f"
+        },
+        {
+            "fight_id": "031647c36d12788f",
+            "fighter_a": "Desmond Green",
+            "fighter_b": "Charles Jourdain",
+            "winner": "Desmond Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/031647c36d12788f"
+        },
+        {
+            "fight_id": "04c9ebe419195f8b",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Danny Roberts",
+            "winner": "Michel Pereira",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "1",
+            "time": "1:47",
+            "fight_url": "http://ufcstats.com/fight-details/04c9ebe419195f8b"
+        },
+        {
+            "fight_id": "476a6245b43f3119",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Michael Trizano",
+            "winner": "Grant Dawson",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:27",
+            "fight_url": "http://ufcstats.com/fight-details/476a6245b43f3119"
+        },
+        {
+            "fight_id": "f27e8d63f526d326",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Patrick Cummins",
+            "winner": "Ed Herman",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/f27e8d63f526d326"
+        },
+        {
+            "fight_id": "35f80e003d16a439",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Trevin Giles",
+            "winner": "Zak Cummings",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "4:01",
+            "fight_url": "http://ufcstats.com/fight-details/35f80e003d16a439"
+        },
+        {
+            "fight_id": "115fa6f5f3e51bbb",
+            "fighter_a": "Julio Arce",
+            "fighter_b": "Julian Erosa",
+            "winner": "Julio Arce",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/115fa6f5f3e51bbb"
+        }
+    ]
+}

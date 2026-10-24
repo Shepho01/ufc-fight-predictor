@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f8dd1e75978a3957",
+        "event_id": "c32eab6c2119e989",
+        "event_name": "UFC Fight Night: Poirier vs. Hooker",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "153 of 231",
+            "Sig. str. %": "66%",
+            "Total str.": "208 of 289",
+            "Td": "1 of 7",
+            "Td %": "14%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "2:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "153 of 231",
+            "Sig. str. %": "66%",
+            "Head": "131 of 205",
+            "Body": "20 of 24",
+            "Leg": "2 of 2",
+            "Distance": "116 of 188",
+            "Clinch": "20 of 22",
+            "Ground": "17 of 21"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "155 of 253",
+            "Sig. str. %": "61%",
+            "Total str.": "182 of 283",
+            "Td": "4 of 9",
+            "Td %": "44%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "155 of 253",
+            "Sig. str. %": "61%",
+            "Head": "98 of 177",
+            "Body": "36 of 53",
+            "Leg": "21 of 23",
+            "Distance": "136 of 229",
+            "Clinch": "12 of 16",
+            "Ground": "7 of 8"
+        }
+    }
+}

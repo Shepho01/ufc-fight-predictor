@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "463fac0e48505b62",
+        "event_id": "1f9344211ca7fd60",
+        "event_name": "UFC Fight Night: Santos vs. Ankalaev",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:17",
+        "referee": "Keith Peterson",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "17 of 37",
+            "Sig. str. %": "45%",
+            "Total str.": "31 of 52",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 37",
+            "Sig. str. %": "45%",
+            "Head": "14 of 34",
+            "Body": "2 of 2",
+            "Leg": "1 of 1",
+            "Distance": "6 of 19",
+            "Clinch": "2 of 2",
+            "Ground": "9 of 16"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "809bd1a871491508",
+        "name": "Terrance McKinney",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "36 of 61",
+            "Sig. str. %": "59%",
+            "Total str.": "43 of 74",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 61",
+            "Sig. str. %": "59%",
+            "Head": "33 of 57",
+            "Body": "3 of 4",
+            "Leg": "0 of 0",
+            "Distance": "15 of 32",
+            "Clinch": "5 of 5",
+            "Ground": "16 of 24"
+        }
+    }
+}

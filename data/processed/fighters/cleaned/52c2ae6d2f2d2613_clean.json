@@ -1,0 +1,23 @@
+{
+    "fighter_id": "52c2ae6d2f2d2613",
+    "name": "Youssef Zalal",
+    "wins": 18,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Switch",
+    "dob_day": 4,
+    "dob_month": 9,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 2.78,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 1.79,
+    "sig_strike_defense": 0.64,
+    "takedowns_landed_per_15_min": 1.84,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 1.3
+}

@@ -1,0 +1,68 @@
+{
+    "fighter_id": "65ddc8a9ac4e8531",
+    "name": "Keita Nakamura",
+    "record": "34-10-2 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "May 22, 1984",
+    "sig_strikes_landed_per_min": "2.23",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "3.20",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "1.65",
+    "takedown_accuracy": "48%",
+    "takedown_defense": "63%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "23ba354e606df0ac",
+            "fight_url": "http://ufcstats.com/fight-details/23ba354e606df0ac"
+        },
+        {
+            "fight_id": "94dcbc64641cbb6e",
+            "fight_url": "http://ufcstats.com/fight-details/94dcbc64641cbb6e"
+        },
+        {
+            "fight_id": "d2b5ce5548b71668",
+            "fight_url": "http://ufcstats.com/fight-details/d2b5ce5548b71668"
+        },
+        {
+            "fight_id": "296cc69bcc3c1635",
+            "fight_url": "http://ufcstats.com/fight-details/296cc69bcc3c1635"
+        },
+        {
+            "fight_id": "958f6e5b79ff8c33",
+            "fight_url": "http://ufcstats.com/fight-details/958f6e5b79ff8c33"
+        },
+        {
+            "fight_id": "bb0770ead53940f5",
+            "fight_url": "http://ufcstats.com/fight-details/bb0770ead53940f5"
+        },
+        {
+            "fight_id": "0d043ecaf5bbc3ae",
+            "fight_url": "http://ufcstats.com/fight-details/0d043ecaf5bbc3ae"
+        },
+        {
+            "fight_id": "85e1b21ea88fe7e3",
+            "fight_url": "http://ufcstats.com/fight-details/85e1b21ea88fe7e3"
+        },
+        {
+            "fight_id": "04bd246a93a48400",
+            "fight_url": "http://ufcstats.com/fight-details/04bd246a93a48400"
+        },
+        {
+            "fight_id": "c5f56797c68ecbeb",
+            "fight_url": "http://ufcstats.com/fight-details/c5f56797c68ecbeb"
+        },
+        {
+            "fight_id": "73ed365b57dc1a6e",
+            "fight_url": "http://ufcstats.com/fight-details/73ed365b57dc1a6e"
+        },
+        {
+            "fight_id": "abf6ea197979e634",
+            "fight_url": "http://ufcstats.com/fight-details/abf6ea197979e634"
+        }
+    ]
+}

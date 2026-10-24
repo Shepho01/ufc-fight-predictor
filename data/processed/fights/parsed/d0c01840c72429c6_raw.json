@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d0c01840c72429c6",
+        "event_id": "012fc7cd0779c09a",
+        "event_name": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:24",
+        "referee": "Mark Smith",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "33 of 60",
+            "Sig. str. %": "55%",
+            "Total str.": "41 of 68",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 60",
+            "Sig. str. %": "55%",
+            "Head": "23 of 41",
+            "Body": "9 of 16",
+            "Leg": "1 of 3",
+            "Distance": "27 of 50",
+            "Clinch": "2 of 2",
+            "Ground": "4 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "a6cba6bb66c1a8c9",
+        "name": "Danny Roberts",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 33",
+            "Sig. str. %": "15%",
+            "Total str.": "5 of 33",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 33",
+            "Sig. str. %": "15%",
+            "Head": "2 of 29",
+            "Body": "1 of 2",
+            "Leg": "2 of 2",
+            "Distance": "4 of 32",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "958f3b45c132c3b7",
+        "event_id": "a4bf17bd3ba3423b",
+        "event_name": "UFC 198: Werdum vs Miocic",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Eduardo Herdy",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 129",
+            "Sig. str. %": "34%",
+            "Total str.": "52 of 137",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 129",
+            "Sig. str. %": "34%",
+            "Head": "21 of 98",
+            "Body": "5 of 11",
+            "Leg": "18 of 20",
+            "Distance": "41 of 124",
+            "Clinch": "1 of 3",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "aceffa19749c4dc0",
+        "name": "Zubaira Tukhugov",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 112",
+            "Sig. str. %": "25%",
+            "Total str.": "32 of 115",
+            "Td": "3 of 8",
+            "Td %": "37%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 112",
+            "Sig. str. %": "25%",
+            "Head": "24 of 100",
+            "Body": "5 of 12",
+            "Leg": "0 of 0",
+            "Distance": "26 of 106",
+            "Clinch": "0 of 1",
+            "Ground": "3 of 5"
+        }
+    }
+}

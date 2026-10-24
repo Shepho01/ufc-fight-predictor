@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9e47b2a66d0e9315",
+        "event_id": "59851163aaf1aed8",
+        "event_name": "UFC 180: Werdum vs Hunt",
+        "weight_class": "Ultimate Fighter Latin America Featherweight Tournament",
+        "title_fight": true,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 83",
+            "Sig. str. %": "40%",
+            "Total str.": "41 of 92",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "5",
+            "Rev.": "0",
+            "Ctrl": "3:56"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 83",
+            "Sig. str. %": "40%",
+            "Head": "20 of 58",
+            "Body": "8 of 16",
+            "Leg": "6 of 9",
+            "Distance": "29 of 74",
+            "Clinch": "5 of 8",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "45230be0641f3f53",
+        "name": "Leonardo Morales",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 72",
+            "Sig. str. %": "45%",
+            "Total str.": "47 of 88",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 72",
+            "Sig. str. %": "45%",
+            "Head": "13 of 43",
+            "Body": "10 of 14",
+            "Leg": "10 of 15",
+            "Distance": "25 of 61",
+            "Clinch": "4 of 5",
+            "Ground": "4 of 6"
+        }
+    }
+}

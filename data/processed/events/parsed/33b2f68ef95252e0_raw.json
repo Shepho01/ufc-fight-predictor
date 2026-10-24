@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "33b2f68ef95252e0",
+        "event_name": "UFC Fight Night: Felder vs. Hooker",
+        "event_date": "February 22, 2020",
+        "location": "Auckland, New Zealand"
+    },
+    "fights": [
+        {
+            "fight_id": "5fceb95c29d929bc",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Paul Felder",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5fceb95c29d929bc"
+        },
+        {
+            "fight_id": "2b417eb1ffa56ac1",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Michal Oleksiejczuk",
+            "winner": "Jimmy Crute",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "3:29",
+            "fight_url": "http://ufcstats.com/fight-details/2b417eb1ffa56ac1"
+        },
+        {
+            "fight_id": "060987bb3025a0a8",
+            "fighter_a": "Yan Xiaonan",
+            "fighter_b": "Karolina Kowalkiewicz",
+            "winner": "Yan Xiaonan",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/060987bb3025a0a8"
+        },
+        {
+            "fight_id": "9bc18b63b07bb328",
+            "fighter_a": "Marcos Rogerio de Lima",
+            "fighter_b": "Ben Sosoli",
+            "winner": "Marcos Rogerio de Lima",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/9bc18b63b07bb328"
+        },
+        {
+            "fight_id": "6d48f75153e4ad6b",
+            "fighter_a": "Brad Riddell",
+            "fighter_b": "Magomed Mustafaev",
+            "winner": "Brad Riddell",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6d48f75153e4ad6b"
+        },
+        {
+            "fight_id": "f882cf76a8bce308",
+            "fighter_a": "Zubaira Tukhugov",
+            "fighter_b": "Kevin Aguilar",
+            "winner": "Zubaira Tukhugov",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:21",
+            "fight_url": "http://ufcstats.com/fight-details/f882cf76a8bce308"
+        },
+        {
+            "fight_id": "02bdb7a5b2986571",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Josh Culibao",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/02bdb7a5b2986571"
+        },
+        {
+            "fight_id": "3bd20b66b585d621",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Emil Meek",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3bd20b66b585d621"
+        },
+        {
+            "fight_id": "03c2707563915d7d",
+            "fighter_a": "Song Kenan",
+            "fighter_b": "Callan Potter",
+            "winner": "Song Kenan",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:20",
+            "fight_url": "http://ufcstats.com/fight-details/03c2707563915d7d"
+        },
+        {
+            "fight_id": "ecc23234e820458d",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Tyson Nam",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ecc23234e820458d"
+        },
+        {
+            "fight_id": "af5b940f2c686524",
+            "fighter_a": "Angela Hill",
+            "fighter_b": "Loma Lookboonmee",
+            "winner": "Angela Hill",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/af5b940f2c686524"
+        },
+        {
+            "fight_id": "102fb91414fd24ab",
+            "fighter_a": "Priscila Cachoeira",
+            "fighter_b": "Shana Dobson",
+            "winner": "Priscila Cachoeira",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:40",
+            "fight_url": "http://ufcstats.com/fight-details/102fb91414fd24ab"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "b757c73f443d4fca",
+        "event_name": "UFC Fight Night: Munoz vs Mousasi",
+        "event_date": "May 31, 2014",
+        "location": "Berlin, Germany"
+    },
+    "fights": [
+        {
+            "fight_id": "5d7c91acbcddda2f",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Mark Munoz",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:57",
+            "fight_url": "http://ufcstats.com/fight-details/5d7c91acbcddda2f"
+        },
+        {
+            "fight_id": "0ecbb881c74a63f5",
+            "fighter_a": "CB Dollaway",
+            "fighter_b": "Francis Carmont",
+            "winner": "CB Dollaway",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0ecbb881c74a63f5"
+        },
+        {
+            "fight_id": "3618e0e165190576",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Luke Barnatt",
+            "winner": "Sean Strickland",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3618e0e165190576"
+        },
+        {
+            "fight_id": "0b1af005a5f25561",
+            "fighter_a": "Niklas Backstrom",
+            "fighter_b": "Tom Niinimaki",
+            "winner": "Niklas Backstrom",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/0b1af005a5f25561"
+        },
+        {
+            "fight_id": "042fee3d05e105fa",
+            "fighter_a": "Nick Hein",
+            "fighter_b": "Drew Dober",
+            "winner": "Nick Hein",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/042fee3d05e105fa"
+        },
+        {
+            "fight_id": "5b6405eeb6757637",
+            "fighter_a": "Magnus Cedenblad",
+            "fighter_b": "Krzysztof Jotko",
+            "winner": "Magnus Cedenblad",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/5b6405eeb6757637"
+        },
+        {
+            "fight_id": "2133f8798f089140",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Vaughan Lee",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:25",
+            "fight_url": "http://ufcstats.com/fight-details/2133f8798f089140"
+        },
+        {
+            "fight_id": "e886e22d31bc96c1",
+            "fighter_a": "Peter Sobotta",
+            "fighter_b": "Pawel Pawlak",
+            "winner": "Peter Sobotta",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e886e22d31bc96c1"
+        },
+        {
+            "fight_id": "47bdfab3cdcdddfd",
+            "fighter_a": "Maximo Blanco",
+            "fighter_b": "Andy Ogle",
+            "winner": "Maximo Blanco",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47bdfab3cdcdddfd"
+        },
+        {
+            "fight_id": "2baa02e0df86b566",
+            "fighter_a": "Ruslan Magomedov",
+            "fighter_b": "Viktor Pesta",
+            "winner": "Ruslan Magomedov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2baa02e0df86b566"
+        }
+    ]
+}

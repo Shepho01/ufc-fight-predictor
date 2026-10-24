@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0f9be7ac405772f8",
+        "event_id": "dbd198f780286aca",
+        "event_name": "UFC 251: Usman vs. Masvidal",
+        "weight_class": "Bantamweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 5,
+        "finish_time": "3:24",
+        "referee": "Leon Roberts",
+        "winner_id": "d661ce4da776fc20"
+    },
+    "fighter_a": {
+        "fighter_id": "d661ce4da776fc20",
+        "name": "Petr Yan",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "194 of 309",
+            "Sig. str. %": "62%",
+            "Total str.": "258 of 376",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:50"
+        },
+        "significant_strikes": {
+            "Sig. str": "194 of 309",
+            "Sig. str. %": "62%",
+            "Head": "150 of 256",
+            "Body": "35 of 44",
+            "Leg": "9 of 9",
+            "Distance": "99 of 201",
+            "Clinch": "9 of 11",
+            "Ground": "86 of 97"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "83 of 157",
+            "Sig. str. %": "52%",
+            "Total str.": "83 of 157",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "83 of 157",
+            "Sig. str. %": "52%",
+            "Head": "38 of 97",
+            "Body": "28 of 39",
+            "Leg": "17 of 21",
+            "Distance": "81 of 154",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

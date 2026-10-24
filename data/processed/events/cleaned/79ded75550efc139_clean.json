@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "79ded75550efc139",
+        "event_name": "UFC Fight Night: Cowboy vs Miller",
+        "event_day": 16,
+        "event_month": 7,
+        "event_year": 2014,
+        "location": "Atlantic City, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c8998aa536614a5a",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Jim Miller",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 211,
+            "fight_url": "http://ufcstats.com/fight-details/c8998aa536614a5a"
+        },
+        {
+            "fight_id": "4e7c06f8b2b8c24b",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Evan Dunham",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 186,
+            "fight_url": "http://ufcstats.com/fight-details/4e7c06f8b2b8c24b"
+        },
+        {
+            "fight_id": "a822be2a017f329e",
+            "fighter_a": "Rick Story",
+            "fighter_b": "Leonardo Mafra",
+            "winner": "Rick Story",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 132,
+            "fight_url": "http://ufcstats.com/fight-details/a822be2a017f329e"
+        },
+        {
+            "fight_id": "c1bc2a42652f685c",
+            "fighter_a": "Joe Proctor",
+            "fighter_b": "Justin Salas",
+            "winner": "Joe Proctor",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 207,
+            "fight_url": "http://ufcstats.com/fight-details/c1bc2a42652f685c"
+        },
+        {
+            "fight_id": "3c06557ddd86f8e8",
+            "fighter_a": "John Lineker",
+            "fighter_b": "Alptekin Ozkilic",
+            "winner": "John Lineker",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 291,
+            "fight_url": "http://ufcstats.com/fight-details/3c06557ddd86f8e8"
+        },
+        {
+            "fight_id": "0dff8509f6a861f1",
+            "fighter_a": "Lucas Martins",
+            "fighter_b": "Alex White",
+            "winner": "Lucas Martins",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 128,
+            "fight_url": "http://ufcstats.com/fight-details/0dff8509f6a861f1"
+        },
+        {
+            "fight_id": "b0271fa12935bf88",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Pat Healy",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b0271fa12935bf88"
+        },
+        {
+            "fight_id": "9fc7fcbdb6587265",
+            "fighter_a": "Leslie Smith",
+            "fighter_b": "Jessamyn Duke",
+            "winner": "Leslie Smith",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/9fc7fcbdb6587265"
+        },
+        {
+            "fight_id": "02a183fa803a33fe",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Hugo Viana",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 230,
+            "fight_url": "http://ufcstats.com/fight-details/02a183fa803a33fe"
+        },
+        {
+            "fight_id": "635ee9448fe2ddaf",
+            "fighter_a": "Yosdenis Cedeno",
+            "fighter_b": "Jerrod Sanders",
+            "winner": "Yosdenis Cedeno",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/635ee9448fe2ddaf"
+        },
+        {
+            "fight_id": "5c30f6535a08d598",
+            "fighter_a": "Claudia Gadelha",
+            "fighter_b": "Tina Lahdemaki",
+            "winner": "Claudia Gadelha",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5c30f6535a08d598"
+        }
+    ]
+}

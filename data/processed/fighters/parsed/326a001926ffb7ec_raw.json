@@ -1,0 +1,32 @@
+{
+    "fighter_id": "326a001926ffb7ec",
+    "name": "Darian Weeks",
+    "record": "5-3-0",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 23, 1993",
+    "sig_strikes_landed_per_min": "4.49",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "4.56",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "2.00",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "86d57e8ef2191316",
+            "fight_url": "http://ufcstats.com/fight-details/86d57e8ef2191316"
+        },
+        {
+            "fight_id": "313b85fe82b2ba80",
+            "fight_url": "http://ufcstats.com/fight-details/313b85fe82b2ba80"
+        },
+        {
+            "fight_id": "405bded9cc7a7c15",
+            "fight_url": "http://ufcstats.com/fight-details/405bded9cc7a7c15"
+        }
+    ]
+}

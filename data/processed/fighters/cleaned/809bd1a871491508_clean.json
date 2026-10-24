@@ -1,0 +1,23 @@
+{
+    "fighter_id": "809bd1a871491508",
+    "name": "Terrance McKinney",
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Switch",
+    "dob_day": 15,
+    "dob_month": 9,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 6.83,
+    "sig_striking_accuracy": 0.55,
+    "sig_strikes_absorbed_per_min": 4.07,
+    "sig_strike_defense": 0.42,
+    "takedowns_landed_per_15_min": 3.27,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.72,
+    "submission_attempts_per_15_min": 1.8
+}

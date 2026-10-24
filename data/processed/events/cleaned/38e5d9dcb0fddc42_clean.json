@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "38e5d9dcb0fddc42",
+        "event_name": "UFC Fight Night: De Ridder vs. Allen",
+        "event_day": 18,
+        "event_month": 10,
+        "event_year": 2025,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "d61373d9fdf01a12",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Reinier de Ridder",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 4,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d61373d9fdf01a12"
+        },
+        {
+            "fight_id": "cdd565a16975c711",
+            "fighter_a": "Mike Malott",
+            "fighter_b": "Kevin Holland",
+            "winner": "Mike Malott",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cdd565a16975c711"
+        },
+        {
+            "fight_id": "857d274e47aa8c4e",
+            "fighter_a": "Aiemann Zahabi",
+            "fighter_b": "Marlon Vera",
+            "winner": "Aiemann Zahabi",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/857d274e47aa8c4e"
+        },
+        {
+            "fight_id": "c82acd7b17915591",
+            "fighter_a": "Manon Fiorot",
+            "fighter_b": "Jasmine Jasudavicius",
+            "winner": "Manon Fiorot",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 74,
+            "fight_url": "http://ufcstats.com/fight-details/c82acd7b17915591"
+        },
+        {
+            "fight_id": "a18edcb638ba7e39",
+            "fighter_a": "Charles Jourdain",
+            "fighter_b": "Davey Grant",
+            "winner": "Charles Jourdain",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 185,
+            "fight_url": "http://ufcstats.com/fight-details/a18edcb638ba7e39"
+        },
+        {
+            "fight_id": "3af1bdc5a510bba9",
+            "fighter_a": "Kyle Nelson",
+            "fighter_b": "Matt Frevola",
+            "winner": "Kyle Nelson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3af1bdc5a510bba9"
+        },
+        {
+            "fight_id": "ecdbb3a5216b815e",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Kyle Prepolec",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 76,
+            "fight_url": "http://ufcstats.com/fight-details/ecdbb3a5216b815e"
+        },
+        {
+            "fight_id": "970f083af8368f57",
+            "fighter_a": "Aoriqileng",
+            "fighter_b": "Cody Gibson",
+            "winner": "Aoriqileng",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 21,
+            "fight_url": "http://ufcstats.com/fight-details/970f083af8368f57"
+        },
+        {
+            "fight_id": "668a44403a130043",
+            "fighter_a": "Bruno Silva",
+            "fighter_b": "HyunSung Park",
+            "winner": "Bruno Silva",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/668a44403a130043"
+        },
+        {
+            "fight_id": "096e00355c8c84ac",
+            "fighter_a": "Djorden Santos",
+            "fighter_b": "Danny Barlow",
+            "winner": "Djorden Santos",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/096e00355c8c84ac"
+        },
+        {
+            "fight_id": "8d9458121f0c4b95",
+            "fighter_a": "Stephanie Luciano",
+            "fighter_b": "Ravena Oliveira",
+            "winner": "Stephanie Luciano",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 170,
+            "fight_url": "http://ufcstats.com/fight-details/8d9458121f0c4b95"
+        },
+        {
+            "fight_id": "87ac0e5face106b4",
+            "fighter_a": "Yousri Belgaroui",
+            "fighter_b": "Azamat Bekoev",
+            "winner": "Yousri Belgaroui",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 55,
+            "fight_url": "http://ufcstats.com/fight-details/87ac0e5face106b4"
+        },
+        {
+            "fight_id": "dec301fd5e99ca46",
+            "fighter_a": "Melissa Croden",
+            "fighter_b": "Tainara Lisboa",
+            "winner": "Melissa Croden",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 272,
+            "fight_url": "http://ufcstats.com/fight-details/dec301fd5e99ca46"
+        }
+    ]
+}

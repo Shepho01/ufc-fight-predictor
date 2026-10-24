@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "39f746cee66e8771",
+        "event_id": "5df10509264586e5",
+        "event_name": "UFC 211: Miocic vs. Dos Santos",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "TKO - Doctor's Stoppage",
+        "finish_round": 2,
+        "finish_time": "5:00",
+        "referee": "Chris Reed",
+        "winner_id": "f2688492b9a525a3"
+    },
+    "fighter_a": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "72 of 103",
+            "Sig. str. %": "69%",
+            "Total str.": "96 of 130",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "72 of 103",
+            "Sig. str. %": "69%",
+            "Head": "67 of 98",
+            "Body": "5 of 5",
+            "Leg": "0 of 0",
+            "Distance": "3 of 16",
+            "Clinch": "0 of 0",
+            "Ground": "69 of 87"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 42",
+            "Sig. str. %": "38%",
+            "Total str.": "29 of 57",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 42",
+            "Sig. str. %": "38%",
+            "Head": "14 of 39",
+            "Body": "1 of 1",
+            "Leg": "1 of 2",
+            "Distance": "3 of 18",
+            "Clinch": "2 of 4",
+            "Ground": "11 of 20"
+        }
+    }
+}

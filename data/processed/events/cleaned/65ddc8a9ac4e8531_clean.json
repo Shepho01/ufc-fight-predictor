@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "65ddc8a9ac4e8531",
+        "event_name": "UFC 126: Silva vs Belfort",
+        "event_day": 5,
+        "event_month": 2,
+        "event_year": 2011,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "87c73e2086214b5c",
+            "fighter_a": "Anderson Silva",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Anderson Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 205,
+            "fight_url": "http://ufcstats.com/fight-details/87c73e2086214b5c"
+        },
+        {
+            "fight_id": "d2246624da1c4e38",
+            "fighter_a": "Forrest Griffin",
+            "fighter_b": "Rich Franklin",
+            "winner": "Forrest Griffin",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d2246624da1c4e38"
+        },
+        {
+            "fight_id": "65ce293c20bd25e2",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Ryan Bader",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 260,
+            "fight_url": "http://ufcstats.com/fight-details/65ce293c20bd25e2"
+        },
+        {
+            "fight_id": "d1cda3a0c148b725",
+            "fighter_a": "Jake Ellenberger",
+            "fighter_b": "Carlos Eduardo Rocha",
+            "winner": "Jake Ellenberger",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d1cda3a0c148b725"
+        },
+        {
+            "fight_id": "ce6f4d06fe5b51f3",
+            "fighter_a": "Miguel Torres",
+            "fighter_b": "Antonio Banuelos",
+            "winner": "Miguel Torres",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ce6f4d06fe5b51f3"
+        },
+        {
+            "fight_id": "6b7033df94818cee",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Paul Kelly",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 228,
+            "fight_url": "http://ufcstats.com/fight-details/6b7033df94818cee"
+        },
+        {
+            "fight_id": "ae3ab5d1892153ef",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Michihiro Omigawa",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ae3ab5d1892153ef"
+        },
+        {
+            "fight_id": "20aa994cd23074b9",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Norifumi Yamamoto",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/20aa994cd23074b9"
+        },
+        {
+            "fight_id": "95f136c07f9834be",
+            "fighter_a": "Paul Taylor",
+            "fighter_b": "Gabe Ruediger",
+            "winner": "Paul Taylor",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 102,
+            "fight_url": "http://ufcstats.com/fight-details/95f136c07f9834be"
+        },
+        {
+            "fight_id": "c1843fa8f113d321",
+            "fighter_a": "Kyle Kingsbury",
+            "fighter_b": "Ricardo Romero",
+            "winner": "Kyle Kingsbury",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 21,
+            "fight_url": "http://ufcstats.com/fight-details/c1843fa8f113d321"
+        },
+        {
+            "fight_id": "791b8b3a475487e9",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Kenny Robertson",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 29,
+            "fight_url": "http://ufcstats.com/fight-details/791b8b3a475487e9"
+        }
+    ]
+}

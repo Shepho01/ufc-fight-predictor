@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "67f8ce4438cc1dd6",
+        "event_id": "be9d259be012e8a4",
+        "event_name": "Strikeforce - Rousey vs Kaufman",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "77 of 137",
+            "Sig. str. %": "56%",
+            "Total str.": "77 of 138",
+            "Td": "2 of 8",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 137",
+            "Sig. str. %": "56%",
+            "Head": "42 of 98",
+            "Body": "24 of 28",
+            "Leg": "11 of 11",
+            "Distance": "54 of 110",
+            "Clinch": "23 of 27",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "343d57cde1a14338",
+        "name": "Matt Ricehouse",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "48 of 136",
+            "Sig. str. %": "35%",
+            "Total str.": "51 of 139",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "48 of 136",
+            "Sig. str. %": "35%",
+            "Head": "23 of 99",
+            "Body": "15 of 26",
+            "Leg": "10 of 11",
+            "Distance": "43 of 127",
+            "Clinch": "5 of 9",
+            "Ground": "0 of 0"
+        }
+    }
+}

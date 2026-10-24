@@ -1,0 +1,44 @@
+{
+    "fighter_id": "bc8f6b42767e28df",
+    "name": "Naoyuki Kotani",
+    "record": "34-14-7",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Dec 08, 1981",
+    "sig_strikes_landed_per_min": "1.02",
+    "sig_striking_accuracy": "31%",
+    "sig_strikes_absorbed_per_min": "2.89",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.83",
+    "takedown_accuracy": "16%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "b82b243982fcb2ac",
+            "fight_url": "http://ufcstats.com/fight-details/b82b243982fcb2ac"
+        },
+        {
+            "fight_id": "502d7cb01921170f",
+            "fight_url": "http://ufcstats.com/fight-details/502d7cb01921170f"
+        },
+        {
+            "fight_id": "611ccad0fc46ba51",
+            "fight_url": "http://ufcstats.com/fight-details/611ccad0fc46ba51"
+        },
+        {
+            "fight_id": "574b4599ae9cb64e",
+            "fight_url": "http://ufcstats.com/fight-details/574b4599ae9cb64e"
+        },
+        {
+            "fight_id": "e89db3b111f92587",
+            "fight_url": "http://ufcstats.com/fight-details/e89db3b111f92587"
+        },
+        {
+            "fight_id": "75a202ab412c1be3",
+            "fight_url": "http://ufcstats.com/fight-details/75a202ab412c1be3"
+        }
+    ]
+}

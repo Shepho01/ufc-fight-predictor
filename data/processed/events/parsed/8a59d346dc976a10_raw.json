@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "8a59d346dc976a10",
+        "event_name": "UFC Fight Night: Nogueira vs Davis",
+        "event_date": "March 26, 2011",
+        "location": "Seattle, Washington, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "28b405fe1552ccad",
+            "fighter_a": "Phil Davis",
+            "fighter_b": "Rogerio Nogueira",
+            "winner": "Phil Davis",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/28b405fe1552ccad"
+        },
+        {
+            "fight_id": "60f3232bc7a73b15",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Dan Hardy",
+            "winner": "Anthony Johnson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60f3232bc7a73b15"
+        },
+        {
+            "fight_id": "de78bdd8c734e8ab",
+            "fighter_a": "Amir Sadollah",
+            "fighter_b": "DaMarques Johnson",
+            "winner": "Amir Sadollah",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "3:27",
+            "fight_url": "http://ufcstats.com/fight-details/de78bdd8c734e8ab"
+        },
+        {
+            "fight_id": "bb70048e290f4a86",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "SUB Twister",
+            "round": "2",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/bb70048e290f4a86"
+        },
+        {
+            "fight_id": "70e78fcf793bc82b",
+            "fighter_a": "Mike Russow",
+            "fighter_b": "Jon Madsen",
+            "winner": "Mike Russow",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/70e78fcf793bc82b"
+        },
+        {
+            "fight_id": "28f57f60a46654f6",
+            "fighter_a": "Mackens Semerzier",
+            "fighter_b": "Alex Caceres",
+            "winner": "Mackens Semerzier",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/28f57f60a46654f6"
+        },
+        {
+            "fight_id": "60d27c73e4a20318",
+            "fighter_a": "John Hathaway",
+            "fighter_b": "Kris McCray",
+            "winner": "John Hathaway",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60d27c73e4a20318"
+        },
+        {
+            "fight_id": "c67473192bda50d8",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Edwin Figueroa",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c67473192bda50d8"
+        },
+        {
+            "fight_id": "774f7eed6b0180be",
+            "fighter_a": "Christian Morecraft",
+            "fighter_b": "Sean McCorkle",
+            "winner": "Christian Morecraft",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/774f7eed6b0180be"
+        },
+        {
+            "fight_id": "a1f4a5fcef50915b",
+            "fighter_a": "Johny Hendricks",
+            "fighter_b": "TJ Waldburger",
+            "winner": "Johny Hendricks",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/a1f4a5fcef50915b"
+        },
+        {
+            "fight_id": "89d39663ff1b890e",
+            "fighter_a": "Aaron Simpson",
+            "fighter_b": "Mario Miranda",
+            "winner": "Aaron Simpson",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/89d39663ff1b890e"
+        },
+        {
+            "fight_id": "04d97700dbdaef5e",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Waylon Lowe",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "2:24",
+            "fight_url": "http://ufcstats.com/fight-details/04d97700dbdaef5e"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "980927e7dcc131c0",
+        "event_id": "972197a8c61ac413",
+        "event_name": "UFC 265: Lewis vs. Gane",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mike Beltran",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "114 of 223",
+            "Sig. str. %": "51%",
+            "Total str.": "114 of 223",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "114 of 223",
+            "Sig. str. %": "51%",
+            "Head": "74 of 168",
+            "Body": "32 of 47",
+            "Leg": "8 of 8",
+            "Distance": "114 of 223",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6bd02119599741a4",
+        "name": "Pedro Munhoz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "75 of 179",
+            "Sig. str. %": "41%",
+            "Total str.": "75 of 179",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 179",
+            "Sig. str. %": "41%",
+            "Head": "35 of 131",
+            "Body": "3 of 6",
+            "Leg": "37 of 42",
+            "Distance": "71 of 175",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

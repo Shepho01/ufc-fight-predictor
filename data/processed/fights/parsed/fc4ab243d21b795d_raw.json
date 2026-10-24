@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fc4ab243d21b795d",
+        "event_id": "bc0f994de0521926",
+        "event_name": "UFC Fight Night: Royval vs. Kape",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "65 of 141",
+            "Sig. str. %": "46%",
+            "Total str.": "74 of 150",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "65 of 141",
+            "Sig. str. %": "46%",
+            "Head": "25 of 77",
+            "Body": "24 of 40",
+            "Leg": "16 of 24",
+            "Distance": "56 of 129",
+            "Clinch": "1 of 1",
+            "Ground": "8 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07bc580bdf3eb9c8",
+        "name": "Lance Gibson Jr.",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 72",
+            "Sig. str. %": "41%",
+            "Total str.": "35 of 77",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 72",
+            "Sig. str. %": "41%",
+            "Head": "9 of 39",
+            "Body": "8 of 14",
+            "Leg": "13 of 19",
+            "Distance": "27 of 66",
+            "Clinch": "3 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

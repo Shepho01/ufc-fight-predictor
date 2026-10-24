@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "2dc7f1762dc0a7ef",
+        "event_name": "UFC 203: Miocic vs. Overeem",
+        "event_day": 10,
+        "event_month": 9,
+        "event_year": 2016,
+        "location": "Cleveland, Ohio, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "19df0d0cb1269fa7",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Alistair Overeem",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/19df0d0cb1269fa7"
+        },
+        {
+            "fight_id": "409bcfacb259999a",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Travis Browne",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/409bcfacb259999a"
+        },
+        {
+            "fight_id": "26e6a2705a1e9e72",
+            "fighter_a": "Mickey Gall",
+            "fighter_b": "CM Punk",
+            "winner": "Mickey Gall",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 134,
+            "fight_url": "http://ufcstats.com/fight-details/26e6a2705a1e9e72"
+        },
+        {
+            "fight_id": "971d9fa5947a4bb7",
+            "fighter_a": "Jimmie Rivera",
+            "fighter_b": "Urijah Faber",
+            "winner": "Jimmie Rivera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/971d9fa5947a4bb7"
+        },
+        {
+            "fight_id": "52bc6927e80aca5d",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Joanne Wood",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 278,
+            "fight_url": "http://ufcstats.com/fight-details/52bc6927e80aca5d"
+        },
+        {
+            "fight_id": "e9ffcf05270a320a",
+            "fighter_a": "Bethe Correia",
+            "fighter_b": "Jessica Eye",
+            "winner": "Bethe Correia",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e9ffcf05270a320a"
+        },
+        {
+            "fight_id": "c8ca99d1adc5448d",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Caio Magalhaes",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c8ca99d1adc5448d"
+        },
+        {
+            "fight_id": "9b1386a28b81bcd5",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Michael McBride",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 257,
+            "fight_url": "http://ufcstats.com/fight-details/9b1386a28b81bcd5"
+        },
+        {
+            "fight_id": "5d5abb5dade718de",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Jason Gonzalez",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 105,
+            "fight_url": "http://ufcstats.com/fight-details/5d5abb5dade718de"
+        },
+        {
+            "fight_id": "1c85f793ea4f9caa",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "Sean Spencer",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 49,
+            "fight_url": "http://ufcstats.com/fight-details/1c85f793ea4f9caa"
+        }
+    ]
+}

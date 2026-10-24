@@ -1,0 +1,48 @@
+{
+    "fighter_id": "34e516ab361afb1c",
+    "name": "Darrick Minner",
+    "record": "26-14-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Apr 28, 1990",
+    "sig_strikes_landed_per_min": "2.63",
+    "sig_striking_accuracy": "65%",
+    "sig_strikes_absorbed_per_min": "2.28",
+    "sig_strike_defense": "35%",
+    "takedowns_landed_per_15_min": "2.40",
+    "takedown_accuracy": "72%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "2.7",
+    "fight_history": [
+        {
+            "fight_id": "2664805fde34fb1b",
+            "fight_url": "http://ufcstats.com/fight-details/2664805fde34fb1b"
+        },
+        {
+            "fight_id": "537a5aa4c248830e",
+            "fight_url": "http://ufcstats.com/fight-details/537a5aa4c248830e"
+        },
+        {
+            "fight_id": "1bde9cb65d31cc76",
+            "fight_url": "http://ufcstats.com/fight-details/1bde9cb65d31cc76"
+        },
+        {
+            "fight_id": "82243207b4dfce87",
+            "fight_url": "http://ufcstats.com/fight-details/82243207b4dfce87"
+        },
+        {
+            "fight_id": "36656dfa32341671",
+            "fight_url": "http://ufcstats.com/fight-details/36656dfa32341671"
+        },
+        {
+            "fight_id": "eba6055d217d5b99",
+            "fight_url": "http://ufcstats.com/fight-details/eba6055d217d5b99"
+        },
+        {
+            "fight_id": "9112f3dcd3fd88c8",
+            "fight_url": "http://ufcstats.com/fight-details/9112f3dcd3fd88c8"
+        }
+    ]
+}

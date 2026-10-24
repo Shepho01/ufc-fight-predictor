@@ -1,0 +1,60 @@
+{
+    "fighter_id": "6f81b6de2557739a",
+    "name": "Jacob Volkmann",
+    "record": "19-7-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Sep 05, 1980",
+    "sig_strikes_landed_per_min": "1.19",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "1.78",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "3.19",
+    "takedown_accuracy": "48%",
+    "takedown_defense": "52%",
+    "submission_attempts_per_15_min": "2.0",
+    "fight_history": [
+        {
+            "fight_id": "cd03bff050e53625",
+            "fight_url": "http://ufcstats.com/fight-details/cd03bff050e53625"
+        },
+        {
+            "fight_id": "a80162f4c8842da3",
+            "fight_url": "http://ufcstats.com/fight-details/a80162f4c8842da3"
+        },
+        {
+            "fight_id": "3fc1ebe73920a2a7",
+            "fight_url": "http://ufcstats.com/fight-details/3fc1ebe73920a2a7"
+        },
+        {
+            "fight_id": "46bea6d63ffe17e4",
+            "fight_url": "http://ufcstats.com/fight-details/46bea6d63ffe17e4"
+        },
+        {
+            "fight_id": "03938272fb7c3971",
+            "fight_url": "http://ufcstats.com/fight-details/03938272fb7c3971"
+        },
+        {
+            "fight_id": "e7ace0544d5ab596",
+            "fight_url": "http://ufcstats.com/fight-details/e7ace0544d5ab596"
+        },
+        {
+            "fight_id": "71cb15f6dbdaccd8",
+            "fight_url": "http://ufcstats.com/fight-details/71cb15f6dbdaccd8"
+        },
+        {
+            "fight_id": "c16403197580e0af",
+            "fight_url": "http://ufcstats.com/fight-details/c16403197580e0af"
+        },
+        {
+            "fight_id": "78b928a602a81971",
+            "fight_url": "http://ufcstats.com/fight-details/78b928a602a81971"
+        },
+        {
+            "fight_id": "70228adf93b6434f",
+            "fight_url": "http://ufcstats.com/fight-details/70228adf93b6434f"
+        }
+    ]
+}

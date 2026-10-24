@@ -9,6 +9,7 @@
         "method": "Decision - Split",
         "finish_round": 5,
         "finish_time_seconds": 300,
+        "duration_seconds": 1500,
         "referee": "Herb Dean",
         "winner_id": "e1248941344b3288",
         "event_day": 11,
@@ -20,7 +21,7 @@
         "fighter_id": "e1248941344b3288",
         "name": "Alexander Volkanovski",
         "age_at_fight": 31,
-        "height_cm": 167.64000000000001,
+        "height_cm": 167.64,
         "weight_lbs": 145,
         "reach_cm": 180.34,
         "stance": "Orthodox",
@@ -106,7 +107,7 @@
     },
     "matchup": {
         "age_diff": 3,
-        "height_diff_cm": -12.699999999999989,
+        "height_diff_cm": -12.700000000000017,
         "reach_diff_cm": 5.0800000000000125
     }
 }

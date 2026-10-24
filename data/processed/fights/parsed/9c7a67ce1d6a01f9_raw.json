@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9c7a67ce1d6a01f9",
+        "event_id": "04d5718ed2661e8c",
+        "event_name": "UFC Fight Night: Condit vs Kampmann",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 20",
+            "Sig. str. %": "35%",
+            "Total str.": "46 of 65",
+            "Td": "5 of 13",
+            "Td %": "38%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "10:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 20",
+            "Sig. str. %": "35%",
+            "Head": "5 of 18",
+            "Body": "1 of 1",
+            "Leg": "1 of 1",
+            "Distance": "3 of 12",
+            "Clinch": "2 of 2",
+            "Ground": "2 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "18968f97ad34f15c",
+        "name": "Jeremy Stephens",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 40",
+            "Sig. str. %": "57%",
+            "Total str.": "40 of 57",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 40",
+            "Sig. str. %": "57%",
+            "Head": "8 of 23",
+            "Body": "9 of 9",
+            "Leg": "6 of 8",
+            "Distance": "5 of 17",
+            "Clinch": "14 of 17",
+            "Ground": "4 of 6"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c6aee362c7a7d482",
+    "name": "Randy Brown",
+    "wins": 20,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 190.5,
+    "weight_lbs": 170,
+    "reach_cm": 198.12,
+    "stance": "Orthodox",
+    "dob_day": 8,
+    "dob_month": 7,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 4.39,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 3.35,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 0.71,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.74,
+    "submission_attempts_per_15_min": 0.5
+}

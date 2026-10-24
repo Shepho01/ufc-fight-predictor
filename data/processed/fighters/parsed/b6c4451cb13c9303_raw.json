@@ -1,0 +1,44 @@
+{
+    "fighter_id": "b6c4451cb13c9303",
+    "name": "Andy Ogle",
+    "record": "9-6-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Feb 16, 1989",
+    "sig_strikes_landed_per_min": "2.24",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.23",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.44",
+    "takedown_accuracy": "26%",
+    "takedown_defense": "58%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "9c1d4f57a997a490",
+            "fight_url": "http://ufcstats.com/fight-details/9c1d4f57a997a490"
+        },
+        {
+            "fight_id": "47bdfab3cdcdddfd",
+            "fight_url": "http://ufcstats.com/fight-details/47bdfab3cdcdddfd"
+        },
+        {
+            "fight_id": "b96e1222eb1a0faf",
+            "fight_url": "http://ufcstats.com/fight-details/b96e1222eb1a0faf"
+        },
+        {
+            "fight_id": "0051d7fbb7893d27",
+            "fight_url": "http://ufcstats.com/fight-details/0051d7fbb7893d27"
+        },
+        {
+            "fight_id": "d607908be8b19273",
+            "fight_url": "http://ufcstats.com/fight-details/d607908be8b19273"
+        },
+        {
+            "fight_id": "cc6934588298958e",
+            "fight_url": "http://ufcstats.com/fight-details/cc6934588298958e"
+        }
+    ]
+}

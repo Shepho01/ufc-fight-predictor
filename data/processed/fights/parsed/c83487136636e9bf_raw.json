@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c83487136636e9bf",
+        "event_id": "9e30f69cc0869301",
+        "event_name": "UFC 218: Holloway vs. Aldo 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:06",
+        "referee": "Dan Miragliotta",
+        "winner_id": "e5010b1b94ca5755"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 13",
+            "Sig. str. %": "46%",
+            "Total str.": "12 of 20",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "2:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 13",
+            "Sig. str. %": "46%",
+            "Head": "3 of 8",
+            "Body": "0 of 1",
+            "Leg": "3 of 4",
+            "Distance": "3 of 5",
+            "Clinch": "1 of 2",
+            "Ground": "2 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e5010b1b94ca5755",
+        "name": "Paul Felder",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 46",
+            "Sig. str. %": "67%",
+            "Total str.": "37 of 52",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 46",
+            "Sig. str. %": "67%",
+            "Head": "26 of 40",
+            "Body": "4 of 5",
+            "Leg": "1 of 1",
+            "Distance": "1 of 4",
+            "Clinch": "4 of 4",
+            "Ground": "26 of 38"
+        }
+    }
+}

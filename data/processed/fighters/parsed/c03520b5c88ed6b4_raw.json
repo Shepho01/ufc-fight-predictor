@@ -1,0 +1,92 @@
+{
+    "fighter_id": "c03520b5c88ed6b4",
+    "name": "Merab Dvalishvili",
+    "record": "21-5-0",
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jan 10, 1991",
+    "sig_strikes_landed_per_min": "4.42",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.80",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "5.97",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "e262f5e588b149a6",
+            "fight_url": "http://ufcstats.com/fight-details/e262f5e588b149a6"
+        },
+        {
+            "fight_id": "4a0db214d9721d6e",
+            "fight_url": "http://ufcstats.com/fight-details/4a0db214d9721d6e"
+        },
+        {
+            "fight_id": "a8511df8285f5c91",
+            "fight_url": "http://ufcstats.com/fight-details/a8511df8285f5c91"
+        },
+        {
+            "fight_id": "e61d83e4e1f9c4d7",
+            "fight_url": "http://ufcstats.com/fight-details/e61d83e4e1f9c4d7"
+        },
+        {
+            "fight_id": "f39941b3743bf18c",
+            "fight_url": "http://ufcstats.com/fight-details/f39941b3743bf18c"
+        },
+        {
+            "fight_id": "3146e5a47a922976",
+            "fight_url": "http://ufcstats.com/fight-details/3146e5a47a922976"
+        },
+        {
+            "fight_id": "9785420602b452f7",
+            "fight_url": "http://ufcstats.com/fight-details/9785420602b452f7"
+        },
+        {
+            "fight_id": "0ccd2593c88209e4",
+            "fight_url": "http://ufcstats.com/fight-details/0ccd2593c88209e4"
+        },
+        {
+            "fight_id": "2ac3ce1f62b3c4b9",
+            "fight_url": "http://ufcstats.com/fight-details/2ac3ce1f62b3c4b9"
+        },
+        {
+            "fight_id": "bc276e0f07e30a54",
+            "fight_url": "http://ufcstats.com/fight-details/bc276e0f07e30a54"
+        },
+        {
+            "fight_id": "26202a4bd36d3fd2",
+            "fight_url": "http://ufcstats.com/fight-details/26202a4bd36d3fd2"
+        },
+        {
+            "fight_id": "57939328c1214107",
+            "fight_url": "http://ufcstats.com/fight-details/57939328c1214107"
+        },
+        {
+            "fight_id": "05061dd590c9eb34",
+            "fight_url": "http://ufcstats.com/fight-details/05061dd590c9eb34"
+        },
+        {
+            "fight_id": "51218519be104794",
+            "fight_url": "http://ufcstats.com/fight-details/51218519be104794"
+        },
+        {
+            "fight_id": "e6b2d6d33968c66c",
+            "fight_url": "http://ufcstats.com/fight-details/e6b2d6d33968c66c"
+        },
+        {
+            "fight_id": "6455d9c54d99b851",
+            "fight_url": "http://ufcstats.com/fight-details/6455d9c54d99b851"
+        },
+        {
+            "fight_id": "a017d5806eaa6018",
+            "fight_url": "http://ufcstats.com/fight-details/a017d5806eaa6018"
+        },
+        {
+            "fight_id": "ab853176cfe20b01",
+            "fight_url": "http://ufcstats.com/fight-details/ab853176cfe20b01"
+        }
+    ]
+}

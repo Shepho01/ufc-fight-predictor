@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "b0a6124751a56bc4",
+        "event_name": "UFC 277: Pena vs. Nunes 2",
+        "event_day": 30,
+        "event_month": 7,
+        "event_year": 2022,
+        "location": "Dallas, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "72c3e5eacde4f0e5",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Julianna Pena",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/72c3e5eacde4f0e5"
+        },
+        {
+            "fight_id": "5a1ce88ec1f75160",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Kai Kara-France",
+            "winner": "Brandon Moreno",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/5a1ce88ec1f75160"
+        },
+        {
+            "fight_id": "52f87252af59e23b",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 55,
+            "fight_url": "http://ufcstats.com/fight-details/52f87252af59e23b"
+        },
+        {
+            "fight_id": "96b62bd56b252bab",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Alex Perez",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "SUB Neck Crank",
+            "round": 1,
+            "time_seconds": 91,
+            "fight_url": "http://ufcstats.com/fight-details/96b62bd56b252bab"
+        },
+        {
+            "fight_id": "058c2724dec1add1",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Anthony Smith",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 189,
+            "fight_url": "http://ufcstats.com/fight-details/058c2724dec1add1"
+        },
+        {
+            "fight_id": "579b5770129b328a",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Matthew Semelsberger",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/579b5770129b328a"
+        },
+        {
+            "fight_id": "81a18de517a3336a",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Rafael Alves",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/81a18de517a3336a"
+        },
+        {
+            "fight_id": "5a2b86570110191b",
+            "fighter_a": "Don'Tale Mayes",
+            "fighter_b": "Hamdy Abdelwahab",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5a2b86570110191b"
+        },
+        {
+            "fight_id": "189b9af881b96de6",
+            "fighter_a": "Drakkar Klose",
+            "fighter_b": "Rafa Garcia",
+            "winner": "Drakkar Klose",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/189b9af881b96de6"
+        },
+        {
+            "fight_id": "e492dc60d8e44866",
+            "fighter_a": "Michael Morales",
+            "fighter_b": "Adam Fugitt",
+            "winner": "Michael Morales",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/e492dc60d8e44866"
+        },
+        {
+            "fight_id": "0366e183296fea07",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Ji Yeon Kim",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0366e183296fea07"
+        },
+        {
+            "fight_id": "1ed550f094ca7745",
+            "fighter_a": "Nicolae Negumereanu",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Nicolae Negumereanu",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knees",
+            "round": 2,
+            "time_seconds": 213,
+            "fight_url": "http://ufcstats.com/fight-details/1ed550f094ca7745"
+        },
+        {
+            "fight_id": "66f7bb31d24b3b36",
+            "fighter_a": "Orion Cosce",
+            "fighter_b": "Blood Diamond",
+            "winner": "Orion Cosce",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/66f7bb31d24b3b36"
+        }
+    ]
+}

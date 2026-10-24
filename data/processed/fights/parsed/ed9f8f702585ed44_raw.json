@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ed9f8f702585ed44",
+        "event_id": "1ccff7f0cfdf85eb",
+        "event_name": "UFC 285: Jones vs. Gane",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:22",
+        "referee": "Marc Goddard",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "127 of 231",
+            "Sig. str. %": "54%",
+            "Total str.": "127 of 231",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "127 of 231",
+            "Sig. str. %": "54%",
+            "Head": "58 of 149",
+            "Body": "36 of 46",
+            "Leg": "33 of 36",
+            "Distance": "119 of 220",
+            "Clinch": "1 of 1",
+            "Ground": "7 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "32490e80ddab1e5a",
+        "name": "Song Kenan",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "55 of 110",
+            "Sig. str. %": "50%",
+            "Total str.": "61 of 120",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 110",
+            "Sig. str. %": "50%",
+            "Head": "18 of 69",
+            "Body": "8 of 9",
+            "Leg": "29 of 32",
+            "Distance": "45 of 94",
+            "Clinch": "7 of 8",
+            "Ground": "3 of 8"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "92975b516e6463b6",
+        "event_id": "7c0847d3854a95f2",
+        "event_name": "UFC 104: Machida vs Shogun",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Josh Rosenthal",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 121",
+            "Sig. str. %": "18%",
+            "Total str.": "35 of 135",
+            "Td": "11 of 14",
+            "Td %": "78%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "4:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 121",
+            "Sig. str. %": "18%",
+            "Head": "21 of 118",
+            "Body": "1 of 3",
+            "Leg": "0 of 0",
+            "Distance": "19 of 114",
+            "Clinch": "2 of 4",
+            "Ground": "1 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d1a1314976c50bef",
+        "name": "Josh Neer",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 99",
+            "Sig. str. %": "24%",
+            "Total str.": "47 of 123",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 99",
+            "Sig. str. %": "24%",
+            "Head": "12 of 79",
+            "Body": "5 of 8",
+            "Leg": "7 of 12",
+            "Distance": "22 of 93",
+            "Clinch": "1 of 3",
+            "Ground": "1 of 3"
+        }
+    }
+}

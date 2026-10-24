@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "e7bfdb5e0112891e",
+        "event_name": "UFC 210: Cormier vs. Johnson 2",
+        "event_day": 8,
+        "event_month": 4,
+        "event_year": 2017,
+        "location": "Buffalo, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ea8eaf881d38713e",
+            "fighter_a": "Daniel Cormier",
+            "fighter_b": "Anthony Johnson",
+            "winner": "Daniel Cormier",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/ea8eaf881d38713e"
+        },
+        {
+            "fight_id": "87a969d51de6e179",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Chris Weidman",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 193,
+            "fight_url": "http://ufcstats.com/fight-details/87a969d51de6e179"
+        },
+        {
+            "fight_id": "687d973d71e068dc",
+            "fighter_a": "Cynthia Calvillo",
+            "fighter_b": "Pearl Gonzalez",
+            "winner": "Cynthia Calvillo",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 225,
+            "fight_url": "http://ufcstats.com/fight-details/687d973d71e068dc"
+        },
+        {
+            "fight_id": "a68672f66e12a3c2",
+            "fighter_a": "Thiago Alves",
+            "fighter_b": "Patrick Cote",
+            "winner": "Thiago Alves",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a68672f66e12a3c2"
+        },
+        {
+            "fight_id": "56c7c59c9bb3b610",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Will Brooks",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 150,
+            "fight_url": "http://ufcstats.com/fight-details/56c7c59c9bb3b610"
+        },
+        {
+            "fight_id": "23ba0218f9f65e33",
+            "fighter_a": "Myles Jury",
+            "fighter_b": "Mike de la Torre",
+            "winner": "Myles Jury",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 210,
+            "fight_url": "http://ufcstats.com/fight-details/23ba0218f9f65e33"
+        },
+        {
+            "fight_id": "b2c1f9bdd5d3073d",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Sean Strickland",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b2c1f9bdd5d3073d"
+        },
+        {
+            "fight_id": "ddb015ac5c067aa9",
+            "fighter_a": "Shane Burgos",
+            "fighter_b": "Charles Rosa",
+            "winner": "Shane Burgos",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/ddb015ac5c067aa9"
+        },
+        {
+            "fight_id": "e7ad1c3a763c7cae",
+            "fighter_a": "Patrick Cummins",
+            "fighter_b": "Jan Blachowicz",
+            "winner": "Patrick Cummins",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e7ad1c3a763c7cae"
+        },
+        {
+            "fight_id": "8b4eeaa048361ba3",
+            "fighter_a": "Gregor Gillespie",
+            "fighter_b": "Andrew Holbrook",
+            "winner": "Gregor Gillespie",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 21,
+            "fight_url": "http://ufcstats.com/fight-details/8b4eeaa048361ba3"
+        },
+        {
+            "fight_id": "97b7638c592a95a9",
+            "fighter_a": "Desmond Green",
+            "fighter_b": "Josh Emmett",
+            "winner": "Desmond Green",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/97b7638c592a95a9"
+        },
+        {
+            "fight_id": "2464a75ee75dbf2f",
+            "fighter_a": "Katlyn Cerminara",
+            "fighter_b": "Irene Aldana",
+            "winner": "Katlyn Cerminara",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2464a75ee75dbf2f"
+        },
+        {
+            "fight_id": "c4da9ec26a924a7d",
+            "fighter_a": "Magomed Bibulatov",
+            "fighter_b": "Jenel Lausa",
+            "winner": "Magomed Bibulatov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4da9ec26a924a7d"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "eb6d9fef6c374830",
+        "event_id": "872b018076f831b0",
+        "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "3:17",
+        "referee": "Mike Beltran",
+        "winner_id": "7ee0fd831c0fe7c3"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 76",
+            "Sig. str. %": "53%",
+            "Total str.": "53 of 90",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 76",
+            "Sig. str. %": "53%",
+            "Head": "25 of 52",
+            "Body": "8 of 15",
+            "Leg": "8 of 9",
+            "Distance": "41 of 76",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7ee0fd831c0fe7c3",
+        "name": "Carlos Prates",
+        "result": "W",
+        "totals": {
+            "KD": "3",
+            "Sig. str.": "104 of 193",
+            "Sig. str. %": "53%",
+            "Total str.": "104 of 193",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "104 of 193",
+            "Sig. str. %": "53%",
+            "Head": "79 of 164",
+            "Body": "11 of 14",
+            "Leg": "14 of 15",
+            "Distance": "89 of 171",
+            "Clinch": "1 of 1",
+            "Ground": "14 of 21"
+        }
+    }
+}

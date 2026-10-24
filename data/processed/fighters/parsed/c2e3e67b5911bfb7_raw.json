@@ -1,0 +1,60 @@
+{
+    "fighter_id": "c2e3e67b5911bfb7",
+    "name": "Diego Brandao",
+    "record": "22-11-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "May 27, 1987",
+    "sig_strikes_landed_per_min": "2.94",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.38",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "3.21",
+    "takedown_accuracy": "68%",
+    "takedown_defense": "80%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "71499934c065fecb",
+            "fight_url": "http://ufcstats.com/fight-details/71499934c065fecb"
+        },
+        {
+            "fight_id": "1c5bed46920ab3e1",
+            "fight_url": "http://ufcstats.com/fight-details/1c5bed46920ab3e1"
+        },
+        {
+            "fight_id": "4785bf265d05d85f",
+            "fight_url": "http://ufcstats.com/fight-details/4785bf265d05d85f"
+        },
+        {
+            "fight_id": "1e603e6aa6d1a750",
+            "fight_url": "http://ufcstats.com/fight-details/1e603e6aa6d1a750"
+        },
+        {
+            "fight_id": "5e4f358e0bcc2f15",
+            "fight_url": "http://ufcstats.com/fight-details/5e4f358e0bcc2f15"
+        },
+        {
+            "fight_id": "a2c0f4142ba4ba75",
+            "fight_url": "http://ufcstats.com/fight-details/a2c0f4142ba4ba75"
+        },
+        {
+            "fight_id": "f3ebaf9af44c1e6d",
+            "fight_url": "http://ufcstats.com/fight-details/f3ebaf9af44c1e6d"
+        },
+        {
+            "fight_id": "eaa0355223b770dc",
+            "fight_url": "http://ufcstats.com/fight-details/eaa0355223b770dc"
+        },
+        {
+            "fight_id": "b187bdcc2ceba00f",
+            "fight_url": "http://ufcstats.com/fight-details/b187bdcc2ceba00f"
+        },
+        {
+            "fight_id": "6e85d8d17c3eed58",
+            "fight_url": "http://ufcstats.com/fight-details/6e85d8d17c3eed58"
+        }
+    ]
+}

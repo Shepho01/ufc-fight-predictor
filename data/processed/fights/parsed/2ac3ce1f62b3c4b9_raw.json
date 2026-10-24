@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2ac3ce1f62b3c4b9",
+        "event_id": "4f853e98886283cf",
+        "event_name": "UFC 278: Usman vs. Edwards",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "c03520b5c88ed6b4"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 67",
+            "Sig. str. %": "56%",
+            "Total str.": "59 of 92",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 67",
+            "Sig. str. %": "56%",
+            "Head": "11 of 35",
+            "Body": "21 of 25",
+            "Leg": "6 of 7",
+            "Distance": "35 of 63",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c03520b5c88ed6b4",
+        "name": "Merab Dvalishvili",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 147",
+            "Sig. str. %": "38%",
+            "Total str.": "135 of 230",
+            "Td": "0 of 16",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 147",
+            "Sig. str. %": "38%",
+            "Head": "20 of 102",
+            "Body": "10 of 14",
+            "Leg": "27 of 31",
+            "Distance": "43 of 132",
+            "Clinch": "14 of 15",
+            "Ground": "0 of 0"
+        }
+    }
+}

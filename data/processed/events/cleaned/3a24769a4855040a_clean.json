@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "3a24769a4855040a",
+        "event_name": "UFC 275: Teixeira vs. Prochazka",
+        "event_day": 11,
+        "event_month": 6,
+        "event_year": 2022,
+        "location": "Kallang, Singapore"
+    },
+    "fights": [
+        {
+            "fight_id": "fd49f89b9d97566b",
+            "fighter_a": "Jiri Prochazka",
+            "fighter_b": "Glover Teixeira",
+            "winner": "Jiri Prochazka",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 5,
+            "time_seconds": 272,
+            "fight_url": "http://ufcstats.com/fight-details/fd49f89b9d97566b"
+        },
+        {
+            "fight_id": "049ad6d87b42eba8",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Taila Santos",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/049ad6d87b42eba8"
+        },
+        {
+            "fight_id": "4305cb30533dac77",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Joanna Jedrzejczyk",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": 2,
+            "time_seconds": 148,
+            "fight_url": "http://ufcstats.com/fight-details/4305cb30533dac77"
+        },
+        {
+            "fight_id": "d7a7ba46c4f075d7",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Andre Fialho",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/d7a7ba46c4f075d7"
+        },
+        {
+            "fight_id": "f115a91066a77ee7",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Ramazan Emeev",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 152,
+            "fight_url": "http://ufcstats.com/fight-details/f115a91066a77ee7"
+        },
+        {
+            "fight_id": "c94b153951be7590",
+            "fighter_a": "Josh Culibao",
+            "fighter_b": "SeungWoo Choi",
+            "winner": "Josh Culibao",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c94b153951be7590"
+        },
+        {
+            "fight_id": "4a116a55ffaa0d64",
+            "fighter_a": "Maheshate",
+            "fighter_b": "Steve Garcia",
+            "winner": "Maheshate",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 74,
+            "fight_url": "http://ufcstats.com/fight-details/4a116a55ffaa0d64"
+        },
+        {
+            "fight_id": "50eed57ea1390e16",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Jacob Malkoun",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/50eed57ea1390e16"
+        },
+        {
+            "fight_id": "029f5c36820fdc09",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Batgerel Danaa",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/029f5c36820fdc09"
+        },
+        {
+            "fight_id": "f466cd99d02644e9",
+            "fighter_a": "Silvana Gomez Juarez",
+            "fighter_b": "Liang Na",
+            "winner": "Silvana Gomez Juarez",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 82,
+            "fight_url": "http://ufcstats.com/fight-details/f466cd99d02644e9"
+        },
+        {
+            "fight_id": "5f4a107d930e4852",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Ramona Pascual",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f4a107d930e4852"
+        }
+    ]
+}

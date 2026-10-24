@@ -1,0 +1,64 @@
+{
+    "fighter_id": "24656ef4d605c96f",
+    "name": "Aiemann Zahabi",
+    "record": "14-3-0",
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Nov 19, 1987",
+    "sig_strikes_landed_per_min": "4.47",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "4.11",
+    "sig_strike_defense": "68%",
+    "takedowns_landed_per_15_min": "0.12",
+    "takedown_accuracy": "14%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "60de0423ae6ed097",
+            "fight_url": "http://ufcstats.com/fight-details/60de0423ae6ed097"
+        },
+        {
+            "fight_id": "857d274e47aa8c4e",
+            "fight_url": "http://ufcstats.com/fight-details/857d274e47aa8c4e"
+        },
+        {
+            "fight_id": "891b2faf1bff38ee",
+            "fight_url": "http://ufcstats.com/fight-details/891b2faf1bff38ee"
+        },
+        {
+            "fight_id": "b989d4d7e220b3c1",
+            "fight_url": "http://ufcstats.com/fight-details/b989d4d7e220b3c1"
+        },
+        {
+            "fight_id": "a7d397cd0f2ac93a",
+            "fight_url": "http://ufcstats.com/fight-details/a7d397cd0f2ac93a"
+        },
+        {
+            "fight_id": "e24b65cd8721349a",
+            "fight_url": "http://ufcstats.com/fight-details/e24b65cd8721349a"
+        },
+        {
+            "fight_id": "c58b3223b5caa18a",
+            "fight_url": "http://ufcstats.com/fight-details/c58b3223b5caa18a"
+        },
+        {
+            "fight_id": "b9cd4910f0ecff45",
+            "fight_url": "http://ufcstats.com/fight-details/b9cd4910f0ecff45"
+        },
+        {
+            "fight_id": "c936527df280b8b4",
+            "fight_url": "http://ufcstats.com/fight-details/c936527df280b8b4"
+        },
+        {
+            "fight_id": "56d8cc470841f454",
+            "fight_url": "http://ufcstats.com/fight-details/56d8cc470841f454"
+        },
+        {
+            "fight_id": "ad9ecef413a5b48f",
+            "fight_url": "http://ufcstats.com/fight-details/ad9ecef413a5b48f"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3d3e7dc7b4bf2bc4",
+        "event_id": "4304992c2acc187b",
+        "event_name": "UFC 257: Poirier vs. McGregor",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:32",
+        "referee": "Herb Dean",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "48 of 91",
+            "Sig. str. %": "52%",
+            "Total str.": "53 of 98",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "48 of 91",
+            "Sig. str. %": "52%",
+            "Head": "30 of 69",
+            "Body": "0 of 1",
+            "Leg": "18 of 21",
+            "Distance": "46 of 89",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f4c49976c75c5ab2",
+        "name": "Conor McGregor",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 66",
+            "Sig. str. %": "43%",
+            "Total str.": "52 of 92",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 66",
+            "Sig. str. %": "43%",
+            "Head": "23 of 60",
+            "Body": "4 of 4",
+            "Leg": "2 of 2",
+            "Distance": "27 of 63",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

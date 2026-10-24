@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3e6b5cb3c37bef3b",
+        "event_id": "f9f07bb5a43535ed",
+        "event_name": "UFC Fight Night: Bisping vs Kennedy",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "0:42",
+        "referee": "Dan Miragliotta",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "45 of 89",
+            "Sig. str. %": "50%",
+            "Total str.": "46 of 90",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 89",
+            "Sig. str. %": "50%",
+            "Head": "37 of 78",
+            "Body": "8 of 9",
+            "Leg": "0 of 2",
+            "Distance": "31 of 73",
+            "Clinch": "12 of 14",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "3f52ce18fb98008f",
+        "name": "Akira Corassani",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 66",
+            "Sig. str. %": "36%",
+            "Total str.": "24 of 66",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 66",
+            "Sig. str. %": "36%",
+            "Head": "19 of 57",
+            "Body": "5 of 9",
+            "Leg": "0 of 0",
+            "Distance": "21 of 61",
+            "Clinch": "3 of 5",
+            "Ground": "0 of 0"
+        }
+    }
+}

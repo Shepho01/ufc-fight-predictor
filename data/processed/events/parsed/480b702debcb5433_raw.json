@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "480b702debcb5433",
+        "event_name": "UFC on FOX: Johnson vs. Benavidez 2",
+        "event_date": "December 14, 2013",
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e6663b2c16df6191",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:08",
+            "fight_url": "http://ufcstats.com/fight-details/e6663b2c16df6191"
+        },
+        {
+            "fight_id": "00566b4d89565373",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Michael McDonald",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "3:22",
+            "fight_url": "http://ufcstats.com/fight-details/00566b4d89565373"
+        },
+        {
+            "fight_id": "631f0721b3fc56dc",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Nik Lentz",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/631f0721b3fc56dc"
+        },
+        {
+            "fight_id": "319d75c21fbb5d3f",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Mac Danzig",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/319d75c21fbb5d3f"
+        },
+        {
+            "fight_id": "c1d2ce95229cdbd9",
+            "fighter_a": "Ryan LaFlare",
+            "fighter_b": "Court McGee",
+            "winner": "Ryan LaFlare",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c1d2ce95229cdbd9"
+        },
+        {
+            "fight_id": "a5c76ead1a2767b6",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Danny Castillo",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a5c76ead1a2767b6"
+        },
+        {
+            "fight_id": "f5fb4435faf1ca04",
+            "fighter_a": "King Green",
+            "fighter_b": "Pat Healy",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f5fb4435faf1ca04"
+        },
+        {
+            "fight_id": "5ffccdf4af20dc0d",
+            "fighter_a": "Zach Makovsky",
+            "fighter_b": "Scott Jorgensen",
+            "winner": "Zach Makovsky",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5ffccdf4af20dc0d"
+        },
+        {
+            "fight_id": "5929c539190c8a07",
+            "fighter_a": "Sam Stout",
+            "fighter_b": "Cody McKenzie",
+            "winner": "Sam Stout",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5929c539190c8a07"
+        },
+        {
+            "fight_id": "4618dcef2dc6250f",
+            "fighter_a": "Abel Trujillo",
+            "fighter_b": "Roger Bowling",
+            "winner": "Abel Trujillo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/4618dcef2dc6250f"
+        },
+        {
+            "fight_id": "0f215b143e08f425",
+            "fighter_a": "Alptekin Ozkilic",
+            "fighter_b": "Darren Uyenoyama",
+            "winner": "Alptekin Ozkilic",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f215b143e08f425"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "fighter_id": "de12bd65e2f46478",
+    "name": "Pat Schilling",
+    "record": "5-2-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Aug 28, 1988",
+    "sig_strikes_landed_per_min": "1.87",
+    "sig_striking_accuracy": "26%",
+    "sig_strikes_absorbed_per_min": "8.24",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "fe1ce9e3a38a734b",
+            "fight_url": "http://ufcstats.com/fight-details/fe1ce9e3a38a734b"
+        },
+        {
+            "fight_id": "f4bdf10856c1760e",
+            "fight_url": "http://ufcstats.com/fight-details/f4bdf10856c1760e"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "03eecf1926d9c77c",
+        "event_id": "53e4e21f4c688801",
+        "event_name": "UFC Fight Night: Dariush vs. Tsarukyan",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:49",
+        "referee": "Kerry Hatley",
+        "winner_id": "4d8fa64202cee4c1"
+    },
+    "fighter_a": {
+        "fighter_id": "4d8fa64202cee4c1",
+        "name": "Jalin Turner",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "33 of 60",
+            "Sig. str. %": "55%",
+            "Total str.": "33 of 60",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 60",
+            "Sig. str. %": "55%",
+            "Head": "26 of 48",
+            "Body": "2 of 4",
+            "Leg": "5 of 8",
+            "Distance": "18 of 41",
+            "Clinch": "0 of 0",
+            "Ground": "15 of 19"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 26",
+            "Sig. str. %": "57%",
+            "Total str.": "15 of 26",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 26",
+            "Sig. str. %": "57%",
+            "Head": "5 of 14",
+            "Body": "3 of 4",
+            "Leg": "7 of 8",
+            "Distance": "14 of 24",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

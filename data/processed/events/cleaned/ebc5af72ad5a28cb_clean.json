@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "ebc5af72ad5a28cb",
+        "event_name": "UFC 163: Aldo vs Jung",
+        "event_day": 3,
+        "event_month": 8,
+        "event_year": 2013,
+        "location": "Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "72e1b3e1224f5314",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 4,
+            "time_seconds": 120,
+            "fight_url": "http://ufcstats.com/fight-details/72e1b3e1224f5314"
+        },
+        {
+            "fight_id": "a602962f1dda3205",
+            "fighter_a": "Phil Davis",
+            "fighter_b": "Lyoto Machida",
+            "winner": "Phil Davis",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a602962f1dda3205"
+        },
+        {
+            "fight_id": "1acdcfe32d975f42",
+            "fighter_a": "Cezar Ferreira",
+            "fighter_b": "Thiago Santos",
+            "winner": "Cezar Ferreira",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 47,
+            "fight_url": "http://ufcstats.com/fight-details/1acdcfe32d975f42"
+        },
+        {
+            "fight_id": "af0327945c9656e0",
+            "fighter_a": "Thales Leites",
+            "fighter_b": "Tom Watson",
+            "winner": "Thales Leites",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/af0327945c9656e0"
+        },
+        {
+            "fight_id": "5f9b11f4cb3057f2",
+            "fighter_a": "John Lineker",
+            "fighter_b": "Jose Maria",
+            "winner": "John Lineker",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 63,
+            "fight_url": "http://ufcstats.com/fight-details/5f9b11f4cb3057f2"
+        },
+        {
+            "fight_id": "4c6030fafb46330f",
+            "fighter_a": "Anthony Perosh",
+            "fighter_b": "Vinny Magalhaes",
+            "winner": "Anthony Perosh",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 14,
+            "fight_url": "http://ufcstats.com/fight-details/4c6030fafb46330f"
+        },
+        {
+            "fight_id": "168413032bb51ce0",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Sheila Gaff",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 128,
+            "fight_url": "http://ufcstats.com/fight-details/168413032bb51ce0"
+        },
+        {
+            "fight_id": "3846db1456151f80",
+            "fighter_a": "Sergio Moraes",
+            "fighter_b": "Neil Magny",
+            "winner": "Sergio Moraes",
+            "weight_class": "Welterweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 193,
+            "fight_url": "http://ufcstats.com/fight-details/3846db1456151f80"
+        },
+        {
+            "fight_id": "5f2065f737591226",
+            "fighter_a": "Ian McCall",
+            "fighter_b": "Iliarde Santos",
+            "winner": "Ian McCall",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f2065f737591226"
+        },
+        {
+            "fight_id": "bf6857338637013b",
+            "fighter_a": "Rani Yahya",
+            "fighter_b": "Josh Clopton",
+            "winner": "Rani Yahya",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bf6857338637013b"
+        },
+        {
+            "fight_id": "7b97ca2c378e7782",
+            "fighter_a": "Francimar Barroso",
+            "fighter_b": "Ednaldo Oliveira",
+            "winner": "Francimar Barroso",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7b97ca2c378e7782"
+        },
+        {
+            "fight_id": "4f8b6eecb0361290",
+            "fighter_a": "Viscardi Andrade",
+            "fighter_b": "Bristol Marunde",
+            "winner": "Viscardi Andrade",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 96,
+            "fight_url": "http://ufcstats.com/fight-details/4f8b6eecb0361290"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "79bfba62da6242a6",
+        "event_id": "6f81b6de2557739a",
+        "event_name": "UFC Fight Night: Sandhagen vs. Font",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:38",
+        "referee": "Jimmy Neely",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 4",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 4",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 4",
+            "Sig. str. %": "0%",
+            "Head": "0 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 1",
+            "Distance": "0 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "da816417a579a0bd",
+        "name": "Gavin Tucker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 6",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 6",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 6",
+            "Sig. str. %": "0%",
+            "Head": "0 of 6",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

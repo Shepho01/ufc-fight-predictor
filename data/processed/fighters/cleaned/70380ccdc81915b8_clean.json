@@ -1,0 +1,23 @@
+{
+    "fighter_id": "70380ccdc81915b8",
+    "name": "Yadier del Valle",
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Southpaw",
+    "dob_day": 29,
+    "dob_month": 7,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 4.12,
+    "sig_striking_accuracy": 0.61,
+    "sig_strikes_absorbed_per_min": 2.13,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 1.21,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 2.0
+}

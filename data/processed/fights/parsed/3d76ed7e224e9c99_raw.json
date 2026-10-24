@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3d76ed7e224e9c99",
+        "event_id": "04076783ca83d6ae",
+        "event_name": "UFC 219: Cyborg vs. Holm",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "0:42",
+        "referee": "Herb Dean",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 40",
+            "Sig. str. %": "42%",
+            "Total str.": "24 of 48",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 40",
+            "Sig. str. %": "42%",
+            "Head": "3 of 16",
+            "Body": "3 of 10",
+            "Leg": "11 of 14",
+            "Distance": "17 of 40",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "32c355b04fc57f3a",
+        "name": "Marc Diakiese",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 69",
+            "Sig. str. %": "34%",
+            "Total str.": "41 of 87",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "0:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 69",
+            "Sig. str. %": "34%",
+            "Head": "9 of 34",
+            "Body": "4 of 9",
+            "Leg": "11 of 26",
+            "Distance": "23 of 68",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

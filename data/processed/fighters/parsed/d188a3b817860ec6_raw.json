@@ -1,0 +1,56 @@
+{
+    "fighter_id": "d188a3b817860ec6",
+    "name": "Steven Siler",
+    "record": "29-16-0",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Feb 15, 1987",
+    "sig_strikes_landed_per_min": "3.21",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.96",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.47",
+    "takedown_accuracy": "21%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "1.6",
+    "fight_history": [
+        {
+            "fight_id": "55b3724a98c0469c",
+            "fight_url": "http://ufcstats.com/fight-details/55b3724a98c0469c"
+        },
+        {
+            "fight_id": "995f0dcdcd5fe43c",
+            "fight_url": "http://ufcstats.com/fight-details/995f0dcdcd5fe43c"
+        },
+        {
+            "fight_id": "ce30634422a264f9",
+            "fight_url": "http://ufcstats.com/fight-details/ce30634422a264f9"
+        },
+        {
+            "fight_id": "05dce98da0acefd8",
+            "fight_url": "http://ufcstats.com/fight-details/05dce98da0acefd8"
+        },
+        {
+            "fight_id": "6d6a1834e0d18f0c",
+            "fight_url": "http://ufcstats.com/fight-details/6d6a1834e0d18f0c"
+        },
+        {
+            "fight_id": "e843a7a6f49db3bb",
+            "fight_url": "http://ufcstats.com/fight-details/e843a7a6f49db3bb"
+        },
+        {
+            "fight_id": "cd055be419f77f3e",
+            "fight_url": "http://ufcstats.com/fight-details/cd055be419f77f3e"
+        },
+        {
+            "fight_id": "54b7b3378e394070",
+            "fight_url": "http://ufcstats.com/fight-details/54b7b3378e394070"
+        },
+        {
+            "fight_id": "21ebc940f3dfde82",
+            "fight_url": "http://ufcstats.com/fight-details/21ebc940f3dfde82"
+        }
+    ]
+}

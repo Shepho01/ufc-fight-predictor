@@ -1,0 +1,23 @@
+{
+    "fighter_id": "5095b0920a3602aa",
+    "name": "Blake Bilder",
+    "wins": 8,
+    "losses": 2,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 172.72,
+    "stance": "Switch",
+    "dob_day": 12,
+    "dob_month": 7,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 3.81,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 4.15,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 0.31,
+    "takedown_accuracy": 0.07,
+    "takedown_defense": 0.71,
+    "submission_attempts_per_15_min": 0.6
+}

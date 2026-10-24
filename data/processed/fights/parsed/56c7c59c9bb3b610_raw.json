@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "56c7c59c9bb3b610",
+        "event_id": "e7bfdb5e0112891e",
+        "event_name": "UFC 210: Cormier vs. Johnson 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "2:30",
+        "referee": "John McCarthy",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "b6e6c3b1dcaae0a1",
+        "name": "Will Brooks",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 5",
+            "Sig. str. %": "80%",
+            "Total str.": "8 of 9",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 5",
+            "Sig. str. %": "80%",
+            "Head": "1 of 2",
+            "Body": "2 of 2",
+            "Leg": "1 of 1",
+            "Distance": "4 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 7",
+            "Sig. str. %": "42%",
+            "Total str.": "3 of 7",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 7",
+            "Sig. str. %": "42%",
+            "Head": "0 of 2",
+            "Body": "1 of 2",
+            "Leg": "2 of 3",
+            "Distance": "2 of 6",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

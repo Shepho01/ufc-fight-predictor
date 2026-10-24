@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7413b80dbb0f8f9f",
+    "name": "Lucas Martins",
+    "wins": 19,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Southpaw",
+    "dob_day": 11,
+    "dob_month": 11,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 2.87,
+    "sig_striking_accuracy": 0.35,
+    "sig_strikes_absorbed_per_min": 4.14,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.76,
+    "submission_attempts_per_15_min": 0.5
+}

@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "6597b611f1c32555",
+        "event_name": "UFC 260: Miocic vs. Ngannou",
+        "event_date": "March 27, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b1eff235241e719b",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Stipe Miocic",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:52",
+            "fight_url": "http://ufcstats.com/fight-details/b1eff235241e719b"
+        },
+        {
+            "fight_id": "39d188fa9b95d550",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Tyron Woodley",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "SUB D'Arce Choke",
+            "round": "1",
+            "time": "3:56",
+            "fight_url": "http://ufcstats.com/fight-details/39d188fa9b95d550"
+        },
+        {
+            "fight_id": "0aa335dbc4cb3473",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Thomas Almeida",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/0aa335dbc4cb3473"
+        },
+        {
+            "fight_id": "8317208cfb030ed3",
+            "fighter_a": "Miranda Maverick",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Miranda Maverick",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8317208cfb030ed3"
+        },
+        {
+            "fight_id": "390694c179f05c7f",
+            "fighter_a": "Jamie Mullarkey",
+            "fighter_b": "Khama Worthy",
+            "winner": "Jamie Mullarkey",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:46",
+            "fight_url": "http://ufcstats.com/fight-details/390694c179f05c7f"
+        },
+        {
+            "fight_id": "48292a027df02443",
+            "fighter_a": "Alonzo Menifield",
+            "fighter_b": "Fabio Cherant",
+            "winner": "Alonzo Menifield",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Von Flue Choke",
+            "round": "1",
+            "time": "1:11",
+            "fight_url": "http://ufcstats.com/fight-details/48292a027df02443"
+        },
+        {
+            "fight_id": "4b3af85b0df51d09",
+            "fighter_a": "Abubakar Nurmagomedov",
+            "fighter_b": "Jared Gooden",
+            "winner": "Abubakar Nurmagomedov",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4b3af85b0df51d09"
+        },
+        {
+            "fight_id": "6002c24f0b7f8cc7",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Modestas Bukauskas",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6002c24f0b7f8cc7"
+        },
+        {
+            "fight_id": "2220b73ece1730c3",
+            "fighter_a": "Omar Morales",
+            "fighter_b": "Shane Young",
+            "winner": "Omar Morales",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2220b73ece1730c3"
+        },
+        {
+            "fight_id": "41622791b276ad9e",
+            "fighter_a": "Marc-Andre Barriault",
+            "fighter_b": "Abu Azaitar",
+            "winner": "Marc-Andre Barriault",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:56",
+            "fight_url": "http://ufcstats.com/fight-details/41622791b276ad9e"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "event": {
+        "event_id": "0aa92558424ced9e",
+        "event_name": "UFC 75: Champion vs Champion",
+        "event_date": "September 08, 2007",
+        "location": "London, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "49458279eafdaf94",
+            "fighter_a": "Quinton Jackson",
+            "fighter_b": "Dan Henderson",
+            "winner": "Quinton Jackson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/49458279eafdaf94"
+        },
+        {
+            "fight_id": "59d456f0da1159cf",
+            "fighter_a": "Michael Bisping",
+            "fighter_b": "Matt Hamill",
+            "winner": "Michael Bisping",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/59d456f0da1159cf"
+        },
+        {
+            "fight_id": "76d490a8bb168c78",
+            "fighter_a": "Cheick Kongo",
+            "fighter_b": "Mirko Filipovic",
+            "winner": "Cheick Kongo",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/76d490a8bb168c78"
+        },
+        {
+            "fight_id": "b953a9b5357cbf99",
+            "fighter_a": "Marcus Davis",
+            "fighter_b": "Paul Taylor",
+            "winner": "Marcus Davis",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:14",
+            "fight_url": "http://ufcstats.com/fight-details/b953a9b5357cbf99"
+        },
+        {
+            "fight_id": "79db1d9b15e16b1d",
+            "fighter_a": "Houston Alexander",
+            "fighter_b": "Alessio Sakara",
+            "winner": "Houston Alexander",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "1:01",
+            "fight_url": "http://ufcstats.com/fight-details/79db1d9b15e16b1d"
+        },
+        {
+            "fight_id": "9971f8bcd3b10069",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Terry Etim",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9971f8bcd3b10069"
+        },
+        {
+            "fight_id": "a3dfa0ac05433450",
+            "fighter_a": "Thiago Silva",
+            "fighter_b": "Tomasz Drwal",
+            "winner": "Thiago Silva",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:23",
+            "fight_url": "http://ufcstats.com/fight-details/a3dfa0ac05433450"
+        },
+        {
+            "fight_id": "574b4599ae9cb64e",
+            "fighter_a": "Dennis Siver",
+            "fighter_b": "Naoyuki Kotani",
+            "winner": "Dennis Siver",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:04",
+            "fight_url": "http://ufcstats.com/fight-details/574b4599ae9cb64e"
+        },
+        {
+            "fight_id": "8f5e57a21383fa87",
+            "fighter_a": "Jess Liaudin",
+            "fighter_b": "Anthony Torres",
+            "winner": "Jess Liaudin",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/8f5e57a21383fa87"
+        }
+    ]
+}

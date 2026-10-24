@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "6a8a06b542e1516d",
+        "event_name": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+        "event_date": "February 04, 2017",
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8c220d4c96895a98",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Dennis Bermudez",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:29",
+            "fight_url": "http://ufcstats.com/fight-details/8c220d4c96895a98"
+        },
+        {
+            "fight_id": "4a2e7e2c8cfdaf5f",
+            "fighter_a": "Felice Herrig",
+            "fighter_b": "Alexa Grasso",
+            "winner": "Felice Herrig",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4a2e7e2c8cfdaf5f"
+        },
+        {
+            "fight_id": "94cecf4bd29793e1",
+            "fighter_a": "James Vick",
+            "fighter_b": "Abel Trujillo",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": "3",
+            "time": "0:49",
+            "fight_url": "http://ufcstats.com/fight-details/94cecf4bd29793e1"
+        },
+        {
+            "fight_id": "36220644401d85e1",
+            "fighter_a": "Volkan Oezdemir",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Volkan Oezdemir",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/36220644401d85e1"
+        },
+        {
+            "fight_id": "49e344834626c144",
+            "fighter_a": "Marcel Fortuna",
+            "fighter_b": "Anthony Hamilton",
+            "winner": "Marcel Fortuna",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:10",
+            "fight_url": "http://ufcstats.com/fight-details/49e344834626c144"
+        },
+        {
+            "fight_id": "451525a1abe30a91",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Angela Hill",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/451525a1abe30a91"
+        },
+        {
+            "fight_id": "74256b4e8d0b1de6",
+            "fighter_a": "Adam Milstead",
+            "fighter_b": "Curtis Blaydes",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned",
+            "round": "2",
+            "time": "0:59",
+            "fight_url": "http://ufcstats.com/fight-details/74256b4e8d0b1de6"
+        },
+        {
+            "fight_id": "478221ad98336565",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Chris Gruetzemacher",
+            "winner": "Chas Skelly",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:01",
+            "fight_url": "http://ufcstats.com/fight-details/478221ad98336565"
+        },
+        {
+            "fight_id": "66ad9f88f063d2ef",
+            "fighter_a": "Ricardo Ramos",
+            "fighter_b": "Michinori Tanaka",
+            "winner": "Ricardo Ramos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/66ad9f88f063d2ef"
+        },
+        {
+            "fight_id": "ebe38ba75cbf2320",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Bec Rawlings",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ebe38ba75cbf2320"
+        },
+        {
+            "fight_id": "48e51d4e7172048e",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Niko Price",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "Overturned Punch",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/48e51d4e7172048e"
+        },
+        {
+            "fight_id": "f3bb58f485dc2008",
+            "fighter_a": "Khalil Rountree Jr.",
+            "fighter_b": "Daniel Jolly",
+            "winner": "Khalil Rountree Jr.",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knees",
+            "round": "1",
+            "time": "0:52",
+            "fight_url": "http://ufcstats.com/fight-details/f3bb58f485dc2008"
+        }
+    ]
+}

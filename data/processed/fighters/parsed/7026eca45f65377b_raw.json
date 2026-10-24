@@ -1,0 +1,92 @@
+{
+    "fighter_id": "7026eca45f65377b",
+    "name": "Jared Gordon",
+    "record": "21-9-0 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Sep 06, 1988",
+    "sig_strikes_landed_per_min": "5.57",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "4.11",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "1.91",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "e50857173607d631",
+            "fight_url": "http://ufcstats.com/fight-details/e50857173607d631"
+        },
+        {
+            "fight_id": "7cbfeba85f86d1bf",
+            "fight_url": "http://ufcstats.com/fight-details/7cbfeba85f86d1bf"
+        },
+        {
+            "fight_id": "8ba31cf0b3164b72",
+            "fight_url": "http://ufcstats.com/fight-details/8ba31cf0b3164b72"
+        },
+        {
+            "fight_id": "774fb0c0c1c2bc6a",
+            "fight_url": "http://ufcstats.com/fight-details/774fb0c0c1c2bc6a"
+        },
+        {
+            "fight_id": "4c025d1fff9e9fce",
+            "fight_url": "http://ufcstats.com/fight-details/4c025d1fff9e9fce"
+        },
+        {
+            "fight_id": "640d52630f4f8a61",
+            "fight_url": "http://ufcstats.com/fight-details/640d52630f4f8a61"
+        },
+        {
+            "fight_id": "144cd3f62591a5fb",
+            "fight_url": "http://ufcstats.com/fight-details/144cd3f62591a5fb"
+        },
+        {
+            "fight_id": "0cf7a4593fd44e59",
+            "fight_url": "http://ufcstats.com/fight-details/0cf7a4593fd44e59"
+        },
+        {
+            "fight_id": "7c8701bb78cb4de8",
+            "fight_url": "http://ufcstats.com/fight-details/7c8701bb78cb4de8"
+        },
+        {
+            "fight_id": "3b7eb8e56052a2af",
+            "fight_url": "http://ufcstats.com/fight-details/3b7eb8e56052a2af"
+        },
+        {
+            "fight_id": "931fd51ab69fb443",
+            "fight_url": "http://ufcstats.com/fight-details/931fd51ab69fb443"
+        },
+        {
+            "fight_id": "819f51ef9d945a46",
+            "fight_url": "http://ufcstats.com/fight-details/819f51ef9d945a46"
+        },
+        {
+            "fight_id": "7afe2a15ae7359e9",
+            "fight_url": "http://ufcstats.com/fight-details/7afe2a15ae7359e9"
+        },
+        {
+            "fight_id": "3f8c6e31ebbe54bc",
+            "fight_url": "http://ufcstats.com/fight-details/3f8c6e31ebbe54bc"
+        },
+        {
+            "fight_id": "92fd2127f46b0cb7",
+            "fight_url": "http://ufcstats.com/fight-details/92fd2127f46b0cb7"
+        },
+        {
+            "fight_id": "07f234a488661125",
+            "fight_url": "http://ufcstats.com/fight-details/07f234a488661125"
+        },
+        {
+            "fight_id": "f9e07282f3444d09",
+            "fight_url": "http://ufcstats.com/fight-details/f9e07282f3444d09"
+        },
+        {
+            "fight_id": "1e75ee0da189857b",
+            "fight_url": "http://ufcstats.com/fight-details/1e75ee0da189857b"
+        }
+    ]
+}

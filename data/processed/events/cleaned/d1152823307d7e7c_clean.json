@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "d1152823307d7e7c",
+        "event_name": "UFC 125: Resolution",
+        "event_day": 1,
+        "event_month": 1,
+        "event_year": 2011,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "91bb64656e13a1d4",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Gray Maynard",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/91bb64656e13a1d4"
+        },
+        {
+            "fight_id": "075be81e3f92c2bf",
+            "fighter_a": "Brian Stann",
+            "fighter_b": "Chris Leben",
+            "winner": "Brian Stann",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/075be81e3f92c2bf"
+        },
+        {
+            "fight_id": "65b4d4be2d04bb34",
+            "fighter_a": "Brandon Vera",
+            "fighter_b": "Thiago Silva",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/65b4d4be2d04bb34"
+        },
+        {
+            "fight_id": "de7eec13356baebe",
+            "fighter_a": "Dong Hyun Kim",
+            "fighter_b": "Nate Diaz",
+            "winner": "Dong Hyun Kim",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de7eec13356baebe"
+        },
+        {
+            "fight_id": "f327f8e59acfab1b",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Takanori Gomi",
+            "winner": "Clay Guida",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/f327f8e59acfab1b"
+        },
+        {
+            "fight_id": "df42fd9af4740d24",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Marcus Davis",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 153,
+            "fight_url": "http://ufcstats.com/fight-details/df42fd9af4740d24"
+        },
+        {
+            "fight_id": "b13e3620949300c5",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Josh Grispi",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b13e3620949300c5"
+        },
+        {
+            "fight_id": "fbc7d73f7bf60b9c",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Phil Baroni",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 260,
+            "fight_url": "http://ufcstats.com/fight-details/fbc7d73f7bf60b9c"
+        },
+        {
+            "fight_id": "965989097794b22b",
+            "fighter_a": "Diego Nunes",
+            "fighter_b": "Mike Brown",
+            "winner": "Diego Nunes",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/965989097794b22b"
+        },
+        {
+            "fight_id": "33c8395139de7551",
+            "fighter_a": "Daniel Roberts",
+            "fighter_b": "Greg Soto",
+            "winner": "Daniel Roberts",
+            "weight_class": "Welterweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 225,
+            "fight_url": "http://ufcstats.com/fight-details/33c8395139de7551"
+        },
+        {
+            "fight_id": "e7ace0544d5ab596",
+            "fighter_a": "Jacob Volkmann",
+            "fighter_b": "Antonio McKee",
+            "winner": "Jacob Volkmann",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e7ace0544d5ab596"
+        }
+    ]
+}

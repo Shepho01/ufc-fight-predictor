@@ -1,0 +1,23 @@
+{
+    "fighter_id": "82a5152216251682",
+    "name": "Dan Ige",
+    "wins": 19,
+    "losses": 12,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 135,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 6,
+    "dob_month": 8,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 3.51,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 3.56,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 0.88,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 0.2
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "03b1e846b09f721d",
+        "event_name": "UFC 227: Dillashaw vs. Garbrandt 2",
+        "event_date": "August 04, 2018",
+        "location": "Los Angeles, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "de32c5a78aaf89e9",
+            "fighter_a": "TJ Dillashaw",
+            "fighter_b": "Cody Garbrandt",
+            "winner": "TJ Dillashaw",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/de32c5a78aaf89e9"
+        },
+        {
+            "fight_id": "f2ca358ea9bec156",
+            "fighter_a": "Henry Cejudo",
+            "fighter_b": "Demetrious Johnson",
+            "winner": "Henry Cejudo",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f2ca358ea9bec156"
+        },
+        {
+            "fight_id": "520f6379fefd8fda",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Cub Swanson",
+            "winner": "Renato Moicano",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/520f6379fefd8fda"
+        },
+        {
+            "fight_id": "d2f6b87189908088",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Polyana Viana",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d2f6b87189908088"
+        },
+        {
+            "fight_id": "3b03f8d3a55f3cb2",
+            "fighter_a": "Thiago Santos",
+            "fighter_b": "Kevin Holland",
+            "winner": "Thiago Santos",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3b03f8d3a55f3cb2"
+        },
+        {
+            "fight_id": "c8a9d3917d77ede2",
+            "fighter_a": "Pedro Munhoz",
+            "fighter_b": "Brett Johns",
+            "winner": "Pedro Munhoz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c8a9d3917d77ede2"
+        },
+        {
+            "fight_id": "e57a78a422439774",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Montel Jackson",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e57a78a422439774"
+        },
+        {
+            "fight_id": "65223fa6055df489",
+            "fighter_a": "Ricardo Ramos",
+            "fighter_b": "Kyung Ho Kang",
+            "winner": "Ricardo Ramos",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/65223fa6055df489"
+        },
+        {
+            "fight_id": "e85e83ab4e60e768",
+            "fighter_a": "Sheymon Moraes",
+            "fighter_b": "Matt Sayles",
+            "winner": "Sheymon Moraes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e85e83ab4e60e768"
+        },
+        {
+            "fight_id": "866729ea2ceddb25",
+            "fighter_a": "Alex Perez",
+            "fighter_b": "Jose Torres",
+            "winner": "Alex Perez",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:46",
+            "fight_url": "http://ufcstats.com/fight-details/866729ea2ceddb25"
+        },
+        {
+            "fight_id": "5d8a1daadda47ace",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Danielle Taylor",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5d8a1daadda47ace"
+        },
+        {
+            "fight_id": "8e971c1ec4b981cc",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Wulijiburen",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:53",
+            "fight_url": "http://ufcstats.com/fight-details/8e971c1ec4b981cc"
+        }
+    ]
+}

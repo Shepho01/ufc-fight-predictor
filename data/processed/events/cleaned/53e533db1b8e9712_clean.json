@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "53e533db1b8e9712",
+        "event_name": "UFC 152: Jones vs Belfort",
+        "event_day": 22,
+        "event_month": 9,
+        "event_year": 2012,
+        "location": "Toronto, Ontario, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "8af511cc6e6a9678",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Keylock",
+            "round": 4,
+            "time_seconds": 54,
+            "fight_url": "http://ufcstats.com/fight-details/8af511cc6e6a9678"
+        },
+        {
+            "fight_id": "9890835f4c1c6b75",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9890835f4c1c6b75"
+        },
+        {
+            "fight_id": "c97d0a476c2e7cb5",
+            "fighter_a": "Michael Bisping",
+            "fighter_b": "Brian Stann",
+            "winner": "Michael Bisping",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c97d0a476c2e7cb5"
+        },
+        {
+            "fight_id": "304fc030ee6dd9ee",
+            "fighter_a": "Matt Hamill",
+            "fighter_b": "Roger Hollett",
+            "winner": "Matt Hamill",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/304fc030ee6dd9ee"
+        },
+        {
+            "fight_id": "307b12b9f08a4cbf",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 160,
+            "fight_url": "http://ufcstats.com/fight-details/307b12b9f08a4cbf"
+        },
+        {
+            "fight_id": "3367081258d6ae12",
+            "fighter_a": "Vinny Magalhaes",
+            "fighter_b": "Igor Pokrajac",
+            "winner": "Vinny Magalhaes",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 74,
+            "fight_url": "http://ufcstats.com/fight-details/3367081258d6ae12"
+        },
+        {
+            "fight_id": "5af6a54d7e0f2b7f",
+            "fighter_a": "TJ Grant",
+            "fighter_b": "Evan Dunham",
+            "winner": "TJ Grant",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5af6a54d7e0f2b7f"
+        },
+        {
+            "fight_id": "de1124dba8c1a1b0",
+            "fighter_a": "Sean Pierson",
+            "fighter_b": "Lance Benoist",
+            "winner": "Sean Pierson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de1124dba8c1a1b0"
+        },
+        {
+            "fight_id": "147e0b1c64cb7ef0",
+            "fighter_a": "Marcus Brimage",
+            "fighter_b": "Jimy Hettes",
+            "winner": "Marcus Brimage",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/147e0b1c64cb7ef0"
+        },
+        {
+            "fight_id": "aa1db19806dfd62e",
+            "fighter_a": "Seth Baczynski",
+            "fighter_b": "Simeon Thoresen",
+            "winner": "Seth Baczynski",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 250,
+            "fight_url": "http://ufcstats.com/fight-details/aa1db19806dfd62e"
+        },
+        {
+            "fight_id": "2aff05a835ed715e",
+            "fighter_a": "Mitch Gagnon",
+            "fighter_b": "Walel Watson",
+            "winner": "Mitch Gagnon",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/2aff05a835ed715e"
+        },
+        {
+            "fight_id": "87790788d1bb3b75",
+            "fighter_a": "Kyle Noke",
+            "fighter_b": "Charlie Brenneman",
+            "winner": "Kyle Noke",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 45,
+            "fight_url": "http://ufcstats.com/fight-details/87790788d1bb3b75"
+        }
+    ]
+}

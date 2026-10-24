@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bb70048e290f4a86",
+        "event_id": "8a59d346dc976a10",
+        "event_name": "UFC Fight Night: Nogueira vs Davis",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:59",
+        "referee": "Dan Miragliotta",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 100",
+            "Sig. str. %": "30%",
+            "Total str.": "47 of 119",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 100",
+            "Sig. str. %": "30%",
+            "Head": "22 of 90",
+            "Body": "2 of 2",
+            "Leg": "6 of 8",
+            "Distance": "20 of 84",
+            "Clinch": "2 of 2",
+            "Ground": "8 of 14"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "917e53fa0adea0d3",
+        "name": "Leonard Garcia",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 87",
+            "Sig. str. %": "17%",
+            "Total str.": "16 of 88",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 87",
+            "Sig. str. %": "17%",
+            "Head": "10 of 75",
+            "Body": "2 of 3",
+            "Leg": "3 of 9",
+            "Distance": "13 of 83",
+            "Clinch": "2 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

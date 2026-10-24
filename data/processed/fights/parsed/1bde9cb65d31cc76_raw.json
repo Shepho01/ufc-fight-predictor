@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1bde9cb65d31cc76",
+        "event_id": "e57f0b06ea39e360",
+        "event_name": "UFC Fight Night: Sandhagen vs. Dillashaw",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "3:48",
+        "referee": "Mark Smith",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 30",
+            "Sig. str. %": "66%",
+            "Total str.": "137 of 154",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "2",
+            "Ctrl": "3:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 30",
+            "Sig. str. %": "66%",
+            "Head": "18 of 28",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "2 of 4",
+            "Clinch": "2 of 3",
+            "Ground": "16 of 23"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "34e516ab361afb1c",
+        "name": "Darrick Minner",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 35",
+            "Sig. str. %": "54%",
+            "Total str.": "36 of 55",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "3",
+            "Rev.": "2",
+            "Ctrl": "4:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 35",
+            "Sig. str. %": "54%",
+            "Head": "14 of 27",
+            "Body": "4 of 5",
+            "Leg": "1 of 3",
+            "Distance": "5 of 13",
+            "Clinch": "4 of 7",
+            "Ground": "10 of 15"
+        }
+    }
+}

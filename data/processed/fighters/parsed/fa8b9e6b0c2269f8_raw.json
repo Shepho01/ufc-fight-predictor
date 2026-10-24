@@ -1,0 +1,36 @@
+{
+    "fighter_id": "fa8b9e6b0c2269f8",
+    "name": "Jason Dent",
+    "record": "22-13-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 12, 1980",
+    "sig_strikes_landed_per_min": "2.01",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.70",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "26%",
+    "submission_attempts_per_15_min": "1.4",
+    "fight_history": [
+        {
+            "fight_id": "6f78fc53b8662627",
+            "fight_url": "http://ufcstats.com/fight-details/6f78fc53b8662627"
+        },
+        {
+            "fight_id": "43712d71cec9bde6",
+            "fight_url": "http://ufcstats.com/fight-details/43712d71cec9bde6"
+        },
+        {
+            "fight_id": "808d47f905e84e7e",
+            "fight_url": "http://ufcstats.com/fight-details/808d47f905e84e7e"
+        },
+        {
+            "fight_id": "67a3b8dc3c0c3e45",
+            "fight_url": "http://ufcstats.com/fight-details/67a3b8dc3c0c3e45"
+        }
+    ]
+}

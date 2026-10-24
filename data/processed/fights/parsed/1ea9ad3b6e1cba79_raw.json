@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1ea9ad3b6e1cba79",
+        "event_id": "66766984842c13dc",
+        "event_name": "UFC 317: Topuria vs. Oliveira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "08af939f41b5a57b"
+    },
+    "fighter_a": {
+        "fighter_id": "08af939f41b5a57b",
+        "name": "Beneil Dariush",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 107",
+            "Sig. str. %": "52%",
+            "Total str.": "77 of 131",
+            "Td": "5 of 5",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 107",
+            "Sig. str. %": "52%",
+            "Head": "30 of 73",
+            "Body": "10 of 15",
+            "Leg": "16 of 19",
+            "Distance": "47 of 95",
+            "Clinch": "4 of 5",
+            "Ground": "5 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "31 of 61",
+            "Sig. str. %": "50%",
+            "Total str.": "38 of 69",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 61",
+            "Sig. str. %": "50%",
+            "Head": "25 of 52",
+            "Body": "4 of 6",
+            "Leg": "2 of 3",
+            "Distance": "25 of 54",
+            "Clinch": "4 of 5",
+            "Ground": "2 of 2"
+        }
+    }
+}

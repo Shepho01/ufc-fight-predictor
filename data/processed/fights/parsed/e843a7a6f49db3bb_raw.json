@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e843a7a6f49db3bb",
+        "event_id": "d41937647eae9a34",
+        "event_name": "UFC 154: St-Pierre vs Condit",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc-Andre Cote",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "d188a3b817860ec6",
+        "name": "Steven Siler",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 48",
+            "Sig. str. %": "31%",
+            "Total str.": "61 of 96",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 48",
+            "Sig. str. %": "31%",
+            "Head": "8 of 40",
+            "Body": "4 of 4",
+            "Leg": "3 of 4",
+            "Distance": "9 of 37",
+            "Clinch": "5 of 10",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 91",
+            "Sig. str. %": "48%",
+            "Total str.": "103 of 159",
+            "Td": "6 of 7",
+            "Td %": "85%",
+            "Sub. att": "6",
+            "Rev.": "0",
+            "Ctrl": "11:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 91",
+            "Sig. str. %": "48%",
+            "Head": "36 of 76",
+            "Body": "5 of 12",
+            "Leg": "3 of 3",
+            "Distance": "10 of 34",
+            "Clinch": "11 of 16",
+            "Ground": "23 of 41"
+        }
+    }
+}

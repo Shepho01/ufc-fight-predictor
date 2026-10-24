@@ -1,0 +1,68 @@
+{
+    "fighter_id": "ae7fe94f117f98cf",
+    "name": "Joaquim Silva",
+    "record": "14-6-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Feb 05, 1989",
+    "sig_strikes_landed_per_min": "3.43",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "4.17",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "0.34",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "70%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "352839a03b428e74",
+            "fight_url": "http://ufcstats.com/fight-details/352839a03b428e74"
+        },
+        {
+            "fight_id": "2faf5b8d708f8e94",
+            "fight_url": "http://ufcstats.com/fight-details/2faf5b8d708f8e94"
+        },
+        {
+            "fight_id": "20bfa549cb2cabe7",
+            "fight_url": "http://ufcstats.com/fight-details/20bfa549cb2cabe7"
+        },
+        {
+            "fight_id": "6c2199524d762b11",
+            "fight_url": "http://ufcstats.com/fight-details/6c2199524d762b11"
+        },
+        {
+            "fight_id": "ecc56a86a1eead9d",
+            "fight_url": "http://ufcstats.com/fight-details/ecc56a86a1eead9d"
+        },
+        {
+            "fight_id": "1e9f081a84e7ec18",
+            "fight_url": "http://ufcstats.com/fight-details/1e9f081a84e7ec18"
+        },
+        {
+            "fight_id": "dbbd17b6995f014b",
+            "fight_url": "http://ufcstats.com/fight-details/dbbd17b6995f014b"
+        },
+        {
+            "fight_id": "92fd2127f46b0cb7",
+            "fight_url": "http://ufcstats.com/fight-details/92fd2127f46b0cb7"
+        },
+        {
+            "fight_id": "ce4314886c57718b",
+            "fight_url": "http://ufcstats.com/fight-details/ce4314886c57718b"
+        },
+        {
+            "fight_id": "2c101a0bcf334d31",
+            "fight_url": "http://ufcstats.com/fight-details/2c101a0bcf334d31"
+        },
+        {
+            "fight_id": "6c4b3cca92fcb9c7",
+            "fight_url": "http://ufcstats.com/fight-details/6c4b3cca92fcb9c7"
+        },
+        {
+            "fight_id": "c43805df4f45b6e2",
+            "fight_url": "http://ufcstats.com/fight-details/c43805df4f45b6e2"
+        }
+    ]
+}

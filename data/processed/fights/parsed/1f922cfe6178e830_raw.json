@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1f922cfe6178e830",
+        "event_id": "b3b6e80b7d5f8f0d",
+        "event_name": "UFC 281: Adesanya vs. Pereira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "3:20",
+        "referee": "Dan Miragliotta",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "37ed1ab2f8b819f4",
+        "name": "Brad Riddell",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 25",
+            "Sig. str. %": "56%",
+            "Total str.": "14 of 25",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 25",
+            "Sig. str. %": "56%",
+            "Head": "6 of 16",
+            "Body": "6 of 7",
+            "Leg": "2 of 2",
+            "Distance": "14 of 25",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 33",
+            "Sig. str. %": "30%",
+            "Total str.": "11 of 35",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 33",
+            "Sig. str. %": "30%",
+            "Head": "10 of 32",
+            "Body": "0 of 0",
+            "Leg": "0 of 1",
+            "Distance": "10 of 33",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

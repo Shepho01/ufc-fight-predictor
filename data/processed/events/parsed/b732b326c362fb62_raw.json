@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "b732b326c362fb62",
+        "event_name": "UFC 130: Rampage vs Hamill",
+        "event_date": "May 28, 2011",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "9cf91ae875d886df",
+            "fighter_a": "Quinton Jackson",
+            "fighter_b": "Matt Hamill",
+            "winner": "Quinton Jackson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9cf91ae875d886df"
+        },
+        {
+            "fight_id": "c553753c64379c39",
+            "fighter_a": "Frank Mir",
+            "fighter_b": "Roy Nelson",
+            "winner": "Frank Mir",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c553753c64379c39"
+        },
+        {
+            "fight_id": "727c8004faed648d",
+            "fighter_a": "Travis Browne",
+            "fighter_b": "Stefan Struve",
+            "winner": "Travis Browne",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:11",
+            "fight_url": "http://ufcstats.com/fight-details/727c8004faed648d"
+        },
+        {
+            "fight_id": "7956ae951020ce8c",
+            "fighter_a": "Rick Story",
+            "fighter_b": "Thiago Alves",
+            "winner": "Rick Story",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7956ae951020ce8c"
+        },
+        {
+            "fight_id": "6617170d3659b175",
+            "fighter_a": "Brian Stann",
+            "fighter_b": "Jorge Santiago",
+            "winner": "Brian Stann",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:29",
+            "fight_url": "http://ufcstats.com/fight-details/6617170d3659b175"
+        },
+        {
+            "fight_id": "b0cfaf01a155985b",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Miguel Torres",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b0cfaf01a155985b"
+        },
+        {
+            "fight_id": "3d1a835c15fd8cb2",
+            "fighter_a": "Tim Boetsch",
+            "fighter_b": "Kendall Grove",
+            "winner": "Tim Boetsch",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3d1a835c15fd8cb2"
+        },
+        {
+            "fight_id": "6299412d7bbfbce6",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Rafaello Oliveira",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:28",
+            "fight_url": "http://ufcstats.com/fight-details/6299412d7bbfbce6"
+        },
+        {
+            "fight_id": "556952a9520d0ae0",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Chris Cariaso",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/556952a9520d0ae0"
+        },
+        {
+            "fight_id": "4cc8bef7c487cf9d",
+            "fighter_a": "Renan Barao",
+            "fighter_b": "Cole Escovedo",
+            "winner": "Renan Barao",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4cc8bef7c487cf9d"
+        }
+    ]
+}

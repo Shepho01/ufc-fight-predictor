@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8fb0092430448368",
+        "event_id": "dab0e6cb8c932162",
+        "event_name": "UFC 298: Volkanovski vs. Topuria",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Frank Trigg",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "b997be68943010fc",
+        "name": "Geoff Neal",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 89",
+            "Sig. str. %": "51%",
+            "Total str.": "57 of 102",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 89",
+            "Sig. str. %": "51%",
+            "Head": "25 of 64",
+            "Body": "10 of 13",
+            "Leg": "11 of 12",
+            "Distance": "38 of 79",
+            "Clinch": "8 of 10",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "67 of 135",
+            "Sig. str. %": "49%",
+            "Total str.": "80 of 148",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "67 of 135",
+            "Sig. str. %": "49%",
+            "Head": "39 of 96",
+            "Body": "18 of 27",
+            "Leg": "10 of 12",
+            "Distance": "65 of 133",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

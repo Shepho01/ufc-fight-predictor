@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "b5abaa65f87938eb",
+        "event_name": "UFC Fight Night: Holloway vs. Rodriguez",
+        "event_date": "November 13, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "147e984aa34e3028",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Yair Rodriguez",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/147e984aa34e3028"
+        },
+        {
+            "fight_id": "1013cdbb6c9a4a2e",
+            "fighter_a": "Marcos Rogerio de Lima",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Marcos Rogerio de Lima",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:32",
+            "fight_url": "http://ufcstats.com/fight-details/1013cdbb6c9a4a2e"
+        },
+        {
+            "fight_id": "e6ce8360ef43891c",
+            "fighter_a": "Felicia Spencer",
+            "fighter_b": "Leah Letson",
+            "winner": "Felicia Spencer",
+            "weight_class": "Women's Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "4:25",
+            "fight_url": "http://ufcstats.com/fight-details/e6ce8360ef43891c"
+        },
+        {
+            "fight_id": "8636b67096df4b27",
+            "fighter_a": "Khaos Williams",
+            "fighter_b": "Miguel Baeza",
+            "winner": "Khaos Williams",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:02",
+            "fight_url": "http://ufcstats.com/fight-details/8636b67096df4b27"
+        },
+        {
+            "fight_id": "73c97d5c314f1270",
+            "fighter_a": "Song Yadong",
+            "fighter_b": "Julio Arce",
+            "winner": "Song Yadong",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/73c97d5c314f1270"
+        },
+        {
+            "fight_id": "0273dbd5dedbdbe0",
+            "fighter_a": "Joel Alvarez",
+            "fighter_b": "Thiago Moises",
+            "winner": "Joel Alvarez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/0273dbd5dedbdbe0"
+        },
+        {
+            "fight_id": "c0518d213b67e754",
+            "fighter_a": "Andrea Lee",
+            "fighter_b": "Cynthia Calvillo",
+            "winner": "Andrea Lee",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c0518d213b67e754"
+        },
+        {
+            "fight_id": "a27a355f52883f3e",
+            "fighter_a": "Sean Woodson",
+            "fighter_b": "Collin Anglin",
+            "winner": "Sean Woodson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:30",
+            "fight_url": "http://ufcstats.com/fight-details/a27a355f52883f3e"
+        },
+        {
+            "fight_id": "66eee2320e900a8a",
+            "fighter_a": "Cortney Casey",
+            "fighter_b": "Liana Jojua",
+            "winner": "Cortney Casey",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/66eee2320e900a8a"
+        },
+        {
+            "fight_id": "2c21abbc28e3876a",
+            "fighter_a": "Rafael Alves",
+            "fighter_b": "Marc Diakiese",
+            "winner": "Rafael Alves",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:48",
+            "fight_url": "http://ufcstats.com/fight-details/2c21abbc28e3876a"
+        },
+        {
+            "fight_id": "81bb4d9b214adf4b",
+            "fighter_a": "Da Woon Jung",
+            "fighter_b": "Kennedy Nzechukwu",
+            "winner": "Da Woon Jung",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/81bb4d9b214adf4b"
+        }
+    ]
+}

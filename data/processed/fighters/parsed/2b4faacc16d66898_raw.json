@@ -1,0 +1,40 @@
+{
+    "fighter_id": "2b4faacc16d66898",
+    "name": "Eiji Mitsuoka",
+    "record": "18-9-2",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Southpaw",
+    "dob": "Jan 01, 1976",
+    "sig_strikes_landed_per_min": "1.49",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "2.26",
+    "sig_strike_defense": "45%",
+    "takedowns_landed_per_15_min": "2.30",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "20%",
+    "submission_attempts_per_15_min": "1.6",
+    "fight_history": [
+        {
+            "fight_id": "4af9088a165c7751",
+            "fight_url": "http://ufcstats.com/fight-details/4af9088a165c7751"
+        },
+        {
+            "fight_id": "1b4f87d607b3964d",
+            "fight_url": "http://ufcstats.com/fight-details/1b4f87d607b3964d"
+        },
+        {
+            "fight_id": "03168c6dff25e0d2",
+            "fight_url": "http://ufcstats.com/fight-details/03168c6dff25e0d2"
+        },
+        {
+            "fight_id": "0f326d6637f64c3d",
+            "fight_url": "http://ufcstats.com/fight-details/0f326d6637f64c3d"
+        },
+        {
+            "fight_id": "d89bb22e64e005af",
+            "fight_url": "http://ufcstats.com/fight-details/d89bb22e64e005af"
+        }
+    ]
+}

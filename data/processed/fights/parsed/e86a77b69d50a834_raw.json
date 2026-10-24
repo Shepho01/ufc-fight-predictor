@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e86a77b69d50a834",
+        "event_id": "ff4c3ab594c7fac3",
+        "event_name": "UFC 199: Rockhold vs. Bisping 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:53",
+        "referee": "Jason Herzog",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "36 of 66",
+            "Sig. str. %": "54%",
+            "Total str.": "36 of 66",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 66",
+            "Sig. str. %": "54%",
+            "Head": "31 of 58",
+            "Body": "1 of 4",
+            "Leg": "4 of 4",
+            "Distance": "25 of 46",
+            "Clinch": "6 of 14",
+            "Ground": "5 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 35",
+            "Sig. str. %": "45%",
+            "Total str.": "17 of 36",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 35",
+            "Sig. str. %": "45%",
+            "Head": "13 of 29",
+            "Body": "2 of 3",
+            "Leg": "1 of 3",
+            "Distance": "15 of 32",
+            "Clinch": "1 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

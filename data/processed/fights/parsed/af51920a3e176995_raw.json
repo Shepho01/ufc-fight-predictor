@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "af51920a3e176995",
+        "event_id": "980b4e712489098e",
+        "event_name": "UFC 164: Henderson vs Pettis 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Rob Hinds",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "99bd87a300079ed9",
+        "name": "Erik Koch",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 74",
+            "Sig. str. %": "43%",
+            "Total str.": "50 of 93",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "5",
+            "Rev.": "0",
+            "Ctrl": "3:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 74",
+            "Sig. str. %": "43%",
+            "Head": "17 of 58",
+            "Body": "12 of 12",
+            "Leg": "3 of 4",
+            "Distance": "13 of 53",
+            "Clinch": "13 of 14",
+            "Ground": "6 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "54 of 92",
+            "Sig. str. %": "58%",
+            "Total str.": "74 of 112",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "7:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 92",
+            "Sig. str. %": "58%",
+            "Head": "40 of 72",
+            "Body": "9 of 12",
+            "Leg": "5 of 8",
+            "Distance": "19 of 49",
+            "Clinch": "13 of 16",
+            "Ground": "22 of 27"
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "3d481aa374c954a1",
+        "event_name": "UFC 197: Jones vs Saint Preux",
+        "event_day": 23,
+        "event_month": 4,
+        "event_year": 2016,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "05c8aeb2806be99c",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/05c8aeb2806be99c"
+        },
+        {
+            "fight_id": "20dda78057d17a5a",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Henry Cejudo",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Knees",
+            "round": 1,
+            "time_seconds": 169,
+            "fight_url": "http://ufcstats.com/fight-details/20dda78057d17a5a"
+        },
+        {
+            "fight_id": "8b52a32f3644f493",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8b52a32f3644f493"
+        },
+        {
+            "fight_id": "b65d0243d397802c",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Rafael Natal",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b65d0243d397802c"
+        },
+        {
+            "fight_id": "43b416cf0c75dbd7",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Andre Fili",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/43b416cf0c75dbd7"
+        },
+        {
+            "fight_id": "e3a45f48dbda99c3",
+            "fighter_a": "Sergio Pettis",
+            "fighter_b": "Chris Kelades",
+            "winner": "Sergio Pettis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e3a45f48dbda99c3"
+        },
+        {
+            "fight_id": "be0af5916c8e8e99",
+            "fighter_a": "Danny Roberts",
+            "fighter_b": "Dominique Steele",
+            "winner": "Danny Roberts",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/be0af5916c8e8e99"
+        },
+        {
+            "fight_id": "2c0ece9f70a62408",
+            "fighter_a": "Carla Esparza",
+            "fighter_b": "Juliana Lima",
+            "winner": "Carla Esparza",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2c0ece9f70a62408"
+        },
+        {
+            "fight_id": "f519753cc38362d0",
+            "fighter_a": "James Vick",
+            "fighter_b": "Glaico Franca Moreira",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f519753cc38362d0"
+        },
+        {
+            "fight_id": "92049ba4483fc840",
+            "fighter_a": "Walt Harris",
+            "fighter_b": "Cody East",
+            "winner": "Walt Harris",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 258,
+            "fight_url": "http://ufcstats.com/fight-details/92049ba4483fc840"
+        },
+        {
+            "fight_id": "c7e084949531a443",
+            "fighter_a": "Marcos Rogerio de Lima",
+            "fighter_b": "Clint Hester",
+            "winner": "Marcos Rogerio de Lima",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 275,
+            "fight_url": "http://ufcstats.com/fight-details/c7e084949531a443"
+        },
+        {
+            "fight_id": "083a0283b7bc503b",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Efrain Escudero",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/083a0283b7bc503b"
+        }
+    ]
+}

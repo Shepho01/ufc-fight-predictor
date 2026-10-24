@@ -1,0 +1,40 @@
+{
+    "fighter_id": "b6e6c3b1dcaae0a1",
+    "name": "Will Brooks",
+    "record": "18-4-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Oct 08, 1986",
+    "sig_strikes_landed_per_min": "4.26",
+    "sig_striking_accuracy": "59%",
+    "sig_strikes_absorbed_per_min": "2.54",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "2.08",
+    "takedown_accuracy": "51%",
+    "takedown_defense": "82%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "fd2c018aade60a14",
+            "fight_url": "http://ufcstats.com/fight-details/fd2c018aade60a14"
+        },
+        {
+            "fight_id": "56c7c59c9bb3b610",
+            "fight_url": "http://ufcstats.com/fight-details/56c7c59c9bb3b610"
+        },
+        {
+            "fight_id": "3a8cc4cda195d758",
+            "fight_url": "http://ufcstats.com/fight-details/3a8cc4cda195d758"
+        },
+        {
+            "fight_id": "1299f04f429bcc0e",
+            "fight_url": "http://ufcstats.com/fight-details/1299f04f429bcc0e"
+        },
+        {
+            "fight_id": "c3dc4fef380f7cdb",
+            "fight_url": "http://ufcstats.com/fight-details/c3dc4fef380f7cdb"
+        }
+    ]
+}

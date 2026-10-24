@@ -1,0 +1,56 @@
+{
+    "fighter_id": "b71ce838b01f2cad",
+    "name": "Rony Jason",
+    "record": "14-7-0 (1 NC)",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Mar 21, 1984",
+    "sig_strikes_landed_per_min": "2.04",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.14",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "0.59",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "36%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "ebb94e00d6431e7a",
+            "fight_url": "http://ufcstats.com/fight-details/ebb94e00d6431e7a"
+        },
+        {
+            "fight_id": "0344687c9852b1d2",
+            "fight_url": "http://ufcstats.com/fight-details/0344687c9852b1d2"
+        },
+        {
+            "fight_id": "9968d308e97c6531",
+            "fight_url": "http://ufcstats.com/fight-details/9968d308e97c6531"
+        },
+        {
+            "fight_id": "a104c62f69ce47de",
+            "fight_url": "http://ufcstats.com/fight-details/a104c62f69ce47de"
+        },
+        {
+            "fight_id": "995f0dcdcd5fe43c",
+            "fight_url": "http://ufcstats.com/fight-details/995f0dcdcd5fe43c"
+        },
+        {
+            "fight_id": "2e042964c6498e7a",
+            "fight_url": "http://ufcstats.com/fight-details/2e042964c6498e7a"
+        },
+        {
+            "fight_id": "c25c2000aa99832c",
+            "fight_url": "http://ufcstats.com/fight-details/c25c2000aa99832c"
+        },
+        {
+            "fight_id": "dab5e3680cf6eac7",
+            "fight_url": "http://ufcstats.com/fight-details/dab5e3680cf6eac7"
+        },
+        {
+            "fight_id": "366de1daf05a2b62",
+            "fight_url": "http://ufcstats.com/fight-details/366de1daf05a2b62"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "cc5834a495d1ea08",
+        "event_name": "UFC 216: Ferguson vs. Lee",
+        "event_date": "October 07, 2017",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "03aec9073946907f",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Kevin Lee",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "3",
+            "time": "4:02",
+            "fight_url": "http://ufcstats.com/fight-details/03aec9073946907f"
+        },
+        {
+            "fight_id": "d042d18ad568190a",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Ray Borg",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "SUB Armbar",
+            "round": "5",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/d042d18ad568190a"
+        },
+        {
+            "fight_id": "53ee6c3591483193",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Walt Harris",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "1:05",
+            "fight_url": "http://ufcstats.com/fight-details/53ee6c3591483193"
+        },
+        {
+            "fight_id": "1ff3dff34d0b60b8",
+            "fighter_a": "Mara Romero Borella",
+            "fighter_b": "Kalindra Faria",
+            "winner": "Mara Romero Borella",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/1ff3dff34d0b60b8"
+        },
+        {
+            "fight_id": "2fed4f1d91767eb1",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Evan Dunham",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2fed4f1d91767eb1"
+        },
+        {
+            "fight_id": "e08479759c296bb1",
+            "fighter_a": "Cody Stamann",
+            "fighter_b": "Tom Duquesnoy",
+            "winner": "Cody Stamann",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e08479759c296bb1"
+        },
+        {
+            "fight_id": "c46d51fb87a4f485",
+            "fighter_a": "Lando Vannata",
+            "fighter_b": "King Green",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c46d51fb87a4f485"
+        },
+        {
+            "fight_id": "0f826e7bbb73b53f",
+            "fighter_a": "Poliana Botelho",
+            "fighter_b": "Pearl Gonzalez",
+            "winner": "Poliana Botelho",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f826e7bbb73b53f"
+        },
+        {
+            "fight_id": "d97970009fbfca30",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Marco Beltran",
+            "winner": "Matt Schnell",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d97970009fbfca30"
+        },
+        {
+            "fight_id": "3f5f6c576046bf77",
+            "fighter_a": "John Moraga",
+            "fighter_b": "Magomed Bibulatov",
+            "winner": "John Moraga",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/3f5f6c576046bf77"
+        },
+        {
+            "fight_id": "2142ff2a46d22741",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Thales Leites",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2142ff2a46d22741"
+        }
+    ]
+}

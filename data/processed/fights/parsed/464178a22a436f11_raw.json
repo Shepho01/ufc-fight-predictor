@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "464178a22a436f11",
+        "event_id": "1c2f2571b18791b6",
+        "event_name": "WEC 36: Faber vs. Brown",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "0:45",
+        "referee": "Troy Waugh",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "43 of 115",
+            "Sig. str. %": "37%",
+            "Total str.": "51 of 123",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 115",
+            "Sig. str. %": "37%",
+            "Head": "19 of 85",
+            "Body": "4 of 5",
+            "Leg": "20 of 25",
+            "Distance": "38 of 108",
+            "Clinch": "1 of 1",
+            "Ground": "4 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b0a6124751a56bc4",
+        "name": "Jonathan Brookins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 87",
+            "Sig. str. %": "22%",
+            "Total str.": "22 of 91",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 87",
+            "Sig. str. %": "22%",
+            "Head": "18 of 84",
+            "Body": "2 of 3",
+            "Leg": "0 of 0",
+            "Distance": "18 of 84",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

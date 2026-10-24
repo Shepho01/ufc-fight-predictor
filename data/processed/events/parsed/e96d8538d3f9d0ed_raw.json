@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "e96d8538d3f9d0ed",
+        "event_name": "UFC Fight Night: Lewis vs. Dos Santos",
+        "event_date": "March 09, 2019",
+        "location": "Wichita, Kansas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1b1792afe4457e83",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:58",
+            "fight_url": "http://ufcstats.com/fight-details/1b1792afe4457e83"
+        },
+        {
+            "fight_id": "710c7f8c7dc2af46",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Curtis Millender",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:35",
+            "fight_url": "http://ufcstats.com/fight-details/710c7f8c7dc2af46"
+        },
+        {
+            "fight_id": "aeb0322f619213b1",
+            "fighter_a": "Niko Price",
+            "fighter_b": "Tim Means",
+            "winner": "Niko Price",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:50",
+            "fight_url": "http://ufcstats.com/fight-details/aeb0322f619213b1"
+        },
+        {
+            "fight_id": "4b1606ab1893c242",
+            "fighter_a": "Blagoy Ivanov",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Blagoy Ivanov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4b1606ab1893c242"
+        },
+        {
+            "fight_id": "9cfad21ef1911728",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Drew Dober",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "4:41",
+            "fight_url": "http://ufcstats.com/fight-details/9cfad21ef1911728"
+        },
+        {
+            "fight_id": "aaad7e29825b3264",
+            "fighter_a": "Omari Akhmedov",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Omari Akhmedov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/aaad7e29825b3264"
+        },
+        {
+            "fight_id": "51808d929c84b8ae",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Sergio Moraes",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/51808d929c84b8ae"
+        },
+        {
+            "fight_id": "fb34734f84d0a14d",
+            "fighter_a": "Yana Santos",
+            "fighter_b": "Marion Reneau",
+            "winner": "Yana Santos",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fb34734f84d0a14d"
+        },
+        {
+            "fight_id": "ddcfa590f4644240",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Julian Erosa",
+            "winner": "Grant Dawson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ddcfa590f4644240"
+        },
+        {
+            "fight_id": "b776b08e2cc6aa0c",
+            "fighter_a": "Maurice Greene",
+            "fighter_b": "Jeff Hughes",
+            "winner": "Maurice Greene",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b776b08e2cc6aa0c"
+        },
+        {
+            "fight_id": "858696528ab7035a",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Louis Smolka",
+            "winner": "Matt Schnell",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/858696528ab7035a"
+        },
+        {
+            "fight_id": "583f2c3cd0e2385b",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Zak Ottow",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "3:34",
+            "fight_url": "http://ufcstats.com/fight-details/583f2c3cd0e2385b"
+        },
+        {
+            "fight_id": "6c9bf1d285cf5dd4",
+            "fighter_a": "Alex White",
+            "fighter_b": "Dan Moret",
+            "winner": "Alex White",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6c9bf1d285cf5dd4"
+        }
+    ]
+}

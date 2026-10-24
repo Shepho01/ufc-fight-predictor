@@ -1,0 +1,23 @@
+{
+    "fighter_id": "776d4262c4da38bf",
+    "name": "Pete Rodriguez",
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 170,
+    "reach_cm": 180.34,
+    "stance": "Switch",
+    "dob_day": 13,
+    "dob_month": 11,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 9.28,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 12.83,
+    "sig_strike_defense": 0.42,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.0
+}

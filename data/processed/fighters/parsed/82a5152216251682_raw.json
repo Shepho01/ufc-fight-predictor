@@ -1,0 +1,112 @@
+{
+    "fighter_id": "82a5152216251682",
+    "name": "Dan Ige",
+    "record": "19-12-0",
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 06, 1991",
+    "sig_strikes_landed_per_min": "3.51",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "3.56",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "0.88",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "51caa91f68873cf5",
+            "fight_url": "http://ufcstats.com/fight-details/51caa91f68873cf5"
+        },
+        {
+            "fight_id": "dc6f6c8228390ebb",
+            "fight_url": "http://ufcstats.com/fight-details/dc6f6c8228390ebb"
+        },
+        {
+            "fight_id": "acc961fd5cf5c62e",
+            "fight_url": "http://ufcstats.com/fight-details/acc961fd5cf5c62e"
+        },
+        {
+            "fight_id": "fc43d60cbd6b0e6a",
+            "fight_url": "http://ufcstats.com/fight-details/fc43d60cbd6b0e6a"
+        },
+        {
+            "fight_id": "cc11a0762f246fa4",
+            "fight_url": "http://ufcstats.com/fight-details/cc11a0762f246fa4"
+        },
+        {
+            "fight_id": "fc8ad0c7fc70dde7",
+            "fight_url": "http://ufcstats.com/fight-details/fc8ad0c7fc70dde7"
+        },
+        {
+            "fight_id": "25259e230be9cdc9",
+            "fight_url": "http://ufcstats.com/fight-details/25259e230be9cdc9"
+        },
+        {
+            "fight_id": "da1b37edb8ccd3e6",
+            "fight_url": "http://ufcstats.com/fight-details/da1b37edb8ccd3e6"
+        },
+        {
+            "fight_id": "46c67efd68a0b15d",
+            "fight_url": "http://ufcstats.com/fight-details/46c67efd68a0b15d"
+        },
+        {
+            "fight_id": "c88a7dbe7717d2da",
+            "fight_url": "http://ufcstats.com/fight-details/c88a7dbe7717d2da"
+        },
+        {
+            "fight_id": "aacb47949a572f25",
+            "fight_url": "http://ufcstats.com/fight-details/aacb47949a572f25"
+        },
+        {
+            "fight_id": "6537a32e7af905b0",
+            "fight_url": "http://ufcstats.com/fight-details/6537a32e7af905b0"
+        },
+        {
+            "fight_id": "50cae63d530ede7c",
+            "fight_url": "http://ufcstats.com/fight-details/50cae63d530ede7c"
+        },
+        {
+            "fight_id": "d15a87087b6f1452",
+            "fight_url": "http://ufcstats.com/fight-details/d15a87087b6f1452"
+        },
+        {
+            "fight_id": "abeaae1a64934178",
+            "fight_url": "http://ufcstats.com/fight-details/abeaae1a64934178"
+        },
+        {
+            "fight_id": "58540b24ed77d31b",
+            "fight_url": "http://ufcstats.com/fight-details/58540b24ed77d31b"
+        },
+        {
+            "fight_id": "be822403f364fff3",
+            "fight_url": "http://ufcstats.com/fight-details/be822403f364fff3"
+        },
+        {
+            "fight_id": "f047e3605f8852d8",
+            "fight_url": "http://ufcstats.com/fight-details/f047e3605f8852d8"
+        },
+        {
+            "fight_id": "bcef35d6e0964f01",
+            "fight_url": "http://ufcstats.com/fight-details/bcef35d6e0964f01"
+        },
+        {
+            "fight_id": "1b6e5363eb81c409",
+            "fight_url": "http://ufcstats.com/fight-details/1b6e5363eb81c409"
+        },
+        {
+            "fight_id": "d3f5854d16fc31f9",
+            "fight_url": "http://ufcstats.com/fight-details/d3f5854d16fc31f9"
+        },
+        {
+            "fight_id": "50385add37239184",
+            "fight_url": "http://ufcstats.com/fight-details/50385add37239184"
+        },
+        {
+            "fight_id": "f4ad4af860cfba78",
+            "fight_url": "http://ufcstats.com/fight-details/f4ad4af860cfba78"
+        }
+    ]
+}

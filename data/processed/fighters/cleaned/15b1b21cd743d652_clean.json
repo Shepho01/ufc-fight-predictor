@@ -1,0 +1,23 @@
+{
+    "fighter_id": "15b1b21cd743d652",
+    "name": "Rafaello Oliveira",
+    "wins": 17,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 26,
+    "dob_month": 1,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 2.19,
+    "sig_striking_accuracy": 0.33,
+    "sig_strikes_absorbed_per_min": 3.38,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 2.49,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.11,
+    "submission_attempts_per_15_min": 1.6
+}

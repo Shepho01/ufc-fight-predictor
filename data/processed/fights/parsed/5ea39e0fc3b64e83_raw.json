@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5ea39e0fc3b64e83",
+        "event_id": "67ec58d7cf599835",
+        "event_name": "UFC 224: Nunes vs. Pennington",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:15",
+        "referee": "Osiris Maia",
+        "winner_id": "0052de90691d4a93"
+    },
+    "fighter_a": {
+        "fighter_id": "0052de90691d4a93",
+        "name": "Davi Ramos",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 12",
+            "Sig. str. %": "50%",
+            "Total str.": "13 of 21",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 12",
+            "Sig. str. %": "50%",
+            "Head": "5 of 9",
+            "Body": "1 of 3",
+            "Leg": "0 of 0",
+            "Distance": "5 of 11",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "2816ced060a21be3",
+        "name": "Nick Hein",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 6",
+            "Sig. str. %": "16%",
+            "Total str.": "1 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 6",
+            "Sig. str. %": "16%",
+            "Head": "1 of 6",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "1 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3b536afcc9098925",
+        "event_id": "20e403a1acfef130",
+        "event_name": "UFC 209: Woodley vs. Thompson 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "3:19",
+        "referee": "Chris Tognoni",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "cbd3e590a85b18c5",
+        "name": "Mirsad Bektic",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "60 of 98",
+            "Sig. str. %": "61%",
+            "Total str.": "146 of 196",
+            "Td": "4 of 10",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "9:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "60 of 98",
+            "Sig. str. %": "61%",
+            "Head": "55 of 91",
+            "Body": "4 of 5",
+            "Leg": "1 of 2",
+            "Distance": "17 of 48",
+            "Clinch": "7 of 8",
+            "Ground": "36 of 42"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "28 of 59",
+            "Sig. str. %": "47%",
+            "Total str.": "72 of 109",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "1:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 59",
+            "Sig. str. %": "47%",
+            "Head": "14 of 45",
+            "Body": "10 of 10",
+            "Leg": "4 of 4",
+            "Distance": "6 of 36",
+            "Clinch": "10 of 11",
+            "Ground": "12 of 12"
+        }
+    }
+}

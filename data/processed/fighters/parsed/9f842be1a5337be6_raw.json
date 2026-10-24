@@ -1,0 +1,68 @@
+{
+    "fighter_id": "9f842be1a5337be6",
+    "name": "Michihiro Omigawa",
+    "record": "17-14-1",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Dec 19, 1975",
+    "sig_strikes_landed_per_min": "2.01",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.06",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "1.19",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "49%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "295ca78f56ebee0f",
+            "fight_url": "http://ufcstats.com/fight-details/295ca78f56ebee0f"
+        },
+        {
+            "fight_id": "3e6dfafb8aa780f9",
+            "fight_url": "http://ufcstats.com/fight-details/3e6dfafb8aa780f9"
+        },
+        {
+            "fight_id": "0be68308b5d63a47",
+            "fight_url": "http://ufcstats.com/fight-details/0be68308b5d63a47"
+        },
+        {
+            "fight_id": "77862f580ce9bca8",
+            "fight_url": "http://ufcstats.com/fight-details/77862f580ce9bca8"
+        },
+        {
+            "fight_id": "29bf7862fb1c28d6",
+            "fight_url": "http://ufcstats.com/fight-details/29bf7862fb1c28d6"
+        },
+        {
+            "fight_id": "ae3ab5d1892153ef",
+            "fight_url": "http://ufcstats.com/fight-details/ae3ab5d1892153ef"
+        },
+        {
+            "fight_id": "3552bfbab85f39c9",
+            "fight_url": "http://ufcstats.com/fight-details/3552bfbab85f39c9"
+        },
+        {
+            "fight_id": "39b70ec9e2ed4426",
+            "fight_url": "http://ufcstats.com/fight-details/39b70ec9e2ed4426"
+        },
+        {
+            "fight_id": "6249b19cca44ef17",
+            "fight_url": "http://ufcstats.com/fight-details/6249b19cca44ef17"
+        },
+        {
+            "fight_id": "b5bef60f79b38e69",
+            "fight_url": "http://ufcstats.com/fight-details/b5bef60f79b38e69"
+        },
+        {
+            "fight_id": "73726e32d26c17ee",
+            "fight_url": "http://ufcstats.com/fight-details/73726e32d26c17ee"
+        },
+        {
+            "fight_id": "c0d2c9d507be7415",
+            "fight_url": "http://ufcstats.com/fight-details/c0d2c9d507be7415"
+        }
+    ]
+}

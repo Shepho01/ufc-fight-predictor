@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c9bbf1a0285a8076",
+    "name": "Jeff Cox",
+    "wins": 10,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 2,
+    "dob_month": 8,
+    "dob_year": 1968,
+    "sig_strikes_landed_per_min": 0.56,
+    "sig_striking_accuracy": 0.25,
+    "sig_strikes_absorbed_per_min": 1.69,
+    "sig_strike_defense": 0.33,
+    "takedowns_landed_per_15_min": 4.23,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.8,
+    "submission_attempts_per_15_min": 0.0
+}

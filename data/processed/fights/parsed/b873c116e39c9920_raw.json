@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b873c116e39c9920",
+        "event_id": "118463dd8db16e7f",
+        "event_name": "UFC 315: Muhammad vs. Della Maddalena",
+        "weight_class": "Welterweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "b1b0729d27936f2f",
+        "name": "Belal Muhammad",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "132 of 318",
+            "Sig. str. %": "41%",
+            "Total str.": "155 of 349",
+            "Td": "3 of 9",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "132 of 318",
+            "Sig. str. %": "41%",
+            "Head": "119 of 297",
+            "Body": "11 of 18",
+            "Leg": "2 of 3",
+            "Distance": "116 of 295",
+            "Clinch": "14 of 21",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "178 of 342",
+            "Sig. str. %": "52%",
+            "Total str.": "200 of 364",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:40"
+        },
+        "significant_strikes": {
+            "Sig. str": "178 of 342",
+            "Sig. str. %": "52%",
+            "Head": "113 of 254",
+            "Body": "47 of 65",
+            "Leg": "18 of 23",
+            "Distance": "167 of 326",
+            "Clinch": "11 of 16",
+            "Ground": "0 of 0"
+        }
+    }
+}

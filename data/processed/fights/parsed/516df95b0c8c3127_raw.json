@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "516df95b0c8c3127",
+        "event_id": "a95a0504fd73bd3e",
+        "event_name": "WEC 44: Brown vs. Aldo",
+        "weight_class": "WEC Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:20",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 73",
+            "Sig. str. %": "52%",
+            "Total str.": "44 of 79",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 73",
+            "Sig. str. %": "52%",
+            "Head": "24 of 56",
+            "Body": "8 of 11",
+            "Leg": "6 of 6",
+            "Distance": "21 of 47",
+            "Clinch": "0 of 0",
+            "Ground": "17 of 26"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e0b74df14f52cd15",
+        "name": "Mike Brown",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 51",
+            "Sig. str. %": "35%",
+            "Total str.": "23 of 56",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 51",
+            "Sig. str. %": "35%",
+            "Head": "4 of 34",
+            "Body": "4 of 7",
+            "Leg": "10 of 10",
+            "Distance": "9 of 40",
+            "Clinch": "9 of 11",
+            "Ground": "0 of 0"
+        }
+    }
+}

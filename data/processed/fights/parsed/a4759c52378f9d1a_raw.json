@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a4759c52378f9d1a",
+        "event_id": "ac9521250dc1a14c",
+        "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:32",
+        "referee": "John Sharp",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "ef7fa30364cbe7f2",
+        "name": "Hatsu Hioki",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 27",
+            "Sig. str. %": "40%",
+            "Total str.": "31 of 51",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 27",
+            "Sig. str. %": "40%",
+            "Head": "7 of 21",
+            "Body": "4 of 6",
+            "Leg": "0 of 0",
+            "Distance": "6 of 17",
+            "Clinch": "2 of 3",
+            "Ground": "3 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 38",
+            "Sig. str. %": "63%",
+            "Total str.": "33 of 52",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 38",
+            "Sig. str. %": "63%",
+            "Head": "10 of 23",
+            "Body": "10 of 11",
+            "Leg": "4 of 4",
+            "Distance": "3 of 14",
+            "Clinch": "14 of 17",
+            "Ground": "7 of 7"
+        }
+    }
+}

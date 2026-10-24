@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "37a8c442fb38db75",
+        "event_id": "2f8f3c69522db931",
+        "event_name": "UFC Fight Night: De Randamie vs. Ladd",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Blake Grice",
+        "winner_id": "8866c6f509c19089"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 126",
+            "Sig. str. %": "23%",
+            "Total str.": "31 of 128",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 126",
+            "Sig. str. %": "23%",
+            "Head": "8 of 83",
+            "Body": "11 of 20",
+            "Leg": "10 of 23",
+            "Distance": "16 of 84",
+            "Clinch": "1 of 3",
+            "Ground": "12 of 39"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "8866c6f509c19089",
+        "name": "Ryan Hall",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "36 of 83",
+            "Sig. str. %": "43%",
+            "Total str.": "40 of 93",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 83",
+            "Sig. str. %": "43%",
+            "Head": "15 of 47",
+            "Body": "13 of 27",
+            "Leg": "8 of 9",
+            "Distance": "34 of 78",
+            "Clinch": "0 of 1",
+            "Ground": "2 of 4"
+        }
+    }
+}

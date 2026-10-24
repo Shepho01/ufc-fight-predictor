@@ -1,0 +1,100 @@
+{
+    "fighter_id": "902ec2cc48c8ae8a",
+    "name": "Julian Erosa",
+    "record": "31-14-0",
+    "height": "6' 1\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Jul 31, 1989",
+    "sig_strikes_landed_per_min": "6.18",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "6.31",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "1.73",
+    "takedown_accuracy": "43%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "52d61656f77f6650",
+            "fight_url": "http://ufcstats.com/fight-details/52d61656f77f6650"
+        },
+        {
+            "fight_id": "f9f5071b993a5f4b",
+            "fight_url": "http://ufcstats.com/fight-details/f9f5071b993a5f4b"
+        },
+        {
+            "fight_id": "fe2acfdaaaec3dba",
+            "fight_url": "http://ufcstats.com/fight-details/fe2acfdaaaec3dba"
+        },
+        {
+            "fight_id": "08e7a39eb7482ebf",
+            "fight_url": "http://ufcstats.com/fight-details/08e7a39eb7482ebf"
+        },
+        {
+            "fight_id": "a63bb85cc39389c7",
+            "fight_url": "http://ufcstats.com/fight-details/a63bb85cc39389c7"
+        },
+        {
+            "fight_id": "8c8337ce8437fe2e",
+            "fight_url": "http://ufcstats.com/fight-details/8c8337ce8437fe2e"
+        },
+        {
+            "fight_id": "e0e2c1fc1a178d89",
+            "fight_url": "http://ufcstats.com/fight-details/e0e2c1fc1a178d89"
+        },
+        {
+            "fight_id": "9c1a2ac64c98d2f6",
+            "fight_url": "http://ufcstats.com/fight-details/9c1a2ac64c98d2f6"
+        },
+        {
+            "fight_id": "0e6d624086f7952e",
+            "fight_url": "http://ufcstats.com/fight-details/0e6d624086f7952e"
+        },
+        {
+            "fight_id": "208c5dc52ccfd47a",
+            "fight_url": "http://ufcstats.com/fight-details/208c5dc52ccfd47a"
+        },
+        {
+            "fight_id": "3f76035e52e8819b",
+            "fight_url": "http://ufcstats.com/fight-details/3f76035e52e8819b"
+        },
+        {
+            "fight_id": "d3c0dfa57950aefd",
+            "fight_url": "http://ufcstats.com/fight-details/d3c0dfa57950aefd"
+        },
+        {
+            "fight_id": "e175c1a0bff30187",
+            "fight_url": "http://ufcstats.com/fight-details/e175c1a0bff30187"
+        },
+        {
+            "fight_id": "8a8fea2c10512434",
+            "fight_url": "http://ufcstats.com/fight-details/8a8fea2c10512434"
+        },
+        {
+            "fight_id": "115fa6f5f3e51bbb",
+            "fight_url": "http://ufcstats.com/fight-details/115fa6f5f3e51bbb"
+        },
+        {
+            "fight_id": "ddcfa590f4644240",
+            "fight_url": "http://ufcstats.com/fight-details/ddcfa590f4644240"
+        },
+        {
+            "fight_id": "79fb77a0b0294aec",
+            "fight_url": "http://ufcstats.com/fight-details/79fb77a0b0294aec"
+        },
+        {
+            "fight_id": "460b882ff744ade1",
+            "fight_url": "http://ufcstats.com/fight-details/460b882ff744ade1"
+        },
+        {
+            "fight_id": "6ecd93dbbaba7e10",
+            "fight_url": "http://ufcstats.com/fight-details/6ecd93dbbaba7e10"
+        },
+        {
+            "fight_id": "1362ccc16713d404",
+            "fight_url": "http://ufcstats.com/fight-details/1362ccc16713d404"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "cce5b9dfe84630fa",
+        "event_id": "d86e913c548c07c2",
+        "event_name": "UFC 215: Nunes vs Shevchenko 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "0:49",
+        "referee": "John McCarthy",
+        "winner_id": "633a45d131192ffe"
+    },
+    "fighter_a": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "26 of 63",
+            "Sig. str. %": "41%",
+            "Total str.": "26 of 63",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 63",
+            "Sig. str. %": "41%",
+            "Head": "7 of 29",
+            "Body": "12 of 21",
+            "Leg": "7 of 13",
+            "Distance": "24 of 61",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7dcf06c1967801c1",
+        "name": "Adriano Martins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 31",
+            "Sig. str. %": "51%",
+            "Total str.": "16 of 31",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 31",
+            "Sig. str. %": "51%",
+            "Head": "8 of 21",
+            "Body": "0 of 0",
+            "Leg": "8 of 10",
+            "Distance": "16 of 31",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

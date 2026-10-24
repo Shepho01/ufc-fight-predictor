@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "04d5718ed2661e8c",
+        "event_name": "UFC Fight Night: Condit vs Kampmann",
+        "event_day": 1,
+        "event_month": 4,
+        "event_year": 2009,
+        "location": "Nashville, Tennessee, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ae68274ab6f78cd8",
+            "fighter_a": "Martin Kampmann",
+            "fighter_b": "Carlos Condit",
+            "winner": "Martin Kampmann",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ae68274ab6f78cd8"
+        },
+        {
+            "fight_id": "a7d42315236560e9",
+            "fighter_a": "Ryan Bader",
+            "fighter_b": "Carmelo Marrero",
+            "winner": "Ryan Bader",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a7d42315236560e9"
+        },
+        {
+            "fight_id": "f1100f1bc6cbb351",
+            "fighter_a": "Tyson Griffin",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Tyson Griffin",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f1100f1bc6cbb351"
+        },
+        {
+            "fight_id": "33e576af1d064e4e",
+            "fighter_a": "Cole Miller",
+            "fighter_b": "Junie Browning",
+            "winner": "Cole Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 118,
+            "fight_url": "http://ufcstats.com/fight-details/33e576af1d064e4e"
+        },
+        {
+            "fight_id": "9c7a67ce1d6a01f9",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9c7a67ce1d6a01f9"
+        },
+        {
+            "fight_id": "4b9203b86f0aa870",
+            "fighter_a": "Ricardo Almeida",
+            "fighter_b": "Matt Horwich",
+            "winner": "Ricardo Almeida",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4b9203b86f0aa870"
+        },
+        {
+            "fight_id": "47e17513aae45a95",
+            "fighter_a": "Brock Larson",
+            "fighter_b": "Jesse Sanders",
+            "winner": "Brock Larson",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 121,
+            "fight_url": "http://ufcstats.com/fight-details/47e17513aae45a95"
+        },
+        {
+            "fight_id": "c642640db89fb033",
+            "fighter_a": "Tim Credeur",
+            "fighter_b": "Nick Catone",
+            "winner": "Tim Credeur",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 225,
+            "fight_url": "http://ufcstats.com/fight-details/c642640db89fb033"
+        },
+        {
+            "fight_id": "4cffb137402f7bb0",
+            "fighter_a": "Jorge Rivera",
+            "fighter_b": "Nissen Osterneck",
+            "winner": "Jorge Rivera",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4cffb137402f7bb0"
+        },
+        {
+            "fight_id": "a561360edf66ee6f",
+            "fighter_a": "Rob Kimmons",
+            "fighter_b": "Joe Vedepo",
+            "winner": "Rob Kimmons",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/a561360edf66ee6f"
+        },
+        {
+            "fight_id": "ddc233f8ca7c05aa",
+            "fighter_a": "Aaron Simpson",
+            "fighter_b": "Tim McKenzie",
+            "winner": "Aaron Simpson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/ddc233f8ca7c05aa"
+        }
+    ]
+}

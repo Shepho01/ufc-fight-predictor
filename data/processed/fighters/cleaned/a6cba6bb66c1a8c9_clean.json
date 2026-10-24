@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a6cba6bb66c1a8c9",
+    "name": "Danny Roberts",
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 170,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 14,
+    "dob_month": 7,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.18,
+    "sig_striking_accuracy": 0.39,
+    "sig_strikes_absorbed_per_min": 3.73,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.24,
+    "takedown_accuracy": 0.09,
+    "takedown_defense": 0.57,
+    "submission_attempts_per_15_min": 0.2
+}

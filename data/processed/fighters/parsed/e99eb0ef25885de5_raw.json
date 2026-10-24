@@ -1,0 +1,36 @@
+{
+    "fighter_id": "e99eb0ef25885de5",
+    "name": "Mitch Ramirez",
+    "record": "8-4-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 03, 1992",
+    "sig_strikes_landed_per_min": "3.27",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.77",
+    "sig_strike_defense": "38%",
+    "takedowns_landed_per_15_min": "0.54",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "33%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "f2abca7379982d4f",
+            "fight_url": "http://ufcstats.com/fight-details/f2abca7379982d4f"
+        },
+        {
+            "fight_id": "7f33fbdc35afd721",
+            "fight_url": "http://ufcstats.com/fight-details/7f33fbdc35afd721"
+        },
+        {
+            "fight_id": "537b3cef39d2d573",
+            "fight_url": "http://ufcstats.com/fight-details/537b3cef39d2d573"
+        },
+        {
+            "fight_id": "1213ee02278a3f30",
+            "fight_url": "http://ufcstats.com/fight-details/1213ee02278a3f30"
+        }
+    ]
+}

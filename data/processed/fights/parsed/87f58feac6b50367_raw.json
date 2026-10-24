@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "87f58feac6b50367",
+        "event_id": "5f8e00c27b7e7410",
+        "event_name": "UFC Fight Night: Smith vs. Teixeira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "0:25",
+        "referee": "Keith Peterson",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "511e82663651438d",
+        "name": "Michael Johnson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 60",
+            "Sig. str. %": "45%",
+            "Total str.": "28 of 61",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 60",
+            "Sig. str. %": "45%",
+            "Head": "8 of 24",
+            "Body": "13 of 29",
+            "Leg": "6 of 7",
+            "Distance": "26 of 59",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 16",
+            "Sig. str. %": "6%",
+            "Total str.": "1 of 16",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 16",
+            "Sig. str. %": "6%",
+            "Head": "0 of 13",
+            "Body": "0 of 2",
+            "Leg": "1 of 1",
+            "Distance": "1 of 16",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

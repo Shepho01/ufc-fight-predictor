@@ -1,0 +1,44 @@
+{
+    "fighter_id": "e26bd53b751d61d9",
+    "name": "Jordan Williams",
+    "record": "9-6-0 (1 NC)",
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Oct 13, 1990",
+    "sig_strikes_landed_per_min": "5.83",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "5.46",
+    "sig_strike_defense": "35%",
+    "takedowns_landed_per_15_min": "1.11",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "85%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "733dcfec0cc9b439",
+            "fight_url": "http://ufcstats.com/fight-details/733dcfec0cc9b439"
+        },
+        {
+            "fight_id": "1be65a0d2c1383f6",
+            "fight_url": "http://ufcstats.com/fight-details/1be65a0d2c1383f6"
+        },
+        {
+            "fight_id": "15a422574c3b89e1",
+            "fight_url": "http://ufcstats.com/fight-details/15a422574c3b89e1"
+        },
+        {
+            "fight_id": "2adf42faae2d37db",
+            "fight_url": "http://ufcstats.com/fight-details/2adf42faae2d37db"
+        },
+        {
+            "fight_id": "8d97d0feeadee1d7",
+            "fight_url": "http://ufcstats.com/fight-details/8d97d0feeadee1d7"
+        },
+        {
+            "fight_id": "eab2d9acc1b1cdc4",
+            "fight_url": "http://ufcstats.com/fight-details/eab2d9acc1b1cdc4"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "76e2870ffafbe38f",
+    "name": "Movsar Evloev",
+    "wins": 20,
+    "losses": 0,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 11,
+    "dob_month": 2,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 3.91,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 2.8,
+    "sig_strike_defense": 0.61,
+    "takedowns_landed_per_15_min": 4.78,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 0.2
+}

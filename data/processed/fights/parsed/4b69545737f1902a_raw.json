@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4b69545737f1902a",
+        "event_id": "e5c9de15bb58b1c6",
+        "event_name": "UFC Fight Night: Saffiedine vs Lim",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:27",
+        "referee": "Leon Roberts",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "74 of 139",
+            "Sig. str. %": "53%",
+            "Total str.": "79 of 145",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "74 of 139",
+            "Sig. str. %": "53%",
+            "Head": "58 of 119",
+            "Body": "14 of 18",
+            "Leg": "2 of 2",
+            "Distance": "30 of 73",
+            "Clinch": "41 of 61",
+            "Ground": "3 of 5"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "db5dc7cb80d7d418",
+        "name": "Will Chope",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 121",
+            "Sig. str. %": "27%",
+            "Total str.": "34 of 122",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 121",
+            "Sig. str. %": "27%",
+            "Head": "23 of 104",
+            "Body": "2 of 7",
+            "Leg": "8 of 10",
+            "Distance": "28 of 111",
+            "Clinch": "5 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

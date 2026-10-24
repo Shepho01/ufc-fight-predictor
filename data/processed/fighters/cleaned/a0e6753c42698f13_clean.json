@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a0e6753c42698f13",
+    "name": "Omar Morales",
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 17,
+    "dob_month": 10,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 3.42,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.18,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 0.46,
+    "takedown_accuracy": 1.0,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.0
+}

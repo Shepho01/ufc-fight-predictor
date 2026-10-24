@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d188a3b817860ec6",
+    "name": "Steven Siler",
+    "wins": 29,
+    "losses": 16,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 15,
+    "dob_month": 2,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.21,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 2.96,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.47,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 1.6
+}

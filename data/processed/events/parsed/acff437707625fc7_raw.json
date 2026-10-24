@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "acff437707625fc7",
+        "event_name": "UFC Fight Night: Marquardt vs Palhares",
+        "event_date": "September 15, 2010",
+        "location": "Austin, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "48db60440ead6f6d",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "Rousimar Palhares",
+            "winner": "Nate Marquardt",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:28",
+            "fight_url": "http://ufcstats.com/fight-details/48db60440ead6f6d"
+        },
+        {
+            "fight_id": "a24121c70f773fe2",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Efrain Escudero",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:25",
+            "fight_url": "http://ufcstats.com/fight-details/a24121c70f773fe2"
+        },
+        {
+            "fight_id": "108140213049e629",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/108140213049e629"
+        },
+        {
+            "fight_id": "2aeba1cc4004d0bc",
+            "fighter_a": "Cole Miller",
+            "fighter_b": "Ross Pearson",
+            "winner": "Cole Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/2aeba1cc4004d0bc"
+        },
+        {
+            "fight_id": "25137d9cc8b47f57",
+            "fighter_a": "Yves Edwards",
+            "fighter_b": "John Gunderson",
+            "winner": "Yves Edwards",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/25137d9cc8b47f57"
+        },
+        {
+            "fight_id": "b972f998103731da",
+            "fighter_a": "Kyle Kingsbury",
+            "fighter_b": "Jared Hamman",
+            "winner": "Kyle Kingsbury",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b972f998103731da"
+        },
+        {
+            "fight_id": "2f2ac4c08e763d38",
+            "fighter_a": "David Branch",
+            "fighter_b": "Tomasz Drwal",
+            "winner": "David Branch",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2f2ac4c08e763d38"
+        },
+        {
+            "fight_id": "f1ffe3ba615ad7b9",
+            "fighter_a": "Rich Attonito",
+            "fighter_b": "Rafael Natal",
+            "winner": "Rich Attonito",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f1ffe3ba615ad7b9"
+        },
+        {
+            "fight_id": "a4bc92bfe82d0547",
+            "fighter_a": "TJ Waldburger",
+            "fighter_b": "David Mitchell",
+            "winner": "TJ Waldburger",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a4bc92bfe82d0547"
+        },
+        {
+            "fight_id": "88ef809a0fde3900",
+            "fighter_a": "Brian Foster",
+            "fighter_b": "Forrest Petz",
+            "winner": "Brian Foster",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/88ef809a0fde3900"
+        }
+    ]
+}

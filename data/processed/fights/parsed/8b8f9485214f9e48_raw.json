@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8b8f9485214f9e48",
+        "event_id": "865aa315ea62c511",
+        "event_name": "UFC 208: Holm vs. De Randamie",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Majority",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "97 of 216",
+            "Sig. str. %": "44%",
+            "Total str.": "122 of 243",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "3:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "97 of 216",
+            "Sig. str. %": "44%",
+            "Head": "79 of 186",
+            "Body": "10 of 14",
+            "Leg": "8 of 16",
+            "Distance": "80 of 185",
+            "Clinch": "13 of 21",
+            "Ground": "4 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d1941565abf50b16",
+        "name": "Jim Miller",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "71 of 135",
+            "Sig. str. %": "52%",
+            "Total str.": "83 of 150",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "1:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "71 of 135",
+            "Sig. str. %": "52%",
+            "Head": "36 of 98",
+            "Body": "20 of 20",
+            "Leg": "15 of 17",
+            "Distance": "56 of 118",
+            "Clinch": "13 of 15",
+            "Ground": "2 of 2"
+        }
+    }
+}

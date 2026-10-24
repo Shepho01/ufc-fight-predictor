@@ -1,0 +1,80 @@
+{
+    "fighter_id": "eb1723480fa2f96c",
+    "name": "Caol Uno",
+    "record": "33-19-5",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "May 08, 1975",
+    "sig_strikes_landed_per_min": "1.91",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "1.90",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.95",
+    "takedown_accuracy": "31%",
+    "takedown_defense": "37%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "6d0641a9c67de9ac",
+            "fight_url": "http://ufcstats.com/fight-details/6d0641a9c67de9ac"
+        },
+        {
+            "fight_id": "39d040bac5b7ddd1",
+            "fight_url": "http://ufcstats.com/fight-details/39d040bac5b7ddd1"
+        },
+        {
+            "fight_id": "f0c705ff23481a90",
+            "fight_url": "http://ufcstats.com/fight-details/f0c705ff23481a90"
+        },
+        {
+            "fight_id": "2e8217f029c25a3a",
+            "fight_url": "http://ufcstats.com/fight-details/2e8217f029c25a3a"
+        },
+        {
+            "fight_id": "d66f2c83c26e5b80",
+            "fight_url": "http://ufcstats.com/fight-details/d66f2c83c26e5b80"
+        },
+        {
+            "fight_id": "cfacff39c9f3b2f9",
+            "fight_url": "http://ufcstats.com/fight-details/cfacff39c9f3b2f9"
+        },
+        {
+            "fight_id": "a89033f7d7e4d52d",
+            "fight_url": "http://ufcstats.com/fight-details/a89033f7d7e4d52d"
+        },
+        {
+            "fight_id": "50f343081acd2be6",
+            "fight_url": "http://ufcstats.com/fight-details/50f343081acd2be6"
+        },
+        {
+            "fight_id": "10976fbb37d41c43",
+            "fight_url": "http://ufcstats.com/fight-details/10976fbb37d41c43"
+        },
+        {
+            "fight_id": "63ff2ed92c800ef8",
+            "fight_url": "http://ufcstats.com/fight-details/63ff2ed92c800ef8"
+        },
+        {
+            "fight_id": "826b03504b9bad4e",
+            "fight_url": "http://ufcstats.com/fight-details/826b03504b9bad4e"
+        },
+        {
+            "fight_id": "1228c4297882e8ba",
+            "fight_url": "http://ufcstats.com/fight-details/1228c4297882e8ba"
+        },
+        {
+            "fight_id": "f20bd0b549e1a97d",
+            "fight_url": "http://ufcstats.com/fight-details/f20bd0b549e1a97d"
+        },
+        {
+            "fight_id": "6314e63003745e80",
+            "fight_url": "http://ufcstats.com/fight-details/6314e63003745e80"
+        },
+        {
+            "fight_id": "a38ec65ac140fcf8",
+            "fight_url": "http://ufcstats.com/fight-details/a38ec65ac140fcf8"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f1eca70738ca073e",
+        "event_id": "ccd58ff71e260ed5",
+        "event_name": "UFC 291: Poirier vs. Gaethje 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "4:54",
+        "referee": "Dan Miragliotta",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "22a92d7f62195791",
+        "name": "Tony Ferguson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 123",
+            "Sig. str. %": "43%",
+            "Total str.": "62 of 138",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 123",
+            "Sig. str. %": "43%",
+            "Head": "38 of 98",
+            "Body": "11 of 18",
+            "Leg": "5 of 7",
+            "Distance": "50 of 118",
+            "Clinch": "2 of 2",
+            "Ground": "2 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "137 of 217",
+            "Sig. str. %": "63%",
+            "Total str.": "145 of 227",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "137 of 217",
+            "Sig. str. %": "63%",
+            "Head": "95 of 166",
+            "Body": "24 of 31",
+            "Leg": "18 of 20",
+            "Distance": "115 of 183",
+            "Clinch": "1 of 1",
+            "Ground": "21 of 33"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "017c090e9e8d2957",
+        "event_id": "9de7c97e1c0d7927",
+        "event_name": "UFC 237: Namajunas vs. Andrade",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "66 of 102",
+            "Sig. str. %": "64%",
+            "Total str.": "115 of 160",
+            "Td": "4 of 6",
+            "Td %": "66%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "7:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "66 of 102",
+            "Sig. str. %": "64%",
+            "Head": "59 of 92",
+            "Body": "2 of 4",
+            "Leg": "5 of 6",
+            "Distance": "28 of 53",
+            "Clinch": "8 of 11",
+            "Ground": "30 of 38"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "a7151778b3381036",
+        "name": "Kurt Holobaugh",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "39 of 115",
+            "Sig. str. %": "33%",
+            "Total str.": "108 of 189",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "39 of 115",
+            "Sig. str. %": "33%",
+            "Head": "16 of 82",
+            "Body": "21 of 30",
+            "Leg": "2 of 3",
+            "Distance": "24 of 93",
+            "Clinch": "14 of 21",
+            "Ground": "1 of 1"
+        }
+    }
+}

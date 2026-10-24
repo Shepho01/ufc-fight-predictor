@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "96704d7ba3a452d9",
+        "event_id": "89a407032911e27e",
+        "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "0:23",
+        "referee": "Marc Goddard",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "75 of 128",
+            "Sig. str. %": "58%",
+            "Total str.": "75 of 128",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 128",
+            "Sig. str. %": "58%",
+            "Head": "34 of 77",
+            "Body": "31 of 35",
+            "Leg": "10 of 16",
+            "Distance": "71 of 124",
+            "Clinch": "1 of 1",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "34 of 124",
+            "Sig. str. %": "27%",
+            "Total str.": "35 of 126",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 124",
+            "Sig. str. %": "27%",
+            "Head": "25 of 110",
+            "Body": "6 of 8",
+            "Leg": "3 of 6",
+            "Distance": "34 of 122",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

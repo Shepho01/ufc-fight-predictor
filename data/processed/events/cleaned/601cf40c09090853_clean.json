@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "601cf40c09090853",
+        "event_name": "UFC 156: Aldo vs Edgar",
+        "event_day": 2,
+        "event_month": 2,
+        "event_year": 2013,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1c4e4b3358089960",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1c4e4b3358089960"
+        },
+        {
+            "fight_id": "031eac0f0f85d0bf",
+            "fighter_a": "Rogerio Nogueira",
+            "fighter_b": "Rashad Evans",
+            "winner": "Rogerio Nogueira",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/031eac0f0f85d0bf"
+        },
+        {
+            "fight_id": "21419797f539de5e",
+            "fighter_a": "Antonio Silva",
+            "fighter_b": "Alistair Overeem",
+            "winner": "Antonio Silva",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/21419797f539de5e"
+        },
+        {
+            "fight_id": "171eb38b335030d3",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Jon Fitch",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/171eb38b335030d3"
+        },
+        {
+            "fight_id": "40cc0ccf580a4836",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Ian McCall",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/40cc0ccf580a4836"
+        },
+        {
+            "fight_id": "1d43112d98de273a",
+            "fighter_a": "Evan Dunham",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Evan Dunham",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1d43112d98de273a"
+        },
+        {
+            "fight_id": "8bcdb1c3418fe739",
+            "fighter_a": "Tyron Woodley",
+            "fighter_b": "Jay Hieron",
+            "winner": "Tyron Woodley",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 36,
+            "fight_url": "http://ufcstats.com/fight-details/8bcdb1c3418fe739"
+        },
+        {
+            "fight_id": "cd03bff050e53625",
+            "fighter_a": "King Green",
+            "fighter_b": "Jacob Volkmann",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/cd03bff050e53625"
+        },
+        {
+            "fight_id": "54c842a037183f48",
+            "fighter_a": "Isaac Vallie-Flagg",
+            "fighter_b": "Yves Edwards",
+            "winner": "Isaac Vallie-Flagg",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/54c842a037183f48"
+        },
+        {
+            "fight_id": "6247ad19755b71d6",
+            "fighter_a": "Dustin Kimura",
+            "fighter_b": "Chico Camus",
+            "winner": "Dustin Kimura",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 110,
+            "fight_url": "http://ufcstats.com/fight-details/6247ad19755b71d6"
+        },
+        {
+            "fight_id": "42eba784becde9ad",
+            "fighter_a": "Francisco Rivera",
+            "fighter_b": "Edwin Figueroa",
+            "winner": "Francisco Rivera",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 260,
+            "fight_url": "http://ufcstats.com/fight-details/42eba784becde9ad"
+        }
+    ]
+}

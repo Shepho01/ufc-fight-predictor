@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "788c4bbf925cdf40",
+        "event_id": "269d103c96a4c3a5",
+        "event_name": "UFC 177: Dillashaw vs Soto",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:12",
+        "referee": "Jason Herzog",
+        "winner_id": "c8097968da5e5f13"
+    },
+    "fighter_a": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 1",
+            "Sig. str. %": "0%",
+            "Total str.": "5 of 6",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 1",
+            "Sig. str. %": "0%",
+            "Head": "0 of 1",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "064b7dc68d786254",
+        "name": "Cain Carrizosa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 3",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 3",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 3",
+            "Sig. str. %": "0%",
+            "Head": "0 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 3",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

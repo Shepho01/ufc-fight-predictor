@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "754968e325d6f60d",
+        "event_name": "UFC Fight Night: Walker vs. Zhang",
+        "event_day": 23,
+        "event_month": 8,
+        "event_year": 2025,
+        "location": "Shanghai, Hebei, China"
+    },
+    "fights": [
+        {
+            "fight_id": "2eecf0c36192e40c",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Zhang Mingyang",
+            "winner": "Johnny Walker",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 157,
+            "fight_url": "http://ufcstats.com/fight-details/2eecf0c36192e40c"
+        },
+        {
+            "fight_id": "58080e8989927500",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Brian Ortega",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/58080e8989927500"
+        },
+        {
+            "fight_id": "5538d15c4eeac3b3",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Waldo Cortes Acosta",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5538d15c4eeac3b3"
+        },
+        {
+            "fight_id": "ce6bd165bef82bd7",
+            "fighter_a": "Sumudaerji",
+            "fighter_b": "Kevin Borjas",
+            "winner": "Sumudaerji",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ce6bd165bef82bd7"
+        },
+        {
+            "fight_id": "1452c20d964c0a63",
+            "fighter_a": "Taiyilake Nueraji",
+            "fighter_b": "Kiefer Crosbie",
+            "winner": "Taiyilake Nueraji",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 213,
+            "fight_url": "http://ufcstats.com/fight-details/1452c20d964c0a63"
+        },
+        {
+            "fight_id": "0b1460c666e66d39",
+            "fighter_a": "Gauge Young",
+            "fighter_b": "Maheshate",
+            "winner": "Gauge Young",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0b1460c666e66d39"
+        },
+        {
+            "fight_id": "1ab1ed99a4bc5494",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Lone'er Kavanagh",
+            "winner": "Charles Johnson",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 275,
+            "fight_url": "http://ufcstats.com/fight-details/1ab1ed99a4bc5494"
+        },
+        {
+            "fight_id": "f55749e32ce5c6f3",
+            "fighter_a": "Rongzhu",
+            "fighter_b": "Austin Hubbard",
+            "winner": "Rongzhu",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f55749e32ce5c6f3"
+        },
+        {
+            "fight_id": "130e622d4d2aee3e",
+            "fighter_a": "Kyle Daukaus",
+            "fighter_b": "Michel Pereira",
+            "winner": "Kyle Daukaus",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 43,
+            "fight_url": "http://ufcstats.com/fight-details/130e622d4d2aee3e"
+        },
+        {
+            "fight_id": "f0b7caa90faf47e5",
+            "fighter_a": "Yizha",
+            "fighter_b": "Westin Wilson",
+            "winner": "Yizha",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 37,
+            "fight_url": "http://ufcstats.com/fight-details/f0b7caa90faf47e5"
+        },
+        {
+            "fight_id": "2f6065fe0804d1d8",
+            "fighter_a": "SuYoung You",
+            "fighter_b": "Xiao Long",
+            "winner": "SuYoung You",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2f6065fe0804d1d8"
+        },
+        {
+            "fight_id": "7fc5f1dc2df84ac7",
+            "fighter_a": "Uran Satybaldiev",
+            "fighter_b": "Diyar Nurgozhay",
+            "winner": "Uran Satybaldiev",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Ezekiel Choke",
+            "round": 1,
+            "time_seconds": 165,
+            "fight_url": "http://ufcstats.com/fight-details/7fc5f1dc2df84ac7"
+        }
+    ]
+}

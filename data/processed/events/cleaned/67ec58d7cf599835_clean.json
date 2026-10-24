@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "67ec58d7cf599835",
+        "event_name": "UFC 224: Nunes vs. Pennington",
+        "event_day": 12,
+        "event_month": 5,
+        "event_year": 2018,
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "3454f5c7203467aa",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Raquel Pennington",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 5,
+            "time_seconds": 156,
+            "fight_url": "http://ufcstats.com/fight-details/3454f5c7203467aa"
+        },
+        {
+            "fight_id": "d86e31793564cd31",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Jacare Souza",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d86e31793564cd31"
+        },
+        {
+            "fight_id": "7ec70261afdecda8",
+            "fighter_a": "Mackenzie Dern",
+            "fighter_b": "Amanda Cooper",
+            "winner": "Mackenzie Dern",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/7ec70261afdecda8"
+        },
+        {
+            "fight_id": "b152646345037056",
+            "fighter_a": "John Lineker",
+            "fighter_b": "Brian Kelleher",
+            "winner": "John Lineker",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 223,
+            "fight_url": "http://ufcstats.com/fight-details/b152646345037056"
+        },
+        {
+            "fight_id": "7072a324a82c4297",
+            "fighter_a": "Lyoto Machida",
+            "fighter_b": "Vitor Belfort",
+            "winner": "Lyoto Machida",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/7072a324a82c4297"
+        },
+        {
+            "fight_id": "c8fdd3f7178fbfa4",
+            "fighter_a": "Cezar Ferreira",
+            "fighter_b": "Karl Roberson",
+            "winner": "Cezar Ferreira",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 285,
+            "fight_url": "http://ufcstats.com/fight-details/c8fdd3f7178fbfa4"
+        },
+        {
+            "fight_id": "3dcb1a7b081afbe1",
+            "fighter_a": "Aleksei Oleinik",
+            "fighter_b": "Junior Albini",
+            "winner": "Aleksei Oleinik",
+            "weight_class": "Heavyweight",
+            "method": "SUB Ezekiel Choke",
+            "round": 1,
+            "time_seconds": 105,
+            "fight_url": "http://ufcstats.com/fight-details/3dcb1a7b081afbe1"
+        },
+        {
+            "fight_id": "5ea39e0fc3b64e83",
+            "fighter_a": "Davi Ramos",
+            "fighter_b": "Nick Hein",
+            "winner": "Davi Ramos",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/5ea39e0fc3b64e83"
+        },
+        {
+            "fight_id": "6b325792b8fb1f46",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Sean Strickland",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 220,
+            "fight_url": "http://ufcstats.com/fight-details/6b325792b8fb1f46"
+        },
+        {
+            "fight_id": "25da6035f591c245",
+            "fighter_a": "Warlley Alves",
+            "fighter_b": "Sultan Aliev",
+            "winner": "Warlley Alves",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/25da6035f591c245"
+        },
+        {
+            "fight_id": "014f7dc96c90c199",
+            "fighter_a": "Jack Hermansson",
+            "fighter_b": "Thales Leites",
+            "winner": "Jack Hermansson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/014f7dc96c90c199"
+        },
+        {
+            "fight_id": "53d6a7634c7fc036",
+            "fighter_a": "Ramazan Emeev",
+            "fighter_b": "Alberto Mina",
+            "winner": "Ramazan Emeev",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/53d6a7634c7fc036"
+        },
+        {
+            "fight_id": "5f1a828f8d4c3b01",
+            "fighter_a": "Markus Perez",
+            "fighter_b": "James Bochnovic",
+            "winner": "Markus Perez",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 268,
+            "fight_url": "http://ufcstats.com/fight-details/5f1a828f8d4c3b01"
+        }
+    ]
+}

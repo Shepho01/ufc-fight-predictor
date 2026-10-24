@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5c962ea13cb9b937",
+        "event_id": "01dd4cdc2446f665",
+        "event_name": "UFC 284: Makhachev vs. Volkanovski",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Peter Hickmott",
+        "winner_id": "5095b0920a3602aa"
+    },
+    "fighter_a": {
+        "fighter_id": "4cd8b03aee1d0138",
+        "name": "Shane Young",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "80 of 196",
+            "Sig. str. %": "40%",
+            "Total str.": "81 of 197",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "80 of 196",
+            "Sig. str. %": "40%",
+            "Head": "42 of 151",
+            "Body": "21 of 28",
+            "Leg": "17 of 17",
+            "Distance": "79 of 194",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "5095b0920a3602aa",
+        "name": "Blake Bilder",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "111 of 190",
+            "Sig. str. %": "58%",
+            "Total str.": "126 of 206",
+            "Td": "1 of 7",
+            "Td %": "14%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "111 of 190",
+            "Sig. str. %": "58%",
+            "Head": "62 of 134",
+            "Body": "11 of 17",
+            "Leg": "38 of 39",
+            "Distance": "107 of 182",
+            "Clinch": "3 of 5",
+            "Ground": "1 of 3"
+        }
+    }
+}

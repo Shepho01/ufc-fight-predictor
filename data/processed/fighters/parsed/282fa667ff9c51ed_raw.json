@@ -1,0 +1,100 @@
+{
+    "fighter_id": "282fa667ff9c51ed",
+    "name": "Cole Miller",
+    "record": "21-11-0 (1 NC)",
+    "height": "6' 1\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Apr 26, 1984",
+    "sig_strikes_landed_per_min": "3.00",
+    "sig_striking_accuracy": "33%",
+    "sig_strikes_absorbed_per_min": "3.88",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.60",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "38%",
+    "submission_attempts_per_15_min": "1.8",
+    "fight_history": [
+        {
+            "fight_id": "4b35edc671de861f",
+            "fight_url": "http://ufcstats.com/fight-details/4b35edc671de861f"
+        },
+        {
+            "fight_id": "5b55a8e33199d71e",
+            "fight_url": "http://ufcstats.com/fight-details/5b55a8e33199d71e"
+        },
+        {
+            "fight_id": "b2857e799319f931",
+            "fight_url": "http://ufcstats.com/fight-details/b2857e799319f931"
+        },
+        {
+            "fight_id": "509bd83b00e4ab7c",
+            "fight_url": "http://ufcstats.com/fight-details/509bd83b00e4ab7c"
+        },
+        {
+            "fight_id": "fac335e6aeff29f5",
+            "fight_url": "http://ufcstats.com/fight-details/fac335e6aeff29f5"
+        },
+        {
+            "fight_id": "0051d7fbb7893d27",
+            "fight_url": "http://ufcstats.com/fight-details/0051d7fbb7893d27"
+        },
+        {
+            "fight_id": "0f74449bf6f64616",
+            "fight_url": "http://ufcstats.com/fight-details/0f74449bf6f64616"
+        },
+        {
+            "fight_id": "4f850f7e35d85bb8",
+            "fight_url": "http://ufcstats.com/fight-details/4f850f7e35d85bb8"
+        },
+        {
+            "fight_id": "d2ea9181abacc2ee",
+            "fight_url": "http://ufcstats.com/fight-details/d2ea9181abacc2ee"
+        },
+        {
+            "fight_id": "54b7b3378e394070",
+            "fight_url": "http://ufcstats.com/fight-details/54b7b3378e394070"
+        },
+        {
+            "fight_id": "475c55534f9e08ee",
+            "fight_url": "http://ufcstats.com/fight-details/475c55534f9e08ee"
+        },
+        {
+            "fight_id": "dc58af0c02a42743",
+            "fight_url": "http://ufcstats.com/fight-details/dc58af0c02a42743"
+        },
+        {
+            "fight_id": "2aeba1cc4004d0bc",
+            "fight_url": "http://ufcstats.com/fight-details/2aeba1cc4004d0bc"
+        },
+        {
+            "fight_id": "47245dd345d9ef7e",
+            "fight_url": "http://ufcstats.com/fight-details/47245dd345d9ef7e"
+        },
+        {
+            "fight_id": "656e1040e6e007b2",
+            "fight_url": "http://ufcstats.com/fight-details/656e1040e6e007b2"
+        },
+        {
+            "fight_id": "33e576af1d064e4e",
+            "fight_url": "http://ufcstats.com/fight-details/33e576af1d064e4e"
+        },
+        {
+            "fight_id": "66f0238fac31130f",
+            "fight_url": "http://ufcstats.com/fight-details/66f0238fac31130f"
+        },
+        {
+            "fight_id": "c4b0ef8f42eecbcc",
+            "fight_url": "http://ufcstats.com/fight-details/c4b0ef8f42eecbcc"
+        },
+        {
+            "fight_id": "be307e6647a655c8",
+            "fight_url": "http://ufcstats.com/fight-details/be307e6647a655c8"
+        },
+        {
+            "fight_id": "41c979b223b3fb56",
+            "fight_url": "http://ufcstats.com/fight-details/41c979b223b3fb56"
+        }
+    ]
+}

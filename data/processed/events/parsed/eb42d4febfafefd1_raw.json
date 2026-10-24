@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "eb42d4febfafefd1",
+        "event_name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+        "event_date": "June 25, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1f5f59924b59408b",
+            "fighter_a": "Mateusz Gamrot",
+            "fighter_b": "Arman Tsarukyan",
+            "winner": "Mateusz Gamrot",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1f5f59924b59408b"
+        },
+        {
+            "fight_id": "3c98739eb42f96bf",
+            "fighter_a": "Shavkat Rakhmonov",
+            "fighter_b": "Neil Magny",
+            "winner": "Shavkat Rakhmonov",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "4:58",
+            "fight_url": "http://ufcstats.com/fight-details/3c98739eb42f96bf"
+        },
+        {
+            "fight_id": "c57c8e22a3e8dde2",
+            "fighter_a": "Josh Parisian",
+            "fighter_b": "Alan Baudot",
+            "winner": "Josh Parisian",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/c57c8e22a3e8dde2"
+        },
+        {
+            "fight_id": "029a12d36a4687e1",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Christos Giagos",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:05",
+            "fight_url": "http://ufcstats.com/fight-details/029a12d36a4687e1"
+        },
+        {
+            "fight_id": "28bd070f7ab0a0b9",
+            "fighter_a": "Umar Nurmagomedov",
+            "fighter_b": "Nate Maness",
+            "winner": "Umar Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/28bd070f7ab0a0b9"
+        },
+        {
+            "fight_id": "3f38100fd8dae286",
+            "fighter_a": "Chris Curtis",
+            "fighter_b": "Rodolfo Vieira",
+            "winner": "Chris Curtis",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f38100fd8dae286"
+        },
+        {
+            "fight_id": "28be3fbe5c377380",
+            "fighter_a": "Carlos Ulberg",
+            "fighter_b": "Tafon Nchukwi",
+            "winner": "Carlos Ulberg",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/28be3fbe5c377380"
+        },
+        {
+            "fight_id": "21f79cd40513d075",
+            "fighter_a": "Shayilan Nuerdanbieke",
+            "fighter_b": "TJ Brown",
+            "winner": "Shayilan Nuerdanbieke",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/21f79cd40513d075"
+        },
+        {
+            "fight_id": "a457331c27bce6d5",
+            "fighter_a": "Sergey Morozov",
+            "fighter_b": "Raulian Paiva",
+            "winner": "Sergey Morozov",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a457331c27bce6d5"
+        },
+        {
+            "fight_id": "8cc43d79b61efc25",
+            "fighter_a": "Cody Durden",
+            "fighter_b": "JP Buys",
+            "winner": "Cody Durden",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:08",
+            "fight_url": "http://ufcstats.com/fight-details/8cc43d79b61efc25"
+        },
+        {
+            "fight_id": "24a9fc95a3112f51",
+            "fighter_a": "Mario Bautista",
+            "fighter_b": "Brian Kelleher",
+            "winner": "Mario Bautista",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:27",
+            "fight_url": "http://ufcstats.com/fight-details/24a9fc95a3112f51"
+        },
+        {
+            "fight_id": "2c73bf152247f25a",
+            "fighter_a": "Vanessa Demopoulos",
+            "fighter_b": "Jinh Yu Frey",
+            "winner": "Vanessa Demopoulos",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2c73bf152247f25a"
+        }
+    ]
+}

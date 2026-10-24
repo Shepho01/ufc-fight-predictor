@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2208b9f471a201d9",
+        "event_id": "01dd4cdc2446f665",
+        "event_name": "UFC 284: Makhachev vs. Volkanovski",
+        "weight_class": "Interim Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:19",
+        "referee": "Jason Herzog",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 107",
+            "Sig. str. %": "57%",
+            "Total str.": "98 of 143",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 107",
+            "Sig. str. %": "57%",
+            "Head": "36 of 76",
+            "Body": "18 of 22",
+            "Leg": "8 of 9",
+            "Distance": "47 of 87",
+            "Clinch": "7 of 9",
+            "Ground": "8 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "fba03cd6cc28dc41",
+        "name": "Josh Emmett",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 52",
+            "Sig. str. %": "42%",
+            "Total str.": "35 of 72",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 52",
+            "Sig. str. %": "42%",
+            "Head": "17 of 44",
+            "Body": "4 of 7",
+            "Leg": "1 of 1",
+            "Distance": "13 of 40",
+            "Clinch": "1 of 2",
+            "Ground": "8 of 10"
+        }
+    }
+}

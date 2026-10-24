@@ -1,0 +1,64 @@
+{
+    "fighter_id": "fa37628269132d1a",
+    "name": "Godofredo Pepey",
+    "record": "13-6-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jul 02, 1987",
+    "sig_strikes_landed_per_min": "2.32",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "3.23",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "0.37",
+    "takedown_accuracy": "7%",
+    "takedown_defense": "35%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "b8648b32caf36c5a",
+            "fight_url": "http://ufcstats.com/fight-details/b8648b32caf36c5a"
+        },
+        {
+            "fight_id": "9f114a219523bf7d",
+            "fight_url": "http://ufcstats.com/fight-details/9f114a219523bf7d"
+        },
+        {
+            "fight_id": "c29b63d6cd2ba413",
+            "fight_url": "http://ufcstats.com/fight-details/c29b63d6cd2ba413"
+        },
+        {
+            "fight_id": "1eb0491642f276ed",
+            "fight_url": "http://ufcstats.com/fight-details/1eb0491642f276ed"
+        },
+        {
+            "fight_id": "9150344ed35f355d",
+            "fight_url": "http://ufcstats.com/fight-details/9150344ed35f355d"
+        },
+        {
+            "fight_id": "7580c93fec606442",
+            "fight_url": "http://ufcstats.com/fight-details/7580c93fec606442"
+        },
+        {
+            "fight_id": "8f120352072bd5ed",
+            "fight_url": "http://ufcstats.com/fight-details/8f120352072bd5ed"
+        },
+        {
+            "fight_id": "0a70601cc9f2426f",
+            "fight_url": "http://ufcstats.com/fight-details/0a70601cc9f2426f"
+        },
+        {
+            "fight_id": "d03618c86d395b43",
+            "fight_url": "http://ufcstats.com/fight-details/d03618c86d395b43"
+        },
+        {
+            "fight_id": "8f426040f746905d",
+            "fight_url": "http://ufcstats.com/fight-details/8f426040f746905d"
+        },
+        {
+            "fight_id": "366de1daf05a2b62",
+            "fight_url": "http://ufcstats.com/fight-details/366de1daf05a2b62"
+        }
+    ]
+}

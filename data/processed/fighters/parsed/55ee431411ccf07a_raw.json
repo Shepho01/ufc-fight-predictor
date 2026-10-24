@@ -1,0 +1,68 @@
+{
+    "fighter_id": "55ee431411ccf07a",
+    "name": "Olivier Aubin-Mercier",
+    "record": "11-5-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Feb 23, 1989",
+    "sig_strikes_landed_per_min": "2.48",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.97",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "2.36",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "70%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "7ed98f8d1ffae082",
+            "fight_url": "http://ufcstats.com/fight-details/7ed98f8d1ffae082"
+        },
+        {
+            "fight_id": "1fa8537d3992a09a",
+            "fight_url": "http://ufcstats.com/fight-details/1fa8537d3992a09a"
+        },
+        {
+            "fight_id": "ef2c7bfced561374",
+            "fight_url": "http://ufcstats.com/fight-details/ef2c7bfced561374"
+        },
+        {
+            "fight_id": "8803935990adafc1",
+            "fight_url": "http://ufcstats.com/fight-details/8803935990adafc1"
+        },
+        {
+            "fight_id": "52e4f12eaeffd142",
+            "fight_url": "http://ufcstats.com/fight-details/52e4f12eaeffd142"
+        },
+        {
+            "fight_id": "04f27a78e4ffce47",
+            "fight_url": "http://ufcstats.com/fight-details/04f27a78e4ffce47"
+        },
+        {
+            "fight_id": "c69c5830064fd591",
+            "fight_url": "http://ufcstats.com/fight-details/c69c5830064fd591"
+        },
+        {
+            "fight_id": "b810951e39a0af1b",
+            "fight_url": "http://ufcstats.com/fight-details/b810951e39a0af1b"
+        },
+        {
+            "fight_id": "961246a6d621ef40",
+            "fight_url": "http://ufcstats.com/fight-details/961246a6d621ef40"
+        },
+        {
+            "fight_id": "0590fb4acc06fa93",
+            "fight_url": "http://ufcstats.com/fight-details/0590fb4acc06fa93"
+        },
+        {
+            "fight_id": "2d1f8ee74824f983",
+            "fight_url": "http://ufcstats.com/fight-details/2d1f8ee74824f983"
+        },
+        {
+            "fight_id": "0dd560fbcae2244f",
+            "fight_url": "http://ufcstats.com/fight-details/0dd560fbcae2244f"
+        }
+    ]
+}

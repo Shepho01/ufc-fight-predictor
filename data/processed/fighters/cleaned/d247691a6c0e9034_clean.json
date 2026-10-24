@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d247691a6c0e9034",
+    "name": "Cub Swanson",
+    "wins": 31,
+    "losses": 14,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 2,
+    "dob_month": 11,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 4.84,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 3.99,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 1.0,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.4
+}

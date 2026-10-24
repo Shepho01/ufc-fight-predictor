@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "3ae10ac4df3df05c",
+        "event_name": "UFC Fight Night: Reyes vs. Weidman",
+        "event_day": 18,
+        "event_month": 10,
+        "event_year": 2019,
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0d1d7cfb2a48d5ec",
+            "fighter_a": "Dominick Reyes",
+            "fighter_b": "Chris Weidman",
+            "winner": "Dominick Reyes",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 103,
+            "fight_url": "http://ufcstats.com/fight-details/0d1d7cfb2a48d5ec"
+        },
+        {
+            "fight_id": "d2dc6fb05ad78d80",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d2dc6fb05ad78d80"
+        },
+        {
+            "fight_id": "0019ec81fd706ade",
+            "fighter_a": "Greg Hardy",
+            "fighter_b": "Ben Sosoli",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0019ec81fd706ade"
+        },
+        {
+            "fight_id": "57d989702ae72dc1",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Jonathan Pearce",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 93,
+            "fight_url": "http://ufcstats.com/fight-details/57d989702ae72dc1"
+        },
+        {
+            "fight_id": "7510b0c96f5707ea",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 184,
+            "fight_url": "http://ufcstats.com/fight-details/7510b0c96f5707ea"
+        },
+        {
+            "fight_id": "93f3e9b9f093ad57",
+            "fighter_a": "Darren Stewart",
+            "fighter_b": "Deron Winn",
+            "winner": "Darren Stewart",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/93f3e9b9f093ad57"
+        },
+        {
+            "fight_id": "076c98ac0561521f",
+            "fighter_a": "Charles Rosa",
+            "fighter_b": "Manny Bermudez",
+            "winner": "Charles Rosa",
+            "weight_class": "Featherweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 166,
+            "fight_url": "http://ufcstats.com/fight-details/076c98ac0561521f"
+        },
+        {
+            "fight_id": "baf17e5e1fe1c744",
+            "fighter_a": "Molly McCann",
+            "fighter_b": "Diana Belbita",
+            "winner": "Molly McCann",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/baf17e5e1fe1c744"
+        },
+        {
+            "fight_id": "9c3fb95a1558b38d",
+            "fighter_a": "Sean Woodson",
+            "fighter_b": "Kyle Bochniak",
+            "winner": "Sean Woodson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9c3fb95a1558b38d"
+        },
+        {
+            "fight_id": "38d6c2538ce6ec4c",
+            "fighter_a": "Randy Costa",
+            "fighter_b": "Boston Salmon",
+            "winner": "Randy Costa",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/38d6c2538ce6ec4c"
+        },
+        {
+            "fight_id": "26d75187369ecf2c",
+            "fighter_a": "Sean Brady",
+            "fighter_b": "Court McGee",
+            "winner": "Sean Brady",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/26d75187369ecf2c"
+        },
+        {
+            "fight_id": "74b44635535cb290",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Kevin Holland",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/74b44635535cb290"
+        },
+        {
+            "fight_id": "1e3d3545b6dd13a7",
+            "fighter_a": "Tanner Boser",
+            "fighter_b": "Daniel Spitz",
+            "winner": "Tanner Boser",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1e3d3545b6dd13a7"
+        }
+    ]
+}

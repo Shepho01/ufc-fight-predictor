@@ -1,0 +1,23 @@
+{
+    "fighter_id": "72db2a14ffa73ece",
+    "name": "Mateusz Gamrot",
+    "wins": 26,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 11,
+    "dob_month": 12,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 3.14,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 2.79,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 5.08,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.76,
+    "submission_attempts_per_15_min": 0.4
+}

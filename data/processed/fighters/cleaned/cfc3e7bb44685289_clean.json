@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cfc3e7bb44685289",
+    "name": "Trey Ogden",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 11,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.2,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 3.49,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 1.89,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.7
+}

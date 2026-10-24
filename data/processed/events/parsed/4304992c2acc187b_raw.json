@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "4304992c2acc187b",
+        "event_name": "UFC 257: Poirier vs. McGregor",
+        "event_date": "January 23, 2021",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "3d3e7dc7b4bf2bc4",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Conor McGregor",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:32",
+            "fight_url": "http://ufcstats.com/fight-details/3d3e7dc7b4bf2bc4"
+        },
+        {
+            "fight_id": "a5075f4eaee6036f",
+            "fighter_a": "Michael Chandler",
+            "fighter_b": "Dan Hooker",
+            "winner": "Michael Chandler",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:30",
+            "fight_url": "http://ufcstats.com/fight-details/a5075f4eaee6036f"
+        },
+        {
+            "fight_id": "c4ea3f6fae702459",
+            "fighter_a": "Joanne Wood",
+            "fighter_b": "Jessica Eye",
+            "winner": "Joanne Wood",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c4ea3f6fae702459"
+        },
+        {
+            "fight_id": "65352221c0bfe52d",
+            "fighter_a": "Makhmud Muradov",
+            "fighter_b": "Andrew Sanchez",
+            "winner": "Makhmud Muradov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:59",
+            "fight_url": "http://ufcstats.com/fight-details/65352221c0bfe52d"
+        },
+        {
+            "fight_id": "cd08b68f0bafafbf",
+            "fighter_a": "Marina Rodriguez",
+            "fighter_b": "Amanda Ribas",
+            "winner": "Marina Rodriguez",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/cd08b68f0bafafbf"
+        },
+        {
+            "fight_id": "99dbe9669f31ed91",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Matt Frevola",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/99dbe9669f31ed91"
+        },
+        {
+            "fight_id": "92f569a6d9374b86",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Antonio Carlos Junior",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/92f569a6d9374b86"
+        },
+        {
+            "fight_id": "83da743f6dda7dcc",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Sara McMann",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/83da743f6dda7dcc"
+        },
+        {
+            "fight_id": "c597fd8bb66d54d8",
+            "fighter_a": "Marcin Prachnio",
+            "fighter_b": "Khalil Rountree Jr.",
+            "winner": "Marcin Prachnio",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c597fd8bb66d54d8"
+        },
+        {
+            "fight_id": "f3ccbfd7036f3cf3",
+            "fighter_a": "Movsar Evloev",
+            "fighter_b": "Nik Lentz",
+            "winner": "Movsar Evloev",
+            "weight_class": "Catch Weight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f3ccbfd7036f3cf3"
+        },
+        {
+            "fight_id": "aaf45b095452be23",
+            "fighter_a": "Amir Albazi",
+            "fighter_b": "Zhalgas Zhumagulov",
+            "winner": "Amir Albazi",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/aaf45b095452be23"
+        }
+    ]
+}

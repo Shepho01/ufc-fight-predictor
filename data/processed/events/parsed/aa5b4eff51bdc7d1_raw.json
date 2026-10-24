@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "aa5b4eff51bdc7d1",
+        "event_name": "UFC 200: Tate vs Nunes",
+        "event_date": "July 09, 2016",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "135760b07e1fb79b",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Miesha Tate",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:16",
+            "fight_url": "http://ufcstats.com/fight-details/135760b07e1fb79b"
+        },
+        {
+            "fight_id": "83414cc83ec3f2ac",
+            "fighter_a": "Brock Lesnar",
+            "fighter_b": "Mark Hunt",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "Overturned",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/83414cc83ec3f2ac"
+        },
+        {
+            "fight_id": "424221c96ee13ceb",
+            "fighter_a": "Daniel Cormier",
+            "fighter_b": "Anderson Silva",
+            "winner": "Daniel Cormier",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/424221c96ee13ceb"
+        },
+        {
+            "fight_id": "84c5035830ebb421",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/84c5035830ebb421"
+        },
+        {
+            "fight_id": "1a66e67add5d55ef",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Travis Browne",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/1a66e67add5d55ef"
+        },
+        {
+            "fight_id": "96c93167c982c467",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Cat Zingano",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/96c93167c982c467"
+        },
+        {
+            "fight_id": "8c2e4d3cc4b9e93a",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Johny Hendricks",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8c2e4d3cc4b9e93a"
+        },
+        {
+            "fight_id": "c1f74805a4ff9396",
+            "fighter_a": "TJ Dillashaw",
+            "fighter_b": "Raphael Assuncao",
+            "winner": "TJ Dillashaw",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c1f74805a4ff9396"
+        },
+        {
+            "fight_id": "d1aaef0d7f0c8e8b",
+            "fighter_a": "Sage Northcutt",
+            "fighter_b": "Enrique Marin",
+            "winner": "Sage Northcutt",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d1aaef0d7f0c8e8b"
+        },
+        {
+            "fight_id": "9d7a798f0c20c04a",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Diego Sanchez",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/9d7a798f0c20c04a"
+        },
+        {
+            "fight_id": "7679c5ee3514e119",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Thiago Santos",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:32",
+            "fight_url": "http://ufcstats.com/fight-details/7679c5ee3514e119"
+        },
+        {
+            "fight_id": "433e3fd8782b6e0e",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Takanori Gomi",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/433e3fd8782b6e0e"
+        }
+    ]
+}

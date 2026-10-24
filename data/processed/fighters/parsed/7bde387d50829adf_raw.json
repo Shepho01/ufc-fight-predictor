@@ -1,0 +1,32 @@
+{
+    "fighter_id": "7bde387d50829adf",
+    "name": "Eduardo Garagorri",
+    "record": "13-2-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "May 28, 1989",
+    "sig_strikes_landed_per_min": "3.42",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.36",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "0.48",
+    "takedown_accuracy": "100%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "69fa167ba5d0fd82",
+            "fight_url": "http://ufcstats.com/fight-details/69fa167ba5d0fd82"
+        },
+        {
+            "fight_id": "094790e50afae55e",
+            "fight_url": "http://ufcstats.com/fight-details/094790e50afae55e"
+        },
+        {
+            "fight_id": "aef94727eb3897df",
+            "fight_url": "http://ufcstats.com/fight-details/aef94727eb3897df"
+        }
+    ]
+}

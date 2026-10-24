@@ -1,0 +1,23 @@
+{
+    "fighter_id": "902ec2cc48c8ae8a",
+    "name": "Julian Erosa",
+    "wins": 31,
+    "losses": 14,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 145,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 31,
+    "dob_month": 7,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 6.18,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 6.31,
+    "sig_strike_defense": 0.48,
+    "takedowns_landed_per_15_min": 1.73,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 0.7
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "6e73ebbd089aff5e",
+        "event_id": "a9df5ae20a97b090",
+        "event_name": "UFC 299: O'Malley vs. Vera 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:32",
+        "referee": "Mike Beltran",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "28 of 34",
+            "Sig. str. %": "82%",
+            "Total str.": "30 of 37",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 34",
+            "Sig. str. %": "82%",
+            "Head": "24 of 30",
+            "Body": "3 of 3",
+            "Leg": "1 of 1",
+            "Distance": "23 of 25",
+            "Clinch": "4 of 8",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c2299ec916bc7c56",
+        "name": "Benoit Saint Denis",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 74",
+            "Sig. str. %": "67%",
+            "Total str.": "69 of 97",
+            "Td": "3 of 7",
+            "Td %": "42%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "4:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 74",
+            "Sig. str. %": "67%",
+            "Head": "25 of 46",
+            "Body": "18 of 20",
+            "Leg": "7 of 8",
+            "Distance": "17 of 37",
+            "Clinch": "31 of 35",
+            "Ground": "2 of 2"
+        }
+    }
+}

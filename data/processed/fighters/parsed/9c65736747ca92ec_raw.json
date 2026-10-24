@@ -1,0 +1,64 @@
+{
+    "fighter_id": "9c65736747ca92ec",
+    "name": "Leonardo Santos",
+    "record": "18-7-1",
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Feb 05, 1980",
+    "sig_strikes_landed_per_min": "2.82",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "3.40",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.88",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "86%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "0cf7a4593fd44e59",
+            "fight_url": "http://ufcstats.com/fight-details/0cf7a4593fd44e59"
+        },
+        {
+            "fight_id": "5d64044b985004e7",
+            "fight_url": "http://ufcstats.com/fight-details/5d64044b985004e7"
+        },
+        {
+            "fight_id": "a043e279434d5c8c",
+            "fight_url": "http://ufcstats.com/fight-details/a043e279434d5c8c"
+        },
+        {
+            "fight_id": "7c76c752c7abf2e0",
+            "fight_url": "http://ufcstats.com/fight-details/7c76c752c7abf2e0"
+        },
+        {
+            "fight_id": "e1bd72aba46f46a1",
+            "fight_url": "http://ufcstats.com/fight-details/e1bd72aba46f46a1"
+        },
+        {
+            "fight_id": "87b61c1d72232a84",
+            "fight_url": "http://ufcstats.com/fight-details/87b61c1d72232a84"
+        },
+        {
+            "fight_id": "fa2e2a035b36b9d6",
+            "fight_url": "http://ufcstats.com/fight-details/fa2e2a035b36b9d6"
+        },
+        {
+            "fight_id": "0eac602503b48b1a",
+            "fight_url": "http://ufcstats.com/fight-details/0eac602503b48b1a"
+        },
+        {
+            "fight_id": "72d2ab073f4120a4",
+            "fight_url": "http://ufcstats.com/fight-details/72d2ab073f4120a4"
+        },
+        {
+            "fight_id": "671048cd1933855a",
+            "fight_url": "http://ufcstats.com/fight-details/671048cd1933855a"
+        },
+        {
+            "fight_id": "bd9100f5d4ee6823",
+            "fight_url": "http://ufcstats.com/fight-details/bd9100f5d4ee6823"
+        }
+    ]
+}

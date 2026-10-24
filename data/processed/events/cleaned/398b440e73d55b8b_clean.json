@@ -1,0 +1,100 @@
+{
+    "event": {
+        "event_id": "398b440e73d55b8b",
+        "event_name": "UFC Fight Night: Hermansson vs. Vettori",
+        "event_day": 5,
+        "event_month": 12,
+        "event_year": 2020,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2723f4d275d3f619",
+            "fighter_a": "Marvin Vettori",
+            "fighter_b": "Jack Hermansson",
+            "winner": "Marvin Vettori",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2723f4d275d3f619"
+        },
+        {
+            "fight_id": "8d4a475e48722fea",
+            "fighter_a": "Jamahal Hill",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Jamahal Hill",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/8d4a475e48722fea"
+        },
+        {
+            "fight_id": "46860358da8b8d82",
+            "fighter_a": "Gabriel Benitez",
+            "fighter_b": "Justin Jaynes",
+            "winner": "Gabriel Benitez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/46860358da8b8d82"
+        },
+        {
+            "fight_id": "4478ee77a647ae9d",
+            "fighter_a": "Roman Dolidze",
+            "fighter_b": "John Allan",
+            "winner": "Roman Dolidze",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4478ee77a647ae9d"
+        },
+        {
+            "fight_id": "856fab879c68ded7",
+            "fighter_a": "Jordan Leavitt",
+            "fighter_b": "Matt Wiman",
+            "winner": "Jordan Leavitt",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Slam",
+            "round": 1,
+            "time_seconds": 22,
+            "fight_url": "http://ufcstats.com/fight-details/856fab879c68ded7"
+        },
+        {
+            "fight_id": "771d8ce136a12a13",
+            "fighter_a": "Louis Smolka",
+            "fighter_b": "Jose Quinonez",
+            "winner": "Louis Smolka",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/771d8ce136a12a13"
+        },
+        {
+            "fight_id": "b1be8b41b1a4fd85",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Damon Jackson",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/b1be8b41b1a4fd85"
+        },
+        {
+            "fight_id": "c4d1c4b82cf34afb",
+            "fighter_a": "Jake Collier",
+            "fighter_b": "Gian Villante",
+            "winner": "Jake Collier",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4d1c4b82cf34afb"
+        }
+    ]
+}

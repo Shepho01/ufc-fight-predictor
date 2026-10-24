@@ -1,0 +1,24 @@
+{
+    "fighter_id": "4c27ca8c8481f79a",
+    "name": "Alexandre Franca Nogueira",
+    "record": "18-6-3",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Jan 15, 1978",
+    "sig_strikes_landed_per_min": "0.60",
+    "sig_striking_accuracy": "20%",
+    "sig_strikes_absorbed_per_min": "4.18",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "06de2289364efcd5",
+            "fight_url": "http://ufcstats.com/fight-details/06de2289364efcd5"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "42f11b82d67585af",
+        "event_id": "3c48019bc387b80c",
+        "event_name": "UFC 150: Henderson vs Edgar II",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:49",
+        "referee": "Josh Rosenthal",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "879f6cae48d25baa",
+        "name": "Justin Lawrence",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 90",
+            "Sig. str. %": "35%",
+            "Total str.": "32 of 92",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 90",
+            "Sig. str. %": "35%",
+            "Head": "26 of 70",
+            "Body": "3 of 15",
+            "Leg": "3 of 5",
+            "Distance": "32 of 90",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "29 of 124",
+            "Sig. str. %": "23%",
+            "Total str.": "29 of 124",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 124",
+            "Sig. str. %": "23%",
+            "Head": "18 of 110",
+            "Body": "8 of 11",
+            "Leg": "3 of 3",
+            "Distance": "23 of 108",
+            "Clinch": "0 of 0",
+            "Ground": "6 of 16"
+        }
+    }
+}

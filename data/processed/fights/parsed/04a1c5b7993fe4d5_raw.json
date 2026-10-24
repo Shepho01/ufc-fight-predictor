@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "04a1c5b7993fe4d5",
+        "event_id": "602bb270f2bdbf02",
+        "event_name": "UFC Fight Night: Jacare vs. Brunson 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "99bd87a300079ed9",
+        "name": "Erik Koch",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 146",
+            "Sig. str. %": "38%",
+            "Total str.": "60 of 150",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 146",
+            "Sig. str. %": "38%",
+            "Head": "45 of 129",
+            "Body": "7 of 10",
+            "Leg": "4 of 7",
+            "Distance": "45 of 129",
+            "Clinch": "3 of 6",
+            "Ground": "8 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "110 of 194",
+            "Sig. str. %": "56%",
+            "Total str.": "134 of 220",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "3:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "110 of 194",
+            "Sig. str. %": "56%",
+            "Head": "48 of 116",
+            "Body": "43 of 56",
+            "Leg": "19 of 22",
+            "Distance": "55 of 128",
+            "Clinch": "37 of 42",
+            "Ground": "18 of 24"
+        }
+    }
+}

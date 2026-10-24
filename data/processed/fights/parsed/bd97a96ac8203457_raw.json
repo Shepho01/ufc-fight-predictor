@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bd97a96ac8203457",
+        "event_id": "35585d970300d45a",
+        "event_name": "UFC 226: Miocic vs. Cormier",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:28",
+        "referee": "Mark Smith",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "22 of 34",
+            "Sig. str. %": "64%",
+            "Total str.": "22 of 34",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 34",
+            "Sig. str. %": "64%",
+            "Head": "12 of 23",
+            "Body": "4 of 4",
+            "Leg": "6 of 7",
+            "Distance": "19 of 31",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "23024fdfc966410a",
+        "name": "Gilbert Burns",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 28",
+            "Sig. str. %": "46%",
+            "Total str.": "13 of 29",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 28",
+            "Sig. str. %": "46%",
+            "Head": "5 of 16",
+            "Body": "1 of 2",
+            "Leg": "7 of 10",
+            "Distance": "13 of 28",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4e55251b7a0df0c2",
+        "event_id": "2a74bbba57058f12",
+        "event_name": "UFC 231: Holloway vs. Ortega",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "TKO - Doctor's Stoppage",
+        "finish_round": 4,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "290 of 490",
+            "Sig. str. %": "59%",
+            "Total str.": "307 of 507",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "290 of 490",
+            "Sig. str. %": "59%",
+            "Head": "244 of 430",
+            "Body": "41 of 55",
+            "Leg": "5 of 5",
+            "Distance": "281 of 479",
+            "Clinch": "8 of 10",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "110 of 292",
+            "Sig. str. %": "37%",
+            "Total str.": "112 of 294",
+            "Td": "2 of 11",
+            "Td %": "18%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "110 of 292",
+            "Sig. str. %": "37%",
+            "Head": "87 of 267",
+            "Body": "16 of 18",
+            "Leg": "7 of 7",
+            "Distance": "101 of 282",
+            "Clinch": "9 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

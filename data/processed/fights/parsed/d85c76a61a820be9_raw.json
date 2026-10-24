@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d85c76a61a820be9",
+        "event_id": "fc1868f56d3036eb",
+        "event_name": "UFC Fight Night: Stephens vs. Choi",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:22",
+        "referee": "Dan Miragliotta",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 64",
+            "Sig. str. %": "28%",
+            "Total str.": "54 of 108",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 64",
+            "Sig. str. %": "28%",
+            "Head": "13 of 57",
+            "Body": "5 of 7",
+            "Leg": "0 of 0",
+            "Distance": "17 of 60",
+            "Clinch": "0 of 2",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "511e82663651438d",
+        "name": "Michael Johnson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "45 of 98",
+            "Sig. str. %": "45%",
+            "Total str.": "46 of 99",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 98",
+            "Sig. str. %": "45%",
+            "Head": "29 of 74",
+            "Body": "9 of 13",
+            "Leg": "7 of 11",
+            "Distance": "45 of 97",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

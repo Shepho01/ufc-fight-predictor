@@ -1,0 +1,23 @@
+{
+    "fighter_id": "50d2f0018bcf9eef",
+    "name": "Pat Healy",
+    "wins": 34,
+    "losses": 23,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 182.88,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 20,
+    "dob_month": 7,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.57,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 2.57,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 3.08,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 1.1
+}

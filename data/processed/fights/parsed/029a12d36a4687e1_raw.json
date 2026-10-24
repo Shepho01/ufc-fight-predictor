@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "029a12d36a4687e1",
+        "event_id": "eb42d4febfafefd1",
+        "event_name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "3:05",
+        "referee": "Herb Dean",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 4",
+            "Sig. str. %": "75%",
+            "Total str.": "7 of 9",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 4",
+            "Sig. str. %": "75%",
+            "Head": "2 of 3",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "2 of 3",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "de45aaae23dfa392",
+        "name": "Christos Giagos",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 5",
+            "Sig. str. %": "40%",
+            "Total str.": "13 of 16",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 5",
+            "Sig. str. %": "40%",
+            "Head": "1 of 4",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "2 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

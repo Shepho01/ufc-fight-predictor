@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "6915d46b49999f60",
+        "event_id": "ad044be25c94dcfd",
+        "event_name": "UFC Fight Night: Hall vs. Silva",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "85 of 177",
+            "Sig. str. %": "48%",
+            "Total str.": "94 of 187",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "85 of 177",
+            "Sig. str. %": "48%",
+            "Head": "29 of 104",
+            "Body": "31 of 40",
+            "Leg": "25 of 33",
+            "Distance": "82 of 170",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "42 of 119",
+            "Sig. str. %": "35%",
+            "Total str.": "43 of 120",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "42 of 119",
+            "Sig. str. %": "35%",
+            "Head": "29 of 102",
+            "Body": "5 of 7",
+            "Leg": "8 of 10",
+            "Distance": "42 of 119",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

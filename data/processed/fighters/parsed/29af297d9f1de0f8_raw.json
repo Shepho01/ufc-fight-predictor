@@ -1,0 +1,76 @@
+{
+    "fighter_id": "29af297d9f1de0f8",
+    "name": "Damon Jackson",
+    "record": "23-8-1 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Aug 08, 1988",
+    "sig_strikes_landed_per_min": "2.96",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "3.47",
+    "sig_strike_defense": "49%",
+    "takedowns_landed_per_15_min": "2.30",
+    "takedown_accuracy": "32%",
+    "takedown_defense": "37%",
+    "submission_attempts_per_15_min": "1.2",
+    "fight_history": [
+        {
+            "fight_id": "35c8223cc967fe0a",
+            "fight_url": "http://ufcstats.com/fight-details/35c8223cc967fe0a"
+        },
+        {
+            "fight_id": "e72a2130e7387637",
+            "fight_url": "http://ufcstats.com/fight-details/e72a2130e7387637"
+        },
+        {
+            "fight_id": "9c22ddb8d8fc1838",
+            "fight_url": "http://ufcstats.com/fight-details/9c22ddb8d8fc1838"
+        },
+        {
+            "fight_id": "1b0d5e65fdfc62cf",
+            "fight_url": "http://ufcstats.com/fight-details/1b0d5e65fdfc62cf"
+        },
+        {
+            "fight_id": "c88a7dbe7717d2da",
+            "fight_url": "http://ufcstats.com/fight-details/c88a7dbe7717d2da"
+        },
+        {
+            "fight_id": "f521ecde1e96a1bd",
+            "fight_url": "http://ufcstats.com/fight-details/f521ecde1e96a1bd"
+        },
+        {
+            "fight_id": "04e6198326be4857",
+            "fight_url": "http://ufcstats.com/fight-details/04e6198326be4857"
+        },
+        {
+            "fight_id": "5cad3ab6553e9ec9",
+            "fight_url": "http://ufcstats.com/fight-details/5cad3ab6553e9ec9"
+        },
+        {
+            "fight_id": "df16b9c2fc9722e9",
+            "fight_url": "http://ufcstats.com/fight-details/df16b9c2fc9722e9"
+        },
+        {
+            "fight_id": "b1be8b41b1a4fd85",
+            "fight_url": "http://ufcstats.com/fight-details/b1be8b41b1a4fd85"
+        },
+        {
+            "fight_id": "aa08ebe1a69c76ca",
+            "fight_url": "http://ufcstats.com/fight-details/aa08ebe1a69c76ca"
+        },
+        {
+            "fight_id": "df8391ca39160d8c",
+            "fight_url": "http://ufcstats.com/fight-details/df8391ca39160d8c"
+        },
+        {
+            "fight_id": "9968d308e97c6531",
+            "fight_url": "http://ufcstats.com/fight-details/9968d308e97c6531"
+        },
+        {
+            "fight_id": "7cfb05c08ec91525",
+            "fight_url": "http://ufcstats.com/fight-details/7cfb05c08ec91525"
+        }
+    ]
+}

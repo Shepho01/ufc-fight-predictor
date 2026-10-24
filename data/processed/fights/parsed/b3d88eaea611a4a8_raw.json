@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b3d88eaea611a4a8",
+        "event_id": "981ab7a0576f76a0",
+        "event_name": "UFC 301: Pantoja vs. Erceg",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mike Beltran",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "77 of 139",
+            "Sig. str. %": "55%",
+            "Total str.": "101 of 174",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 139",
+            "Sig. str. %": "55%",
+            "Head": "41 of 96",
+            "Body": "26 of 33",
+            "Leg": "10 of 10",
+            "Distance": "70 of 132",
+            "Clinch": "5 of 5",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f2477cf43c4975cc",
+        "name": "Jonathan Martinez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "52 of 118",
+            "Sig. str. %": "44%",
+            "Total str.": "80 of 151",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "52 of 118",
+            "Sig. str. %": "44%",
+            "Head": "36 of 96",
+            "Body": "9 of 15",
+            "Leg": "7 of 7",
+            "Distance": "50 of 116",
+            "Clinch": "1 of 1",
+            "Ground": "1 of 1"
+        }
+    }
+}

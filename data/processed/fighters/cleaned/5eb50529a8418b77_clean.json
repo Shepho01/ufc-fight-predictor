@@ -1,0 +1,23 @@
+{
+    "fighter_id": "5eb50529a8418b77",
+    "name": "Gabe Green",
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Switch",
+    "dob_day": 2,
+    "dob_month": 5,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.6,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 6.19,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 0.71,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.5,
+    "submission_attempts_per_15_min": 0.5
+}

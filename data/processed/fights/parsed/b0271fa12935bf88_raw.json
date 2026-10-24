@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b0271fa12935bf88",
+        "event_id": "79ded75550efc139",
+        "event_name": "UFC Fight Night: Cowboy vs Miller",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 93",
+            "Sig. str. %": "47%",
+            "Total str.": "87 of 143",
+            "Td": "4 of 6",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 93",
+            "Sig. str. %": "47%",
+            "Head": "37 of 82",
+            "Body": "3 of 6",
+            "Leg": "4 of 5",
+            "Distance": "30 of 67",
+            "Clinch": "6 of 16",
+            "Ground": "8 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "50d2f0018bcf9eef",
+        "name": "Pat Healy",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 132",
+            "Sig. str. %": "40%",
+            "Total str.": "86 of 168",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 132",
+            "Sig. str. %": "40%",
+            "Head": "26 of 94",
+            "Body": "23 of 33",
+            "Leg": "5 of 5",
+            "Distance": "37 of 103",
+            "Clinch": "17 of 29",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -9,6 +9,7 @@
         "method": "KO/TKO",
         "finish_round": 1,
         "finish_time_seconds": 106,
+        "duration_seconds": 106,
         "referee": "Frank Collazo",
         "winner_id": "7dcf06c1967801c1"
     },

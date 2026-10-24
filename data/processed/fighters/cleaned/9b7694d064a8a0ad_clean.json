@@ -1,0 +1,23 @@
+{
+    "fighter_id": "9b7694d064a8a0ad",
+    "name": "Rustam Khabilov",
+    "wins": 24,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 4,
+    "dob_month": 11,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 1.98,
+    "sig_striking_accuracy": 0.34,
+    "sig_strikes_absorbed_per_min": 2.16,
+    "sig_strike_defense": 0.65,
+    "takedowns_landed_per_15_min": 3.95,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 0.1
+}

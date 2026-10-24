@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "83c6c3e0f8bde8ee",
+        "event_name": "UFC on FUEL TV: Silva vs. Stann",
+        "event_day": 2,
+        "event_month": 3,
+        "event_year": 2013,
+        "location": "Saitama, Japan"
+    },
+    "fights": [
+        {
+            "fight_id": "e2b547e64f6532bb",
+            "fighter_a": "Wanderlei Silva",
+            "fighter_b": "Brian Stann",
+            "winner": "Wanderlei Silva",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 248,
+            "fight_url": "http://ufcstats.com/fight-details/e2b547e64f6532bb"
+        },
+        {
+            "fight_id": "c996b2ff10a915b1",
+            "fighter_a": "Mark Hunt",
+            "fighter_b": "Stefan Struve",
+            "winner": "Mark Hunt",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 104,
+            "fight_url": "http://ufcstats.com/fight-details/c996b2ff10a915b1"
+        },
+        {
+            "fight_id": "1acde2739237c4f8",
+            "fighter_a": "Diego Sanchez",
+            "fighter_b": "Takanori Gomi",
+            "winner": "Diego Sanchez",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1acde2739237c4f8"
+        },
+        {
+            "fight_id": "e830cb1df07f3466",
+            "fighter_a": "Yushin Okami",
+            "fighter_b": "Hector Lombard",
+            "winner": "Yushin Okami",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e830cb1df07f3466"
+        },
+        {
+            "fight_id": "1dcc880fc80e6332",
+            "fighter_a": "Rani Yahya",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Rani Yahya",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1dcc880fc80e6332"
+        },
+        {
+            "fight_id": "e0bdef2580715030",
+            "fighter_a": "Dong Hyun Kim",
+            "fighter_b": "Siyar Bahadurzada",
+            "winner": "Dong Hyun Kim",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e0bdef2580715030"
+        },
+        {
+            "fight_id": "c79c00f5443c2f6e",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Riki Fukuda",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c79c00f5443c2f6e"
+        },
+        {
+            "fight_id": "7af713ee9e3006eb",
+            "fighter_a": "Takeya Mizugaki",
+            "fighter_b": "Bryan Caraway",
+            "winner": "Takeya Mizugaki",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7af713ee9e3006eb"
+        },
+        {
+            "fight_id": "8666332154fc6f4a",
+            "fighter_a": "Kazuki Tokudome",
+            "fighter_b": "Cristiano Marcello",
+            "winner": "Kazuki Tokudome",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8666332154fc6f4a"
+        },
+        {
+            "fight_id": "be70a2f68f6ad3e7",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Kyung Ho Kang",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/be70a2f68f6ad3e7"
+        },
+        {
+            "fight_id": "68e1a69423360900",
+            "fighter_a": "Hyun Gyu Lim",
+            "fighter_b": "Marcelo Guimaraes",
+            "winner": "Hyun Gyu Lim",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 240,
+            "fight_url": "http://ufcstats.com/fight-details/68e1a69423360900"
+        }
+    ]
+}

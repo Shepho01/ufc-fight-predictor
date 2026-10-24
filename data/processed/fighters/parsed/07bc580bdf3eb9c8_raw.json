@@ -1,0 +1,28 @@
+{
+    "fighter_id": "07bc580bdf3eb9c8",
+    "name": "Lance Gibson Jr.",
+    "record": "10-2-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Feb 02, 1995",
+    "sig_strikes_landed_per_min": "2.40",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "4.24",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "1.67",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "689384b01b40ef5c",
+            "fight_url": "http://ufcstats.com/fight-details/689384b01b40ef5c"
+        },
+        {
+            "fight_id": "fc4ab243d21b795d",
+            "fight_url": "http://ufcstats.com/fight-details/fc4ab243d21b795d"
+        }
+    ]
+}

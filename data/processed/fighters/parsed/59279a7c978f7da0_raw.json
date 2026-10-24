@@ -1,0 +1,80 @@
+{
+    "fighter_id": "59279a7c978f7da0",
+    "name": "Al Iaquinta",
+    "record": "14-7-1",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Apr 30, 1987",
+    "sig_strikes_landed_per_min": "4.06",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "4.53",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "0.63",
+    "takedown_accuracy": "18%",
+    "takedown_defense": "74%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "d69e3677060af4c7",
+            "fight_url": "http://ufcstats.com/fight-details/d69e3677060af4c7"
+        },
+        {
+            "fight_id": "0697d5520b74a8df",
+            "fight_url": "http://ufcstats.com/fight-details/0697d5520b74a8df"
+        },
+        {
+            "fight_id": "73eff675e2aae30c",
+            "fight_url": "http://ufcstats.com/fight-details/73eff675e2aae30c"
+        },
+        {
+            "fight_id": "b9c82dfde8b66e37",
+            "fight_url": "http://ufcstats.com/fight-details/b9c82dfde8b66e37"
+        },
+        {
+            "fight_id": "eab7b76e177e1903",
+            "fight_url": "http://ufcstats.com/fight-details/eab7b76e177e1903"
+        },
+        {
+            "fight_id": "2310fbcb6fdf3b47",
+            "fight_url": "http://ufcstats.com/fight-details/2310fbcb6fdf3b47"
+        },
+        {
+            "fight_id": "634dbcef5111f939",
+            "fight_url": "http://ufcstats.com/fight-details/634dbcef5111f939"
+        },
+        {
+            "fight_id": "cbb4673397b5e96f",
+            "fight_url": "http://ufcstats.com/fight-details/cbb4673397b5e96f"
+        },
+        {
+            "fight_id": "73954f3895cac499",
+            "fight_url": "http://ufcstats.com/fight-details/73954f3895cac499"
+        },
+        {
+            "fight_id": "1c980547431ddcef",
+            "fight_url": "http://ufcstats.com/fight-details/1c980547431ddcef"
+        },
+        {
+            "fight_id": "4ead27d52c14697a",
+            "fight_url": "http://ufcstats.com/fight-details/4ead27d52c14697a"
+        },
+        {
+            "fight_id": "b51163f358495b41",
+            "fight_url": "http://ufcstats.com/fight-details/b51163f358495b41"
+        },
+        {
+            "fight_id": "22fdf7a08691db5d",
+            "fight_url": "http://ufcstats.com/fight-details/22fdf7a08691db5d"
+        },
+        {
+            "fight_id": "9cd973a0a6c1cd5c",
+            "fight_url": "http://ufcstats.com/fight-details/9cd973a0a6c1cd5c"
+        },
+        {
+            "fight_id": "1c245dc63a0b9d51",
+            "fight_url": "http://ufcstats.com/fight-details/1c245dc63a0b9d51"
+        }
+    ]
+}

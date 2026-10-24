@@ -1,0 +1,108 @@
+{
+    "fighter_id": "ccd1299e0345e0ce",
+    "name": "Melvin Guillard",
+    "record": "32-18-2 (3 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Mar 30, 1983",
+    "sig_strikes_landed_per_min": "2.96",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "1.85",
+    "sig_strike_defense": "66%",
+    "takedowns_landed_per_15_min": "1.30",
+    "takedown_accuracy": "63%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "73f55778c5c55c2f",
+            "fight_url": "http://ufcstats.com/fight-details/73f55778c5c55c2f"
+        },
+        {
+            "fight_id": "b25662d83e6d4c3b",
+            "fight_url": "http://ufcstats.com/fight-details/b25662d83e6d4c3b"
+        },
+        {
+            "fight_id": "7ec61e2b0728e6d4",
+            "fight_url": "http://ufcstats.com/fight-details/7ec61e2b0728e6d4"
+        },
+        {
+            "fight_id": "0d4927585d0480fc",
+            "fight_url": "http://ufcstats.com/fight-details/0d4927585d0480fc"
+        },
+        {
+            "fight_id": "7c07a71fa1882bf4",
+            "fight_url": "http://ufcstats.com/fight-details/7c07a71fa1882bf4"
+        },
+        {
+            "fight_id": "0c37ff69a00c0e74",
+            "fight_url": "http://ufcstats.com/fight-details/0c37ff69a00c0e74"
+        },
+        {
+            "fight_id": "90d50fb7e2bf789e",
+            "fight_url": "http://ufcstats.com/fight-details/90d50fb7e2bf789e"
+        },
+        {
+            "fight_id": "a369d5ca5aef8b25",
+            "fight_url": "http://ufcstats.com/fight-details/a369d5ca5aef8b25"
+        },
+        {
+            "fight_id": "137d7dea41cacdc6",
+            "fight_url": "http://ufcstats.com/fight-details/137d7dea41cacdc6"
+        },
+        {
+            "fight_id": "6963c65b49e47277",
+            "fight_url": "http://ufcstats.com/fight-details/6963c65b49e47277"
+        },
+        {
+            "fight_id": "8e2e14693e04bf45",
+            "fight_url": "http://ufcstats.com/fight-details/8e2e14693e04bf45"
+        },
+        {
+            "fight_id": "655a110a0bd2ea42",
+            "fight_url": "http://ufcstats.com/fight-details/655a110a0bd2ea42"
+        },
+        {
+            "fight_id": "fb9b03644f559604",
+            "fight_url": "http://ufcstats.com/fight-details/fb9b03644f559604"
+        },
+        {
+            "fight_id": "1287c631cb74f1d9",
+            "fight_url": "http://ufcstats.com/fight-details/1287c631cb74f1d9"
+        },
+        {
+            "fight_id": "a5a5e24f4dd40fbf",
+            "fight_url": "http://ufcstats.com/fight-details/a5a5e24f4dd40fbf"
+        },
+        {
+            "fight_id": "13858ffdaaef5671",
+            "fight_url": "http://ufcstats.com/fight-details/13858ffdaaef5671"
+        },
+        {
+            "fight_id": "17404e252bdab9e7",
+            "fight_url": "http://ufcstats.com/fight-details/17404e252bdab9e7"
+        },
+        {
+            "fight_id": "e9390cff6e5d52d0",
+            "fight_url": "http://ufcstats.com/fight-details/e9390cff6e5d52d0"
+        },
+        {
+            "fight_id": "28a8c644c87ce45e",
+            "fight_url": "http://ufcstats.com/fight-details/28a8c644c87ce45e"
+        },
+        {
+            "fight_id": "25acf5f94667e79d",
+            "fight_url": "http://ufcstats.com/fight-details/25acf5f94667e79d"
+        },
+        {
+            "fight_id": "e55b69543aa74907",
+            "fight_url": "http://ufcstats.com/fight-details/e55b69543aa74907"
+        },
+        {
+            "fight_id": "f846fd001397db45",
+            "fight_url": "http://ufcstats.com/fight-details/f846fd001397db45"
+        }
+    ]
+}

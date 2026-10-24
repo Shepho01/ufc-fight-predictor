@@ -1,0 +1,23 @@
+{
+    "fighter_id": "23024fdfc966410a",
+    "name": "Gilbert Burns",
+    "wins": 22,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 170,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 20,
+    "dob_month": 7,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 3.16,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 3.68,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 2.04,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.53,
+    "submission_attempts_per_15_min": 0.4
+}

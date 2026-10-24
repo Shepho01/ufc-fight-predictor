@@ -1,0 +1,23 @@
+{
+    "fighter_id": "24656ef4d605c96f",
+    "name": "Aiemann Zahabi",
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 135,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 19,
+    "dob_month": 11,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 4.47,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 4.11,
+    "sig_strike_defense": 0.68,
+    "takedowns_landed_per_15_min": 0.12,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.83,
+    "submission_attempts_per_15_min": 0.0
+}

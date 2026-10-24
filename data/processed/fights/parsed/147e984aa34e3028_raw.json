@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "147e984aa34e3028",
+        "event_id": "b5abaa65f87938eb",
+        "event_name": "UFC Fight Night: Holloway vs. Rodriguez",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "230 of 404",
+            "Sig. str. %": "56%",
+            "Total str.": "251 of 434",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "6:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "230 of 404",
+            "Sig. str. %": "56%",
+            "Head": "129 of 278",
+            "Body": "66 of 83",
+            "Leg": "35 of 43",
+            "Distance": "187 of 347",
+            "Clinch": "22 of 24",
+            "Ground": "21 of 33"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "159 of 352",
+            "Sig. str. %": "45%",
+            "Total str.": "186 of 383",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "159 of 352",
+            "Sig. str. %": "45%",
+            "Head": "78 of 247",
+            "Body": "24 of 41",
+            "Leg": "57 of 64",
+            "Distance": "152 of 343",
+            "Clinch": "5 of 5",
+            "Ground": "2 of 4"
+        }
+    }
+}

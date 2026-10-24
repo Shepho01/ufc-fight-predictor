@@ -1,0 +1,23 @@
+{
+    "fighter_id": "db5dc7cb80d7d418",
+    "name": "Will Chope",
+    "wins": 34,
+    "losses": 13,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 193.04,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Switch",
+    "dob_day": 8,
+    "dob_month": 9,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 4.43,
+    "sig_striking_accuracy": 0.27,
+    "sig_strikes_absorbed_per_min": 9.93,
+    "sig_strike_defense": 0.46,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

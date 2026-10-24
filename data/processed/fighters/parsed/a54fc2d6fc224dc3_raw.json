@@ -1,0 +1,88 @@
+{
+    "fighter_id": "a54fc2d6fc224dc3",
+    "name": "Jamie Varner",
+    "record": "21-11-1 (2 NC)",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Oct 12, 1984",
+    "sig_strikes_landed_per_min": "2.92",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "2.55",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "3.49",
+    "takedown_accuracy": "53%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "deaeb2383bbd32bf",
+            "fight_url": "http://ufcstats.com/fight-details/deaeb2383bbd32bf"
+        },
+        {
+            "fight_id": "164eb9071caf3fe8",
+            "fight_url": "http://ufcstats.com/fight-details/164eb9071caf3fe8"
+        },
+        {
+            "fight_id": "fe936088ec4dcb0d",
+            "fight_url": "http://ufcstats.com/fight-details/fe936088ec4dcb0d"
+        },
+        {
+            "fight_id": "7b13fdc889028e66",
+            "fight_url": "http://ufcstats.com/fight-details/7b13fdc889028e66"
+        },
+        {
+            "fight_id": "0d4927585d0480fc",
+            "fight_url": "http://ufcstats.com/fight-details/0d4927585d0480fc"
+        },
+        {
+            "fight_id": "4c4e1f7521c27900",
+            "fight_url": "http://ufcstats.com/fight-details/4c4e1f7521c27900"
+        },
+        {
+            "fight_id": "9cdeb62aa9092713",
+            "fight_url": "http://ufcstats.com/fight-details/9cdeb62aa9092713"
+        },
+        {
+            "fight_id": "61e1d1fee5153a6c",
+            "fight_url": "http://ufcstats.com/fight-details/61e1d1fee5153a6c"
+        },
+        {
+            "fight_id": "a2fe941d5ce1b149",
+            "fight_url": "http://ufcstats.com/fight-details/a2fe941d5ce1b149"
+        },
+        {
+            "fight_id": "c9456b8e77980cda",
+            "fight_url": "http://ufcstats.com/fight-details/c9456b8e77980cda"
+        },
+        {
+            "fight_id": "0c9857fcc7459521",
+            "fight_url": "http://ufcstats.com/fight-details/0c9857fcc7459521"
+        },
+        {
+            "fight_id": "2f4bdcee104aa82c",
+            "fight_url": "http://ufcstats.com/fight-details/2f4bdcee104aa82c"
+        },
+        {
+            "fight_id": "badc5aee374b250c",
+            "fight_url": "http://ufcstats.com/fight-details/badc5aee374b250c"
+        },
+        {
+            "fight_id": "28d14941a678d34c",
+            "fight_url": "http://ufcstats.com/fight-details/28d14941a678d34c"
+        },
+        {
+            "fight_id": "1e0c39cf7bd0e4f2",
+            "fight_url": "http://ufcstats.com/fight-details/1e0c39cf7bd0e4f2"
+        },
+        {
+            "fight_id": "85e130a7c48f25f6",
+            "fight_url": "http://ufcstats.com/fight-details/85e130a7c48f25f6"
+        },
+        {
+            "fight_id": "d40bfa821f2fe46a",
+            "fight_url": "http://ufcstats.com/fight-details/d40bfa821f2fe46a"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8abe79e6d300b639",
+        "event_id": "6d7886b094b471ac",
+        "event_name": "UFC 140: Jones vs Machida",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:07",
+        "referee": "Herb Dean",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "0a97691039c4bbfb",
+        "name": "Mark Hominick",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 1",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 1",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 1",
+            "Sig. str. %": "0%",
+            "Head": "0 of 1",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "6 of 10",
+            "Sig. str. %": "60%",
+            "Total str.": "6 of 10",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 10",
+            "Sig. str. %": "60%",
+            "Head": "6 of 10",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "1 of 2",
+            "Clinch": "0 of 0",
+            "Ground": "5 of 8"
+        }
+    }
+}

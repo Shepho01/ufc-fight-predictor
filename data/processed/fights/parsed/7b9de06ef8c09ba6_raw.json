@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7b9de06ef8c09ba6",
+        "event_id": "f1b2a4365799c48b",
+        "event_name": "UFC 158: St-Pierre vs Diaz",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:06",
+        "referee": "Yves Lavigne",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "fef3d17e27e916e7",
+        "name": "Antonio Carvalho",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "9 of 27",
+            "Sig. str. %": "33%",
+            "Total str.": "13 of 31",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 27",
+            "Sig. str. %": "33%",
+            "Head": "7 of 25",
+            "Body": "0 of 0",
+            "Leg": "2 of 2",
+            "Distance": "6 of 23",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "14 of 54",
+            "Sig. str. %": "25%",
+            "Total str.": "19 of 59",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 54",
+            "Sig. str. %": "25%",
+            "Head": "8 of 47",
+            "Body": "4 of 5",
+            "Leg": "2 of 2",
+            "Distance": "6 of 41",
+            "Clinch": "8 of 13",
+            "Ground": "0 of 0"
+        }
+    }
+}

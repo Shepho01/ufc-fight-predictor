@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f930743af6564795",
+        "event_id": "06dc1a58663579d2",
+        "event_name": "UFC Fight Night: Boetsch vs Henderson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:38",
+        "referee": "John McCarthy",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "27 of 36",
+            "Sig. str. %": "75%",
+            "Total str.": "36 of 46",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 36",
+            "Sig. str. %": "75%",
+            "Head": "25 of 34",
+            "Body": "1 of 1",
+            "Leg": "1 of 1",
+            "Distance": "9 of 13",
+            "Clinch": "15 of 20",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "813550bc53b15fb0",
+        "name": "Yancy Medeiros",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 13",
+            "Sig. str. %": "46%",
+            "Total str.": "6 of 13",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 13",
+            "Sig. str. %": "46%",
+            "Head": "5 of 10",
+            "Body": "1 of 3",
+            "Leg": "0 of 0",
+            "Distance": "6 of 13",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "d1d20e651e6cbc02",
+        "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+        "event_date": "December 01, 2018",
+        "location": "Adelaide, South Australia, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "b6bd31215bd7ec1f",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:30",
+            "fight_url": "http://ufcstats.com/fight-details/b6bd31215bd7ec1f"
+        },
+        {
+            "fight_id": "20063242f6e40d31",
+            "fighter_a": "Mauricio Rua",
+            "fighter_b": "Tyson Pedro",
+            "winner": "Mauricio Rua",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "0:43",
+            "fight_url": "http://ufcstats.com/fight-details/20063242f6e40d31"
+        },
+        {
+            "fight_id": "70feb2bfc12b97d4",
+            "fighter_a": "Justin Willis",
+            "fighter_b": "Mark Hunt",
+            "winner": "Justin Willis",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/70feb2bfc12b97d4"
+        },
+        {
+            "fight_id": "60cc0ac9ace28324",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Jake Matthews",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Welterweight",
+            "method": "SUB Anaconda Choke",
+            "round": "3",
+            "time": "1:19",
+            "fight_url": "http://ufcstats.com/fight-details/60cc0ac9ace28324"
+        },
+        {
+            "fight_id": "0ac4f0c1b4d021f6",
+            "fighter_a": "Sodiq Yusuff",
+            "fighter_b": "Suman Mokhtarian",
+            "winner": "Sodiq Yusuff",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:14",
+            "fight_url": "http://ufcstats.com/fight-details/0ac4f0c1b4d021f6"
+        },
+        {
+            "fight_id": "29f40d82bd128c65",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Paul Craig",
+            "winner": "Jimmy Crute",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kimura",
+            "round": "3",
+            "time": "4:51",
+            "fight_url": "http://ufcstats.com/fight-details/29f40d82bd128c65"
+        },
+        {
+            "fight_id": "73a299d44d2ef5cd",
+            "fighter_a": "Aleksei Kunchenko",
+            "fighter_b": "Yushin Okami",
+            "winner": "Aleksei Kunchenko",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/73a299d44d2ef5cd"
+        },
+        {
+            "fight_id": "fa9ec0b8c4b3a84a",
+            "fighter_a": "Wilson Reis",
+            "fighter_b": "Ben Nguyen",
+            "winner": "Wilson Reis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fa9ec0b8c4b3a84a"
+        },
+        {
+            "fight_id": "94dcbc64641cbb6e",
+            "fighter_a": "Keita Nakamura",
+            "fighter_b": "Salim Touahri",
+            "winner": "Keita Nakamura",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/94dcbc64641cbb6e"
+        },
+        {
+            "fight_id": "c65f4b4c0338d0c1",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Elias Garcia",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c65f4b4c0338d0c1"
+        },
+        {
+            "fight_id": "69279781a89c893e",
+            "fighter_a": "Christos Giagos",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Christos Giagos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/69279781a89c893e"
+        },
+        {
+            "fight_id": "44c60f91b4f7b23d",
+            "fighter_a": "Damir Ismagulov",
+            "fighter_b": "Alex Gorgees",
+            "winner": "Damir Ismagulov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/44c60f91b4f7b23d"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1c4e4b3358089960",
+        "event_id": "601cf40c09090853",
+        "event_name": "UFC 156: Aldo vs Edgar",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "76 of 253",
+            "Sig. str. %": "30%",
+            "Total str.": "76 of 253",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "76 of 253",
+            "Sig. str. %": "30%",
+            "Head": "65 of 235",
+            "Body": "2 of 8",
+            "Leg": "9 of 10",
+            "Distance": "76 of 250",
+            "Clinch": "0 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "60 of 272",
+            "Sig. str. %": "22%",
+            "Total str.": "63 of 275",
+            "Td": "2 of 11",
+            "Td %": "18%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "60 of 272",
+            "Sig. str. %": "22%",
+            "Head": "24 of 214",
+            "Body": "14 of 29",
+            "Leg": "22 of 29",
+            "Distance": "55 of 264",
+            "Clinch": "5 of 8",
+            "Ground": "0 of 0"
+        }
+    }
+}

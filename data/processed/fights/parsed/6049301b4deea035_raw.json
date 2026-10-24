@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "6049301b4deea035",
+        "event_id": "15b1b21cd743d652",
+        "event_name": "UFC Fight Night: Holloway vs. Allen",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "147 of 262",
+            "Sig. str. %": "56%",
+            "Total str.": "149 of 264",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "147 of 262",
+            "Sig. str. %": "56%",
+            "Head": "77 of 180",
+            "Body": "42 of 48",
+            "Leg": "28 of 34",
+            "Distance": "146 of 261",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "040a74bb0a465c54",
+        "name": "Arnold Allen",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "76 of 225",
+            "Sig. str. %": "33%",
+            "Total str.": "80 of 229",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "76 of 225",
+            "Sig. str. %": "33%",
+            "Head": "48 of 173",
+            "Body": "18 of 36",
+            "Leg": "10 of 16",
+            "Distance": "76 of 225",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

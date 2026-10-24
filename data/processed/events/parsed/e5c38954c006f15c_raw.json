@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "e5c38954c006f15c",
+        "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+        "event_date": "August 28, 2013",
+        "location": "Indianapolis, Indiana, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bfef39e6493f6487",
+            "fighter_a": "Carlos Condit",
+            "fighter_b": "Martin Kampmann",
+            "winner": "Carlos Condit",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "4",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/bfef39e6493f6487"
+        },
+        {
+            "fight_id": "ca17e1385ef98e57",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ca17e1385ef98e57"
+        },
+        {
+            "fight_id": "f0d839f6d712a233",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Brian Melancon",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:26",
+            "fight_url": "http://ufcstats.com/fight-details/f0d839f6d712a233"
+        },
+        {
+            "fight_id": "f18ea0d8b472dc1e",
+            "fighter_a": "Court McGee",
+            "fighter_b": "Robert Whittaker",
+            "winner": "Court McGee",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f18ea0d8b472dc1e"
+        },
+        {
+            "fight_id": "382d626d45c36f14",
+            "fighter_a": "Takeya Mizugaki",
+            "fighter_b": "Erik Perez",
+            "winner": "Takeya Mizugaki",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/382d626d45c36f14"
+        },
+        {
+            "fight_id": "8ab4682a544f3c49",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Robert McDaniel",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8ab4682a544f3c49"
+        },
+        {
+            "fight_id": "a86b801279e0ef4a",
+            "fighter_a": "Dylan Andrews",
+            "fighter_b": "Papy Abedi",
+            "winner": "Dylan Andrews",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/a86b801279e0ef4a"
+        },
+        {
+            "fight_id": "964eb53864554ed0",
+            "fighter_a": "Brandon Thatch",
+            "fighter_b": "Justin Edwards",
+            "winner": "Brandon Thatch",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:23",
+            "fight_url": "http://ufcstats.com/fight-details/964eb53864554ed0"
+        },
+        {
+            "fight_id": "dd1131c208475365",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Hatsu Hioki",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dd1131c208475365"
+        },
+        {
+            "fight_id": "e1f9390c465a2988",
+            "fighter_a": "Jason High",
+            "fighter_b": "James Head",
+            "winner": "Jason High",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:41",
+            "fight_url": "http://ufcstats.com/fight-details/e1f9390c465a2988"
+        },
+        {
+            "fight_id": "602e8602fe9c9121",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Ben Alloway",
+            "winner": "Zak Cummings",
+            "weight_class": "Welterweight",
+            "method": "SUB D'Arce Choke",
+            "round": "1",
+            "time": "4:19",
+            "fight_url": "http://ufcstats.com/fight-details/602e8602fe9c9121"
+        },
+        {
+            "fight_id": "6b30fe49b6df63de",
+            "fighter_a": "Roger Bowling",
+            "fighter_b": "Abel Trujillo",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/6b30fe49b6df63de"
+        }
+    ]
+}

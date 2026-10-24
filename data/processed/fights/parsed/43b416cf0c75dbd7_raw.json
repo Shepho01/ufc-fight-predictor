@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "43b416cf0c75dbd7",
+        "event_id": "3d481aa374c954a1",
+        "event_name": "UFC 197: Jones vs Saint Preux",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:15",
+        "referee": "Dan Miragliotta",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "25 of 53",
+            "Sig. str. %": "47%",
+            "Total str.": "39 of 68",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 53",
+            "Sig. str. %": "47%",
+            "Head": "11 of 37",
+            "Body": "7 of 9",
+            "Leg": "7 of 7",
+            "Distance": "16 of 37",
+            "Clinch": "0 of 0",
+            "Ground": "9 of 16"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "8fd808923cffff82",
+        "name": "Andre Fili",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 31",
+            "Sig. str. %": "35%",
+            "Total str.": "20 of 40",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 31",
+            "Sig. str. %": "35%",
+            "Head": "6 of 24",
+            "Body": "4 of 5",
+            "Leg": "1 of 2",
+            "Distance": "9 of 27",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 4"
+        }
+    }
+}

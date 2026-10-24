@@ -1,0 +1,64 @@
+{
+    "fighter_id": "fea79f9bc8c68769",
+    "name": "Marlon Moraes",
+    "record": "23-10-1",
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 26, 1988",
+    "sig_strikes_landed_per_min": "3.37",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "4.53",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.87",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "9b46a662b8fa1d8d",
+            "fight_url": "http://ufcstats.com/fight-details/9b46a662b8fa1d8d"
+        },
+        {
+            "fight_id": "bc276e0f07e30a54",
+            "fight_url": "http://ufcstats.com/fight-details/bc276e0f07e30a54"
+        },
+        {
+            "fight_id": "8955ea3c7c332e6c",
+            "fight_url": "http://ufcstats.com/fight-details/8955ea3c7c332e6c"
+        },
+        {
+            "fight_id": "727ecd251325b6a8",
+            "fight_url": "http://ufcstats.com/fight-details/727ecd251325b6a8"
+        },
+        {
+            "fight_id": "b5ec939fd1edf048",
+            "fight_url": "http://ufcstats.com/fight-details/b5ec939fd1edf048"
+        },
+        {
+            "fight_id": "cf4199c8517bc1fd",
+            "fight_url": "http://ufcstats.com/fight-details/cf4199c8517bc1fd"
+        },
+        {
+            "fight_id": "4e8b2357fea211e9",
+            "fight_url": "http://ufcstats.com/fight-details/4e8b2357fea211e9"
+        },
+        {
+            "fight_id": "69b147aaaafeb47d",
+            "fight_url": "http://ufcstats.com/fight-details/69b147aaaafeb47d"
+        },
+        {
+            "fight_id": "1aaa1a9ceecd6063",
+            "fight_url": "http://ufcstats.com/fight-details/1aaa1a9ceecd6063"
+        },
+        {
+            "fight_id": "5519d7fe2cee8353",
+            "fight_url": "http://ufcstats.com/fight-details/5519d7fe2cee8353"
+        },
+        {
+            "fight_id": "228879162d8be605",
+            "fight_url": "http://ufcstats.com/fight-details/228879162d8be605"
+        }
+    ]
+}

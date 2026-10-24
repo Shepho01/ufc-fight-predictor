@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "059f5cf0e9e37627",
+        "event_id": "32ba186f4b0e3267",
+        "event_name": "UFC 305: Du Plessis vs. Adesanya",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jim Perdios",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "72db2a14ffa73ece",
+        "name": "Mateusz Gamrot",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "64 of 129",
+            "Sig. str. %": "49%",
+            "Total str.": "88 of 154",
+            "Td": "5 of 15",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:59"
+        },
+        "significant_strikes": {
+            "Sig. str": "64 of 129",
+            "Sig. str. %": "49%",
+            "Head": "56 of 119",
+            "Body": "6 of 8",
+            "Leg": "2 of 2",
+            "Distance": "43 of 97",
+            "Clinch": "2 of 2",
+            "Ground": "19 of 30"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "65 of 143",
+            "Sig. str. %": "45%",
+            "Total str.": "82 of 162",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "65 of 143",
+            "Sig. str. %": "45%",
+            "Head": "41 of 111",
+            "Body": "24 of 32",
+            "Leg": "0 of 0",
+            "Distance": "44 of 119",
+            "Clinch": "4 of 6",
+            "Ground": "17 of 18"
+        }
+    }
+}

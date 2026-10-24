@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fe6b45e7210bfa8e",
+        "event_id": "05fbfe628658c538",
+        "event_name": "UFC on FOX: Lawler vs Brown",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Overturned",
+        "finish_round": 1,
+        "finish_time": "1:39",
+        "referee": "John McCarthy",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "1971869b7e054261",
+        "name": "Mike de la Torre",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 11",
+            "Sig. str. %": "54%",
+            "Total str.": "8 of 14",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 11",
+            "Sig. str. %": "54%",
+            "Head": "4 of 9",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "5 of 9",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 6",
+            "Sig. str. %": "50%",
+            "Total str.": "5 of 8",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 6",
+            "Sig. str. %": "50%",
+            "Head": "1 of 4",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "2 of 5",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

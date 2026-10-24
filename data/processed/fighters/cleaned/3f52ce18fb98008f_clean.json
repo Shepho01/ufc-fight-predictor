@@ -1,0 +1,23 @@
+{
+    "fighter_id": "3f52ce18fb98008f",
+    "name": "Akira Corassani",
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 27,
+    "dob_month": 8,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 3.25,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 4.91,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.7,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.86,
+    "submission_attempts_per_15_min": 0.0
+}

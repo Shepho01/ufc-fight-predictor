@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "6f81b6de2557739a",
+        "event_name": "UFC Fight Night: Sandhagen vs. Font",
+        "event_date": "August 05, 2023",
+        "location": "Nashville, Tennessee, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "554163b1c8c05522",
+            "fighter_a": "Cory Sandhagen",
+            "fighter_b": "Rob Font",
+            "winner": "Cory Sandhagen",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/554163b1c8c05522"
+        },
+        {
+            "fight_id": "ec2358459ffbe7de",
+            "fighter_a": "Tatiana Suarez",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Tatiana Suarez",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:31",
+            "fight_url": "http://ufcstats.com/fight-details/ec2358459ffbe7de"
+        },
+        {
+            "fight_id": "2c54be25b09fce50",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "Kennedy Nzechukwu",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:22",
+            "fight_url": "http://ufcstats.com/fight-details/2c54be25b09fce50"
+        },
+        {
+            "fight_id": "79bfba62da6242a6",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Gavin Tucker",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "SUB Triangle Armbar",
+            "round": "1",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/79bfba62da6242a6"
+        },
+        {
+            "fight_id": "2c0496a5f39ab8a4",
+            "fighter_a": "Tanner Boser",
+            "fighter_b": "Aleksa Camur",
+            "winner": "Tanner Boser",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2c0496a5f39ab8a4"
+        },
+        {
+            "fight_id": "531ce3d8011fa1f6",
+            "fighter_a": "Ludovit Klein",
+            "fighter_b": "Ignacio Bahamondes",
+            "winner": "Ludovit Klein",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/531ce3d8011fa1f6"
+        },
+        {
+            "fight_id": "e5cb9dfc1189d77d",
+            "fighter_a": "Kyler Phillips",
+            "fighter_b": "Raoni Barcelos",
+            "winner": "Kyler Phillips",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e5cb9dfc1189d77d"
+        },
+        {
+            "fight_id": "bda7992779a005fa",
+            "fighter_a": "Carlston Harris",
+            "fighter_b": "Jeremiah Wells",
+            "winner": "Carlston Harris",
+            "weight_class": "Welterweight",
+            "method": "SUB Anaconda Choke",
+            "round": "3",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/bda7992779a005fa"
+        },
+        {
+            "fight_id": "1b0d5e65fdfc62cf",
+            "fighter_a": "Billy Quarantillo",
+            "fighter_b": "Damon Jackson",
+            "winner": "Billy Quarantillo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1b0d5e65fdfc62cf"
+        },
+        {
+            "fight_id": "38901948cff43ff9",
+            "fighter_a": "Cody Durden",
+            "fighter_b": "Jake Hadley",
+            "winner": "Cody Durden",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/38901948cff43ff9"
+        },
+        {
+            "fight_id": "436a1ce6b0c6b4bb",
+            "fighter_a": "Sean Woodson",
+            "fighter_b": "Dennis Buzukja",
+            "winner": "Sean Woodson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/436a1ce6b0c6b4bb"
+        },
+        {
+            "fight_id": "6b5c225814a924ed",
+            "fighter_a": "Asu Almabayev",
+            "fighter_b": "Ode Osbourne",
+            "winner": "Asu Almabayev",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/6b5c225814a924ed"
+        }
+    ]
+}

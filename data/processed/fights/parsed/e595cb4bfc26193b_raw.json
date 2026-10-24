@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e595cb4bfc26193b",
+        "event_id": "1411c630ba711b64",
+        "event_name": "UFC 128: Shogun vs Jones",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "aa1952ec0b3dd8e1",
+        "name": "Kurt Pellegrino",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 120",
+            "Sig. str. %": "39%",
+            "Total str.": "97 of 171",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 120",
+            "Sig. str. %": "39%",
+            "Head": "30 of 103",
+            "Body": "12 of 12",
+            "Leg": "5 of 5",
+            "Distance": "31 of 103",
+            "Clinch": "6 of 7",
+            "Ground": "10 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 103",
+            "Sig. str. %": "42%",
+            "Total str.": "81 of 149",
+            "Td": "2 of 7",
+            "Td %": "28%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 103",
+            "Sig. str. %": "42%",
+            "Head": "29 of 87",
+            "Body": "15 of 16",
+            "Leg": "0 of 0",
+            "Distance": "37 of 92",
+            "Clinch": "5 of 8",
+            "Ground": "2 of 3"
+        }
+    }
+}

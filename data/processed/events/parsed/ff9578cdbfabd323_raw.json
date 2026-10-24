@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "ff9578cdbfabd323",
+        "event_name": "UFC 214: Cormier vs. Jones 2",
+        "event_date": "July 29, 2017",
+        "location": "Anaheim, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5ab286735ccee803",
+            "fighter_a": "Daniel Cormier",
+            "fighter_b": "Jon Jones",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned Kick",
+            "round": "3",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/5ab286735ccee803"
+        },
+        {
+            "fight_id": "30553d630491094a",
+            "fighter_a": "Tyron Woodley",
+            "fighter_b": "Demian Maia",
+            "winner": "Tyron Woodley",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/30553d630491094a"
+        },
+        {
+            "fight_id": "79817ab0129c5598",
+            "fighter_a": "Cristiane Justino",
+            "fighter_b": "Tonya Evinger",
+            "winner": "Cristiane Justino",
+            "weight_class": "Women's Featherweight",
+            "method": "KO/TKO Knees",
+            "round": "3",
+            "time": "1:56",
+            "fight_url": "http://ufcstats.com/fight-details/79817ab0129c5598"
+        },
+        {
+            "fight_id": "b8c967c742d3c107",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Robbie Lawler",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b8c967c742d3c107"
+        },
+        {
+            "fight_id": "49694c2d00c581ed",
+            "fighter_a": "Volkan Oezdemir",
+            "fighter_b": "Jimi Manuwa",
+            "winner": "Volkan Oezdemir",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/49694c2d00c581ed"
+        },
+        {
+            "fight_id": "dffad417175400ba",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Jason Knight",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:34",
+            "fight_url": "http://ufcstats.com/fight-details/dffad417175400ba"
+        },
+        {
+            "fight_id": "ac9e19a4075f6557",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Renan Barao",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ac9e19a4075f6557"
+        },
+        {
+            "fight_id": "4924d7a980f4cde2",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Renato Moicano",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "2:59",
+            "fight_url": "http://ufcstats.com/fight-details/4924d7a980f4cde2"
+        },
+        {
+            "fight_id": "3d95b4f94ccffa96",
+            "fighter_a": "Calvin Kattar",
+            "fighter_b": "Andre Fili",
+            "winner": "Calvin Kattar",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3d95b4f94ccffa96"
+        },
+        {
+            "fight_id": "e80a8338d86e730b",
+            "fighter_a": "Aleksandra Albu",
+            "fighter_b": "Kailin Curran",
+            "winner": "Aleksandra Albu",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e80a8338d86e730b"
+        },
+        {
+            "fight_id": "4f4806952ba2a72c",
+            "fighter_a": "Jarred Brooks",
+            "fighter_b": "Eric Shelton",
+            "winner": "Jarred Brooks",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4f4806952ba2a72c"
+        },
+        {
+            "fight_id": "3636e085c098dbda",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Joshua Burkman",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/3636e085c098dbda"
+        }
+    ]
+}

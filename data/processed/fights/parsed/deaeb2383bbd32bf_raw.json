@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "deaeb2383bbd32bf",
+        "event_id": "d4a12dfa4067742f",
+        "event_name": "UFC on FOX: Dos Santos vs Miocic",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:52",
+        "referee": "Herb Dean",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "a54fc2d6fc224dc3",
+        "name": "Jamie Varner",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 10",
+            "Sig. str. %": "40%",
+            "Total str.": "4 of 10",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 10",
+            "Sig. str. %": "40%",
+            "Head": "2 of 7",
+            "Body": "2 of 3",
+            "Leg": "0 of 0",
+            "Distance": "2 of 8",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 12",
+            "Sig. str. %": "41%",
+            "Total str.": "7 of 14",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:40"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 12",
+            "Sig. str. %": "41%",
+            "Head": "3 of 9",
+            "Body": "2 of 3",
+            "Leg": "0 of 0",
+            "Distance": "3 of 10",
+            "Clinch": "1 of 1",
+            "Ground": "1 of 1"
+        }
+    }
+}

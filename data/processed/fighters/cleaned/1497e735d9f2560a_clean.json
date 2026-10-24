@@ -1,0 +1,23 @@
+{
+    "fighter_id": "1497e735d9f2560a",
+    "name": "Ange Loosa",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 177.8,
+    "weight_lbs": 170,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 18,
+    "dob_month": 3,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.46,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 6.59,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 2.53,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.83,
+    "submission_attempts_per_15_min": 0.2
+}

@@ -1,0 +1,88 @@
+{
+    "fighter_id": "6f242453c91a5af0",
+    "name": "Dennis Bermudez",
+    "record": "17-9-0",
+    "height": "5' 6\"",
+    "weight": "155 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Dec 13, 1986",
+    "sig_strikes_landed_per_min": "4.42",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "3.07",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "3.89",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "82%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "2ea1f463620bcd3d",
+            "fight_url": "http://ufcstats.com/fight-details/2ea1f463620bcd3d"
+        },
+        {
+            "fight_id": "786296db3c4749f1",
+            "fight_url": "http://ufcstats.com/fight-details/786296db3c4749f1"
+        },
+        {
+            "fight_id": "27901ef9e82d5690",
+            "fight_url": "http://ufcstats.com/fight-details/27901ef9e82d5690"
+        },
+        {
+            "fight_id": "8028d5de087755dc",
+            "fight_url": "http://ufcstats.com/fight-details/8028d5de087755dc"
+        },
+        {
+            "fight_id": "8c220d4c96895a98",
+            "fight_url": "http://ufcstats.com/fight-details/8c220d4c96895a98"
+        },
+        {
+            "fight_id": "0344687c9852b1d2",
+            "fight_url": "http://ufcstats.com/fight-details/0344687c9852b1d2"
+        },
+        {
+            "fight_id": "3bd5dbc1598c409d",
+            "fight_url": "http://ufcstats.com/fight-details/3bd5dbc1598c409d"
+        },
+        {
+            "fight_id": "4d3cbc7608c8958e",
+            "fight_url": "http://ufcstats.com/fight-details/4d3cbc7608c8958e"
+        },
+        {
+            "fight_id": "7228398a1ab12183",
+            "fight_url": "http://ufcstats.com/fight-details/7228398a1ab12183"
+        },
+        {
+            "fight_id": "1258b6f1cb5eed64",
+            "fight_url": "http://ufcstats.com/fight-details/1258b6f1cb5eed64"
+        },
+        {
+            "fight_id": "639013929b61e834",
+            "fight_url": "http://ufcstats.com/fight-details/639013929b61e834"
+        },
+        {
+            "fight_id": "ce30634422a264f9",
+            "fight_url": "http://ufcstats.com/fight-details/ce30634422a264f9"
+        },
+        {
+            "fight_id": "149a0b38fa02e647",
+            "fight_url": "http://ufcstats.com/fight-details/149a0b38fa02e647"
+        },
+        {
+            "fight_id": "80769cf090fa34dd",
+            "fight_url": "http://ufcstats.com/fight-details/80769cf090fa34dd"
+        },
+        {
+            "fight_id": "0c58b5f37bfeb65a",
+            "fight_url": "http://ufcstats.com/fight-details/0c58b5f37bfeb65a"
+        },
+        {
+            "fight_id": "0387bc11a0a0c325",
+            "fight_url": "http://ufcstats.com/fight-details/0387bc11a0a0c325"
+        },
+        {
+            "fight_id": "6e85d8d17c3eed58",
+            "fight_url": "http://ufcstats.com/fight-details/6e85d8d17c3eed58"
+        }
+    ]
+}

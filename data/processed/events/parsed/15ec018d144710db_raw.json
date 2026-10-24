@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "15ec018d144710db",
+        "event_name": "UFC 326: Holloway vs. Oliveira 2",
+        "event_date": "March 07, 2026",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f030febede41c661",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Max Holloway",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f030febede41c661"
+        },
+        {
+            "fight_id": "d564db29997e1371",
+            "fighter_a": "Caio Borralho",
+            "fighter_b": "Reinier de Ridder",
+            "winner": "Caio Borralho",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d564db29997e1371"
+        },
+        {
+            "fight_id": "bed89a91da9d04c1",
+            "fighter_a": "Raul Rosas Jr.",
+            "fighter_b": "Rob Font",
+            "winner": "Raul Rosas Jr.",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bed89a91da9d04c1"
+        },
+        {
+            "fight_id": "f02c0adc4ae629c6",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Michael Johnson",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/f02c0adc4ae629c6"
+        },
+        {
+            "fight_id": "6a4738656c493ee9",
+            "fighter_a": "Gregory Rodrigues",
+            "fighter_b": "Brunno Ferreira",
+            "winner": "Gregory Rodrigues",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:47",
+            "fight_url": "http://ufcstats.com/fight-details/6a4738656c493ee9"
+        },
+        {
+            "fight_id": "ecd16d14a138d7fb",
+            "fighter_a": "Cody Garbrandt",
+            "fighter_b": "Xiao Long",
+            "winner": "Cody Garbrandt",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ecd16d14a138d7fb"
+        },
+        {
+            "fight_id": "9c8d5dbd8905a715",
+            "fighter_a": "Donte Johnson",
+            "fighter_b": "Cody Brundage",
+            "winner": "Donte Johnson",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9c8d5dbd8905a715"
+        },
+        {
+            "fight_id": "6feb49a6b7e8433c",
+            "fighter_a": "Alberto Montes",
+            "fighter_b": "Ricky Turcios",
+            "winner": "Alberto Montes",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": "2",
+            "time": "0:40",
+            "fight_url": "http://ufcstats.com/fight-details/6feb49a6b7e8433c"
+        },
+        {
+            "fight_id": "f661ef429055f8c1",
+            "fighter_a": "Nyamjargal Tumendemberel",
+            "fighter_b": "Cody Durden",
+            "winner": "Nyamjargal Tumendemberel",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f661ef429055f8c1"
+        },
+        {
+            "fight_id": "a22fd3735819d858",
+            "fighter_a": "Sumudaerji",
+            "fighter_b": "Jesus Aguilar",
+            "winner": "Sumudaerji",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a22fd3735819d858"
+        },
+        {
+            "fight_id": "cc03e698c4b7da52",
+            "fighter_a": "Diyar Nurgozhay",
+            "fighter_b": "Rafael Tobias",
+            "winner": "Diyar Nurgozhay",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/cc03e698c4b7da52"
+        },
+        {
+            "fight_id": "a5abdc461cb1538e",
+            "fighter_a": "Rodolfo Bellato",
+            "fighter_b": "Luke Fernandez",
+            "winner": "Rodolfo Bellato",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:42",
+            "fight_url": "http://ufcstats.com/fight-details/a5abdc461cb1538e"
+        }
+    ]
+}

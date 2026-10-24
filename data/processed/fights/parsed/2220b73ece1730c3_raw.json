@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2220b73ece1730c3",
+        "event_id": "6597b611f1c32555",
+        "event_name": "UFC 260: Miocic vs. Ngannou",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Chris Tognoni",
+        "winner_id": "a0e6753c42698f13"
+    },
+    "fighter_a": {
+        "fighter_id": "4cd8b03aee1d0138",
+        "name": "Shane Young",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 105",
+            "Sig. str. %": "43%",
+            "Total str.": "59 of 120",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 105",
+            "Sig. str. %": "43%",
+            "Head": "17 of 65",
+            "Body": "19 of 26",
+            "Leg": "10 of 14",
+            "Distance": "40 of 99",
+            "Clinch": "6 of 6",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "a0e6753c42698f13",
+        "name": "Omar Morales",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "69 of 144",
+            "Sig. str. %": "47%",
+            "Total str.": "74 of 150",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "69 of 144",
+            "Sig. str. %": "47%",
+            "Head": "48 of 120",
+            "Body": "7 of 10",
+            "Leg": "14 of 14",
+            "Distance": "59 of 133",
+            "Clinch": "9 of 10",
+            "Ground": "1 of 1"
+        }
+    }
+}

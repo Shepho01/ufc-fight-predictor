@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7b13fdc889028e66",
+        "event_id": "980b4e712489098e",
+        "event_name": "UFC 164: Henderson vs Pettis 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "a54fc2d6fc224dc3",
+        "name": "Jamie Varner",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 76",
+            "Sig. str. %": "48%",
+            "Total str.": "63 of 104",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 76",
+            "Sig. str. %": "48%",
+            "Head": "28 of 62",
+            "Body": "7 of 11",
+            "Leg": "2 of 3",
+            "Distance": "21 of 52",
+            "Clinch": "1 of 1",
+            "Ground": "15 of 23"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "26 of 55",
+            "Sig. str. %": "47%",
+            "Total str.": "55 of 84",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 55",
+            "Sig. str. %": "47%",
+            "Head": "23 of 48",
+            "Body": "2 of 6",
+            "Leg": "1 of 1",
+            "Distance": "9 of 34",
+            "Clinch": "2 of 3",
+            "Ground": "15 of 18"
+        }
+    }
+}

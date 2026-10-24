@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f9536ea60551b840",
+        "event_id": "bcd124bcd3d5be46",
+        "event_name": "UFC Fight Night: Swanson vs. Ortega",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "0:50",
+        "referee": "Mark Lawley",
+        "winner_id": "0052de90691d4a93"
+    },
+    "fighter_a": {
+        "fighter_id": "feaf00f3373435d6",
+        "name": "Chris Gruetzemacher",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 97",
+            "Sig. str. %": "47%",
+            "Total str.": "57 of 110",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 97",
+            "Sig. str. %": "47%",
+            "Head": "25 of 69",
+            "Body": "10 of 14",
+            "Leg": "11 of 14",
+            "Distance": "39 of 89",
+            "Clinch": "4 of 4",
+            "Ground": "3 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "0052de90691d4a93",
+        "name": "Davi Ramos",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "55 of 124",
+            "Sig. str. %": "44%",
+            "Total str.": "65 of 136",
+            "Td": "5 of 9",
+            "Td %": "55%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 124",
+            "Sig. str. %": "44%",
+            "Head": "49 of 117",
+            "Body": "4 of 5",
+            "Leg": "2 of 2",
+            "Distance": "44 of 105",
+            "Clinch": "9 of 13",
+            "Ground": "2 of 6"
+        }
+    }
+}

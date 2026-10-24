@@ -1,0 +1,56 @@
+{
+    "event": {
+        "event_id": "c96e2ae6021144a1",
+        "event_name": "DWCS 5.1",
+        "event_day": 31,
+        "event_month": 8,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "6c6ba06d43698ebd",
+            "fighter_a": "Azamat Murzakanov",
+            "fighter_b": "Matheus Scheffel",
+            "winner": "Azamat Murzakanov",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 180,
+            "fight_url": "http://ufcstats.com/fight-details/6c6ba06d43698ebd"
+        },
+        {
+            "fight_id": "c6ed2a253886099b",
+            "fighter_a": "Joanderson Brito",
+            "fighter_b": "Diego Lopes",
+            "winner": "Joanderson Brito",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 12,
+            "fight_url": "http://ufcstats.com/fight-details/c6ed2a253886099b"
+        },
+        {
+            "fight_id": "92360a517431f38e",
+            "fighter_a": "Victor Altamirano",
+            "fighter_b": "Carlos Candelario",
+            "winner": "Victor Altamirano",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/92360a517431f38e"
+        },
+        {
+            "fight_id": "32b777bd9e079eac",
+            "fighter_a": "AJ Fletcher",
+            "fighter_b": "Leonardo Damiani",
+            "winner": "AJ Fletcher",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 1,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/32b777bd9e079eac"
+        }
+    ]
+}

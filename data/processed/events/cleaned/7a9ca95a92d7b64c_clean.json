@@ -1,0 +1,67 @@
+{
+    "event": {
+        "event_id": "7a9ca95a92d7b64c",
+        "event_name": "DWCS Brazil 1.3",
+        "event_day": 12,
+        "event_month": 8,
+        "event_year": 2018,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3d671c7283c54341",
+            "fighter_a": "Raulian Paiva",
+            "fighter_b": "Allan Nascimento",
+            "winner": "Raulian Paiva",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d671c7283c54341"
+        },
+        {
+            "fight_id": "68c442e1071390b9",
+            "fighter_a": "Vinicius Moreira",
+            "fighter_b": "John Allan",
+            "winner": "Vinicius Moreira",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Triangle Choke",
+            "round": 2,
+            "time_seconds": 220,
+            "fight_url": "http://ufcstats.com/fight-details/68c442e1071390b9"
+        },
+        {
+            "fight_id": "eff9d4e4a0b309ca",
+            "fighter_a": "Luana Carolina",
+            "fighter_b": "Mabelly Lima",
+            "winner": "Luana Carolina",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/eff9d4e4a0b309ca"
+        },
+        {
+            "fight_id": "0bd4d58ac34783ae",
+            "fighter_a": "Gisele Moreira",
+            "fighter_b": "Dayana Silva",
+            "winner": "Gisele Moreira",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0bd4d58ac34783ae"
+        },
+        {
+            "fight_id": "bf785a636fb3ba17",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Gleidson Cutis",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/bf785a636fb3ba17"
+        }
+    ]
+}

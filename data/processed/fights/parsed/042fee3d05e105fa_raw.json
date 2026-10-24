@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "042fee3d05e105fa",
+        "event_id": "b757c73f443d4fca",
+        "event_name": "UFC Fight Night: Munoz vs Mousasi",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "2816ced060a21be3"
+    },
+    "fighter_a": {
+        "fighter_id": "2816ced060a21be3",
+        "name": "Nick Hein",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 105",
+            "Sig. str. %": "47%",
+            "Total str.": "87 of 148",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 105",
+            "Sig. str. %": "47%",
+            "Head": "42 of 96",
+            "Body": "6 of 7",
+            "Leg": "2 of 2",
+            "Distance": "49 of 103",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "49 of 127",
+            "Sig. str. %": "38%",
+            "Total str.": "97 of 178",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:59"
+        },
+        "significant_strikes": {
+            "Sig. str": "49 of 127",
+            "Sig. str. %": "38%",
+            "Head": "31 of 100",
+            "Body": "9 of 15",
+            "Leg": "9 of 12",
+            "Distance": "37 of 115",
+            "Clinch": "7 of 7",
+            "Ground": "5 of 5"
+        }
+    }
+}

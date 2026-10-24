@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "069ab7e7b8b5d262",
+        "event_id": "3c6976f8182d9527",
+        "event_name": "UFC 288: Sterling vs. Cejudo",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "76e2870ffafbe38f"
+    },
+    "fighter_a": {
+        "fighter_id": "76e2870ffafbe38f",
+        "name": "Movsar Evloev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "88 of 129",
+            "Sig. str. %": "68%",
+            "Total str.": "183 of 228",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "88 of 129",
+            "Sig. str. %": "68%",
+            "Head": "76 of 116",
+            "Body": "3 of 3",
+            "Leg": "9 of 10",
+            "Distance": "45 of 81",
+            "Clinch": "11 of 11",
+            "Ground": "32 of 37"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 69",
+            "Sig. str. %": "53%",
+            "Total str.": "48 of 82",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "4",
+            "Rev.": "1",
+            "Ctrl": "0:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 69",
+            "Sig. str. %": "53%",
+            "Head": "29 of 57",
+            "Body": "4 of 8",
+            "Leg": "4 of 4",
+            "Distance": "27 of 55",
+            "Clinch": "3 of 3",
+            "Ground": "7 of 11"
+        }
+    }
+}

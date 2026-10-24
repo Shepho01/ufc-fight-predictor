@@ -1,0 +1,23 @@
+{
+    "fighter_id": "fd406a32a6fb3a29",
+    "name": "Chris Duncan",
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 10,
+    "dob_month": 5,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 4.83,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 4.57,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 2.92,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 0.6
+}

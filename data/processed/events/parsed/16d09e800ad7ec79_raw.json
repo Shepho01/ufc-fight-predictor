@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "16d09e800ad7ec79",
+        "event_name": "UFC Fight Night: Mendes vs Lamas",
+        "event_date": "April 04, 2015",
+        "location": "Fairfax, Virginia, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bbebfc54abbb1d8b",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Ricardo Lamas",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:45",
+            "fight_url": "http://ufcstats.com/fight-details/bbebfc54abbb1d8b"
+        },
+        {
+            "fight_id": "634dbcef5111f939",
+            "fighter_a": "Al Iaquinta",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Al Iaquinta",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/634dbcef5111f939"
+        },
+        {
+            "fight_id": "9eb92b670eebdcd4",
+            "fighter_a": "Michael Chiesa",
+            "fighter_b": "Mitch Clarke",
+            "winner": "Michael Chiesa",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9eb92b670eebdcd4"
+        },
+        {
+            "fight_id": "cc7afab68363e076",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Milana Dudieva",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "3:59",
+            "fight_url": "http://ufcstats.com/fight-details/cc7afab68363e076"
+        },
+        {
+            "fight_id": "0c25bb24dbb63655",
+            "fighter_a": "Clay Guida",
+            "fighter_b": "Robert Peralta",
+            "winner": "Clay Guida",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0c25bb24dbb63655"
+        },
+        {
+            "fight_id": "12c600dc64edb403",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Diego Ferreira",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:45",
+            "fight_url": "http://ufcstats.com/fight-details/12c600dc64edb403"
+        },
+        {
+            "fight_id": "8cf571afc2618df4",
+            "fighter_a": "Liz Carmouche",
+            "fighter_b": "Lauren Murphy",
+            "winner": "Liz Carmouche",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8cf571afc2618df4"
+        },
+        {
+            "fight_id": "85dcf9425d3c4e56",
+            "fighter_a": "Alexander Yakovlev",
+            "fighter_b": "Gray Maynard",
+            "winner": "Alexander Yakovlev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/85dcf9425d3c4e56"
+        },
+        {
+            "fight_id": "f9373ab59b7a853b",
+            "fighter_a": "Timothy Johnson",
+            "fighter_b": "Shamil Abdurakhimov",
+            "winner": "Timothy Johnson",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/f9373ab59b7a853b"
+        },
+        {
+            "fight_id": "3845a6838fe00265",
+            "fighter_a": "Ron Stallings",
+            "fighter_b": "Justin Jones",
+            "winner": "Ron Stallings",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3845a6838fe00265"
+        }
+    ]
+}

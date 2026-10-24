@@ -1,0 +1,56 @@
+{
+    "fighter_id": "53ec9cb470e1a4ea",
+    "name": "Jon Tuck",
+    "record": "10-5-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Aug 28, 1984",
+    "sig_strikes_landed_per_min": "3.00",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.74",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "0.42",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "047d6739aa1d5c1e",
+            "fight_url": "http://ufcstats.com/fight-details/047d6739aa1d5c1e"
+        },
+        {
+            "fight_id": "fc2585e234e49dee",
+            "fight_url": "http://ufcstats.com/fight-details/fc2585e234e49dee"
+        },
+        {
+            "fight_id": "64bc223daa594bcc",
+            "fight_url": "http://ufcstats.com/fight-details/64bc223daa594bcc"
+        },
+        {
+            "fight_id": "7786b5fafee61c36",
+            "fight_url": "http://ufcstats.com/fight-details/7786b5fafee61c36"
+        },
+        {
+            "fight_id": "1e176413438fabd5",
+            "fight_url": "http://ufcstats.com/fight-details/1e176413438fabd5"
+        },
+        {
+            "fight_id": "9c0721bd410e7a0e",
+            "fight_url": "http://ufcstats.com/fight-details/9c0721bd410e7a0e"
+        },
+        {
+            "fight_id": "5eb07bffdc8b7acf",
+            "fight_url": "http://ufcstats.com/fight-details/5eb07bffdc8b7acf"
+        },
+        {
+            "fight_id": "a34dc365302238e8",
+            "fight_url": "http://ufcstats.com/fight-details/a34dc365302238e8"
+        },
+        {
+            "fight_id": "8d556e2826924946",
+            "fight_url": "http://ufcstats.com/fight-details/8d556e2826924946"
+        }
+    ]
+}

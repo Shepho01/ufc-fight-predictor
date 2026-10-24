@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "3be081c29bf734d9",
+        "event_name": "UFC 189: Mendes vs McGregor",
+        "event_date": "July 11, 2015",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "70290140b6a8e038",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Chad Mendes",
+            "winner": "Conor McGregor",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/70290140b6a8e038"
+        },
+        {
+            "fight_id": "ecb4534c0066c5f3",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Rory MacDonald",
+            "winner": "Robbie Lawler",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "5",
+            "time": "1:00",
+            "fight_url": "http://ufcstats.com/fight-details/ecb4534c0066c5f3"
+        },
+        {
+            "fight_id": "4d3cbc7608c8958e",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Dennis Bermudez",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "3",
+            "time": "0:32",
+            "fight_url": "http://ufcstats.com/fight-details/4d3cbc7608c8958e"
+        },
+        {
+            "fight_id": "4b997af9fb321123",
+            "fighter_a": "Gunnar Nelson",
+            "fighter_b": "Brandon Thatch",
+            "winner": "Gunnar Nelson",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/4b997af9fb321123"
+        },
+        {
+            "fight_id": "a9d8ddb49dbe414b",
+            "fighter_a": "Thomas Almeida",
+            "fighter_b": "Brad Pickett",
+            "winner": "Thomas Almeida",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "2",
+            "time": "0:29",
+            "fight_url": "http://ufcstats.com/fight-details/a9d8ddb49dbe414b"
+        },
+        {
+            "fight_id": "c4a7f7d8eb8fe484",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Tim Means",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:44",
+            "fight_url": "http://ufcstats.com/fight-details/c4a7f7d8eb8fe484"
+        },
+        {
+            "fight_id": "824368db1ed8191f",
+            "fighter_a": "Alex Garcia",
+            "fighter_b": "Mike Swick",
+            "winner": "Alex Garcia",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/824368db1ed8191f"
+        },
+        {
+            "fight_id": "2c5d329bdf182468",
+            "fighter_a": "John Howard",
+            "fighter_b": "Cathal Pendred",
+            "winner": "John Howard",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2c5d329bdf182468"
+        },
+        {
+            "fight_id": "8c8c2499d89da07c",
+            "fighter_a": "Cody Garbrandt",
+            "fighter_b": "Henry Briones",
+            "winner": "Cody Garbrandt",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8c8c2499d89da07c"
+        },
+        {
+            "fight_id": "9f56b3c053c44060",
+            "fighter_a": "Louis Smolka",
+            "fighter_b": "Neil Seery",
+            "winner": "Louis Smolka",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f56b3c053c44060"
+        },
+        {
+            "fight_id": "b90eded8d6b65e8f",
+            "fighter_a": "Cody Pfister",
+            "fighter_b": "Yosdenis Cedeno",
+            "winner": "Cody Pfister",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b90eded8d6b65e8f"
+        }
+    ]
+}

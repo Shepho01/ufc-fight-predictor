@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ba33d0868b25483b",
+        "event_id": "8d49545dadf9b919",
+        "event_name": "UFC Fight Night: Hunt vs. Oleinik",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Leon Roberts",
+        "winner_id": "9b7694d064a8a0ad"
+    },
+    "fighter_a": {
+        "fighter_id": "9b7694d064a8a0ad",
+        "name": "Rustam Khabilov",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 70",
+            "Sig. str. %": "24%",
+            "Total str.": "34 of 88",
+            "Td": "3 of 8",
+            "Td %": "37%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 70",
+            "Sig. str. %": "24%",
+            "Head": "16 of 64",
+            "Body": "1 of 6",
+            "Leg": "0 of 0",
+            "Distance": "11 of 59",
+            "Clinch": "2 of 5",
+            "Ground": "4 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 123",
+            "Sig. str. %": "35%",
+            "Total str.": "57 of 137",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 123",
+            "Sig. str. %": "35%",
+            "Head": "15 of 85",
+            "Body": "6 of 10",
+            "Leg": "23 of 28",
+            "Distance": "42 of 118",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 0"
+        }
+    }
+}

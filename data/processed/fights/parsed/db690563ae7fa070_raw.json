@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "db690563ae7fa070",
+        "event_id": "1c061eb6e29eaa0a",
+        "event_name": "UFC on FOX: Velasquez vs Dos Santos",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "1:32",
+        "referee": "Larry Landless",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 47",
+            "Sig. str. %": "36%",
+            "Total str.": "31 of 63",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:55"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 47",
+            "Sig. str. %": "36%",
+            "Head": "14 of 41",
+            "Body": "1 of 3",
+            "Leg": "2 of 3",
+            "Distance": "9 of 27",
+            "Clinch": "3 of 3",
+            "Ground": "5 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "8e5bfd4e82352340",
+        "name": "Pablo Garza",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 34",
+            "Sig. str. %": "41%",
+            "Total str.": "24 of 44",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 34",
+            "Sig. str. %": "41%",
+            "Head": "1 of 12",
+            "Body": "5 of 10",
+            "Leg": "8 of 12",
+            "Distance": "13 of 28",
+            "Clinch": "1 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "3956bdc8ab2e54b3",
+    "name": "John Gunther",
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 24,
+    "dob_month": 11,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 1.65,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 3.72,
+    "sig_strike_defense": 0.46,
+    "takedowns_landed_per_15_min": 7.08,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

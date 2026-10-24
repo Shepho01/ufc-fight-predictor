@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "304fcd812f12c589",
+        "event_name": "UFC Fight Night: Stout vs Fisher",
+        "event_day": 12,
+        "event_month": 6,
+        "event_year": 2007,
+        "location": "Hollywood, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "07018cb7ae879456",
+            "fighter_a": "Spencer Fisher",
+            "fighter_b": "Sam Stout",
+            "winner": "Spencer Fisher",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/07018cb7ae879456"
+        },
+        {
+            "fight_id": "59da727c3ae7b497",
+            "fighter_a": "Jon Fitch",
+            "fighter_b": "Roan Carneiro",
+            "winner": "Jon Fitch",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 67,
+            "fight_url": "http://ufcstats.com/fight-details/59da727c3ae7b497"
+        },
+        {
+            "fight_id": "3b52291052353eef",
+            "fighter_a": "Drew McFedries",
+            "fighter_b": "Jordan Radev",
+            "winner": "Drew McFedries",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 33,
+            "fight_url": "http://ufcstats.com/fight-details/3b52291052353eef"
+        },
+        {
+            "fight_id": "a6edcccdfccb9132",
+            "fighter_a": "Thiago Tavares",
+            "fighter_b": "Jason Black",
+            "winner": "Thiago Tavares",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 2,
+            "time_seconds": 169,
+            "fight_url": "http://ufcstats.com/fight-details/a6edcccdfccb9132"
+        },
+        {
+            "fight_id": "1e12c4828d576b5c",
+            "fighter_a": "Forrest Petz",
+            "fighter_b": "Luigi Fioravanti",
+            "winner": "Forrest Petz",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1e12c4828d576b5c"
+        },
+        {
+            "fight_id": "1d127ec120dcb58e",
+            "fighter_a": "Tamdan McCrory",
+            "fighter_b": "Pete Spratt",
+            "winner": "Tamdan McCrory",
+            "weight_class": "Welterweight",
+            "method": "SUB Triangle Choke",
+            "round": 2,
+            "time_seconds": 124,
+            "fight_url": "http://ufcstats.com/fight-details/1d127ec120dcb58e"
+        },
+        {
+            "fight_id": "ff8802aae3b81c3f",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Jeff Cox",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/ff8802aae3b81c3f"
+        },
+        {
+            "fight_id": "764e5910ac779ae9",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Chad Reiner",
+            "winner": "Anthony Johnson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 13,
+            "fight_url": "http://ufcstats.com/fight-details/764e5910ac779ae9"
+        },
+        {
+            "fight_id": "ee071b5125ced92a",
+            "fighter_a": "Nate Mohr",
+            "fighter_b": "Luke Caudillo",
+            "winner": "Nate Mohr",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ee071b5125ced92a"
+        }
+    ]
+}

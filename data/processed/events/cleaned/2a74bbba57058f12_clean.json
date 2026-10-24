@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "2a74bbba57058f12",
+        "event_name": "UFC 231: Holloway vs. Ortega",
+        "event_day": 8,
+        "event_month": 12,
+        "event_year": 2018,
+        "location": "Toronto, Ontario, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "4e55251b7a0df0c2",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Brian Ortega",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": 4,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4e55251b7a0df0c2"
+        },
+        {
+            "fight_id": "48a2a476d3b59866",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Joanna Jedrzejczyk",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/48a2a476d3b59866"
+        },
+        {
+            "fight_id": "3a42dd84680f444b",
+            "fighter_a": "Gunnar Nelson",
+            "fighter_b": "Alex Oliveira",
+            "winner": "Gunnar Nelson",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 257,
+            "fight_url": "http://ufcstats.com/fight-details/3a42dd84680f444b"
+        },
+        {
+            "fight_id": "e0e22d7bc5a293e8",
+            "fighter_a": "Hakeem Dawodu",
+            "fighter_b": "Kyle Bochniak",
+            "winner": "Hakeem Dawodu",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e0e22d7bc5a293e8"
+        },
+        {
+            "fight_id": "37a7dc68f3a0e65d",
+            "fighter_a": "Thiago Santos",
+            "fighter_b": "Jimi Manuwa",
+            "winner": "Thiago Santos",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/37a7dc68f3a0e65d"
+        },
+        {
+            "fight_id": "d5577e3272ef3032",
+            "fighter_a": "Nina Nunes",
+            "fighter_b": "Claudia Gadelha",
+            "winner": "Nina Nunes",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d5577e3272ef3032"
+        },
+        {
+            "fight_id": "1fa8537d3992a09a",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Olivier Aubin-Mercier",
+            "winner": "Gilbert Burns",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1fa8537d3992a09a"
+        },
+        {
+            "fight_id": "00b1e95f6aea7027",
+            "fighter_a": "Jessica Eye",
+            "fighter_b": "Katlyn Cerminara",
+            "winner": "Jessica Eye",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/00b1e95f6aea7027"
+        },
+        {
+            "fight_id": "7d679c16024f6f38",
+            "fighter_a": "Elias Theodorou",
+            "fighter_b": "Eryk Anders",
+            "winner": "Elias Theodorou",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7d679c16024f6f38"
+        },
+        {
+            "fight_id": "41feee2c08af2235",
+            "fighter_a": "Brad Katona",
+            "fighter_b": "Matthew Lopez",
+            "winner": "Brad Katona",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/41feee2c08af2235"
+        },
+        {
+            "fight_id": "e909e34cdee01831",
+            "fighter_a": "Dhiego Lima",
+            "fighter_b": "Chad Laprise",
+            "winner": "Dhiego Lima",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 97,
+            "fight_url": "http://ufcstats.com/fight-details/e909e34cdee01831"
+        },
+        {
+            "fight_id": "fdc97f9b88bdef7d",
+            "fighter_a": "Diego Ferreira",
+            "fighter_b": "Kyle Nelson",
+            "winner": "Diego Ferreira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 83,
+            "fight_url": "http://ufcstats.com/fight-details/fdc97f9b88bdef7d"
+        },
+        {
+            "fight_id": "19d1ae54681bc722",
+            "fighter_a": "Aleksandar Rakic",
+            "fighter_b": "Devin Clark",
+            "winner": "Aleksandar Rakic",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": 1,
+            "time_seconds": 245,
+            "fight_url": "http://ufcstats.com/fight-details/19d1ae54681bc722"
+        }
+    ]
+}

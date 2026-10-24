@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "9ddfb3369a3b0394",
+        "event_name": "UFC Fight Night: Jung vs. Ige",
+        "event_day": 19,
+        "event_month": 6,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "50cae63d530ede7c",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Dan Ige",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/50cae63d530ede7c"
+        },
+        {
+            "fight_id": "6fd9a013cea5a403",
+            "fighter_a": "Serghei Spivac",
+            "fighter_b": "Aleksei Oleinik",
+            "winner": "Serghei Spivac",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6fd9a013cea5a403"
+        },
+        {
+            "fight_id": "a83ebbf013905949",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Davey Grant",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a83ebbf013905949"
+        },
+        {
+            "fight_id": "d3c0dfa57950aefd",
+            "fighter_a": "SeungWoo Choi",
+            "fighter_b": "Julian Erosa",
+            "winner": "SeungWoo Choi",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 97,
+            "fight_url": "http://ufcstats.com/fight-details/d3c0dfa57950aefd"
+        },
+        {
+            "fight_id": "bb1ac382e0277b3f",
+            "fighter_a": "Bruno Silva",
+            "fighter_b": "Wellington Turman",
+            "winner": "Bruno Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 285,
+            "fight_url": "http://ufcstats.com/fight-details/bb1ac382e0277b3f"
+        },
+        {
+            "fight_id": "2bdf774dc8b17504",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Dhiego Lima",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 182,
+            "fight_url": "http://ufcstats.com/fight-details/2bdf774dc8b17504"
+        },
+        {
+            "fight_id": "744627aec853874e",
+            "fighter_a": "Nicolae Negumereanu",
+            "fighter_b": "Aleksa Camur",
+            "winner": "Nicolae Negumereanu",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/744627aec853874e"
+        },
+        {
+            "fight_id": "53ed3f8f653b37b2",
+            "fighter_a": "Virna Jandiroba",
+            "fighter_b": "Kanako Murata",
+            "winner": "Virna Jandiroba",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/53ed3f8f653b37b2"
+        },
+        {
+            "fight_id": "87c8e086c29ae543",
+            "fighter_a": "Khaos Williams",
+            "fighter_b": "Matthew Semelsberger",
+            "winner": "Khaos Williams",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/87c8e086c29ae543"
+        },
+        {
+            "fight_id": "e8fd128286788a6d",
+            "fighter_a": "Josh Parisian",
+            "fighter_b": "Roque Martinez",
+            "winner": "Josh Parisian",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e8fd128286788a6d"
+        },
+        {
+            "fight_id": "1e9f081a84e7ec18",
+            "fighter_a": "Ricky Glenn",
+            "fighter_b": "Joaquim Silva",
+            "winner": "Ricky Glenn",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 37,
+            "fight_url": "http://ufcstats.com/fight-details/1e9f081a84e7ec18"
+        },
+        {
+            "fight_id": "d684d8b02ab53031",
+            "fighter_a": "Casey O'Neill",
+            "fighter_b": "Lara Procopio",
+            "winner": "Casey O'Neill",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/d684d8b02ab53031"
+        }
+    ]
+}

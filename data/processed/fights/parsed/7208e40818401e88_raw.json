@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7208e40818401e88",
+        "event_id": "48544433372ecfa6",
+        "event_name": "UFC Freedom 250",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 4,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "9e8f6c728eb01124"
+    },
+    "fighter_a": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "97 of 162",
+            "Sig. str. %": "59%",
+            "Total str.": "111 of 177",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "97 of 162",
+            "Sig. str. %": "59%",
+            "Head": "55 of 112",
+            "Body": "37 of 45",
+            "Leg": "5 of 5",
+            "Distance": "68 of 125",
+            "Clinch": "22 of 29",
+            "Ground": "7 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9e8f6c728eb01124",
+        "name": "Justin Gaethje",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "91 of 192",
+            "Sig. str. %": "47%",
+            "Total str.": "119 of 228",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "91 of 192",
+            "Sig. str. %": "47%",
+            "Head": "79 of 175",
+            "Body": "8 of 12",
+            "Leg": "4 of 5",
+            "Distance": "73 of 167",
+            "Clinch": "15 of 21",
+            "Ground": "3 of 4"
+        }
+    }
+}

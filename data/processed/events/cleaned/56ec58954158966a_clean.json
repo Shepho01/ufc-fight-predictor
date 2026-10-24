@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "56ec58954158966a",
+        "event_name": "UFC Fight Night: Cannonier vs. Strickland",
+        "event_day": 17,
+        "event_month": 12,
+        "event_year": 2022,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4ea48bf2407b405d",
+            "fighter_a": "Jared Cannonier",
+            "fighter_b": "Sean Strickland",
+            "winner": "Jared Cannonier",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4ea48bf2407b405d"
+        },
+        {
+            "fight_id": "ce7744d45a698aa6",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Damir Ismagulov",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ce7744d45a698aa6"
+        },
+        {
+            "fight_id": "d95eeba3de7ecac5",
+            "fighter_a": "Amir Albazi",
+            "fighter_b": "Alessandro Costa",
+            "winner": "Amir Albazi",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 133,
+            "fight_url": "http://ufcstats.com/fight-details/d95eeba3de7ecac5"
+        },
+        {
+            "fight_id": "9c1a2ac64c98d2f6",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Julian Erosa",
+            "winner": "Alex Caceres",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 184,
+            "fight_url": "http://ufcstats.com/fight-details/9c1a2ac64c98d2f6"
+        },
+        {
+            "fight_id": "c335f44e4f3515ea",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "King Green",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 165,
+            "fight_url": "http://ufcstats.com/fight-details/c335f44e4f3515ea"
+        },
+        {
+            "fight_id": "e0444752d18fda7f",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Cody Brundage",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 196,
+            "fight_url": "http://ufcstats.com/fight-details/e0444752d18fda7f"
+        },
+        {
+            "fight_id": "c960184a583f1861",
+            "fighter_a": "Cory McKenna",
+            "fighter_b": "Cheyanne Vlismas",
+            "winner": "Cory McKenna",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c960184a583f1861"
+        },
+        {
+            "fight_id": "5f4e944ff1bdcd9c",
+            "fighter_a": "Matthew Semelsberger",
+            "fighter_b": "Jake Matthews",
+            "winner": "Matthew Semelsberger",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f4e944ff1bdcd9c"
+        },
+        {
+            "fight_id": "ed6203e849a2bf28",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Saidyokub Kakhramonov",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 230,
+            "fight_url": "http://ufcstats.com/fight-details/ed6203e849a2bf28"
+        },
+        {
+            "fight_id": "efc64d8aae5628c9",
+            "fighter_a": "Rafa Garcia",
+            "fighter_b": "Maheshate",
+            "winner": "Rafa Garcia",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/efc64d8aae5628c9"
+        },
+        {
+            "fight_id": "8f00da6ea8186ce2",
+            "fighter_a": "Rinat Fakhretdinov",
+            "fighter_b": "Bryan Battle",
+            "winner": "Rinat Fakhretdinov",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8f00da6ea8186ce2"
+        },
+        {
+            "fight_id": "f87a7812733f7e8f",
+            "fighter_a": "Manel Kape",
+            "fighter_b": "David Dvorak",
+            "winner": "Manel Kape",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f87a7812733f7e8f"
+        },
+        {
+            "fight_id": "ccb7e2851319345d",
+            "fighter_a": "Sergey Morozov",
+            "fighter_b": "Journey Newson",
+            "winner": "Sergey Morozov",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ccb7e2851319345d"
+        }
+    ]
+}

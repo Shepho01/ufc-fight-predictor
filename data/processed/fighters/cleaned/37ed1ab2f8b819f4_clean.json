@@ -1,0 +1,23 @@
+{
+    "fighter_id": "37ed1ab2f8b819f4",
+    "name": "Brad Riddell",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 30,
+    "dob_month": 9,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 4.71,
+    "sig_striking_accuracy": 0.53,
+    "sig_strikes_absorbed_per_min": 3.53,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 1.77,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.0
+}

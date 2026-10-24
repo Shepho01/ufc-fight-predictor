@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "dd992d569aaebee6",
+        "event_name": "UFC 123: Rampage vs Machida",
+        "event_date": "November 20, 2010",
+        "location": "Auburn Hills, Michigan, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "47b690fb54f2eaf9",
+            "fighter_a": "Quinton Jackson",
+            "fighter_b": "Lyoto Machida",
+            "winner": "Quinton Jackson",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47b690fb54f2eaf9"
+        },
+        {
+            "fight_id": "552973c278f08fbb",
+            "fighter_a": "BJ Penn",
+            "fighter_b": "Matt Hughes",
+            "winner": "BJ Penn",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:21",
+            "fight_url": "http://ufcstats.com/fight-details/552973c278f08fbb"
+        },
+        {
+            "fight_id": "256aacb8cb2c4289",
+            "fighter_a": "Maiquel Falcao",
+            "fighter_b": "Gerald Harris",
+            "winner": "Maiquel Falcao",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/256aacb8cb2c4289"
+        },
+        {
+            "fight_id": "71bcafd04decc8ce",
+            "fighter_a": "Phil Davis",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Phil Davis",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kimura",
+            "round": "2",
+            "time": "2:55",
+            "fight_url": "http://ufcstats.com/fight-details/71bcafd04decc8ce"
+        },
+        {
+            "fight_id": "3e0301367e511512",
+            "fighter_a": "George Sotiropoulos",
+            "fighter_b": "Joe Lauzon",
+            "winner": "George Sotiropoulos",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": "2",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/3e0301367e511512"
+        },
+        {
+            "fight_id": "15cae38f1326adfb",
+            "fighter_a": "Brian Foster",
+            "fighter_b": "Matt Brown",
+            "winner": "Brian Foster",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:11",
+            "fight_url": "http://ufcstats.com/fight-details/15cae38f1326adfb"
+        },
+        {
+            "fight_id": "8d886fba9328269c",
+            "fighter_a": "Mark Munoz",
+            "fighter_b": "Aaron Simpson",
+            "winner": "Mark Munoz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8d886fba9328269c"
+        },
+        {
+            "fight_id": "0ed093f6aaab94d3",
+            "fighter_a": "Dennis Hallman",
+            "fighter_b": "Karo Parisyan",
+            "winner": "Dennis Hallman",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:47",
+            "fight_url": "http://ufcstats.com/fight-details/0ed093f6aaab94d3"
+        },
+        {
+            "fight_id": "8b87b341bcd130ee",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Mike Lullo",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kicks",
+            "round": "3",
+            "time": "0:26",
+            "fight_url": "http://ufcstats.com/fight-details/8b87b341bcd130ee"
+        },
+        {
+            "fight_id": "e76c3346ad9be24a",
+            "fighter_a": "Paul Kelly",
+            "fighter_b": "TJ O'Brien",
+            "winner": "Paul Kelly",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "3:16",
+            "fight_url": "http://ufcstats.com/fight-details/e76c3346ad9be24a"
+        },
+        {
+            "fight_id": "83ea3c36a6f91cb8",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Tyson Griffin",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/83ea3c36a6f91cb8"
+        }
+    ]
+}

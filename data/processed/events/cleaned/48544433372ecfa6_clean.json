@@ -1,0 +1,89 @@
+{
+    "event": {
+        "event_id": "48544433372ecfa6",
+        "event_name": "UFC Freedom 250",
+        "event_day": 14,
+        "event_month": 6,
+        "event_year": 2026,
+        "location": "Washington, DC, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7208e40818401e88",
+            "fighter_a": "Justin Gaethje",
+            "fighter_b": "Ilia Topuria",
+            "winner": "Justin Gaethje",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 4,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7208e40818401e88"
+        },
+        {
+            "fight_id": "5727d5be8c373346",
+            "fighter_a": "Ciryl Gane",
+            "fighter_b": "Alex Pereira",
+            "winner": "Ciryl Gane",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 87,
+            "fight_url": "http://ufcstats.com/fight-details/5727d5be8c373346"
+        },
+        {
+            "fight_id": "60de0423ae6ed097",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Aiemann Zahabi",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 242,
+            "fight_url": "http://ufcstats.com/fight-details/60de0423ae6ed097"
+        },
+        {
+            "fight_id": "30cdb851f6c63444",
+            "fighter_a": "Josh Hokit",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Josh Hokit",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 249,
+            "fight_url": "http://ufcstats.com/fight-details/30cdb851f6c63444"
+        },
+        {
+            "fight_id": "9a9b30b3165b62e4",
+            "fighter_a": "Mauricio Ruffy",
+            "fighter_b": "Michael Chandler",
+            "winner": "Mauricio Ruffy",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/9a9b30b3165b62e4"
+        },
+        {
+            "fight_id": "00e8d4b961a65d21",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Kyle Daukaus",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/00e8d4b961a65d21"
+        },
+        {
+            "fight_id": "127ba4a1ccb3d4a6",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Steve Garcia",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/127ba4a1ccb3d4a6"
+        }
+    ]
+}

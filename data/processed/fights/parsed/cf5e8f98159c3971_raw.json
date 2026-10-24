@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "cf5e8f98159c3971",
+        "event_id": "6750e338922a099d",
+        "event_name": "UFC 300: Pereira vs. Hill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 5,
+        "finish_time": "4:59",
+        "referee": "Marc Goddard",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "9e8f6c728eb01124",
+        "name": "Justin Gaethje",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "103 of 199",
+            "Sig. str. %": "51%",
+            "Total str.": "103 of 199",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "103 of 199",
+            "Sig. str. %": "51%",
+            "Head": "44 of 121",
+            "Body": "26 of 42",
+            "Leg": "33 of 36",
+            "Distance": "103 of 199",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "181 of 309",
+            "Sig. str. %": "58%",
+            "Total str.": "181 of 309",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "181 of 309",
+            "Sig. str. %": "58%",
+            "Head": "62 of 149",
+            "Body": "62 of 91",
+            "Leg": "57 of 69",
+            "Distance": "181 of 308",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

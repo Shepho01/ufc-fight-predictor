@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bcf842992f9accdc",
+        "event_id": "9f3d6ddef3d3cccc",
+        "event_name": "UFC Fight Night: Weidman vs. Gastelum",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "68f6e96c5fa6e044"
+    },
+    "fighter_a": {
+        "fighter_id": "c5af5750e8bae4f0",
+        "name": "Kyle Bochniak",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 54",
+            "Sig. str. %": "42%",
+            "Total str.": "43 of 76",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 54",
+            "Sig. str. %": "42%",
+            "Head": "13 of 43",
+            "Body": "3 of 3",
+            "Leg": "7 of 8",
+            "Distance": "22 of 51",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "68f6e96c5fa6e044",
+        "name": "Jeremy Kennedy",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 94",
+            "Sig. str. %": "43%",
+            "Total str.": "59 of 118",
+            "Td": "8 of 14",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "11:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 94",
+            "Sig. str. %": "43%",
+            "Head": "30 of 82",
+            "Body": "6 of 7",
+            "Leg": "5 of 5",
+            "Distance": "13 of 44",
+            "Clinch": "7 of 11",
+            "Ground": "21 of 39"
+        }
+    }
+}

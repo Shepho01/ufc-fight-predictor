@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cb139171ed1b69fe",
+    "name": "Kenny Florian",
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 26,
+    "dob_month": 5,
+    "dob_year": 1976,
+    "sig_strikes_landed_per_min": 2.41,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 1.85,
+    "sig_strike_defense": 0.63,
+    "takedowns_landed_per_15_min": 2.22,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 1.3
+}

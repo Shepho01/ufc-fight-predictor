@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "ff4c3ab594c7fac3",
+        "event_name": "UFC 199: Rockhold vs. Bisping 2",
+        "event_day": 4,
+        "event_month": 6,
+        "event_year": 2016,
+        "location": "Los Angeles, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "812ff38f0ed409ca",
+            "fighter_a": "Michael Bisping",
+            "fighter_b": "Luke Rockhold",
+            "winner": "Michael Bisping",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 216,
+            "fight_url": "http://ufcstats.com/fight-details/812ff38f0ed409ca"
+        },
+        {
+            "fight_id": "9c884cbc3791bf60",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Urijah Faber",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9c884cbc3791bf60"
+        },
+        {
+            "fight_id": "345b1bc51f0f5e86",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Ricardo Lamas",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/345b1bc51f0f5e86"
+        },
+        {
+            "fight_id": "c33cc8b85b9a202c",
+            "fighter_a": "Dan Henderson",
+            "fighter_b": "Hector Lombard",
+            "winner": "Dan Henderson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 87,
+            "fight_url": "http://ufcstats.com/fight-details/c33cc8b85b9a202c"
+        },
+        {
+            "fight_id": "e86a77b69d50a834",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "King Green",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 173,
+            "fight_url": "http://ufcstats.com/fight-details/e86a77b69d50a834"
+        },
+        {
+            "fight_id": "db1be0ca226d3a2f",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Clay Guida",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 280,
+            "fight_url": "http://ufcstats.com/fight-details/db1be0ca226d3a2f"
+        },
+        {
+            "fight_id": "2c65d5d20cc893e4",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "James Vick",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/2c65d5d20cc893e4"
+        },
+        {
+            "fight_id": "e06f96f3484ad74a",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Jessica Penne",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 176,
+            "fight_url": "http://ufcstats.com/fight-details/e06f96f3484ad74a"
+        },
+        {
+            "fight_id": "5b55a8e33199d71e",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Cole Miller",
+            "winner": "Alex Caceres",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5b55a8e33199d71e"
+        },
+        {
+            "fight_id": "3e020d62796a7ce3",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Tom Breese",
+            "winner": "Sean Strickland",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3e020d62796a7ce3"
+        },
+        {
+            "fight_id": "5e794b8ef52c88cb",
+            "fighter_a": "Henrique da Silva",
+            "fighter_b": "Jonathan Wilson",
+            "winner": "Henrique da Silva",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 251,
+            "fight_url": "http://ufcstats.com/fight-details/5e794b8ef52c88cb"
+        },
+        {
+            "fight_id": "e640fd983577d349",
+            "fighter_a": "Kevin Casey",
+            "fighter_b": "Elvis Mutapcic",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e640fd983577d349"
+        },
+        {
+            "fight_id": "1cbb930fb77a3781",
+            "fighter_a": "Marco Polo Reyes",
+            "fighter_b": "Dong Hyun Ma",
+            "winner": "Marco Polo Reyes",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/1cbb930fb77a3781"
+        }
+    ]
+}

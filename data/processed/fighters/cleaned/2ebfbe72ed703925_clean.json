@@ -1,0 +1,23 @@
+{
+    "fighter_id": "2ebfbe72ed703925",
+    "name": "Tristan Connelly",
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 12,
+    "dob_month": 12,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 3.31,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 2.96,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.33,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 0.3
+}

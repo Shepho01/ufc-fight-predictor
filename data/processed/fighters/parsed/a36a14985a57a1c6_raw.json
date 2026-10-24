@@ -1,0 +1,32 @@
+{
+    "fighter_id": "a36a14985a57a1c6",
+    "name": "Zachary Micklewright",
+    "record": "15-3-0",
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Aug 21, 1976",
+    "sig_strikes_landed_per_min": "5.56",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "4.72",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.70",
+    "takedown_accuracy": "12%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "54a527a7a711a430",
+            "fight_url": "http://ufcstats.com/fight-details/54a527a7a711a430"
+        },
+        {
+            "fight_id": "c6a2e152acb09324",
+            "fight_url": "http://ufcstats.com/fight-details/c6a2e152acb09324"
+        },
+        {
+            "fight_id": "baa0d1ffcf25c6fb",
+            "fight_url": "http://ufcstats.com/fight-details/baa0d1ffcf25c6fb"
+        }
+    ]
+}

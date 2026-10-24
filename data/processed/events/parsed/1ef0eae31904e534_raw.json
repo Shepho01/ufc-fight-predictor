@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "1ef0eae31904e534",
+        "event_name": "UFC 229: Khabib vs. McGregor",
+        "event_date": "October 06, 2018",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3eea92e7f26fb05b",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Conor McGregor",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "4",
+            "time": "3:03",
+            "fight_url": "http://ufcstats.com/fight-details/3eea92e7f26fb05b"
+        },
+        {
+            "fight_id": "8f6dda53ea3b09c7",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8f6dda53ea3b09c7"
+        },
+        {
+            "fight_id": "3c5442bb62ca1505",
+            "fighter_a": "Dominick Reyes",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Dominick Reyes",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3c5442bb62ca1505"
+        },
+        {
+            "fight_id": "397ace87deeb8697",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Alexander Volkov",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/397ace87deeb8697"
+        },
+        {
+            "fight_id": "adee1fc200ed1a12",
+            "fighter_a": "Michelle Waterson-Gomez",
+            "fighter_b": "Felice Herrig",
+            "winner": "Michelle Waterson-Gomez",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/adee1fc200ed1a12"
+        },
+        {
+            "fight_id": "8f5482992dad74d2",
+            "fighter_a": "Jussier Formiga",
+            "fighter_b": "Sergio Pettis",
+            "winner": "Jussier Formiga",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8f5482992dad74d2"
+        },
+        {
+            "fight_id": "48ea8a30f7b88cfc",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Jalin Turner",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/48ea8a30f7b88cfc"
+        },
+        {
+            "fight_id": "e2e524bb5392a3ea",
+            "fighter_a": "Aspen Ladd",
+            "fighter_b": "Tonya Evinger",
+            "winner": "Aspen Ladd",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/e2e524bb5392a3ea"
+        },
+        {
+            "fight_id": "c835ccffa472970e",
+            "fighter_a": "Scott Holtzman",
+            "fighter_b": "Alan Patrick",
+            "winner": "Scott Holtzman",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "3:42",
+            "fight_url": "http://ufcstats.com/fight-details/c835ccffa472970e"
+        },
+        {
+            "fight_id": "21be9181725ab599",
+            "fighter_a": "Yana Santos",
+            "fighter_b": "Lina Lansberg",
+            "winner": "Yana Santos",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/21be9181725ab599"
+        },
+        {
+            "fight_id": "9bc042a700d9a531",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Gray Maynard",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "1:19",
+            "fight_url": "http://ufcstats.com/fight-details/9bc042a700d9a531"
+        },
+        {
+            "fight_id": "68ba4aca75b02496",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Ryan LaFlare",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "1:00",
+            "fight_url": "http://ufcstats.com/fight-details/68ba4aca75b02496"
+        }
+    ]
+}

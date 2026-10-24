@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "760e3f292b834637",
+        "event_id": "6bf5a7d3e081ade2",
+        "event_name": "UFC Fight Night: Font vs. Vera",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "75 of 151",
+            "Sig. str. %": "49%",
+            "Total str.": "165 of 259",
+            "Td": "5 of 10",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "7:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 151",
+            "Sig. str. %": "49%",
+            "Head": "66 of 141",
+            "Body": "9 of 10",
+            "Leg": "0 of 0",
+            "Distance": "38 of 107",
+            "Clinch": "29 of 34",
+            "Ground": "8 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "2ebfbe72ed703925",
+        "name": "Tristan Connelly",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "66 of 117",
+            "Sig. str. %": "56%",
+            "Total str.": "106 of 158",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "66 of 117",
+            "Sig. str. %": "56%",
+            "Head": "48 of 96",
+            "Body": "9 of 12",
+            "Leg": "9 of 9",
+            "Distance": "42 of 87",
+            "Clinch": "21 of 27",
+            "Ground": "3 of 3"
+        }
+    }
+}

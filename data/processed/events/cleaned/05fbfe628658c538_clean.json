@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "05fbfe628658c538",
+        "event_name": "UFC on FOX: Lawler vs Brown",
+        "event_day": 26,
+        "event_month": 7,
+        "event_year": 2014,
+        "location": "San Jose, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "677910683d0fd88b",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Matt Brown",
+            "winner": "Robbie Lawler",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/677910683d0fd88b"
+        },
+        {
+            "fight_id": "1f63949591ad61bd",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Rogerio Nogueira",
+            "winner": "Anthony Johnson",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/1f63949591ad61bd"
+        },
+        {
+            "fight_id": "1258b6f1cb5eed64",
+            "fighter_a": "Dennis Bermudez",
+            "fighter_b": "Clay Guida",
+            "winner": "Dennis Bermudez",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 177,
+            "fight_url": "http://ufcstats.com/fight-details/1258b6f1cb5eed64"
+        },
+        {
+            "fight_id": "23124e6f3e7aa37d",
+            "fighter_a": "King Green",
+            "fighter_b": "Josh Thomson",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/23124e6f3e7aa37d"
+        },
+        {
+            "fight_id": "17dc833cda860933",
+            "fighter_a": "Jorge Masvidal",
+            "fighter_b": "Daron Cruickshank",
+            "winner": "Jorge Masvidal",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/17dc833cda860933"
+        },
+        {
+            "fight_id": "2e23e7ab6217c034",
+            "fighter_a": "Patrick Cummins",
+            "fighter_b": "Kyle Kingsbury",
+            "winner": "Patrick Cummins",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2e23e7ab6217c034"
+        },
+        {
+            "fight_id": "35cdd5e50d30f26e",
+            "fighter_a": "Tim Means",
+            "fighter_b": "Hernani Perpetuo",
+            "winner": "Tim Means",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/35cdd5e50d30f26e"
+        },
+        {
+            "fight_id": "fe6b45e7210bfa8e",
+            "fighter_a": "Mike de la Torre",
+            "fighter_b": "Brian Ortega",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "Overturned",
+            "round": 1,
+            "time_seconds": 99,
+            "fight_url": "http://ufcstats.com/fight-details/fe6b45e7210bfa8e"
+        },
+        {
+            "fight_id": "f9e672ec431fed3f",
+            "fighter_a": "Tiago dos Santos e Silva",
+            "fighter_b": "Akbarh Arreola",
+            "winner": "Tiago dos Santos e Silva",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f9e672ec431fed3f"
+        },
+        {
+            "fight_id": "5da651d5867cbdfe",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Andreas Stahl",
+            "winner": "Gilbert Burns",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5da651d5867cbdfe"
+        },
+        {
+            "fight_id": "f29ba17d818d4fac",
+            "fighter_a": "Joanna Jedrzejczyk",
+            "fighter_b": "Juliana Lima",
+            "winner": "Joanna Jedrzejczyk",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f29ba17d818d4fac"
+        },
+        {
+            "fight_id": "55b3724a98c0469c",
+            "fighter_a": "Noad Lahat",
+            "fighter_b": "Steven Siler",
+            "winner": "Noad Lahat",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/55b3724a98c0469c"
+        }
+    ]
+}

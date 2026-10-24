@@ -1,0 +1,28 @@
+{
+    "fighter_id": "bf9bc96336922271",
+    "name": "Alex Ricci",
+    "record": "10-5-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Jul 21, 1982",
+    "sig_strikes_landed_per_min": "2.48",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.53",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "f00ac5af033f44b4",
+            "fight_url": "http://ufcstats.com/fight-details/f00ac5af033f44b4"
+        },
+        {
+            "fight_id": "f7114bf73eec4022",
+            "fight_url": "http://ufcstats.com/fight-details/f7114bf73eec4022"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "fighter_id": "b8bbdeff718dbb7d",
+    "name": "Pat Sabatini",
+    "record": "22-5-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 09, 1990",
+    "sig_strikes_landed_per_min": "1.69",
+    "sig_striking_accuracy": "54%",
+    "sig_strikes_absorbed_per_min": "1.16",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "4.27",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "303018d7459323b4",
+            "fight_url": "http://ufcstats.com/fight-details/303018d7459323b4"
+        },
+        {
+            "fight_id": "e3cbd663732f4a98",
+            "fight_url": "http://ufcstats.com/fight-details/e3cbd663732f4a98"
+        },
+        {
+            "fight_id": "a160e94fdb66de17",
+            "fight_url": "http://ufcstats.com/fight-details/a160e94fdb66de17"
+        },
+        {
+            "fight_id": "69a5895fde58432c",
+            "fight_url": "http://ufcstats.com/fight-details/69a5895fde58432c"
+        },
+        {
+            "fight_id": "128ab9aa4802c73f",
+            "fight_url": "http://ufcstats.com/fight-details/128ab9aa4802c73f"
+        },
+        {
+            "fight_id": "76fd6919d828d5c2",
+            "fight_url": "http://ufcstats.com/fight-details/76fd6919d828d5c2"
+        },
+        {
+            "fight_id": "f521ecde1e96a1bd",
+            "fight_url": "http://ufcstats.com/fight-details/f521ecde1e96a1bd"
+        },
+        {
+            "fight_id": "4f6e7159e77d4215",
+            "fight_url": "http://ufcstats.com/fight-details/4f6e7159e77d4215"
+        },
+        {
+            "fight_id": "f592f168f3b8b807",
+            "fight_url": "http://ufcstats.com/fight-details/f592f168f3b8b807"
+        },
+        {
+            "fight_id": "ef4484943b1c68a9",
+            "fight_url": "http://ufcstats.com/fight-details/ef4484943b1c68a9"
+        },
+        {
+            "fight_id": "6a7347d1da8a2b87",
+            "fight_url": "http://ufcstats.com/fight-details/6a7347d1da8a2b87"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "18824fa5c15c212f",
+        "event_id": "6750e338922a099d",
+        "event_name": "UFC 300: Pereira vs. Hill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:11",
+        "referee": "Herb Dean",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "4d8fa64202cee4c1",
+        "name": "Jalin Turner",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "16 of 40",
+            "Sig. str. %": "40%",
+            "Total str.": "16 of 40",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 40",
+            "Sig. str. %": "40%",
+            "Head": "10 of 32",
+            "Body": "3 of 5",
+            "Leg": "3 of 3",
+            "Distance": "15 of 39",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 67",
+            "Sig. str. %": "53%",
+            "Total str.": "87 of 128",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:50"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 67",
+            "Sig. str. %": "53%",
+            "Head": "32 of 60",
+            "Body": "3 of 5",
+            "Leg": "1 of 2",
+            "Distance": "11 of 23",
+            "Clinch": "1 of 1",
+            "Ground": "24 of 43"
+        }
+    }
+}

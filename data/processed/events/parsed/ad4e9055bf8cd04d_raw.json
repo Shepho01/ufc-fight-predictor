@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "ad4e9055bf8cd04d",
+        "event_name": "UFC 184: Rousey vs Zingano",
+        "event_date": "February 28, 2015",
+        "location": "Los Angeles, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e083c7ae1548e08a",
+            "fighter_a": "Ronda Rousey",
+            "fighter_b": "Cat Zingano",
+            "winner": "Ronda Rousey",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "0:14",
+            "fight_url": "http://ufcstats.com/fight-details/e083c7ae1548e08a"
+        },
+        {
+            "fight_id": "31e62d34abc3a762",
+            "fighter_a": "Holly Holm",
+            "fighter_b": "Raquel Pennington",
+            "winner": "Holly Holm",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/31e62d34abc3a762"
+        },
+        {
+            "fight_id": "618b581f14a37e06",
+            "fighter_a": "Jake Ellenberger",
+            "fighter_b": "Josh Koscheck",
+            "winner": "Jake Ellenberger",
+            "weight_class": "Welterweight",
+            "method": "SUB North-South Choke",
+            "round": "2",
+            "time": "4:20",
+            "fight_url": "http://ufcstats.com/fight-details/618b581f14a37e06"
+        },
+        {
+            "fight_id": "9f4bc2063685211c",
+            "fighter_a": "Alan Jouban",
+            "fighter_b": "Richard Walsh",
+            "winner": "Alan Jouban",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbow",
+            "round": "1",
+            "time": "2:19",
+            "fight_url": "http://ufcstats.com/fight-details/9f4bc2063685211c"
+        },
+        {
+            "fight_id": "ffea776913451b6d",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:37",
+            "fight_url": "http://ufcstats.com/fight-details/ffea776913451b6d"
+        },
+        {
+            "fight_id": "fe49ef11584415d0",
+            "fighter_a": "Roan Carneiro",
+            "fighter_b": "Mark Munoz",
+            "winner": "Roan Carneiro",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "1:40",
+            "fight_url": "http://ufcstats.com/fight-details/fe49ef11584415d0"
+        },
+        {
+            "fight_id": "28255055879685bc",
+            "fighter_a": "Roman Salazar",
+            "fighter_b": "Norifumi Yamamoto",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "2:37",
+            "fight_url": "http://ufcstats.com/fight-details/28255055879685bc"
+        },
+        {
+            "fight_id": "203b3098d892c3b1",
+            "fighter_a": "Tim Means",
+            "fighter_b": "Dhiego Lima",
+            "winner": "Tim Means",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:17",
+            "fight_url": "http://ufcstats.com/fight-details/203b3098d892c3b1"
+        },
+        {
+            "fight_id": "f3e1c02ce14bccfe",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Ruan Potts",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/f3e1c02ce14bccfe"
+        },
+        {
+            "fight_id": "adc1038ed2e76391",
+            "fighter_a": "Valmir Lazaro",
+            "fighter_b": "James Krause",
+            "winner": "Valmir Lazaro",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/adc1038ed2e76391"
+        },
+        {
+            "fight_id": "5c827dd56a08f700",
+            "fighter_a": "Masio Fullen",
+            "fighter_b": "Alex Torres",
+            "winner": "Masio Fullen",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5c827dd56a08f700"
+        }
+    ]
+}

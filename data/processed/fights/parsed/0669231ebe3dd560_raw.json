@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0669231ebe3dd560",
+        "event_id": "335ad945324c3a2e",
+        "event_name": "UFC 270: Ngannou vs. Gane",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:59",
+        "referee": "Frank Trigg",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "43 of 81",
+            "Sig. str. %": "53%",
+            "Total str.": "43 of 81",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 81",
+            "Sig. str. %": "53%",
+            "Head": "38 of 75",
+            "Body": "5 of 6",
+            "Leg": "0 of 0",
+            "Distance": "40 of 78",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "776d4262c4da38bf",
+        "name": "Pete Rodriguez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 69",
+            "Sig. str. %": "36%",
+            "Total str.": "25 of 69",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 69",
+            "Sig. str. %": "36%",
+            "Head": "12 of 47",
+            "Body": "6 of 14",
+            "Leg": "7 of 8",
+            "Distance": "25 of 69",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

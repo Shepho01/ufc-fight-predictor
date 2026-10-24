@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "237187ed9f419285",
+        "event_name": "Strikeforce - Rockhold vs Kennedy",
+        "event_day": 14,
+        "event_month": 7,
+        "event_year": 2012,
+        "location": "Portland, Oregon, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fb7ddb21affc10c1",
+            "fighter_a": "Luke Rockhold",
+            "fighter_b": "Tim Kennedy",
+            "winner": "Luke Rockhold",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fb7ddb21affc10c1"
+        },
+        {
+            "fight_id": "99135ea239d85895",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "Tyron Woodley",
+            "winner": "Nate Marquardt",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": 4,
+            "time_seconds": 99,
+            "fight_url": "http://ufcstats.com/fight-details/99135ea239d85895"
+        },
+        {
+            "fight_id": "e2dca1df3a99c19a",
+            "fighter_a": "Roger Gracie",
+            "fighter_b": "Keith Jardine",
+            "winner": "Roger Gracie",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e2dca1df3a99c19a"
+        },
+        {
+            "fight_id": "b50e74c14b1594d5",
+            "fighter_a": "Lorenz Larkin",
+            "fighter_b": "Robbie Lawler",
+            "winner": "Lorenz Larkin",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b50e74c14b1594d5"
+        },
+        {
+            "fight_id": "29fcd261bdb5bd5f",
+            "fighter_a": "Pat Healy",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Pat Healy",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/29fcd261bdb5bd5f"
+        },
+        {
+            "fight_id": "05743f2c8a83133d",
+            "fighter_a": "Ryan Couture",
+            "fighter_b": "Joe Duarte",
+            "winner": "Ryan Couture",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/05743f2c8a83133d"
+        },
+        {
+            "fight_id": "9b955968a5db4296",
+            "fighter_a": "Jorge Masvidal",
+            "fighter_b": "Justin Wilcox",
+            "winner": "Jorge Masvidal",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9b955968a5db4296"
+        },
+        {
+            "fight_id": "c89ee3c5aaf7dac6",
+            "fighter_a": "Jordan Mein",
+            "fighter_b": "Tyler Stinson",
+            "winner": "Jordan Mein",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c89ee3c5aaf7dac6"
+        },
+        {
+            "fight_id": "bea3ffb3c52dae63",
+            "fighter_a": "Jason High",
+            "fighter_b": "Nate Moore",
+            "winner": "Jason High",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/bea3ffb3c52dae63"
+        }
+    ]
+}

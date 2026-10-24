@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "53e4e21f4c688801",
+        "event_name": "UFC Fight Night: Dariush vs. Tsarukyan",
+        "event_date": "December 02, 2023",
+        "location": "Austin, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "9feb9500b0fedfcd",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:04",
+            "fight_url": "http://ufcstats.com/fight-details/9feb9500b0fedfcd"
+        },
+        {
+            "fight_id": "03eecf1926d9c77c",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "King Green",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:49",
+            "fight_url": "http://ufcstats.com/fight-details/03eecf1926d9c77c"
+        },
+        {
+            "fight_id": "246d06693b5ca1e8",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Rob Font",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/246d06693b5ca1e8"
+        },
+        {
+            "fight_id": "39c4ae4624052f9f",
+            "fighter_a": "Sean Brady",
+            "fighter_b": "Kelvin Gastelum",
+            "winner": "Sean Brady",
+            "weight_class": "Welterweight",
+            "method": "SUB Kimura",
+            "round": "3",
+            "time": "1:43",
+            "fight_url": "http://ufcstats.com/fight-details/39c4ae4624052f9f"
+        },
+        {
+            "fight_id": "20bfa549cb2cabe7",
+            "fighter_a": "Joaquim Silva",
+            "fighter_b": "Clay Guida",
+            "winner": "Joaquim Silva",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/20bfa549cb2cabe7"
+        },
+        {
+            "fight_id": "02713b2d25f74d43",
+            "fighter_a": "Dustin Stoltzfus",
+            "fighter_b": "Punahele Soriano",
+            "winner": "Dustin Stoltzfus",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/02713b2d25f74d43"
+        },
+        {
+            "fight_id": "626c82ed45fdcf59",
+            "fighter_a": "Miesha Tate",
+            "fighter_b": "Julia Avila",
+            "winner": "Miesha Tate",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/626c82ed45fdcf59"
+        },
+        {
+            "fight_id": "0320a6a967069571",
+            "fighter_a": "Cody Brundage",
+            "fighter_b": "Zach Reese",
+            "winner": "Cody Brundage",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Slam",
+            "round": "1",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/0320a6a967069571"
+        },
+        {
+            "fight_id": "d0602cdc04d2c159",
+            "fighter_a": "Drakkar Klose",
+            "fighter_b": "Joe Solecki",
+            "winner": "Drakkar Klose",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Slam",
+            "round": "1",
+            "time": "1:41",
+            "fight_url": "http://ufcstats.com/fight-details/d0602cdc04d2c159"
+        },
+        {
+            "fight_id": "0dc2fc8d39e226a3",
+            "fighter_a": "Rodolfo Bellato",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Rodolfo Bellato",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:17",
+            "fight_url": "http://ufcstats.com/fight-details/0dc2fc8d39e226a3"
+        },
+        {
+            "fight_id": "32813f5f46f045e8",
+            "fighter_a": "Jared Gooden",
+            "fighter_b": "Wellington Turman",
+            "winner": "Jared Gooden",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:11",
+            "fight_url": "http://ufcstats.com/fight-details/32813f5f46f045e8"
+        },
+        {
+            "fight_id": "d0ac2cc5c57c4e66",
+            "fighter_a": "Veronica Hardy",
+            "fighter_b": "Jamey-Lyn Horth",
+            "winner": "Veronica Hardy",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d0ac2cc5c57c4e66"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "9c393e836a852f30",
+    "name": "Mauricio Ruffy",
+    "wins": 14,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 190.5,
+    "stance": "Orthodox",
+    "dob_day": 17,
+    "dob_month": 6,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 3.93,
+    "sig_striking_accuracy": 0.56,
+    "sig_strikes_absorbed_per_min": 3.66,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.87,
+    "submission_attempts_per_15_min": 0.0
+}

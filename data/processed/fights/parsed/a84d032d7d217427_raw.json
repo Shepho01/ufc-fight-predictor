@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a84d032d7d217427",
+        "event_id": "5b5307450405abf0",
+        "event_name": "UFC 174: Johnson vs Bagautinov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "2:01",
+        "referee": "John McCarthy",
+        "winner_id": "9a2d3567abc02e34"
+    },
+    "fighter_a": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 91",
+            "Sig. str. %": "31%",
+            "Total str.": "29 of 91",
+            "Td": "4 of 9",
+            "Td %": "44%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 91",
+            "Sig. str. %": "31%",
+            "Head": "22 of 79",
+            "Body": "5 of 10",
+            "Leg": "2 of 2",
+            "Distance": "26 of 86",
+            "Clinch": "2 of 2",
+            "Ground": "1 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9a2d3567abc02e34",
+        "name": "Tae Hyun Bang",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "34 of 107",
+            "Sig. str. %": "31%",
+            "Total str.": "40 of 113",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "2",
+            "Ctrl": "1:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 107",
+            "Sig. str. %": "31%",
+            "Head": "32 of 102",
+            "Body": "2 of 4",
+            "Leg": "0 of 1",
+            "Distance": "29 of 93",
+            "Clinch": "0 of 4",
+            "Ground": "5 of 10"
+        }
+    }
+}

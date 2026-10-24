@@ -1,0 +1,84 @@
+{
+    "fighter_id": "8a1f3b5c526cd6e6",
+    "name": "Daniel Rodriguez",
+    "record": "20-6-0",
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Dec 31, 1986",
+    "sig_strikes_landed_per_min": "7.19",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "5.44",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.51",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "68ae50dbf98dc15f",
+            "fight_url": "http://ufcstats.com/fight-details/68ae50dbf98dc15f"
+        },
+        {
+            "fight_id": "5dde61734080ac4a",
+            "fight_url": "http://ufcstats.com/fight-details/5dde61734080ac4a"
+        },
+        {
+            "fight_id": "191ee545160a4e09",
+            "fight_url": "http://ufcstats.com/fight-details/191ee545160a4e09"
+        },
+        {
+            "fight_id": "f690949d90ff1dee",
+            "fight_url": "http://ufcstats.com/fight-details/f690949d90ff1dee"
+        },
+        {
+            "fight_id": "8ddd53a7ed3754d5",
+            "fight_url": "http://ufcstats.com/fight-details/8ddd53a7ed3754d5"
+        },
+        {
+            "fight_id": "b0f4c7788782e26e",
+            "fight_url": "http://ufcstats.com/fight-details/b0f4c7788782e26e"
+        },
+        {
+            "fight_id": "b279559f15ecf29b",
+            "fight_url": "http://ufcstats.com/fight-details/b279559f15ecf29b"
+        },
+        {
+            "fight_id": "d3e23d7d207d3ccf",
+            "fight_url": "http://ufcstats.com/fight-details/d3e23d7d207d3ccf"
+        },
+        {
+            "fight_id": "089a17e450cc98aa",
+            "fight_url": "http://ufcstats.com/fight-details/089a17e450cc98aa"
+        },
+        {
+            "fight_id": "8151659b2bc16f0e",
+            "fight_url": "http://ufcstats.com/fight-details/8151659b2bc16f0e"
+        },
+        {
+            "fight_id": "ac9a8b73e58f3d71",
+            "fight_url": "http://ufcstats.com/fight-details/ac9a8b73e58f3d71"
+        },
+        {
+            "fight_id": "e22d5aab3d099c7c",
+            "fight_url": "http://ufcstats.com/fight-details/e22d5aab3d099c7c"
+        },
+        {
+            "fight_id": "cfa0dbc7534f3545",
+            "fight_url": "http://ufcstats.com/fight-details/cfa0dbc7534f3545"
+        },
+        {
+            "fight_id": "767819f321431bed",
+            "fight_url": "http://ufcstats.com/fight-details/767819f321431bed"
+        },
+        {
+            "fight_id": "2dc48a745d6c662b",
+            "fight_url": "http://ufcstats.com/fight-details/2dc48a745d6c662b"
+        },
+        {
+            "fight_id": "3931973e3fe0df07",
+            "fight_url": "http://ufcstats.com/fight-details/3931973e3fe0df07"
+        }
+    ]
+}

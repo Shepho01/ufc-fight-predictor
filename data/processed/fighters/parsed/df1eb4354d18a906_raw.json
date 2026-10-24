@@ -1,0 +1,72 @@
+{
+    "fighter_id": "df1eb4354d18a906",
+    "name": "Scott Holtzman",
+    "record": "14-6-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Sep 30, 1983",
+    "sig_strikes_landed_per_min": "4.32",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.66",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "1.88",
+    "takedown_accuracy": "56%",
+    "takedown_defense": "67%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "7bd6969c4ed979f9",
+            "fight_url": "http://ufcstats.com/fight-details/7bd6969c4ed979f9"
+        },
+        {
+            "fight_id": "998296216e7171ed",
+            "fight_url": "http://ufcstats.com/fight-details/998296216e7171ed"
+        },
+        {
+            "fight_id": "cfb189e326553f0a",
+            "fight_url": "http://ufcstats.com/fight-details/cfb189e326553f0a"
+        },
+        {
+            "fight_id": "f3e2038bfb9b5d9d",
+            "fight_url": "http://ufcstats.com/fight-details/f3e2038bfb9b5d9d"
+        },
+        {
+            "fight_id": "1d9f862a47540785",
+            "fight_url": "http://ufcstats.com/fight-details/1d9f862a47540785"
+        },
+        {
+            "fight_id": "f96f719ad667dd96",
+            "fight_url": "http://ufcstats.com/fight-details/f96f719ad667dd96"
+        },
+        {
+            "fight_id": "c835ccffa472970e",
+            "fight_url": "http://ufcstats.com/fight-details/c835ccffa472970e"
+        },
+        {
+            "fight_id": "6fe21a4cb2d839fd",
+            "fight_url": "http://ufcstats.com/fight-details/6fe21a4cb2d839fd"
+        },
+        {
+            "fight_id": "cf18911df2052826",
+            "fight_url": "http://ufcstats.com/fight-details/cf18911df2052826"
+        },
+        {
+            "fight_id": "7979888b1fb5eb39",
+            "fight_url": "http://ufcstats.com/fight-details/7979888b1fb5eb39"
+        },
+        {
+            "fight_id": "5b6451f3f83c719c",
+            "fight_url": "http://ufcstats.com/fight-details/5b6451f3f83c719c"
+        },
+        {
+            "fight_id": "99a7172fb7438244",
+            "fight_url": "http://ufcstats.com/fight-details/99a7172fb7438244"
+        },
+        {
+            "fight_id": "503a9ac5679c9cf7",
+            "fight_url": "http://ufcstats.com/fight-details/503a9ac5679c9cf7"
+        }
+    ]
+}

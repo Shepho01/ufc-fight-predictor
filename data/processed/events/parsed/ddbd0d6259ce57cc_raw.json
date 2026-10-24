@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "ddbd0d6259ce57cc",
+        "event_name": "UFC Fight Night: Figueiredo vs. Benavidez 2",
+        "event_date": "July 18, 2020",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "4dc5039b21013b3a",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:48",
+            "fight_url": "http://ufcstats.com/fight-details/4dc5039b21013b3a"
+        },
+        {
+            "fight_id": "fcfd2e6eed519cb9",
+            "fighter_a": "Jack Hermansson",
+            "fighter_b": "Kelvin Gastelum",
+            "winner": "Jack Hermansson",
+            "weight_class": "Middleweight",
+            "method": "SUB Heel Hook",
+            "round": "1",
+            "time": "1:18",
+            "fight_url": "http://ufcstats.com/fight-details/fcfd2e6eed519cb9"
+        },
+        {
+            "fight_id": "e5872dfa5b93fcbb",
+            "fighter_a": "Rafael Fiziev",
+            "fighter_b": "Marc Diakiese",
+            "winner": "Rafael Fiziev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e5872dfa5b93fcbb"
+        },
+        {
+            "fight_id": "c4c379b8f99fea88",
+            "fighter_a": "Ariane da Silva",
+            "fighter_b": "Luana Carolina",
+            "winner": "Ariane da Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Kneebar",
+            "round": "1",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/c4c379b8f99fea88"
+        },
+        {
+            "fight_id": "ba4485ce4e8e3fe1",
+            "fighter_a": "Askar Askarov",
+            "fighter_b": "Alexandre Pantoja",
+            "winner": "Askar Askarov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ba4485ce4e8e3fe1"
+        },
+        {
+            "fight_id": "e5a9f75b1117d848",
+            "fighter_a": "Roman Dolidze",
+            "fighter_b": "Khadis Ibragimov",
+            "winner": "Roman Dolidze",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/e5a9f75b1117d848"
+        },
+        {
+            "fight_id": "bb881d4ee6dfbf86",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Nad Narimani",
+            "winner": "Grant Dawson",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bb881d4ee6dfbf86"
+        },
+        {
+            "fight_id": "b76c0b0ed2926737",
+            "fighter_a": "Joel Alvarez",
+            "fighter_b": "Joe Duffy",
+            "winner": "Joel Alvarez",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:25",
+            "fight_url": "http://ufcstats.com/fight-details/b76c0b0ed2926737"
+        },
+        {
+            "fight_id": "b5f70d0c88f12645",
+            "fighter_a": "Brett Johns",
+            "fighter_b": "Montel Jackson",
+            "winner": "Brett Johns",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b5f70d0c88f12645"
+        },
+        {
+            "fight_id": "b9b0da84b243213f",
+            "fighter_a": "Amir Albazi",
+            "fighter_b": "Malcolm Gordon",
+            "winner": "Amir Albazi",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/b9b0da84b243213f"
+        },
+        {
+            "fight_id": "ecb24300bb3bef8c",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Davi Ramos",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ecb24300bb3bef8c"
+        },
+        {
+            "fight_id": "147e31abbe3927d0",
+            "fighter_a": "Serghei Spivac",
+            "fighter_b": "Carlos Felipe",
+            "winner": "Serghei Spivac",
+            "weight_class": "Heavyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/147e31abbe3927d0"
+        }
+    ]
+}

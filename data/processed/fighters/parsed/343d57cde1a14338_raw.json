@@ -1,0 +1,40 @@
+{
+    "fighter_id": "343d57cde1a14338",
+    "name": "Matt Ricehouse",
+    "record": "6-1-0",
+    "height": "--",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "",
+    "dob": "Mar 11, 1987",
+    "sig_strikes_landed_per_min": "3.70",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "4.80",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "1.00",
+    "takedown_accuracy": "22%",
+    "takedown_defense": "81%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "67f8ce4438cc1dd6",
+            "fight_url": "http://ufcstats.com/fight-details/67f8ce4438cc1dd6"
+        },
+        {
+            "fight_id": "d0f2fb4dfac623a6",
+            "fight_url": "http://ufcstats.com/fight-details/d0f2fb4dfac623a6"
+        },
+        {
+            "fight_id": "b806901f74e0bba8",
+            "fight_url": "http://ufcstats.com/fight-details/b806901f74e0bba8"
+        },
+        {
+            "fight_id": "9be14b958737f074",
+            "fight_url": "http://ufcstats.com/fight-details/9be14b958737f074"
+        },
+        {
+            "fight_id": "e821a0960a9dac35",
+            "fight_url": "http://ufcstats.com/fight-details/e821a0960a9dac35"
+        }
+    ]
+}

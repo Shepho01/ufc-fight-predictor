@@ -1,0 +1,23 @@
+{
+    "fighter_id": "abd5fb12437eda21",
+    "name": "Ramazan Emeev",
+    "wins": 20,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 170,
+    "reach_cm": 193.04,
+    "stance": "Southpaw",
+    "dob_day": 23,
+    "dob_month": 5,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 2.53,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 2.14,
+    "sig_strike_defense": 0.65,
+    "takedowns_landed_per_15_min": 2.37,
+    "takedown_accuracy": 0.29,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.7
+}

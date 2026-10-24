@@ -1,0 +1,64 @@
+{
+    "fighter_id": "a7151778b3381036",
+    "name": "Kurt Holobaugh",
+    "record": "22-10-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 08, 1986",
+    "sig_strikes_landed_per_min": "4.58",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "4.24",
+    "sig_strike_defense": "49%",
+    "takedowns_landed_per_15_min": "0.65",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "38%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "2521fed000747f47",
+            "fight_url": "http://ufcstats.com/fight-details/2521fed000747f47"
+        },
+        {
+            "fight_id": "d8f40b82364b6411",
+            "fight_url": "http://ufcstats.com/fight-details/d8f40b82364b6411"
+        },
+        {
+            "fight_id": "9eaa33f874bbb999",
+            "fight_url": "http://ufcstats.com/fight-details/9eaa33f874bbb999"
+        },
+        {
+            "fight_id": "de7cb625bdec0f91",
+            "fight_url": "http://ufcstats.com/fight-details/de7cb625bdec0f91"
+        },
+        {
+            "fight_id": "62d53ad8f8769666",
+            "fight_url": "http://ufcstats.com/fight-details/62d53ad8f8769666"
+        },
+        {
+            "fight_id": "017c090e9e8d2957",
+            "fight_url": "http://ufcstats.com/fight-details/017c090e9e8d2957"
+        },
+        {
+            "fight_id": "3729ff914eaede07",
+            "fight_url": "http://ufcstats.com/fight-details/3729ff914eaede07"
+        },
+        {
+            "fight_id": "66ba984cc547e31a",
+            "fight_url": "http://ufcstats.com/fight-details/66ba984cc547e31a"
+        },
+        {
+            "fight_id": "a75304045e10e061",
+            "fight_url": "http://ufcstats.com/fight-details/a75304045e10e061"
+        },
+        {
+            "fight_id": "6d6a1834e0d18f0c",
+            "fight_url": "http://ufcstats.com/fight-details/6d6a1834e0d18f0c"
+        },
+        {
+            "fight_id": "02fb1b19e5987e38",
+            "fight_url": "http://ufcstats.com/fight-details/02fb1b19e5987e38"
+        }
+    ]
+}

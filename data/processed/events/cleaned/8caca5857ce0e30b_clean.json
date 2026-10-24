@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "8caca5857ce0e30b",
+        "event_name": "UFC on FUEL TV: Korean Zombie vs Poirier",
+        "event_day": 15,
+        "event_month": 5,
+        "event_year": 2012,
+        "location": "Fairfax, Virginia, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a8ec9c513d28c25c",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "SUB D'Arce Choke",
+            "round": 4,
+            "time_seconds": 67,
+            "fight_url": "http://ufcstats.com/fight-details/a8ec9c513d28c25c"
+        },
+        {
+            "fight_id": "0b4ac9bcf5dbb382",
+            "fighter_a": "Amir Sadollah",
+            "fighter_b": "Jorge Lopez",
+            "winner": "Amir Sadollah",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0b4ac9bcf5dbb382"
+        },
+        {
+            "fight_id": "49818fb1520ce956",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/49818fb1520ce956"
+        },
+        {
+            "fight_id": "e0e41464c1bc7ee1",
+            "fighter_a": "Yves Jabouin",
+            "fighter_b": "Jeff Hougland",
+            "winner": "Yves Jabouin",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e0e41464c1bc7ee1"
+        },
+        {
+            "fight_id": "303db84673492cd6",
+            "fighter_a": "Igor Pokrajac",
+            "fighter_b": "Fabio Maldonado",
+            "winner": "Igor Pokrajac",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/303db84673492cd6"
+        },
+        {
+            "fight_id": "57bbe424b0d6837c",
+            "fighter_a": "Tom Lawlor",
+            "fighter_b": "Jason MacDonald",
+            "winner": "Tom Lawlor",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 50,
+            "fight_url": "http://ufcstats.com/fight-details/57bbe424b0d6837c"
+        },
+        {
+            "fight_id": "3b1461ff02a3f98e",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Dongi Yang",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3b1461ff02a3f98e"
+        },
+        {
+            "fight_id": "df5ab14481442365",
+            "fighter_a": "Cody McKenzie",
+            "fighter_b": "Marcus LeVesseur",
+            "winner": "Cody McKenzie",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 185,
+            "fight_url": "http://ufcstats.com/fight-details/df5ab14481442365"
+        },
+        {
+            "fight_id": "4655930eb83446c7",
+            "fighter_a": "TJ Grant",
+            "fighter_b": "Carlo Prater",
+            "winner": "TJ Grant",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4655930eb83446c7"
+        },
+        {
+            "fight_id": "ade59be2e9bc1108",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Kamal Shalorus",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/ade59be2e9bc1108"
+        },
+        {
+            "fight_id": "fc95c49b69a8d476",
+            "fighter_a": "Johnny Eduardo",
+            "fighter_b": "Jeff Curran",
+            "winner": "Johnny Eduardo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fc95c49b69a8d476"
+        },
+        {
+            "fight_id": "b4407dd3627c1675",
+            "fighter_a": "Francisco Rivera",
+            "fighter_b": "Alex Soto",
+            "winner": "Francisco Rivera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b4407dd3627c1675"
+        }
+    ]
+}

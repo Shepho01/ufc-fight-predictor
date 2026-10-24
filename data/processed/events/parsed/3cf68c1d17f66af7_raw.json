@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "3cf68c1d17f66af7",
+        "event_name": "UFC 243: Whittaker vs. Adesanya",
+        "event_date": "October 05, 2019",
+        "location": "Melbourne, Victoria, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "2556b7520536ce1d",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Robert Whittaker",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "3:33",
+            "fight_url": "http://ufcstats.com/fight-details/2556b7520536ce1d"
+        },
+        {
+            "fight_id": "0697d5520b74a8df",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Al Iaquinta",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0697d5520b74a8df"
+        },
+        {
+            "fight_id": "8cd7ca0e7b861b3d",
+            "fighter_a": "Serghei Spivac",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Serghei Spivac",
+            "weight_class": "Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/8cd7ca0e7b861b3d"
+        },
+        {
+            "fight_id": "fd0fd9a2d6ef8c4f",
+            "fighter_a": "Dhiego Lima",
+            "fighter_b": "Luke Jumeau",
+            "winner": "Dhiego Lima",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fd0fd9a2d6ef8c4f"
+        },
+        {
+            "fight_id": "9dfac33cd3ae4afd",
+            "fighter_a": "Yorgan De Castro",
+            "fighter_b": "Justin Tafa",
+            "winner": "Yorgan De Castro",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:10",
+            "fight_url": "http://ufcstats.com/fight-details/9dfac33cd3ae4afd"
+        },
+        {
+            "fight_id": "1cb7138b107b93b5",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Rostem Akman",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1cb7138b107b93b5"
+        },
+        {
+            "fight_id": "578987d534a0d205",
+            "fighter_a": "Callan Potter",
+            "fighter_b": "Maki Pitolo",
+            "winner": "Callan Potter",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/578987d534a0d205"
+        },
+        {
+            "fight_id": "83d59f5e52e0ac46",
+            "fighter_a": "Brad Riddell",
+            "fighter_b": "Jamie Mullarkey",
+            "winner": "Brad Riddell",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/83d59f5e52e0ac46"
+        },
+        {
+            "fight_id": "b8c21a311f3f7953",
+            "fighter_a": "Megan Anderson",
+            "fighter_b": "Zarah Fairn",
+            "winner": "Megan Anderson",
+            "weight_class": "Women's Featherweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "3:57",
+            "fight_url": "http://ufcstats.com/fight-details/b8c21a311f3f7953"
+        },
+        {
+            "fight_id": "668d077ac9d7d3c9",
+            "fighter_a": "Ji Yeon Kim",
+            "fighter_b": "Nadia Kassem",
+            "winner": "Ji Yeon Kim",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/668d077ac9d7d3c9"
+        },
+        {
+            "fight_id": "57ff0eb2351979c4",
+            "fighter_a": "Khalid Taha",
+            "fighter_b": "Bruno Silva",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "Overturned Arm Triangle",
+            "round": "3",
+            "time": "3:00",
+            "fight_url": "http://ufcstats.com/fight-details/57ff0eb2351979c4"
+        }
+    ]
+}

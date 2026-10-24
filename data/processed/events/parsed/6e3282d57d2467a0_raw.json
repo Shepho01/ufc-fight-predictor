@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "6e3282d57d2467a0",
+        "event_name": "UFC 206: Holloway vs. Pettis",
+        "event_date": "December 10, 2016",
+        "location": "Toronto, Ontario, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "977a758d869f9e7a",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:50",
+            "fight_url": "http://ufcstats.com/fight-details/977a758d869f9e7a"
+        },
+        {
+            "fight_id": "96404a3b32791c8d",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Matt Brown",
+            "winner": "Donald Cerrone",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "0:34",
+            "fight_url": "http://ufcstats.com/fight-details/96404a3b32791c8d"
+        },
+        {
+            "fight_id": "5f0aa841c21f7d30",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Dooho Choi",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5f0aa841c21f7d30"
+        },
+        {
+            "fight_id": "07b98dbf5d2c62a2",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Tim Kennedy",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:45",
+            "fight_url": "http://ufcstats.com/fight-details/07b98dbf5d2c62a2"
+        },
+        {
+            "fight_id": "761a215d51a0442e",
+            "fighter_a": "Emil Meek",
+            "fighter_b": "Jordan Mein",
+            "winner": "Emil Meek",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/761a215d51a0442e"
+        },
+        {
+            "fight_id": "0af90a49f0ca1879",
+            "fighter_a": "Misha Cirkunov",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Misha Cirkunov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:38",
+            "fight_url": "http://ufcstats.com/fight-details/0af90a49f0ca1879"
+        },
+        {
+            "fight_id": "04f27a78e4ffce47",
+            "fighter_a": "Olivier Aubin-Mercier",
+            "fighter_b": "Drew Dober",
+            "winner": "Olivier Aubin-Mercier",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:57",
+            "fight_url": "http://ufcstats.com/fight-details/04f27a78e4ffce47"
+        },
+        {
+            "fight_id": "ca9804845b010845",
+            "fighter_a": "Viviane Pereira",
+            "fighter_b": "Valerie Letourneau",
+            "winner": "Viviane Pereira",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ca9804845b010845"
+        },
+        {
+            "fight_id": "b121f30d7fc9ea6c",
+            "fighter_a": "Matthew Lopez",
+            "fighter_b": "Mitch Gagnon",
+            "winner": "Matthew Lopez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b121f30d7fc9ea6c"
+        },
+        {
+            "fight_id": "071d488ec8ccf254",
+            "fighter_a": "Lando Vannata",
+            "fighter_b": "John Makdessi",
+            "winner": "Lando Vannata",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:40",
+            "fight_url": "http://ufcstats.com/fight-details/071d488ec8ccf254"
+        },
+        {
+            "fight_id": "8b983e834df0c6c4",
+            "fighter_a": "Rustam Khabilov",
+            "fighter_b": "Jason Saggo",
+            "winner": "Rustam Khabilov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8b983e834df0c6c4"
+        },
+        {
+            "fight_id": "d573e571d8349b5d",
+            "fighter_a": "Dustin Ortiz",
+            "fighter_b": "Zach Makovsky",
+            "winner": "Dustin Ortiz",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d573e571d8349b5d"
+        }
+    ]
+}

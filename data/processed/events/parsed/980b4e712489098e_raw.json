@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "980b4e712489098e",
+        "event_name": "UFC 164: Henderson vs Pettis 2",
+        "event_date": "August 31, 2013",
+        "location": "Milwaukee, Wisconsin, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fa084335b5f87627",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Benson Henderson",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:41",
+            "fight_url": "http://ufcstats.com/fight-details/fa084335b5f87627"
+        },
+        {
+            "fight_id": "aac887ea8a83d7a4",
+            "fighter_a": "Josh Barnett",
+            "fighter_b": "Frank Mir",
+            "winner": "Josh Barnett",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "1:56",
+            "fight_url": "http://ufcstats.com/fight-details/aac887ea8a83d7a4"
+        },
+        {
+            "fight_id": "fef6b147d5fb90bd",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Clay Guida",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:30",
+            "fight_url": "http://ufcstats.com/fight-details/fef6b147d5fb90bd"
+        },
+        {
+            "fight_id": "4dc03e76536b85e5",
+            "fighter_a": "Ben Rothwell",
+            "fighter_b": "Brandon Vera",
+            "winner": "Ben Rothwell",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/4dc03e76536b85e5"
+        },
+        {
+            "fight_id": "af51920a3e176995",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Erik Koch",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/af51920a3e176995"
+        },
+        {
+            "fight_id": "7b13fdc889028e66",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Jamie Varner",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7b13fdc889028e66"
+        },
+        {
+            "fight_id": "336670b46f343d65",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Louis Gaudinot",
+            "winner": "Tim Elliott",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/336670b46f343d65"
+        },
+        {
+            "fight_id": "66a99e85803efd92",
+            "fighter_a": "Hyun Gyu Lim",
+            "fighter_b": "Pascal Krauss",
+            "winner": "Hyun Gyu Lim",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "3:58",
+            "fight_url": "http://ufcstats.com/fight-details/66a99e85803efd92"
+        },
+        {
+            "fight_id": "6ce1b33bccdfa676",
+            "fighter_a": "Chico Camus",
+            "fighter_b": "Kyung Ho Kang",
+            "winner": "Chico Camus",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6ce1b33bccdfa676"
+        },
+        {
+            "fight_id": "b4555cd5b5d2a53f",
+            "fighter_a": "Soa Palelei",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Soa Palelei",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/b4555cd5b5d2a53f"
+        },
+        {
+            "fight_id": "9cd973a0a6c1cd5c",
+            "fighter_a": "Al Iaquinta",
+            "fighter_b": "Ryan Couture",
+            "winner": "Al Iaquinta",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9cd973a0a6c1cd5c"
+        },
+        {
+            "fight_id": "98903717ea3dfc24",
+            "fighter_a": "Magnus Cedenblad",
+            "fighter_b": "Jared Hamman",
+            "winner": "Magnus Cedenblad",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:57",
+            "fight_url": "http://ufcstats.com/fight-details/98903717ea3dfc24"
+        }
+    ]
+}

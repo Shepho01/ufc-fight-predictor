@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "f3a078277b3b8ff4",
+        "event_name": "UFC Fight Night: Yusuff vs. Barboza",
+        "event_day": 14,
+        "event_month": 10,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "824859c7580eb35b",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Sodiq Yusuff",
+            "winner": "Edson Barboza",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/824859c7580eb35b"
+        },
+        {
+            "fight_id": "751cf3d52fce1d1f",
+            "fighter_a": "Viviane Araujo",
+            "fighter_b": "Jennifer Maia",
+            "winner": "Viviane Araujo",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/751cf3d52fce1d1f"
+        },
+        {
+            "fight_id": "0d6d212fcdf47f2e",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Adrian Yanez",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kicks",
+            "round": 2,
+            "time_seconds": 146,
+            "fight_url": "http://ufcstats.com/fight-details/0d6d212fcdf47f2e"
+        },
+        {
+            "fight_id": "6acd1c591170f597",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Andre Petroski",
+            "winner": "Michel Pereira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 66,
+            "fight_url": "http://ufcstats.com/fight-details/6acd1c591170f597"
+        },
+        {
+            "fight_id": "0197a61472fc351d",
+            "fighter_a": "Christian Rodriguez",
+            "fighter_b": "Cameron Saaiman",
+            "winner": "Christian Rodriguez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0197a61472fc351d"
+        },
+        {
+            "fight_id": "3a8af8ee23444b72",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "TJ Brown",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 143,
+            "fight_url": "http://ufcstats.com/fight-details/3a8af8ee23444b72"
+        },
+        {
+            "fight_id": "5b7b5b01f4dcbd9c",
+            "fighter_a": "Tainara Lisboa",
+            "fighter_b": "Ravena Oliveira",
+            "winner": "Tainara Lisboa",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5b7b5b01f4dcbd9c"
+        },
+        {
+            "fight_id": "7f7d2abc21f171ca",
+            "fighter_a": "Terrance McKinney",
+            "fighter_b": "Brendon Marotte",
+            "winner": "Terrance McKinney",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 20,
+            "fight_url": "http://ufcstats.com/fight-details/7f7d2abc21f171ca"
+        },
+        {
+            "fight_id": "1ba282da76ca82ad",
+            "fighter_a": "Melissa Mullins",
+            "fighter_b": "Irina Alekseeva",
+            "winner": "Melissa Mullins",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1ba282da76ca82ad"
+        },
+        {
+            "fight_id": "a74a8c1e0a49070d",
+            "fighter_a": "Chris Gutierrez",
+            "fighter_b": "Alatengheili",
+            "winner": "Chris Gutierrez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a74a8c1e0a49070d"
+        },
+        {
+            "fight_id": "85a130a4b655c8f5",
+            "fighter_a": "Emily Ducote",
+            "fighter_b": "Ashley Yoder",
+            "winner": "Emily Ducote",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/85a130a4b655c8f5"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "fighter_id": "cfc3e7bb44685289",
+    "name": "Trey Ogden",
+    "record": "18-7-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 14, 1989",
+    "sig_strikes_landed_per_min": "3.20",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "3.49",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "1.89",
+    "takedown_accuracy": "32%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "54fa6e32330a8cca",
+            "fight_url": "http://ufcstats.com/fight-details/54fa6e32330a8cca"
+        },
+        {
+            "fight_id": "b3f1253d0a991791",
+            "fight_url": "http://ufcstats.com/fight-details/b3f1253d0a991791"
+        },
+        {
+            "fight_id": "de7cb625bdec0f91",
+            "fight_url": "http://ufcstats.com/fight-details/de7cb625bdec0f91"
+        },
+        {
+            "fight_id": "6e5a3d6b6ed84ac3",
+            "fight_url": "http://ufcstats.com/fight-details/6e5a3d6b6ed84ac3"
+        },
+        {
+            "fight_id": "d7022b6058dbb26b",
+            "fight_url": "http://ufcstats.com/fight-details/d7022b6058dbb26b"
+        },
+        {
+            "fight_id": "35d06627d91b840d",
+            "fight_url": "http://ufcstats.com/fight-details/35d06627d91b840d"
+        },
+        {
+            "fight_id": "eac46cfead228e11",
+            "fight_url": "http://ufcstats.com/fight-details/eac46cfead228e11"
+        }
+    ]
+}

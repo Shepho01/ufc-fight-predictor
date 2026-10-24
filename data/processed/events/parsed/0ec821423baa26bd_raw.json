@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "0ec821423baa26bd",
+        "event_name": "UFC 139: Shogun vs Henderson",
+        "event_date": "November 19, 2011",
+        "location": "San Jose, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "206db35805bb83dc",
+            "fighter_a": "Dan Henderson",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Dan Henderson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/206db35805bb83dc"
+        },
+        {
+            "fight_id": "30c574f33700010a",
+            "fighter_a": "Wanderlei Silva",
+            "fighter_b": "Cung Le",
+            "winner": "Wanderlei Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/30c574f33700010a"
+        },
+        {
+            "fight_id": "73fd4982ef7aae44",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Brian Bowles",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:27",
+            "fight_url": "http://ufcstats.com/fight-details/73fd4982ef7aae44"
+        },
+        {
+            "fight_id": "89820fae001dd151",
+            "fighter_a": "Martin Kampmann",
+            "fighter_b": "Rick Story",
+            "winner": "Martin Kampmann",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/89820fae001dd151"
+        },
+        {
+            "fight_id": "50ffbc85d3c50604",
+            "fighter_a": "Stephan Bonnar",
+            "fighter_b": "Kyle Kingsbury",
+            "winner": "Stephan Bonnar",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/50ffbc85d3c50604"
+        },
+        {
+            "fight_id": "2f5ced39b8208e46",
+            "fighter_a": "Ryan Bader",
+            "fighter_b": "Jason Brilz",
+            "winner": "Ryan Bader",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:17",
+            "fight_url": "http://ufcstats.com/fight-details/2f5ced39b8208e46"
+        },
+        {
+            "fight_id": "52f77a9f9eb66ab7",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Alex Soto",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:56",
+            "fight_url": "http://ufcstats.com/fight-details/52f77a9f9eb66ab7"
+        },
+        {
+            "fight_id": "f754d17d5047d536",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Tom Lawlor",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "SUB D'Arce Choke",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/f754d17d5047d536"
+        },
+        {
+            "fight_id": "a117805ab030b194",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a117805ab030b194"
+        },
+        {
+            "fight_id": "10f54096561f587d",
+            "fighter_a": "Miguel Torres",
+            "fighter_b": "Nick Pace",
+            "winner": "Miguel Torres",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/10f54096561f587d"
+        },
+        {
+            "fight_id": "421842986f10851e",
+            "fighter_a": "Seth Baczynski",
+            "fighter_b": "Matt Brown",
+            "winner": "Seth Baczynski",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/421842986f10851e"
+        },
+        {
+            "fight_id": "39e7bb2a0842b8a1",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Shamar Bailey",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:52",
+            "fight_url": "http://ufcstats.com/fight-details/39e7bb2a0842b8a1"
+        }
+    ]
+}

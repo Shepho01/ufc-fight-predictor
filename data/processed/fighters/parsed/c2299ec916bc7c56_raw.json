@@ -1,0 +1,72 @@
+{
+    "fighter_id": "c2299ec916bc7c56",
+    "name": "Benoit Saint Denis",
+    "record": "17-4-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Dec 18, 1995",
+    "sig_strikes_landed_per_min": "5.58",
+    "sig_striking_accuracy": "58%",
+    "sig_strikes_absorbed_per_min": "4.09",
+    "sig_strike_defense": "41%",
+    "takedowns_landed_per_15_min": "4.15",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "72%",
+    "submission_attempts_per_15_min": "1.7",
+    "fight_history": [
+        {
+            "fight_id": "130b325610c54a64",
+            "fight_url": "http://ufcstats.com/fight-details/130b325610c54a64"
+        },
+        {
+            "fight_id": "a7ae8f6eb5fc3a79",
+            "fight_url": "http://ufcstats.com/fight-details/a7ae8f6eb5fc3a79"
+        },
+        {
+            "fight_id": "9b5f190cd3f5ce16",
+            "fight_url": "http://ufcstats.com/fight-details/9b5f190cd3f5ce16"
+        },
+        {
+            "fight_id": "d14fea43712707f0",
+            "fight_url": "http://ufcstats.com/fight-details/d14fea43712707f0"
+        },
+        {
+            "fight_id": "c7190cd03e53fb61",
+            "fight_url": "http://ufcstats.com/fight-details/c7190cd03e53fb61"
+        },
+        {
+            "fight_id": "7ca4c91bab696b89",
+            "fight_url": "http://ufcstats.com/fight-details/7ca4c91bab696b89"
+        },
+        {
+            "fight_id": "6e73ebbd089aff5e",
+            "fight_url": "http://ufcstats.com/fight-details/6e73ebbd089aff5e"
+        },
+        {
+            "fight_id": "9fe98de1eac21f2e",
+            "fight_url": "http://ufcstats.com/fight-details/9fe98de1eac21f2e"
+        },
+        {
+            "fight_id": "dfa8fd0b82b37fa1",
+            "fight_url": "http://ufcstats.com/fight-details/dfa8fd0b82b37fa1"
+        },
+        {
+            "fight_id": "cd137988da724076",
+            "fight_url": "http://ufcstats.com/fight-details/cd137988da724076"
+        },
+        {
+            "fight_id": "3e2f00991f511607",
+            "fight_url": "http://ufcstats.com/fight-details/3e2f00991f511607"
+        },
+        {
+            "fight_id": "ed32da52aff68944",
+            "fight_url": "http://ufcstats.com/fight-details/ed32da52aff68944"
+        },
+        {
+            "fight_id": "efc6af0151f72b87",
+            "fight_url": "http://ufcstats.com/fight-details/efc6af0151f72b87"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "079488710f012779",
+        "event_name": "UFC Fight Night: Moicano vs. Saint Denis",
+        "event_date": "September 28, 2024",
+        "location": "Paris, Ile-de-France, France"
+    },
+    "fights": [
+        {
+            "fight_id": "7ca4c91bab696b89",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Benoit Saint Denis",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ca4c91bab696b89"
+        },
+        {
+            "fight_id": "62ff1e5deb124ff5",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Brendan Allen",
+            "winner": "Nassourdine Imavov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/62ff1e5deb124ff5"
+        },
+        {
+            "fight_id": "19706d8ba0edf9cd",
+            "fighter_a": "William Gomis",
+            "fighter_b": "Joanderson Brito",
+            "winner": "William Gomis",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/19706d8ba0edf9cd"
+        },
+        {
+            "fight_id": "45f00a42a17f8e2a",
+            "fighter_a": "Bryan Battle",
+            "fighter_b": "Kevin Jousset",
+            "winner": "Bryan Battle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/45f00a42a17f8e2a"
+        },
+        {
+            "fight_id": "f114929ed709606e",
+            "fighter_a": "Morgan Charriere",
+            "fighter_b": "Gabriel Miranda",
+            "winner": "Morgan Charriere",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:27",
+            "fight_url": "http://ufcstats.com/fight-details/f114929ed709606e"
+        },
+        {
+            "fight_id": "d806aacf5b6ba7f6",
+            "fighter_a": "Fares Ziam",
+            "fighter_b": "Matt Frevola",
+            "winner": "Fares Ziam",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "2:59",
+            "fight_url": "http://ufcstats.com/fight-details/d806aacf5b6ba7f6"
+        },
+        {
+            "fight_id": "89b772f864acb637",
+            "fighter_a": "Ion Cutelaba",
+            "fighter_b": "Ivan Erslan",
+            "winner": "Ion Cutelaba",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/89b772f864acb637"
+        },
+        {
+            "fight_id": "3599e9de4ae0e171",
+            "fighter_a": "Oumar Sy",
+            "fighter_b": "Da Woon Jung",
+            "winner": "Oumar Sy",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3599e9de4ae0e171"
+        },
+        {
+            "fight_id": "e01019fbfe0e9528",
+            "fighter_a": "Ludovit Klein",
+            "fighter_b": "Roosevelt Roberts",
+            "winner": "Ludovit Klein",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e01019fbfe0e9528"
+        },
+        {
+            "fight_id": "d063d46208c560b1",
+            "fighter_a": "Taylor Lapilus",
+            "fighter_b": "Vince Morales",
+            "winner": "Taylor Lapilus",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d063d46208c560b1"
+        },
+        {
+            "fight_id": "7ba432e218edc17d",
+            "fighter_a": "Ailin Perez",
+            "fighter_b": "Daria Zhelezniakova",
+            "winner": "Ailin Perez",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/7ba432e218edc17d"
+        },
+        {
+            "fight_id": "47d978a984a163aa",
+            "fighter_a": "Daniel Barez",
+            "fighter_b": "Victor Altamirano",
+            "winner": "Daniel Barez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47d978a984a163aa"
+        },
+        {
+            "fight_id": "a187670c5ee1ec5f",
+            "fighter_a": "Jacqueline Cavalcanti",
+            "fighter_b": "Nora Cornolle",
+            "winner": "Jacqueline Cavalcanti",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a187670c5ee1ec5f"
+        },
+        {
+            "fight_id": "eedc7fccf7037949",
+            "fighter_a": "Chris Duncan",
+            "fighter_b": "Bolaji Oki",
+            "winner": "Chris Duncan",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "3:34",
+            "fight_url": "http://ufcstats.com/fight-details/eedc7fccf7037949"
+        }
+    ]
+}

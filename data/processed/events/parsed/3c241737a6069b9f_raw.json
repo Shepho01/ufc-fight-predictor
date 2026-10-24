@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "3c241737a6069b9f",
+        "event_name": "UFC 160: Velasquez vs Silva 2",
+        "event_date": "May 25, 2013",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d51757fe7dd89f2d",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Antonio Silva",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:21",
+            "fight_url": "http://ufcstats.com/fight-details/d51757fe7dd89f2d"
+        },
+        {
+            "fight_id": "19d6c7f5263c9398",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Mark Hunt",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "4:18",
+            "fight_url": "http://ufcstats.com/fight-details/19d6c7f5263c9398"
+        },
+        {
+            "fight_id": "5f87dc7d18517d87",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "James Te Huna",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/5f87dc7d18517d87"
+        },
+        {
+            "fight_id": "9dd931fd20d6c886",
+            "fighter_a": "TJ Grant",
+            "fighter_b": "Gray Maynard",
+            "winner": "TJ Grant",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/9dd931fd20d6c886"
+        },
+        {
+            "fight_id": "3f19bab8de698eb0",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "KJ Noons",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f19bab8de698eb0"
+        },
+        {
+            "fight_id": "d236fe0f180312e3",
+            "fighter_a": "Mike Pyle",
+            "fighter_b": "Rick Story",
+            "winner": "Mike Pyle",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d236fe0f180312e3"
+        },
+        {
+            "fight_id": "149a0b38fa02e647",
+            "fighter_a": "Dennis Bermudez",
+            "fighter_b": "Max Holloway",
+            "winner": "Dennis Bermudez",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/149a0b38fa02e647"
+        },
+        {
+            "fight_id": "3333fdbe86a763fb",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Colton Smith",
+            "winner": "Robert Whittaker",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:41",
+            "fight_url": "http://ufcstats.com/fight-details/3333fdbe86a763fb"
+        },
+        {
+            "fight_id": "e1d33aa47b35d021",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Abel Trujillo",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e1d33aa47b35d021"
+        },
+        {
+            "fight_id": "a6ba04a54eb7e8fa",
+            "fighter_a": "Stephen Thompson",
+            "fighter_b": "Nah-Shon Burrell",
+            "winner": "Stephen Thompson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a6ba04a54eb7e8fa"
+        },
+        {
+            "fight_id": "1260d0031a5e469d",
+            "fighter_a": "George Roop",
+            "fighter_b": "Brian Bowles",
+            "winner": "George Roop",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:43",
+            "fight_url": "http://ufcstats.com/fight-details/1260d0031a5e469d"
+        },
+        {
+            "fight_id": "172dfd6cab9b627b",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Estevan Payan",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/172dfd6cab9b627b"
+        }
+    ]
+}

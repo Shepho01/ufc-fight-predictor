@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "d86e913c548c07c2",
+        "event_name": "UFC 215: Nunes vs Shevchenko 2",
+        "event_day": 9,
+        "event_month": 9,
+        "event_year": 2017,
+        "location": "Edmonton, Alberta, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "cb16346d93746ebc",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Valentina Shevchenko",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cb16346d93746ebc"
+        },
+        {
+            "fight_id": "b6082b551288aa5a",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Neil Magny",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 223,
+            "fight_url": "http://ufcstats.com/fight-details/b6082b551288aa5a"
+        },
+        {
+            "fight_id": "fdde8777c7ae9769",
+            "fighter_a": "Henry Cejudo",
+            "fighter_b": "Wilson Reis",
+            "winner": "Henry Cejudo",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/fdde8777c7ae9769"
+        },
+        {
+            "fight_id": "6afaf0ca45431a11",
+            "fighter_a": "Ilir Latifi",
+            "fighter_b": "Tyson Pedro",
+            "winner": "Ilir Latifi",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6afaf0ca45431a11"
+        },
+        {
+            "fight_id": "94c7e64ce88c9b9e",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Gilbert Melendez",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/94c7e64ce88c9b9e"
+        },
+        {
+            "fight_id": "92eb0a297c7ea197",
+            "fighter_a": "Ketlen Vieira",
+            "fighter_b": "Sara McMann",
+            "winner": "Ketlen Vieira",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/92eb0a297c7ea197"
+        },
+        {
+            "fight_id": "a773883743242df9",
+            "fighter_a": "Sarah Moras",
+            "fighter_b": "Ashlee Evans-Smith",
+            "winner": "Sarah Moras",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 171,
+            "fight_url": "http://ufcstats.com/fight-details/a773883743242df9"
+        },
+        {
+            "fight_id": "f597d2e69ab7c270",
+            "fighter_a": "Ricky Glenn",
+            "fighter_b": "Gavin Tucker",
+            "winner": "Ricky Glenn",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f597d2e69ab7c270"
+        },
+        {
+            "fight_id": "31c4518a1e71c050",
+            "fighter_a": "Alex White",
+            "fighter_b": "Mitch Clarke",
+            "winner": "Alex White",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 276,
+            "fight_url": "http://ufcstats.com/fight-details/31c4518a1e71c050"
+        },
+        {
+            "fight_id": "7020840980f723b9",
+            "fighter_a": "Arjan Bhullar",
+            "fighter_b": "Luis Henrique",
+            "winner": "Arjan Bhullar",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7020840980f723b9"
+        },
+        {
+            "fight_id": "cce5b9dfe84630fa",
+            "fighter_a": "Kajan Johnson",
+            "fighter_b": "Adriano Martins",
+            "winner": "Kajan Johnson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 49,
+            "fight_url": "http://ufcstats.com/fight-details/cce5b9dfe84630fa"
+        }
+    ]
+}

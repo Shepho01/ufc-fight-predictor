@@ -1,0 +1,23 @@
+{
+    "fighter_id": "84b3e7d38f2d2ec5",
+    "name": "Neil Magny",
+    "wins": 32,
+    "losses": 15,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 190.5,
+    "weight_lbs": 170,
+    "reach_cm": 203.2,
+    "stance": "Orthodox",
+    "dob_day": 3,
+    "dob_month": 8,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.39,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 2.41,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 2.13,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 0.3
+}

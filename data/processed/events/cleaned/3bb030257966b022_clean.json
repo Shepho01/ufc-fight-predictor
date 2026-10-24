@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "3bb030257966b022",
+        "event_name": "UFC 178: Johnson vs Cariaso",
+        "event_day": 27,
+        "event_month": 9,
+        "event_year": 2014,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "79c2461046e17eba",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Chris Cariaso",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "SUB Kimura",
+            "round": 2,
+            "time_seconds": 149,
+            "fight_url": "http://ufcstats.com/fight-details/79c2461046e17eba"
+        },
+        {
+            "fight_id": "64eb4ae171613218",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Eddie Alvarez",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/64eb4ae171613218"
+        },
+        {
+            "fight_id": "6bcea00473e43a59",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Conor McGregor",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 106,
+            "fight_url": "http://ufcstats.com/fight-details/6bcea00473e43a59"
+        },
+        {
+            "fight_id": "3e3db8c37096c260",
+            "fighter_a": "Yoel Romero",
+            "fighter_b": "Tim Kennedy",
+            "winner": "Yoel Romero",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 58,
+            "fight_url": "http://ufcstats.com/fight-details/3e3db8c37096c260"
+        },
+        {
+            "fight_id": "b1b82605646eb850",
+            "fighter_a": "Cat Zingano",
+            "fighter_b": "Amanda Nunes",
+            "winner": "Cat Zingano",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 81,
+            "fight_url": "http://ufcstats.com/fight-details/b1b82605646eb850"
+        },
+        {
+            "fight_id": "72656e864ca1c972",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Takeya Mizugaki",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/72656e864ca1c972"
+        },
+        {
+            "fight_id": "65f4d4f44e6e73f7",
+            "fighter_a": "Jorge Masvidal",
+            "fighter_b": "James Krause",
+            "winner": "Jorge Masvidal",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/65f4d4f44e6e73f7"
+        },
+        {
+            "fight_id": "fceab09944a65840",
+            "fighter_a": "Stephen Thompson",
+            "fighter_b": "Patrick Cote",
+            "winner": "Stephen Thompson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fceab09944a65840"
+        },
+        {
+            "fight_id": "fc45644c62643c71",
+            "fighter_a": "Brian Ebersole",
+            "fighter_b": "John Howard",
+            "winner": "Brian Ebersole",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fc45644c62643c71"
+        },
+        {
+            "fight_id": "9c0721bd410e7a0e",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Jon Tuck",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9c0721bd410e7a0e"
+        },
+        {
+            "fight_id": "a49706a6edb0c5c3",
+            "fighter_a": "Manvel Gamburyan",
+            "fighter_b": "Cody Gibson",
+            "winner": "Manvel Gamburyan",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 296,
+            "fight_url": "http://ufcstats.com/fight-details/a49706a6edb0c5c3"
+        }
+    ]
+}

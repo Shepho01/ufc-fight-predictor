@@ -1,0 +1,23 @@
+{
+    "fighter_id": "9c65736747ca92ec",
+    "name": "Leonardo Santos",
+    "wins": 18,
+    "losses": 7,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 155,
+    "reach_cm": 190.5,
+    "stance": "Orthodox",
+    "dob_day": 5,
+    "dob_month": 2,
+    "dob_year": 1980,
+    "sig_strikes_landed_per_min": 2.82,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 3.4,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.88,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.86,
+    "submission_attempts_per_15_min": 0.2
+}

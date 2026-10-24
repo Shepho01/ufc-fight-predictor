@@ -1,0 +1,60 @@
+{
+    "fighter_id": "38c626ca912c7bac",
+    "name": "Damir Hadzovic",
+    "record": "14-8-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Aug 08, 1986",
+    "sig_strikes_landed_per_min": "3.34",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.74",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.91",
+    "takedown_accuracy": "54%",
+    "takedown_defense": "34%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "e97e71a593e4c28d",
+            "fight_url": "http://ufcstats.com/fight-details/e97e71a593e4c28d"
+        },
+        {
+            "fight_id": "dd6dbe644f599795",
+            "fight_url": "http://ufcstats.com/fight-details/dd6dbe644f599795"
+        },
+        {
+            "fight_id": "23c7c6ceee34585f",
+            "fight_url": "http://ufcstats.com/fight-details/23c7c6ceee34585f"
+        },
+        {
+            "fight_id": "c26a3f4c08333886",
+            "fight_url": "http://ufcstats.com/fight-details/c26a3f4c08333886"
+        },
+        {
+            "fight_id": "a5acaa5f693529dd",
+            "fight_url": "http://ufcstats.com/fight-details/a5acaa5f693529dd"
+        },
+        {
+            "fight_id": "18d6df67968bf06b",
+            "fight_url": "http://ufcstats.com/fight-details/18d6df67968bf06b"
+        },
+        {
+            "fight_id": "3ce7f58911773a56",
+            "fight_url": "http://ufcstats.com/fight-details/3ce7f58911773a56"
+        },
+        {
+            "fight_id": "59b384dcc3ab49b2",
+            "fight_url": "http://ufcstats.com/fight-details/59b384dcc3ab49b2"
+        },
+        {
+            "fight_id": "b166f1582946fbbc",
+            "fight_url": "http://ufcstats.com/fight-details/b166f1582946fbbc"
+        },
+        {
+            "fight_id": "79884c0df84662b9",
+            "fight_url": "http://ufcstats.com/fight-details/79884c0df84662b9"
+        }
+    ]
+}

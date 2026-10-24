@@ -1,0 +1,96 @@
+{
+    "fighter_id": "cc6f9d1e89f3449a",
+    "name": "Manvel Gamburyan",
+    "record": "15-10-0 (1 NC)",
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "May 08, 1981",
+    "sig_strikes_landed_per_min": "2.13",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.83",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "3.26",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "69%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "02b39d683f027517",
+            "fight_url": "http://ufcstats.com/fight-details/02b39d683f027517"
+        },
+        {
+            "fight_id": "249b75a787dccfe6",
+            "fight_url": "http://ufcstats.com/fight-details/249b75a787dccfe6"
+        },
+        {
+            "fight_id": "ea967877dd4d6efb",
+            "fight_url": "http://ufcstats.com/fight-details/ea967877dd4d6efb"
+        },
+        {
+            "fight_id": "a49706a6edb0c5c3",
+            "fight_url": "http://ufcstats.com/fight-details/a49706a6edb0c5c3"
+        },
+        {
+            "fight_id": "687b9b2c11667531",
+            "fight_url": "http://ufcstats.com/fight-details/687b9b2c11667531"
+        },
+        {
+            "fight_id": "f1a9c3187855155c",
+            "fight_url": "http://ufcstats.com/fight-details/f1a9c3187855155c"
+        },
+        {
+            "fight_id": "0f74449bf6f64616",
+            "fight_url": "http://ufcstats.com/fight-details/0f74449bf6f64616"
+        },
+        {
+            "fight_id": "3e6dfafb8aa780f9",
+            "fight_url": "http://ufcstats.com/fight-details/3e6dfafb8aa780f9"
+        },
+        {
+            "fight_id": "2f715933d0626544",
+            "fight_url": "http://ufcstats.com/fight-details/2f715933d0626544"
+        },
+        {
+            "fight_id": "70ddd13934e6c0e9",
+            "fight_url": "http://ufcstats.com/fight-details/70ddd13934e6c0e9"
+        },
+        {
+            "fight_id": "1c2b372e9d8ed8c8",
+            "fight_url": "http://ufcstats.com/fight-details/1c2b372e9d8ed8c8"
+        },
+        {
+            "fight_id": "39003cb1926bb9e0",
+            "fight_url": "http://ufcstats.com/fight-details/39003cb1926bb9e0"
+        },
+        {
+            "fight_id": "5bcde86d5f40cebb",
+            "fight_url": "http://ufcstats.com/fight-details/5bcde86d5f40cebb"
+        },
+        {
+            "fight_id": "197f68e2fb3ec585",
+            "fight_url": "http://ufcstats.com/fight-details/197f68e2fb3ec585"
+        },
+        {
+            "fight_id": "e6dd15ef9fd7927e",
+            "fight_url": "http://ufcstats.com/fight-details/e6dd15ef9fd7927e"
+        },
+        {
+            "fight_id": "e915c1987050eac8",
+            "fight_url": "http://ufcstats.com/fight-details/e915c1987050eac8"
+        },
+        {
+            "fight_id": "b89dea8c3e6bba6f",
+            "fight_url": "http://ufcstats.com/fight-details/b89dea8c3e6bba6f"
+        },
+        {
+            "fight_id": "478b0eaf22475be0",
+            "fight_url": "http://ufcstats.com/fight-details/478b0eaf22475be0"
+        },
+        {
+            "fight_id": "3542c5c5c5180090",
+            "fight_url": "http://ufcstats.com/fight-details/3542c5c5c5180090"
+        }
+    ]
+}

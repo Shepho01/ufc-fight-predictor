@@ -1,0 +1,23 @@
+{
+    "fighter_id": "87c0b1c696ddfb43",
+    "name": "Jonathan Pearce",
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Switch",
+    "dob_day": 1,
+    "dob_month": 5,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 5.12,
+    "sig_striking_accuracy": 0.54,
+    "sig_strikes_absorbed_per_min": 3.32,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 5.02,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 0.8
+}

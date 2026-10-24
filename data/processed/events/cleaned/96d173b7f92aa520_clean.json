@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "96d173b7f92aa520",
+        "event_name": "UFC 153: Silva vs Bonnar",
+        "event_day": 13,
+        "event_month": 10,
+        "event_year": 2012,
+        "location": "Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "526ab0f38313c630",
+            "fighter_a": "Anderson Silva",
+            "fighter_b": "Stephan Bonnar",
+            "winner": "Anderson Silva",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 280,
+            "fight_url": "http://ufcstats.com/fight-details/526ab0f38313c630"
+        },
+        {
+            "fight_id": "dba1add63d4bcbaa",
+            "fighter_a": "Antonio Rodrigo Nogueira",
+            "fighter_b": "Dave Herman",
+            "winner": "Antonio Rodrigo Nogueira",
+            "weight_class": "Heavyweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 271,
+            "fight_url": "http://ufcstats.com/fight-details/dba1add63d4bcbaa"
+        },
+        {
+            "fight_id": "778d3f5c4bcc2927",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Fabio Maldonado",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/778d3f5c4bcc2927"
+        },
+        {
+            "fight_id": "034ce0af4dedbfd7",
+            "fighter_a": "Jon Fitch",
+            "fighter_b": "Erick Silva",
+            "winner": "Jon Fitch",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/034ce0af4dedbfd7"
+        },
+        {
+            "fight_id": "4c9cb823fd7e3e2c",
+            "fighter_a": "Phil Davis",
+            "fighter_b": "Wagner Prado",
+            "winner": "Phil Davis",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/4c9cb823fd7e3e2c"
+        },
+        {
+            "fight_id": "219610bc6e7d9196",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Rick Story",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 150,
+            "fight_url": "http://ufcstats.com/fight-details/219610bc6e7d9196"
+        },
+        {
+            "fight_id": "dab5e3680cf6eac7",
+            "fighter_a": "Rony Jason",
+            "fighter_b": "Sam Sicilia",
+            "winner": "Rony Jason",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/dab5e3680cf6eac7"
+        },
+        {
+            "fight_id": "297a3fe0edd6f1c5",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Francisco Trinaldo",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/297a3fe0edd6f1c5"
+        },
+        {
+            "fight_id": "eaa0355223b770dc",
+            "fighter_a": "Diego Brandao",
+            "fighter_b": "Joey Gambino",
+            "winner": "Diego Brandao",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/eaa0355223b770dc"
+        },
+        {
+            "fight_id": "5ab7629e07da22e6",
+            "fighter_a": "Sergio Moraes",
+            "fighter_b": "Renee Forte",
+            "winner": "Sergio Moraes",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 190,
+            "fight_url": "http://ufcstats.com/fight-details/5ab7629e07da22e6"
+        },
+        {
+            "fight_id": "d9df78e82953bfe5",
+            "fighter_a": "Chris Camozzi",
+            "fighter_b": "Luiz Cane",
+            "winner": "Chris Camozzi",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d9df78e82953bfe5"
+        },
+        {
+            "fight_id": "e3072951bb030826",
+            "fighter_a": "Cristiano Marcello",
+            "fighter_b": "Reza Madadi",
+            "winner": "Cristiano Marcello",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e3072951bb030826"
+        }
+    ]
+}

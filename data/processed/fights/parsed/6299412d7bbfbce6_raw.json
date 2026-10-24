@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "6299412d7bbfbce6",
+        "event_id": "b732b326c362fb62",
+        "event_name": "UFC 130: Rampage vs Hamill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "3:28",
+        "referee": "Kim Winslow",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "19 of 56",
+            "Sig. str. %": "33%",
+            "Total str.": "38 of 77",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 56",
+            "Sig. str. %": "33%",
+            "Head": "18 of 54",
+            "Body": "1 of 2",
+            "Leg": "0 of 0",
+            "Distance": "8 of 41",
+            "Clinch": "2 of 2",
+            "Ground": "9 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "15b1b21cd743d652",
+        "name": "Rafaello Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 48",
+            "Sig. str. %": "25%",
+            "Total str.": "15 of 51",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 48",
+            "Sig. str. %": "25%",
+            "Head": "4 of 36",
+            "Body": "6 of 9",
+            "Leg": "2 of 3",
+            "Distance": "11 of 47",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

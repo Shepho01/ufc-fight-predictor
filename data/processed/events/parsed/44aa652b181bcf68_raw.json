@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "44aa652b181bcf68",
+        "event_name": "UFC Fight Night: Blaydes vs. Dos Santos",
+        "event_date": "January 25, 2020",
+        "location": "Raleigh, North Carolina, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "037d2f426c916ffc",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Junior Dos Santos",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:06",
+            "fight_url": "http://ufcstats.com/fight-details/037d2f426c916ffc"
+        },
+        {
+            "fight_id": "2ef54419defb2364",
+            "fighter_a": "Michael Chiesa",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Michael Chiesa",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2ef54419defb2364"
+        },
+        {
+            "fight_id": "7dcd5d8a44a284e5",
+            "fighter_a": "Alex Perez",
+            "fighter_b": "Jordan Espinosa",
+            "winner": "Alex Perez",
+            "weight_class": "Flyweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "2:33",
+            "fight_url": "http://ufcstats.com/fight-details/7dcd5d8a44a284e5"
+        },
+        {
+            "fight_id": "b88b170a7fe40544",
+            "fighter_a": "Angela Hill",
+            "fighter_b": "Hannah Cifers",
+            "winner": "Angela Hill",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "4:26",
+            "fight_url": "http://ufcstats.com/fight-details/b88b170a7fe40544"
+        },
+        {
+            "fight_id": "6195d3e7c412c8a2",
+            "fighter_a": "Jamahal Hill",
+            "fighter_b": "Darko Stosic",
+            "winner": "Jamahal Hill",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6195d3e7c412c8a2"
+        },
+        {
+            "fight_id": "3fd3b871e83434c5",
+            "fighter_a": "Bevon Lewis",
+            "fighter_b": "Dequan Townsend",
+            "winner": "Bevon Lewis",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3fd3b871e83434c5"
+        },
+        {
+            "fight_id": "ed94cdc0f2b97e15",
+            "fighter_a": "Arnold Allen",
+            "fighter_b": "Nik Lentz",
+            "winner": "Arnold Allen",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ed94cdc0f2b97e15"
+        },
+        {
+            "fight_id": "151c2bd6dfefb4b5",
+            "fighter_a": "Justine Kish",
+            "fighter_b": "Lucie Pudilova",
+            "winner": "Justine Kish",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/151c2bd6dfefb4b5"
+        },
+        {
+            "fight_id": "737e2781e4a7db5c",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Felipe Colares",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/737e2781e4a7db5c"
+        },
+        {
+            "fight_id": "79161bde28636128",
+            "fighter_a": "Sara McMann",
+            "fighter_b": "Lina Lansberg",
+            "winner": "Sara McMann",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/79161bde28636128"
+        },
+        {
+            "fight_id": "918c2efc59c1952e",
+            "fighter_a": "Brett Johns",
+            "fighter_b": "Tony Gravely",
+            "winner": "Brett Johns",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:53",
+            "fight_url": "http://ufcstats.com/fight-details/918c2efc59c1952e"
+        },
+        {
+            "fight_id": "901dbd1e6463c4ba",
+            "fighter_a": "Herbert Burns",
+            "fighter_b": "Nate Landwehr",
+            "winner": "Herbert Burns",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/901dbd1e6463c4ba"
+        }
+    ]
+}

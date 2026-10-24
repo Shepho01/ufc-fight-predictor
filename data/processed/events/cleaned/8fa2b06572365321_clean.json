@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "8fa2b06572365321",
+        "event_name": "Noche UFC: Grasso vs. Shevchenko 2",
+        "event_day": 16,
+        "event_month": 9,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b395c89e19a3fec4",
+            "fighter_a": "Alexa Grasso",
+            "fighter_b": "Valentina Shevchenko",
+            "winner": null,
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b395c89e19a3fec4"
+        },
+        {
+            "fight_id": "697efaf0d162e877",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Kevin Holland",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/697efaf0d162e877"
+        },
+        {
+            "fight_id": "c0ca4c201d086ea8",
+            "fighter_a": "Raul Rosas Jr.",
+            "fighter_b": "Terrence Mitchell",
+            "winner": "Raul Rosas Jr.",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 54,
+            "fight_url": "http://ufcstats.com/fight-details/c0ca4c201d086ea8"
+        },
+        {
+            "fight_id": "2e1435c160bfe8b2",
+            "fighter_a": "Daniel Zellhuber",
+            "fighter_b": "Christos Giagos",
+            "winner": "Daniel Zellhuber",
+            "weight_class": "Lightweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 206,
+            "fight_url": "http://ufcstats.com/fight-details/2e1435c160bfe8b2"
+        },
+        {
+            "fight_id": "a5d76e93a5052e3f",
+            "fighter_a": "Kyle Nelson",
+            "fighter_b": "Fernando Padilla",
+            "winner": "Kyle Nelson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a5d76e93a5052e3f"
+        },
+        {
+            "fight_id": "79f03eca3fe5cdb3",
+            "fighter_a": "Loopy Godinez",
+            "fighter_b": "Elise Reed",
+            "winner": "Loopy Godinez",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/79f03eca3fe5cdb3"
+        },
+        {
+            "fight_id": "7a0813ec0fadc84e",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Josh Fremd",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 284,
+            "fight_url": "http://ufcstats.com/fight-details/7a0813ec0fadc84e"
+        },
+        {
+            "fight_id": "5d3e046b6bcd49f5",
+            "fighter_a": "Edgar Chairez",
+            "fighter_b": "Daniel Lacerda",
+            "winner": null,
+            "weight_class": "Flyweight",
+            "method": "Overturned",
+            "round": 1,
+            "time_seconds": 227,
+            "fight_url": "http://ufcstats.com/fight-details/5d3e046b6bcd49f5"
+        },
+        {
+            "fight_id": "bcec26b425194e40",
+            "fighter_a": "Tracy Cortez",
+            "fighter_b": "Jasmine Jasudavicius",
+            "winner": "Tracy Cortez",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bcec26b425194e40"
+        },
+        {
+            "fight_id": "58b2fdad7af9be02",
+            "fighter_a": "Charlie Campbell",
+            "fighter_b": "Alex Reyes",
+            "winner": "Charlie Campbell",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/58b2fdad7af9be02"
+        },
+        {
+            "fight_id": "11318a7807cee8ca",
+            "fighter_a": "Josefine Knutsson",
+            "fighter_b": "Marnic Mann",
+            "winner": "Josefine Knutsson",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/11318a7807cee8ca"
+        }
+    ]
+}

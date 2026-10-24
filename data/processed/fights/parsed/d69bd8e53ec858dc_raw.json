@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d69bd8e53ec858dc",
+        "event_id": "9a70f67ad2187fa3",
+        "event_name": "UFC Fight Night: Moicano vs. Duncan",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "3:14",
+        "referee": "Herb Dean",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 36",
+            "Sig. str. %": "58%",
+            "Total str.": "62 of 84",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 36",
+            "Sig. str. %": "58%",
+            "Head": "16 of 31",
+            "Body": "4 of 4",
+            "Leg": "1 of 1",
+            "Distance": "20 of 34",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "fd406a32a6fb3a29",
+        "name": "Chris Duncan",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 62",
+            "Sig. str. %": "43%",
+            "Total str.": "30 of 66",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 62",
+            "Sig. str. %": "43%",
+            "Head": "8 of 39",
+            "Body": "5 of 7",
+            "Leg": "14 of 16",
+            "Distance": "25 of 60",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

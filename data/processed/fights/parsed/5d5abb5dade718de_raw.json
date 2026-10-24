@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5d5abb5dade718de",
+        "event_id": "2dc7f1762dc0a7ef",
+        "event_name": "UFC 203: Miocic vs. Overeem",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:45",
+        "referee": "Jerry Poe",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "20 of 41",
+            "Sig. str. %": "48%",
+            "Total str.": "23 of 45",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 41",
+            "Sig. str. %": "48%",
+            "Head": "14 of 34",
+            "Body": "2 of 3",
+            "Leg": "4 of 4",
+            "Distance": "15 of 29",
+            "Clinch": "4 of 10",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e45cfa47f504033a",
+        "name": "Jason Gonzalez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 30",
+            "Sig. str. %": "33%",
+            "Total str.": "10 of 30",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 30",
+            "Sig. str. %": "33%",
+            "Head": "6 of 25",
+            "Body": "1 of 1",
+            "Leg": "3 of 4",
+            "Distance": "9 of 29",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "fighter_id": "1bcaac2d99b90fce",
+    "name": "Sergio Moraes",
+    "record": "14-6-1",
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 23, 1982",
+    "sig_strikes_landed_per_min": "2.42",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "3.73",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "1.20",
+    "takedown_accuracy": "38%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "aa232e53d285cc6d",
+            "fight_url": "http://ufcstats.com/fight-details/aa232e53d285cc6d"
+        },
+        {
+            "fight_id": "2b038a467a89c73c",
+            "fight_url": "http://ufcstats.com/fight-details/2b038a467a89c73c"
+        },
+        {
+            "fight_id": "51808d929c84b8ae",
+            "fight_url": "http://ufcstats.com/fight-details/51808d929c84b8ae"
+        },
+        {
+            "fight_id": "b509c337d181c567",
+            "fight_url": "http://ufcstats.com/fight-details/b509c337d181c567"
+        },
+        {
+            "fight_id": "eb0f7127f22457e9",
+            "fight_url": "http://ufcstats.com/fight-details/eb0f7127f22457e9"
+        },
+        {
+            "fight_id": "4c1fd940e1619e68",
+            "fight_url": "http://ufcstats.com/fight-details/4c1fd940e1619e68"
+        },
+        {
+            "fight_id": "f4f5049e789b7716",
+            "fight_url": "http://ufcstats.com/fight-details/f4f5049e789b7716"
+        },
+        {
+            "fight_id": "edcf1d6a1bd8acc7",
+            "fight_url": "http://ufcstats.com/fight-details/edcf1d6a1bd8acc7"
+        },
+        {
+            "fight_id": "bc6100e6dd239db7",
+            "fight_url": "http://ufcstats.com/fight-details/bc6100e6dd239db7"
+        },
+        {
+            "fight_id": "1cc9816d18aa29d0",
+            "fight_url": "http://ufcstats.com/fight-details/1cc9816d18aa29d0"
+        },
+        {
+            "fight_id": "79e293137ef6421d",
+            "fight_url": "http://ufcstats.com/fight-details/79e293137ef6421d"
+        },
+        {
+            "fight_id": "3846db1456151f80",
+            "fight_url": "http://ufcstats.com/fight-details/3846db1456151f80"
+        },
+        {
+            "fight_id": "5ab7629e07da22e6",
+            "fight_url": "http://ufcstats.com/fight-details/5ab7629e07da22e6"
+        },
+        {
+            "fight_id": "9232fed045b1f4f9",
+            "fight_url": "http://ufcstats.com/fight-details/9232fed045b1f4f9"
+        }
+    ]
+}

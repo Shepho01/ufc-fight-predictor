@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "4908c5ee68a50ee5",
+        "event_name": "The Ultimate Fighter: United States vs. United Kingdom Finale",
+        "event_date": "June 20, 2009",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "468d6da7f097e449",
+            "fighter_a": "Diego Sanchez",
+            "fighter_b": "Clay Guida",
+            "winner": "Diego Sanchez",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/468d6da7f097e449"
+        },
+        {
+            "fight_id": "036bb5b335e93ca8",
+            "fighter_a": "James Wilks",
+            "fighter_b": "DaMarques Johnson",
+            "winner": "James Wilks",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:54",
+            "fight_url": "http://ufcstats.com/fight-details/036bb5b335e93ca8"
+        },
+        {
+            "fight_id": "4ae231bd909ceddc",
+            "fighter_a": "Chris Lytle",
+            "fighter_b": "Kevin Burns",
+            "winner": "Chris Lytle",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4ae231bd909ceddc"
+        },
+        {
+            "fight_id": "1d30430af5257347",
+            "fighter_a": "Ross Pearson",
+            "fighter_b": "Andre Winner",
+            "winner": "Ross Pearson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1d30430af5257347"
+        },
+        {
+            "fight_id": "11871325db7a13ec",
+            "fighter_a": "Joe Stevenson",
+            "fighter_b": "Nate Diaz",
+            "winner": "Joe Stevenson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/11871325db7a13ec"
+        },
+        {
+            "fight_id": "a5a5e24f4dd40fbf",
+            "fighter_a": "Melvin Guillard",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Melvin Guillard",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a5a5e24f4dd40fbf"
+        },
+        {
+            "fight_id": "08c5dcd426dea606",
+            "fighter_a": "Brad Blackburn",
+            "fighter_b": "Edgar Garcia",
+            "winner": "Brad Blackburn",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/08c5dcd426dea606"
+        },
+        {
+            "fight_id": "0486ad62f7dfd11e",
+            "fighter_a": "Tomasz Drwal",
+            "fighter_b": "Mike Ciesnolevicz",
+            "winner": "Tomasz Drwal",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "4:48",
+            "fight_url": "http://ufcstats.com/fight-details/0486ad62f7dfd11e"
+        },
+        {
+            "fight_id": "707d6023b8723c5d",
+            "fighter_a": "Nick Osipczak",
+            "fighter_b": "Frank Lester",
+            "winner": "Nick Osipczak",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:40",
+            "fight_url": "http://ufcstats.com/fight-details/707d6023b8723c5d"
+        },
+        {
+            "fight_id": "43712d71cec9bde6",
+            "fighter_a": "Jason Dent",
+            "fighter_b": "Cameron Dollar",
+            "winner": "Jason Dent",
+            "weight_class": "Lightweight",
+            "method": "SUB Anaconda Choke",
+            "round": "1",
+            "time": "4:46",
+            "fight_url": "http://ufcstats.com/fight-details/43712d71cec9bde6"
+        }
+    ]
+}

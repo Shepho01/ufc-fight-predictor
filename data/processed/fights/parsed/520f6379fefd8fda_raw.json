@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "520f6379fefd8fda",
+        "event_id": "03b1e846b09f721d",
+        "event_name": "UFC 227: Dillashaw vs. Garbrandt 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:15",
+        "referee": "Blake Grice",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 38",
+            "Sig. str. %": "52%",
+            "Total str.": "20 of 38",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 38",
+            "Sig. str. %": "52%",
+            "Head": "5 of 19",
+            "Body": "3 of 5",
+            "Leg": "12 of 14",
+            "Distance": "20 of 38",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "17 of 47",
+            "Sig. str. %": "36%",
+            "Total str.": "23 of 53",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 47",
+            "Sig. str. %": "36%",
+            "Head": "14 of 42",
+            "Body": "2 of 3",
+            "Leg": "1 of 2",
+            "Distance": "8 of 33",
+            "Clinch": "2 of 2",
+            "Ground": "7 of 12"
+        }
+    }
+}

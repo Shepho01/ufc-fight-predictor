@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "04f27a78e4ffce47",
+        "event_id": "6e3282d57d2467a0",
+        "event_name": "UFC 206: Holloway vs. Pettis",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:57",
+        "referee": "Dan Miragliotta",
+        "winner_id": "55ee431411ccf07a"
+    },
+    "fighter_a": {
+        "fighter_id": "55ee431411ccf07a",
+        "name": "Olivier Aubin-Mercier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 53",
+            "Sig. str. %": "50%",
+            "Total str.": "30 of 56",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "1:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 53",
+            "Sig. str. %": "50%",
+            "Head": "21 of 44",
+            "Body": "2 of 4",
+            "Leg": "4 of 5",
+            "Distance": "27 of 53",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "24 of 71",
+            "Sig. str. %": "33%",
+            "Total str.": "33 of 80",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 71",
+            "Sig. str. %": "33%",
+            "Head": "9 of 46",
+            "Body": "13 of 21",
+            "Leg": "2 of 4",
+            "Distance": "15 of 59",
+            "Clinch": "0 of 0",
+            "Ground": "9 of 12"
+        }
+    }
+}

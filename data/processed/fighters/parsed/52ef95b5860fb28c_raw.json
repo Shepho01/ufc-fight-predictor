@@ -1,0 +1,56 @@
+{
+    "fighter_id": "52ef95b5860fb28c",
+    "name": "Jean Silva",
+    "record": "18-3-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Dec 13, 1996",
+    "sig_strikes_landed_per_min": "4.55",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "4.29",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "1.19",
+    "takedown_accuracy": "58%",
+    "takedown_defense": "79%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "034c04e480d87b8f",
+            "fight_url": "http://ufcstats.com/fight-details/034c04e480d87b8f"
+        },
+        {
+            "fight_id": "836a188a90e479a5",
+            "fight_url": "http://ufcstats.com/fight-details/836a188a90e479a5"
+        },
+        {
+            "fight_id": "de1a3734be60e6a1",
+            "fight_url": "http://ufcstats.com/fight-details/de1a3734be60e6a1"
+        },
+        {
+            "fight_id": "8c540eb4afe8c43e",
+            "fight_url": "http://ufcstats.com/fight-details/8c540eb4afe8c43e"
+        },
+        {
+            "fight_id": "8ef7723b6a8b45e1",
+            "fight_url": "http://ufcstats.com/fight-details/8ef7723b6a8b45e1"
+        },
+        {
+            "fight_id": "54de03e04f571735",
+            "fight_url": "http://ufcstats.com/fight-details/54de03e04f571735"
+        },
+        {
+            "fight_id": "2b7883b304b3df1c",
+            "fight_url": "http://ufcstats.com/fight-details/2b7883b304b3df1c"
+        },
+        {
+            "fight_id": "0494ebcee93e717b",
+            "fight_url": "http://ufcstats.com/fight-details/0494ebcee93e717b"
+        },
+        {
+            "fight_id": "e0ecae31a86cc648",
+            "fight_url": "http://ufcstats.com/fight-details/e0ecae31a86cc648"
+        }
+    ]
+}

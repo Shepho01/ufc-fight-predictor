@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "a71feb7ea7592a71",
+        "event_name": "UFC Fight Night: Bigfoot vs Arlovski",
+        "event_date": "September 13, 2014",
+        "location": "Brasilia, Distrito Federal, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "61c9bbeb2806534b",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Antonio Silva",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:59",
+            "fight_url": "http://ufcstats.com/fight-details/61c9bbeb2806534b"
+        },
+        {
+            "fight_id": "246f38c7855a6400",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Piotr Hallmann",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/246f38c7855a6400"
+        },
+        {
+            "fight_id": "72d2ab073f4120a4",
+            "fighter_a": "Leonardo Santos",
+            "fighter_b": "Efrain Escudero",
+            "winner": "Leonardo Santos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/72d2ab073f4120a4"
+        },
+        {
+            "fight_id": "033e4538b9014f91",
+            "fighter_a": "Santiago Ponzinibbio",
+            "fighter_b": "Wendell Oliveira Marques",
+            "winner": "Santiago Ponzinibbio",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:20",
+            "fight_url": "http://ufcstats.com/fight-details/033e4538b9014f91"
+        },
+        {
+            "fight_id": "36c2ce10809f17b3",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Russell Doane",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/36c2ce10809f17b3"
+        },
+        {
+            "fight_id": "2798c746fe93502a",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Larissa Pacheco",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:33",
+            "fight_url": "http://ufcstats.com/fight-details/2798c746fe93502a"
+        },
+        {
+            "fight_id": "7580c93fec606442",
+            "fighter_a": "Godofredo Pepey",
+            "fighter_b": "Dashon Johnson",
+            "winner": "Godofredo Pepey",
+            "weight_class": "Featherweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:29",
+            "fight_url": "http://ufcstats.com/fight-details/7580c93fec606442"
+        },
+        {
+            "fight_id": "ebb9eeac1faf73ed",
+            "fighter_a": "George Sullivan",
+            "fighter_b": "Igor Araujo",
+            "winner": "George Sullivan",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:31",
+            "fight_url": "http://ufcstats.com/fight-details/ebb9eeac1faf73ed"
+        },
+        {
+            "fight_id": "e79e3ee088b76d46",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Leandro Silva",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e79e3ee088b76d46"
+        },
+        {
+            "fight_id": "972b0643185b2570",
+            "fighter_a": "Sean Spencer",
+            "fighter_b": "Paulo Thiago",
+            "winner": "Sean Spencer",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/972b0643185b2570"
+        },
+        {
+            "fight_id": "6f19f24780c4f23f",
+            "fighter_a": "Rani Yahya",
+            "fighter_b": "Johnny Bedford",
+            "winner": "Rani Yahya",
+            "weight_class": "Bantamweight",
+            "method": "SUB Kimura",
+            "round": "2",
+            "time": "2:04",
+            "fight_url": "http://ufcstats.com/fight-details/6f19f24780c4f23f"
+        }
+    ]
+}

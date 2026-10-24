@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d3255f2b8ef2b559",
+        "event_id": "db1f2ed63b54b9a7",
+        "event_name": "UFC 196: McGregor vs Diaz",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "104 of 153",
+            "Sig. str. %": "67%",
+            "Total str.": "193 of 255",
+            "Td": "7 of 11",
+            "Td %": "63%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "104 of 153",
+            "Sig. str. %": "67%",
+            "Head": "73 of 118",
+            "Body": "26 of 29",
+            "Leg": "5 of 6",
+            "Distance": "24 of 65",
+            "Clinch": "32 of 36",
+            "Ground": "48 of 52"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4bd6b4800070b069",
+        "name": "Chas Skelly",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 72",
+            "Sig. str. %": "37%",
+            "Total str.": "32 of 83",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 72",
+            "Sig. str. %": "37%",
+            "Head": "23 of 65",
+            "Body": "4 of 7",
+            "Leg": "0 of 0",
+            "Distance": "20 of 62",
+            "Clinch": "5 of 8",
+            "Ground": "2 of 2"
+        }
+    }
+}

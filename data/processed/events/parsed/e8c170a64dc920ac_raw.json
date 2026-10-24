@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "e8c170a64dc920ac",
+        "event_name": "UFC on FX: Sotiropoulos vs Pearson",
+        "event_date": "December 14, 2012",
+        "location": "Gold Coast, Queensland, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "e2bacdc395aa7b40",
+            "fighter_a": "Ross Pearson",
+            "fighter_b": "George Sotiropoulos",
+            "winner": "Ross Pearson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:41",
+            "fight_url": "http://ufcstats.com/fight-details/e2bacdc395aa7b40"
+        },
+        {
+            "fight_id": "d6b3c56a4cf14c1a",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Brad Scott",
+            "winner": "Robert Whittaker",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d6b3c56a4cf14c1a"
+        },
+        {
+            "fight_id": "ddf2eff896475431",
+            "fighter_a": "Norman Parke",
+            "fighter_b": "Colin Fletcher",
+            "winner": "Norman Parke",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ddf2eff896475431"
+        },
+        {
+            "fight_id": "6834ae686aa0c588",
+            "fighter_a": "Hector Lombard",
+            "fighter_b": "Rousimar Palhares",
+            "winner": "Hector Lombard",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:38",
+            "fight_url": "http://ufcstats.com/fight-details/6834ae686aa0c588"
+        },
+        {
+            "fight_id": "a6097fd4e77cb881",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Yaotzin Meza",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:55",
+            "fight_url": "http://ufcstats.com/fight-details/a6097fd4e77cb881"
+        },
+        {
+            "fight_id": "61d89fc97e7b145c",
+            "fighter_a": "Igor Pokrajac",
+            "fighter_b": "Joey Beltran",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/61d89fc97e7b145c"
+        },
+        {
+            "fight_id": "d4c85298623130de",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Seth Baczynski",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d4c85298623130de"
+        },
+        {
+            "fight_id": "e57b884785848624",
+            "fighter_a": "Ben Alloway",
+            "fighter_b": "Manuel Rodriguez",
+            "winner": "Ben Alloway",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/e57b884785848624"
+        },
+        {
+            "fight_id": "f82c414666fe934c",
+            "fighter_a": "Mike Wilkinson",
+            "fighter_b": "Brendan Loughnane",
+            "winner": "Mike Wilkinson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f82c414666fe934c"
+        },
+        {
+            "fight_id": "4eda704823ccfb71",
+            "fighter_a": "Cody Donovan",
+            "fighter_b": "Nick Penner",
+            "winner": "Cody Donovan",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:35",
+            "fight_url": "http://ufcstats.com/fight-details/4eda704823ccfb71"
+        }
+    ]
+}

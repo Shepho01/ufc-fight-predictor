@@ -1,0 +1,23 @@
+{
+    "fighter_id": "55ee431411ccf07a",
+    "name": "Olivier Aubin-Mercier",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 23,
+    "dob_month": 2,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 2.48,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 2.97,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 2.36,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.7,
+    "submission_attempts_per_15_min": 0.5
+}

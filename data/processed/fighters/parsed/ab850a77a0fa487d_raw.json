@@ -1,0 +1,52 @@
+{
+    "fighter_id": "ab850a77a0fa487d",
+    "name": "Sean Spencer",
+    "record": "12-6-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Jun 25, 1987",
+    "sig_strikes_landed_per_min": "4.24",
+    "sig_striking_accuracy": "32%",
+    "sig_strikes_absorbed_per_min": "4.02",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "0.14",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "68%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "1c85f793ea4f9caa",
+            "fight_url": "http://ufcstats.com/fight-details/1c85f793ea4f9caa"
+        },
+        {
+            "fight_id": "d6e1205babf27a9d",
+            "fight_url": "http://ufcstats.com/fight-details/d6e1205babf27a9d"
+        },
+        {
+            "fight_id": "6359bba789ce28ae",
+            "fight_url": "http://ufcstats.com/fight-details/6359bba789ce28ae"
+        },
+        {
+            "fight_id": "972b0643185b2570",
+            "fight_url": "http://ufcstats.com/fight-details/972b0643185b2570"
+        },
+        {
+            "fight_id": "a5f39e8ff1398269",
+            "fight_url": "http://ufcstats.com/fight-details/a5f39e8ff1398269"
+        },
+        {
+            "fight_id": "64e1197b8d5d0706",
+            "fight_url": "http://ufcstats.com/fight-details/64e1197b8d5d0706"
+        },
+        {
+            "fight_id": "95d86cec2a7124b3",
+            "fight_url": "http://ufcstats.com/fight-details/95d86cec2a7124b3"
+        },
+        {
+            "fight_id": "df0d3dec831e2142",
+            "fight_url": "http://ufcstats.com/fight-details/df0d3dec831e2142"
+        }
+    ]
+}

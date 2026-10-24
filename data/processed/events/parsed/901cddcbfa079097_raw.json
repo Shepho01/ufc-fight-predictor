@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "901cddcbfa079097",
+        "event_name": "UFC Fight Night: Rozenstruik vs. Almeida",
+        "event_date": "May 13, 2023",
+        "location": "Charlotte, North Carolina, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "755202fce24b8f83",
+            "fighter_a": "Jailton Almeida",
+            "fighter_b": "Jairzinho Rozenstruik",
+            "winner": "Jailton Almeida",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:43",
+            "fight_url": "http://ufcstats.com/fight-details/755202fce24b8f83"
+        },
+        {
+            "fight_id": "c501576b8ec35758",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Anthony Smith",
+            "winner": "Johnny Walker",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c501576b8ec35758"
+        },
+        {
+            "fight_id": "b0f4c7788782e26e",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Daniel Rodriguez",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "2:57",
+            "fight_url": "http://ufcstats.com/fight-details/b0f4c7788782e26e"
+        },
+        {
+            "fight_id": "dae2484418631ff5",
+            "fighter_a": "Carlos Ulberg",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Carlos Ulberg",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:09",
+            "fight_url": "http://ufcstats.com/fight-details/dae2484418631ff5"
+        },
+        {
+            "fight_id": "838a022ca5d99cc1",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Tim Means",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:09",
+            "fight_url": "http://ufcstats.com/fight-details/838a022ca5d99cc1"
+        },
+        {
+            "fight_id": "f2ced83baf0457fc",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Court McGee",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:09",
+            "fight_url": "http://ufcstats.com/fight-details/f2ced83baf0457fc"
+        },
+        {
+            "fight_id": "3387f430abb7e39f",
+            "fighter_a": "Karl Williams",
+            "fighter_b": "Chase Sherman",
+            "winner": "Karl Williams",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3387f430abb7e39f"
+        },
+        {
+            "fight_id": "14e689e60419d469",
+            "fighter_a": "Douglas Silva de Andrade",
+            "fighter_b": "Cody Stamann",
+            "winner": "Douglas Silva de Andrade",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/14e689e60419d469"
+        },
+        {
+            "fight_id": "6ca856d1950d8f7f",
+            "fighter_a": "Mandy Bohm",
+            "fighter_b": "Ji Yeon Kim",
+            "winner": "Mandy Bohm",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "1:55",
+            "fight_url": "http://ufcstats.com/fight-details/6ca856d1950d8f7f"
+        },
+        {
+            "fight_id": "81fda78adcaedbc7",
+            "fighter_a": "Bryan Battle",
+            "fighter_b": "Gabe Green",
+            "winner": "Bryan Battle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:14",
+            "fight_url": "http://ufcstats.com/fight-details/81fda78adcaedbc7"
+        },
+        {
+            "fight_id": "acfcf75f0215b7ab",
+            "fighter_a": "Tainara Lisboa",
+            "fighter_b": "Jessica-Rose Clark",
+            "winner": "Tainara Lisboa",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:20",
+            "fight_url": "http://ufcstats.com/fight-details/acfcf75f0215b7ab"
+        }
+    ]
+}

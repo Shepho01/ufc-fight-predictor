@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "118463dd8db16e7f",
+        "event_name": "UFC 315: Muhammad vs. Della Maddalena",
+        "event_day": 10,
+        "event_month": 5,
+        "event_year": 2025,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "b873c116e39c9920",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Belal Muhammad",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b873c116e39c9920"
+        },
+        {
+            "fight_id": "9e9d1764a015f313",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Manon Fiorot",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9e9d1764a015f313"
+        },
+        {
+            "fight_id": "891b2faf1bff38ee",
+            "fighter_a": "Aiemann Zahabi",
+            "fighter_b": "Jose Aldo",
+            "winner": "Aiemann Zahabi",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/891b2faf1bff38ee"
+        },
+        {
+            "fight_id": "0f53eb509d0ffeb9",
+            "fighter_a": "Natalia Silva",
+            "fighter_b": "Alexa Grasso",
+            "winner": "Natalia Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0f53eb509d0ffeb9"
+        },
+        {
+            "fight_id": "c7190cd03e53fb61",
+            "fighter_a": "Benoit Saint Denis",
+            "fighter_b": "Kyle Prepolec",
+            "winner": "Benoit Saint Denis",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 155,
+            "fight_url": "http://ufcstats.com/fight-details/c7190cd03e53fb61"
+        },
+        {
+            "fight_id": "2521234a4bf7c615",
+            "fighter_a": "Mike Malott",
+            "fighter_b": "Charles Radtke",
+            "winner": "Mike Malott",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/2521234a4bf7c615"
+        },
+        {
+            "fight_id": "4db2d86ebe8c8abd",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 160,
+            "fight_url": "http://ufcstats.com/fight-details/4db2d86ebe8c8abd"
+        },
+        {
+            "fight_id": "c812457a810dde39",
+            "fighter_a": "Modestas Bukauskas",
+            "fighter_b": "Ion Cutelaba",
+            "winner": "Modestas Bukauskas",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c812457a810dde39"
+        },
+        {
+            "fight_id": "99aa1f28e22bb6dd",
+            "fighter_a": "Navajo Stirling",
+            "fighter_b": "Ivan Erslan",
+            "winner": "Navajo Stirling",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/99aa1f28e22bb6dd"
+        },
+        {
+            "fight_id": "6ecfa439ef900bcc",
+            "fighter_a": "Marc-Andre Barriault",
+            "fighter_b": "Bruno Silva",
+            "winner": "Marc-Andre Barriault",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 87,
+            "fight_url": "http://ufcstats.com/fight-details/6ecfa439ef900bcc"
+        },
+        {
+            "fight_id": "0e0a4282cd6c86d7",
+            "fighter_a": "Daniel Santos",
+            "fighter_b": "JeongYeong Lee",
+            "winner": "Daniel Santos",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0e0a4282cd6c86d7"
+        },
+        {
+            "fight_id": "c20bd12ae7f04eff",
+            "fighter_a": "Bekzat Almakhan",
+            "fighter_b": "Brad Katona",
+            "winner": "Bekzat Almakhan",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/c20bd12ae7f04eff"
+        }
+    ]
+}

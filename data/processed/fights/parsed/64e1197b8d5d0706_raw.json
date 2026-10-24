@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "64e1197b8d5d0706",
+        "event_id": "9a967e8e43dcef63",
+        "event_name": "The Ultimate Fighter: Team Rousey vs. Team Tate Finale",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "ab850a77a0fa487d"
+    },
+    "fighter_a": {
+        "fighter_id": "ab850a77a0fa487d",
+        "name": "Sean Spencer",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "105 of 270",
+            "Sig. str. %": "38%",
+            "Total str.": "109 of 274",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "105 of 270",
+            "Sig. str. %": "38%",
+            "Head": "70 of 226",
+            "Body": "26 of 34",
+            "Leg": "9 of 10",
+            "Distance": "81 of 232",
+            "Clinch": "24 of 38",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "61 of 226",
+            "Sig. str. %": "26%",
+            "Total str.": "67 of 236",
+            "Td": "0 of 11",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "61 of 226",
+            "Sig. str. %": "26%",
+            "Head": "34 of 187",
+            "Body": "13 of 24",
+            "Leg": "14 of 15",
+            "Distance": "43 of 194",
+            "Clinch": "18 of 32",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "fighter_id": "c9bbf1a0285a8076",
+    "name": "Jeff Cox",
+    "record": "10-7-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Aug 02, 1968",
+    "sig_strikes_landed_per_min": "0.56",
+    "sig_striking_accuracy": "25%",
+    "sig_strikes_absorbed_per_min": "1.69",
+    "sig_strike_defense": "33%",
+    "takedowns_landed_per_15_min": "4.23",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "80%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "b89dea8c3e6bba6f",
+            "fight_url": "http://ufcstats.com/fight-details/b89dea8c3e6bba6f"
+        },
+        {
+            "fight_id": "ff8802aae3b81c3f",
+            "fight_url": "http://ufcstats.com/fight-details/ff8802aae3b81c3f"
+        }
+    ]
+}

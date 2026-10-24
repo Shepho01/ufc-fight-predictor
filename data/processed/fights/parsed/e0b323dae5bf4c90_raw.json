@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e0b323dae5bf4c90",
+        "event_id": "53278852bcd91e11",
+        "event_name": "UFC Fight Night: Lee vs. Oliveira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "0:28",
+        "referee": "Mike Beltran",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "ee9ebceabfd16fa7",
+        "name": "Kevin Lee",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 80",
+            "Sig. str. %": "51%",
+            "Total str.": "61 of 100",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "6:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 80",
+            "Sig. str. %": "51%",
+            "Head": "35 of 74",
+            "Body": "6 of 6",
+            "Leg": "0 of 0",
+            "Distance": "31 of 65",
+            "Clinch": "0 of 0",
+            "Ground": "10 of 15"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "43 of 65",
+            "Sig. str. %": "66%",
+            "Total str.": "51 of 73",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "0:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 65",
+            "Sig. str. %": "66%",
+            "Head": "28 of 49",
+            "Body": "9 of 10",
+            "Leg": "6 of 6",
+            "Distance": "35 of 56",
+            "Clinch": "2 of 2",
+            "Ground": "6 of 7"
+        }
+    }
+}

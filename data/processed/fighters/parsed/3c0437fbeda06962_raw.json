@@ -1,0 +1,84 @@
+{
+    "fighter_id": "3c0437fbeda06962",
+    "name": "George Roop",
+    "record": "15-13-1",
+    "height": "6' 1\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 10, 1981",
+    "sig_strikes_landed_per_min": "3.43",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "2.47",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "1.05",
+    "takedown_accuracy": "57%",
+    "takedown_defense": "59%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "e7e244a0bf244e61",
+            "fight_url": "http://ufcstats.com/fight-details/e7e244a0bf244e61"
+        },
+        {
+            "fight_id": "c576e311ea337a32",
+            "fight_url": "http://ufcstats.com/fight-details/c576e311ea337a32"
+        },
+        {
+            "fight_id": "3427667c1a265fe5",
+            "fight_url": "http://ufcstats.com/fight-details/3427667c1a265fe5"
+        },
+        {
+            "fight_id": "dc3deae609874677",
+            "fight_url": "http://ufcstats.com/fight-details/dc3deae609874677"
+        },
+        {
+            "fight_id": "1260d0031a5e469d",
+            "fight_url": "http://ufcstats.com/fight-details/1260d0031a5e469d"
+        },
+        {
+            "fight_id": "8e4650807ea06626",
+            "fight_url": "http://ufcstats.com/fight-details/8e4650807ea06626"
+        },
+        {
+            "fight_id": "ca263e46051261e2",
+            "fight_url": "http://ufcstats.com/fight-details/ca263e46051261e2"
+        },
+        {
+            "fight_id": "040f9c9b470f3e6b",
+            "fight_url": "http://ufcstats.com/fight-details/040f9c9b470f3e6b"
+        },
+        {
+            "fight_id": "2ebfb072b178649e",
+            "fight_url": "http://ufcstats.com/fight-details/2ebfb072b178649e"
+        },
+        {
+            "fight_id": "9a71dc94152a76ac",
+            "fight_url": "http://ufcstats.com/fight-details/9a71dc94152a76ac"
+        },
+        {
+            "fight_id": "0091e56e746971f4",
+            "fight_url": "http://ufcstats.com/fight-details/0091e56e746971f4"
+        },
+        {
+            "fight_id": "745b1395a2698762",
+            "fight_url": "http://ufcstats.com/fight-details/745b1395a2698762"
+        },
+        {
+            "fight_id": "11688b235fed019a",
+            "fight_url": "http://ufcstats.com/fight-details/11688b235fed019a"
+        },
+        {
+            "fight_id": "8ead66bc1678519b",
+            "fight_url": "http://ufcstats.com/fight-details/8ead66bc1678519b"
+        },
+        {
+            "fight_id": "5060770f197e2147",
+            "fight_url": "http://ufcstats.com/fight-details/5060770f197e2147"
+        },
+        {
+            "fight_id": "52e07b6540fad19e",
+            "fight_url": "http://ufcstats.com/fight-details/52e07b6540fad19e"
+        }
+    ]
+}

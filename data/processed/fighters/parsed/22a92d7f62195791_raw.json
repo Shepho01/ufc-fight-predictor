@@ -1,0 +1,116 @@
+{
+    "fighter_id": "22a92d7f62195791",
+    "name": "Tony Ferguson",
+    "record": "26-11-0",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 12, 1984",
+    "sig_strikes_landed_per_min": "4.91",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "4.37",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "0.39",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "2d39c26876246223",
+            "fight_url": "http://ufcstats.com/fight-details/2d39c26876246223"
+        },
+        {
+            "fight_id": "ac8628d945a78b03",
+            "fight_url": "http://ufcstats.com/fight-details/ac8628d945a78b03"
+        },
+        {
+            "fight_id": "f1eca70738ca073e",
+            "fight_url": "http://ufcstats.com/fight-details/f1eca70738ca073e"
+        },
+        {
+            "fight_id": "7e8fd03e070d0c25",
+            "fight_url": "http://ufcstats.com/fight-details/7e8fd03e070d0c25"
+        },
+        {
+            "fight_id": "a2ebb5f86eb64f22",
+            "fight_url": "http://ufcstats.com/fight-details/a2ebb5f86eb64f22"
+        },
+        {
+            "fight_id": "cfbaeb80b5ff7c00",
+            "fight_url": "http://ufcstats.com/fight-details/cfbaeb80b5ff7c00"
+        },
+        {
+            "fight_id": "b7b867eb3c3cf163",
+            "fight_url": "http://ufcstats.com/fight-details/b7b867eb3c3cf163"
+        },
+        {
+            "fight_id": "d395828f5cb045a5",
+            "fight_url": "http://ufcstats.com/fight-details/d395828f5cb045a5"
+        },
+        {
+            "fight_id": "323dc938d93a849b",
+            "fight_url": "http://ufcstats.com/fight-details/323dc938d93a849b"
+        },
+        {
+            "fight_id": "8f6dda53ea3b09c7",
+            "fight_url": "http://ufcstats.com/fight-details/8f6dda53ea3b09c7"
+        },
+        {
+            "fight_id": "03aec9073946907f",
+            "fight_url": "http://ufcstats.com/fight-details/03aec9073946907f"
+        },
+        {
+            "fight_id": "9220acccebf14a46",
+            "fight_url": "http://ufcstats.com/fight-details/9220acccebf14a46"
+        },
+        {
+            "fight_id": "824fb74f5fc34218",
+            "fight_url": "http://ufcstats.com/fight-details/824fb74f5fc34218"
+        },
+        {
+            "fight_id": "c64c2ca5d4d2c7b8",
+            "fight_url": "http://ufcstats.com/fight-details/c64c2ca5d4d2c7b8"
+        },
+        {
+            "fight_id": "c0e8095c91c39b06",
+            "fight_url": "http://ufcstats.com/fight-details/c0e8095c91c39b06"
+        },
+        {
+            "fight_id": "ffea776913451b6d",
+            "fight_url": "http://ufcstats.com/fight-details/ffea776913451b6d"
+        },
+        {
+            "fight_id": "7e8f4240725316a4",
+            "fight_url": "http://ufcstats.com/fight-details/7e8f4240725316a4"
+        },
+        {
+            "fight_id": "ae0b5ab5bc4bb6a7",
+            "fight_url": "http://ufcstats.com/fight-details/ae0b5ab5bc4bb6a7"
+        },
+        {
+            "fight_id": "002c1562708ac307",
+            "fight_url": "http://ufcstats.com/fight-details/002c1562708ac307"
+        },
+        {
+            "fight_id": "58b7b23b46f4ccd6",
+            "fight_url": "http://ufcstats.com/fight-details/58b7b23b46f4ccd6"
+        },
+        {
+            "fight_id": "1f290005cc147afb",
+            "fight_url": "http://ufcstats.com/fight-details/1f290005cc147afb"
+        },
+        {
+            "fight_id": "381b2df85ac06615",
+            "fight_url": "http://ufcstats.com/fight-details/381b2df85ac06615"
+        },
+        {
+            "fight_id": "3f7c7917a57d2782",
+            "fight_url": "http://ufcstats.com/fight-details/3f7c7917a57d2782"
+        },
+        {
+            "fight_id": "cd0bc692a7bce9e7",
+            "fight_url": "http://ufcstats.com/fight-details/cd0bc692a7bce9e7"
+        }
+    ]
+}

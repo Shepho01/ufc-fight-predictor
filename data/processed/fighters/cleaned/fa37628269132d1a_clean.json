@@ -1,0 +1,23 @@
+{
+    "fighter_id": "fa37628269132d1a",
+    "name": "Godofredo Pepey",
+    "wins": 13,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 2,
+    "dob_month": 7,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 2.32,
+    "sig_striking_accuracy": 0.38,
+    "sig_strikes_absorbed_per_min": 3.23,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 0.37,
+    "takedown_accuracy": 0.07,
+    "takedown_defense": 0.35,
+    "submission_attempts_per_15_min": 1.5
+}

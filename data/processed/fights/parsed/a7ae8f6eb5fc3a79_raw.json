@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a7ae8f6eb5fc3a79",
+        "event_id": "30ad2050273d016a",
+        "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:45",
+        "referee": "Herb Dean",
+        "winner_id": "c2299ec916bc7c56"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 47",
+            "Sig. str. %": "63%",
+            "Total str.": "51 of 68",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 47",
+            "Sig. str. %": "63%",
+            "Head": "19 of 32",
+            "Body": "8 of 12",
+            "Leg": "3 of 3",
+            "Distance": "28 of 44",
+            "Clinch": "2 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c2299ec916bc7c56",
+        "name": "Benoit Saint Denis",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "97 of 127",
+            "Sig. str. %": "76%",
+            "Total str.": "170 of 205",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "6:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "97 of 127",
+            "Sig. str. %": "76%",
+            "Head": "83 of 113",
+            "Body": "14 of 14",
+            "Leg": "0 of 0",
+            "Distance": "20 of 32",
+            "Clinch": "10 of 11",
+            "Ground": "67 of 84"
+        }
+    }
+}

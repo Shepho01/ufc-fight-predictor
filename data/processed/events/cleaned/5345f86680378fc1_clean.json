@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "5345f86680378fc1",
+        "event_name": "UFC Fight Night: Belfort vs Henderson 3",
+        "event_day": 7,
+        "event_month": 11,
+        "event_year": 2015,
+        "location": "Sao Paulo, Sao Paulo, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "93c4b798134c71d4",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Dan Henderson",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 127,
+            "fight_url": "http://ufcstats.com/fight-details/93c4b798134c71d4"
+        },
+        {
+            "fight_id": "2be2c9ddfbee0cd4",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Patrick Cummins",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 72,
+            "fight_url": "http://ufcstats.com/fight-details/2be2c9ddfbee0cd4"
+        },
+        {
+            "fight_id": "3c6659f1b09760ba",
+            "fighter_a": "Thomas Almeida",
+            "fighter_b": "Anthony Birchak",
+            "winner": "Thomas Almeida",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 264,
+            "fight_url": "http://ufcstats.com/fight-details/3c6659f1b09760ba"
+        },
+        {
+            "fight_id": "a637cd1012af870f",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "Piotr Hallmann",
+            "winner": "Alex Oliveira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 51,
+            "fight_url": "http://ufcstats.com/fight-details/a637cd1012af870f"
+        },
+        {
+            "fight_id": "f0b151cc6c91b259",
+            "fighter_a": "Rashid Magomedov",
+            "fighter_b": "Gilbert Burns",
+            "winner": "Rashid Magomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f0b151cc6c91b259"
+        },
+        {
+            "fight_id": "0339f66f18a3e0bf",
+            "fighter_a": "Corey Anderson",
+            "fighter_b": "Fabio Maldonado",
+            "winner": "Corey Anderson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0339f66f18a3e0bf"
+        },
+        {
+            "fight_id": "37c732554828dcc3",
+            "fighter_a": "Abel Trujillo",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Abel Trujillo",
+            "weight_class": "Lightweight",
+            "method": "DQ Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 105,
+            "fight_url": "http://ufcstats.com/fight-details/37c732554828dcc3"
+        },
+        {
+            "fight_id": "dc4f7eaaa2c9d450",
+            "fighter_a": "Johnny Case",
+            "fighter_b": "Yan Cabral",
+            "winner": "Johnny Case",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dc4f7eaaa2c9d450"
+        },
+        {
+            "fight_id": "b21e4b6c4126c782",
+            "fighter_a": "Thiago Tavares",
+            "fighter_b": "Clay Guida",
+            "winner": "Thiago Tavares",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 39,
+            "fight_url": "http://ufcstats.com/fight-details/b21e4b6c4126c782"
+        },
+        {
+            "fight_id": "6d9f6f7004c791d5",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Edimilson Souza",
+            "winner": "Chas Skelly",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 116,
+            "fight_url": "http://ufcstats.com/fight-details/6d9f6f7004c791d5"
+        },
+        {
+            "fight_id": "4ff0075d932d5b14",
+            "fighter_a": "Viscardi Andrade",
+            "fighter_b": "Gasan Umalatov",
+            "winner": "Viscardi Andrade",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4ff0075d932d5b14"
+        },
+        {
+            "fight_id": "d2198a7ae05b24c1",
+            "fighter_a": "Jimmie Rivera",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "Jimmie Rivera",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d2198a7ae05b24c1"
+        },
+        {
+            "fight_id": "e5461559114e30ff",
+            "fighter_a": "Matheus Nicolau",
+            "fighter_b": "Bruno Korea",
+            "winner": "Matheus Nicolau",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 207,
+            "fight_url": "http://ufcstats.com/fight-details/e5461559114e30ff"
+        }
+    ]
+}

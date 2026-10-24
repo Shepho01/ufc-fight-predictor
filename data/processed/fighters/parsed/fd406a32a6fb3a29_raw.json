@@ -1,0 +1,64 @@
+{
+    "fighter_id": "fd406a32a6fb3a29",
+    "name": "Chris Duncan",
+    "record": "15-3-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 10, 1993",
+    "sig_strikes_landed_per_min": "4.83",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "4.57",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "2.92",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "f11b0e41c0c97900",
+            "fight_url": "http://ufcstats.com/fight-details/f11b0e41c0c97900"
+        },
+        {
+            "fight_id": "d69bd8e53ec858dc",
+            "fight_url": "http://ufcstats.com/fight-details/d69bd8e53ec858dc"
+        },
+        {
+            "fight_id": "b3d2ac2244e4f791",
+            "fight_url": "http://ufcstats.com/fight-details/b3d2ac2244e4f791"
+        },
+        {
+            "fight_id": "426a69e343822ab3",
+            "fight_url": "http://ufcstats.com/fight-details/426a69e343822ab3"
+        },
+        {
+            "fight_id": "8e6640c007ad603d",
+            "fight_url": "http://ufcstats.com/fight-details/8e6640c007ad603d"
+        },
+        {
+            "fight_id": "eedc7fccf7037949",
+            "fight_url": "http://ufcstats.com/fight-details/eedc7fccf7037949"
+        },
+        {
+            "fight_id": "673a156925dfb31d",
+            "fight_url": "http://ufcstats.com/fight-details/673a156925dfb31d"
+        },
+        {
+            "fight_id": "a8a4c9f98ff73839",
+            "fight_url": "http://ufcstats.com/fight-details/a8a4c9f98ff73839"
+        },
+        {
+            "fight_id": "cdaf65287d9a0ecb",
+            "fight_url": "http://ufcstats.com/fight-details/cdaf65287d9a0ecb"
+        },
+        {
+            "fight_id": "708db9149bf306b0",
+            "fight_url": "http://ufcstats.com/fight-details/708db9149bf306b0"
+        },
+        {
+            "fight_id": "2835da3459b24ee1",
+            "fight_url": "http://ufcstats.com/fight-details/2835da3459b24ee1"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "8d49545dadf9b919",
+        "event_name": "UFC Fight Night: Hunt vs. Oleinik",
+        "event_date": "September 15, 2018",
+        "location": "Moscow, Moscow, Russia"
+    },
+    "fights": [
+        {
+            "fight_id": "eebb4dde70a67369",
+            "fighter_a": "Aleksei Oleinik",
+            "fighter_b": "Mark Hunt",
+            "winner": "Aleksei Oleinik",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:26",
+            "fight_url": "http://ufcstats.com/fight-details/eebb4dde70a67369"
+        },
+        {
+            "fight_id": "880f2bb0a639a5a0",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/880f2bb0a639a5a0"
+        },
+        {
+            "fight_id": "a7e8416f0d57c8e0",
+            "fighter_a": "Shamil Abdurakhimov",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Shamil Abdurakhimov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7e8416f0d57c8e0"
+        },
+        {
+            "fight_id": "dd0a3aedba5cee87",
+            "fighter_a": "Aleksei Kunchenko",
+            "fighter_b": "Thiago Alves",
+            "winner": "Aleksei Kunchenko",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dd0a3aedba5cee87"
+        },
+        {
+            "fight_id": "d40f865aa6be9cd0",
+            "fighter_a": "Khalid Murtazaliev",
+            "fighter_b": "CB Dollaway",
+            "winner": "Khalid Murtazaliev",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d40f865aa6be9cd0"
+        },
+        {
+            "fight_id": "c76fd2ddcbc4713d",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Jin Soo Son",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c76fd2ddcbc4713d"
+        },
+        {
+            "fight_id": "ba33d0868b25483b",
+            "fighter_a": "Rustam Khabilov",
+            "fighter_b": "Kajan Johnson",
+            "winner": "Rustam Khabilov",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ba33d0868b25483b"
+        },
+        {
+            "fight_id": "f56c6646b54c0662",
+            "fighter_a": "Mairbek Taisumov",
+            "fighter_b": "Desmond Green",
+            "winner": "Mairbek Taisumov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f56c6646b54c0662"
+        },
+        {
+            "fight_id": "1687e2cd061b7aec",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Marcin Prachnio",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "3:09",
+            "fight_url": "http://ufcstats.com/fight-details/1687e2cd061b7aec"
+        },
+        {
+            "fight_id": "ed72edc2ce0f3c5f",
+            "fighter_a": "Jordan Johnson",
+            "fighter_b": "Adam Yandiev",
+            "winner": "Jordan Johnson",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/ed72edc2ce0f3c5f"
+        },
+        {
+            "fight_id": "67f559403a6ec7cb",
+            "fighter_a": "Ramazan Emeev",
+            "fighter_b": "Stefan Sekulic",
+            "winner": "Ramazan Emeev",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/67f559403a6ec7cb"
+        },
+        {
+            "fight_id": "6455d9c54d99b851",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Terrion Ware",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6455d9c54d99b851"
+        }
+    ]
+}

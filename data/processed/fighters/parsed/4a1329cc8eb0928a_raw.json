@@ -1,0 +1,60 @@
+{
+    "fighter_id": "4a1329cc8eb0928a",
+    "name": "Maximo Blanco",
+    "record": "12-8-1 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Oct 16, 1983",
+    "sig_strikes_landed_per_min": "4.11",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.19",
+    "sig_strike_defense": "66%",
+    "takedowns_landed_per_15_min": "1.85",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "63%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "00b7497b02b3b2bb",
+            "fight_url": "http://ufcstats.com/fight-details/00b7497b02b3b2bb"
+        },
+        {
+            "fight_id": "cdf048ec9b917cfa",
+            "fight_url": "http://ufcstats.com/fight-details/cdf048ec9b917cfa"
+        },
+        {
+            "fight_id": "8410fb6d495a2cc2",
+            "fight_url": "http://ufcstats.com/fight-details/8410fb6d495a2cc2"
+        },
+        {
+            "fight_id": "284e05afc9479620",
+            "fight_url": "http://ufcstats.com/fight-details/284e05afc9479620"
+        },
+        {
+            "fight_id": "47bdfab3cdcdddfd",
+            "fight_url": "http://ufcstats.com/fight-details/47bdfab3cdcdddfd"
+        },
+        {
+            "fight_id": "8619c3cde7dd4e15",
+            "fight_url": "http://ufcstats.com/fight-details/8619c3cde7dd4e15"
+        },
+        {
+            "fight_id": "b186f4778257ca6d",
+            "fight_url": "http://ufcstats.com/fight-details/b186f4778257ca6d"
+        },
+        {
+            "fight_id": "0a5a021cb11299bf",
+            "fight_url": "http://ufcstats.com/fight-details/0a5a021cb11299bf"
+        },
+        {
+            "fight_id": "eaf8782e4e03139b",
+            "fight_url": "http://ufcstats.com/fight-details/eaf8782e4e03139b"
+        },
+        {
+            "fight_id": "5700cce4f56a4de6",
+            "fight_url": "http://ufcstats.com/fight-details/5700cce4f56a4de6"
+        }
+    ]
+}

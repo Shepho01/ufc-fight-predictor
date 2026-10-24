@@ -1,0 +1,23 @@
+{
+    "fighter_id": "ee9ebceabfd16fa7",
+    "name": "Kevin Lee",
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 170,
+    "reach_cm": 195.58,
+    "stance": "Orthodox",
+    "dob_day": 4,
+    "dob_month": 9,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 3.88,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.6,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 3.18,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 0.8
+}

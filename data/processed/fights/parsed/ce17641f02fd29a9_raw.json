@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ce17641f02fd29a9",
+        "event_id": "b18fb36a4aa00093",
+        "event_name": "WEC 48: Aldo vs. Faber",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "2:13",
+        "referee": "Jon Schorle",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 8",
+            "Sig. str. %": "25%",
+            "Total str.": "2 of 8",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 8",
+            "Sig. str. %": "25%",
+            "Head": "0 of 5",
+            "Body": "1 of 2",
+            "Leg": "1 of 1",
+            "Distance": "1 of 7",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "dab0e6cb8c932162",
+        "name": "Anthony Morrison",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 5",
+            "Sig. str. %": "100%",
+            "Total str.": "6 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 5",
+            "Sig. str. %": "100%",
+            "Head": "4 of 4",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "4 of 4",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

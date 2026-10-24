@@ -1,0 +1,36 @@
+{
+    "fighter_id": "879f6cae48d25baa",
+    "name": "Justin Lawrence",
+    "record": "10-4-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "May 15, 1990",
+    "sig_strikes_landed_per_min": "3.84",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "2.83",
+    "sig_strike_defense": "67%",
+    "takedowns_landed_per_15_min": "0.72",
+    "takedown_accuracy": "28%",
+    "takedown_defense": "73%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "ae0fdb792308b0f8",
+            "fight_url": "http://ufcstats.com/fight-details/ae0fdb792308b0f8"
+        },
+        {
+            "fight_id": "42f11b82d67585af",
+            "fight_url": "http://ufcstats.com/fight-details/42f11b82d67585af"
+        },
+        {
+            "fight_id": "64e7c4ee81d46900",
+            "fight_url": "http://ufcstats.com/fight-details/64e7c4ee81d46900"
+        },
+        {
+            "fight_id": "608fb46a1ec8c5ae",
+            "fight_url": "http://ufcstats.com/fight-details/608fb46a1ec8c5ae"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "46effbd1135423c5",
+        "event_name": "UFC Fight Night: Rodriguez vs. Penn",
+        "event_date": "January 15, 2017",
+        "location": "Phoenix, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5742025a09190829",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "BJ Penn",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:24",
+            "fight_url": "http://ufcstats.com/fight-details/5742025a09190829"
+        },
+        {
+            "fight_id": "00720c46f864fe03",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Marcin Held",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/00720c46f864fe03"
+        },
+        {
+            "fight_id": "8edb831924d69dd9",
+            "fighter_a": "Ben Saunders",
+            "fighter_b": "Court McGee",
+            "winner": "Ben Saunders",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8edb831924d69dd9"
+        },
+        {
+            "fight_id": "7685701c382cd49a",
+            "fighter_a": "Sergio Pettis",
+            "fighter_b": "John Moraga",
+            "winner": "Sergio Pettis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7685701c382cd49a"
+        },
+        {
+            "fight_id": "bbb67c2ac4453d64",
+            "fighter_a": "Drakkar Klose",
+            "fighter_b": "Devin Powell",
+            "winner": "Drakkar Klose",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bbb67c2ac4453d64"
+        },
+        {
+            "fight_id": "b60bbec8ec98941b",
+            "fighter_a": "Augusto Mendes",
+            "fighter_b": "Frankie Saenz",
+            "winner": "Augusto Mendes",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b60bbec8ec98941b"
+        },
+        {
+            "fight_id": "1a81573425c585fb",
+            "fighter_a": "Aleksei Oleinik",
+            "fighter_b": "Viktor Pesta",
+            "winner": "Aleksei Oleinik",
+            "weight_class": "Heavyweight",
+            "method": "SUB Ezekiel Choke",
+            "round": "1",
+            "time": "2:57",
+            "fight_url": "http://ufcstats.com/fight-details/1a81573425c585fb"
+        },
+        {
+            "fight_id": "8156479490877d08",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Alex White",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8156479490877d08"
+        },
+        {
+            "fight_id": "53c3565ee1d3411a",
+            "fighter_a": "Nina Nunes",
+            "fighter_b": "Jocelyn Jones-Lybarger",
+            "winner": "Nina Nunes",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/53c3565ee1d3411a"
+        },
+        {
+            "fight_id": "3f7684492c9df05e",
+            "fighter_a": "Walt Harris",
+            "fighter_b": "Chase Sherman",
+            "winner": "Walt Harris",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/3f7684492c9df05e"
+        },
+        {
+            "fight_id": "ae803440d778a12b",
+            "fighter_a": "Joachim Christensen",
+            "fighter_b": "Bojan Mihajlovic",
+            "winner": "Joachim Christensen",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/ae803440d778a12b"
+        },
+        {
+            "fight_id": "c1356395d6b055d7",
+            "fighter_a": "Cyril Asker",
+            "fighter_b": "Dmitrii Smoliakov",
+            "winner": "Cyril Asker",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/c1356395d6b055d7"
+        }
+    ]
+}

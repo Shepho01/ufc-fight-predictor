@@ -1,0 +1,52 @@
+{
+    "fighter_id": "edd02825c29028fe",
+    "name": "Marco Polo Reyes",
+    "record": "8-7-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Nov 07, 1984",
+    "sig_strikes_landed_per_min": "6.00",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "5.52",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "ad878cdd4fa36a3a",
+            "fight_url": "http://ufcstats.com/fight-details/ad878cdd4fa36a3a"
+        },
+        {
+            "fight_id": "966bf043577f8b6a",
+            "fight_url": "http://ufcstats.com/fight-details/966bf043577f8b6a"
+        },
+        {
+            "fight_id": "18d6df67968bf06b",
+            "fight_url": "http://ufcstats.com/fight-details/18d6df67968bf06b"
+        },
+        {
+            "fight_id": "4843f369dc8b5de5",
+            "fight_url": "http://ufcstats.com/fight-details/4843f369dc8b5de5"
+        },
+        {
+            "fight_id": "567cefcaba821205",
+            "fight_url": "http://ufcstats.com/fight-details/567cefcaba821205"
+        },
+        {
+            "fight_id": "c1e039419a671b9e",
+            "fight_url": "http://ufcstats.com/fight-details/c1e039419a671b9e"
+        },
+        {
+            "fight_id": "1cbb930fb77a3781",
+            "fight_url": "http://ufcstats.com/fight-details/1cbb930fb77a3781"
+        },
+        {
+            "fight_id": "84d89d2f36d07dc0",
+            "fight_url": "http://ufcstats.com/fight-details/84d89d2f36d07dc0"
+        }
+    ]
+}

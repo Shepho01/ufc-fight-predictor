@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "902ab9197b83d0db",
+        "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+        "event_day": 24,
+        "event_month": 2,
+        "event_year": 2024,
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "74f5cbecac011abb",
+            "fighter_a": "Brandon Royval",
+            "fighter_b": "Brandon Moreno",
+            "winner": "Brandon Royval",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/74f5cbecac011abb"
+        },
+        {
+            "fight_id": "3b05a4ced6dd74f5",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Yair Rodriguez",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 58,
+            "fight_url": "http://ufcstats.com/fight-details/3b05a4ced6dd74f5"
+        },
+        {
+            "fight_id": "ecbece0cbd60029e",
+            "fighter_a": "Daniel Zellhuber",
+            "fighter_b": "Francisco Prado",
+            "winner": "Daniel Zellhuber",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ecbece0cbd60029e"
+        },
+        {
+            "fight_id": "6e4acb2aaa2cee56",
+            "fighter_a": "Yazmin Jauregui",
+            "fighter_b": "Sam Hughes",
+            "winner": "Yazmin Jauregui",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6e4acb2aaa2cee56"
+        },
+        {
+            "fight_id": "673a156925dfb31d",
+            "fighter_a": "Manuel Torres",
+            "fighter_b": "Chris Duncan",
+            "winner": "Manuel Torres",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 106,
+            "fight_url": "http://ufcstats.com/fight-details/673a156925dfb31d"
+        },
+        {
+            "fight_id": "063e7ce759c52f81",
+            "fighter_a": "Raoni Barcelos",
+            "fighter_b": "Cristian Quinonez",
+            "winner": "Raoni Barcelos",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 124,
+            "fight_url": "http://ufcstats.com/fight-details/063e7ce759c52f81"
+        },
+        {
+            "fight_id": "d1d3b6ab8a56e973",
+            "fighter_a": "Jesus Aguilar",
+            "fighter_b": "Mateus Mendonca",
+            "winner": "Jesus Aguilar",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d1d3b6ab8a56e973"
+        },
+        {
+            "fight_id": "1c03c1bb62f3aed6",
+            "fighter_a": "Edgar Chairez",
+            "fighter_b": "Daniel Lacerda",
+            "winner": "Edgar Chairez",
+            "weight_class": "Flyweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 137,
+            "fight_url": "http://ufcstats.com/fight-details/1c03c1bb62f3aed6"
+        },
+        {
+            "fight_id": "a376f6d5806d0c90",
+            "fighter_a": "Fares Ziam",
+            "fighter_b": "Claudio Puelles",
+            "winner": "Fares Ziam",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a376f6d5806d0c90"
+        },
+        {
+            "fight_id": "5e8c710f9f27aff8",
+            "fighter_a": "Ronaldo Rodriguez",
+            "fighter_b": "Denys Bondar",
+            "winner": "Ronaldo Rodriguez",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/5e8c710f9f27aff8"
+        },
+        {
+            "fight_id": "93ddc6b233d1956a",
+            "fighter_a": "Felipe dos Santos",
+            "fighter_b": "Victor Altamirano",
+            "winner": "Felipe dos Santos",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/93ddc6b233d1956a"
+        },
+        {
+            "fight_id": "50dae6b76c9c6490",
+            "fighter_a": "Muhammad Naimov",
+            "fighter_b": "Erik Silva",
+            "winner": "Muhammad Naimov",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/50dae6b76c9c6490"
+        }
+    ]
+}

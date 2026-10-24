@@ -1,0 +1,64 @@
+{
+    "fighter_id": "33011768c3c4dc9a",
+    "name": "Terry Etim",
+    "record": "16-5-0",
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jan 11, 1986",
+    "sig_strikes_landed_per_min": "2.16",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "2.53",
+    "sig_strike_defense": "67%",
+    "takedowns_landed_per_15_min": "0.43",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "39%",
+    "submission_attempts_per_15_min": "1.4",
+    "fight_history": [
+        {
+            "fight_id": "e27a9b4b4a46f091",
+            "fight_url": "http://ufcstats.com/fight-details/e27a9b4b4a46f091"
+        },
+        {
+            "fight_id": "11e7f12ecb2d1597",
+            "fight_url": "http://ufcstats.com/fight-details/11e7f12ecb2d1597"
+        },
+        {
+            "fight_id": "92030ef8b5796b0a",
+            "fight_url": "http://ufcstats.com/fight-details/92030ef8b5796b0a"
+        },
+        {
+            "fight_id": "38ea5a7a5b4932cb",
+            "fight_url": "http://ufcstats.com/fight-details/38ea5a7a5b4932cb"
+        },
+        {
+            "fight_id": "4f36bc6fe119c4ac",
+            "fight_url": "http://ufcstats.com/fight-details/4f36bc6fe119c4ac"
+        },
+        {
+            "fight_id": "0d09e95e85efad69",
+            "fight_url": "http://ufcstats.com/fight-details/0d09e95e85efad69"
+        },
+        {
+            "fight_id": "0bf249717dacc5c3",
+            "fight_url": "http://ufcstats.com/fight-details/0bf249717dacc5c3"
+        },
+        {
+            "fight_id": "cd5336ef8b2329f4",
+            "fight_url": "http://ufcstats.com/fight-details/cd5336ef8b2329f4"
+        },
+        {
+            "fight_id": "02d2da0420fbdd39",
+            "fight_url": "http://ufcstats.com/fight-details/02d2da0420fbdd39"
+        },
+        {
+            "fight_id": "9971f8bcd3b10069",
+            "fight_url": "http://ufcstats.com/fight-details/9971f8bcd3b10069"
+        },
+        {
+            "fight_id": "8dbd4d1df2e7ff67",
+            "fight_url": "http://ufcstats.com/fight-details/8dbd4d1df2e7ff67"
+        }
+    ]
+}

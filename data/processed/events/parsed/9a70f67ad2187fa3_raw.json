@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "9a70f67ad2187fa3",
+        "event_name": "UFC Fight Night: Moicano vs. Duncan",
+        "event_date": "April 04, 2026",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d69bd8e53ec858dc",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Chris Duncan",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/d69bd8e53ec858dc"
+        },
+        {
+            "fight_id": "721642e7de112e9e",
+            "fighter_a": "Virna Jandiroba",
+            "fighter_b": "Tabatha Ricci",
+            "winner": "Virna Jandiroba",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/721642e7de112e9e"
+        },
+        {
+            "fight_id": "ad487d1c6141d90a",
+            "fighter_a": "Abdul Rakhman Yakhyaev",
+            "fighter_b": "Brendson Ribeiro",
+            "winner": "Abdul Rakhman Yakhyaev",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:52",
+            "fight_url": "http://ufcstats.com/fight-details/ad487d1c6141d90a"
+        },
+        {
+            "fight_id": "fef80c98b2fba70c",
+            "fighter_a": "Ethyn Ewing",
+            "fighter_b": "Rafael Estevam",
+            "winner": "Ethyn Ewing",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:44",
+            "fight_url": "http://ufcstats.com/fight-details/fef80c98b2fba70c"
+        },
+        {
+            "fight_id": "c27bec45d5a29a2c",
+            "fighter_a": "Tommy McMillen",
+            "fighter_b": "Manolo Zecchini",
+            "winner": "Tommy McMillen",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "3:57",
+            "fight_url": "http://ufcstats.com/fight-details/c27bec45d5a29a2c"
+        },
+        {
+            "fight_id": "7924f10aac3543de",
+            "fighter_a": "Jose Delano",
+            "fighter_b": "Robert Ruchala",
+            "winner": "Jose Delano",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7924f10aac3543de"
+        },
+        {
+            "fight_id": "0760bc02280574dd",
+            "fighter_a": "Thomas Petersen",
+            "fighter_b": "Guilherme Pat",
+            "winner": "Thomas Petersen",
+            "weight_class": "Heavyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0760bc02280574dd"
+        },
+        {
+            "fight_id": "af2a9d47ca8115e4",
+            "fighter_a": "Alessandro Costa",
+            "fighter_b": "Stewart Nicoll",
+            "winner": "Alessandro Costa",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:56",
+            "fight_url": "http://ufcstats.com/fight-details/af2a9d47ca8115e4"
+        },
+        {
+            "fight_id": "9c9c26679701b84d",
+            "fighter_a": "Darrius Flowers",
+            "fighter_b": "Lando Vannata",
+            "winner": "Darrius Flowers",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:52",
+            "fight_url": "http://ufcstats.com/fight-details/9c9c26679701b84d"
+        },
+        {
+            "fight_id": "74bb036ef0493bf7",
+            "fighter_a": "Alice Pereira",
+            "fighter_b": "Hailey Cowan",
+            "winner": "Alice Pereira",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "4:24",
+            "fight_url": "http://ufcstats.com/fight-details/74bb036ef0493bf7"
+        },
+        {
+            "fight_id": "e284a194fb4648a9",
+            "fighter_a": "Tresean Gore",
+            "fighter_b": "Azamat Bekoev",
+            "winner": "Tresean Gore",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "3:27",
+            "fight_url": "http://ufcstats.com/fight-details/e284a194fb4648a9"
+        },
+        {
+            "fight_id": "caf13346cbcfdb03",
+            "fighter_a": "Dione Barbosa",
+            "fighter_b": "Melissa Gatto",
+            "winner": "Dione Barbosa",
+            "weight_class": "Women's Flyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/caf13346cbcfdb03"
+        },
+        {
+            "fight_id": "a5a749aa0061fdb4",
+            "fighter_a": "Kai Kamaka III",
+            "fighter_b": "Dakota Hope",
+            "winner": "Kai Kamaka III",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a5a749aa0061fdb4"
+        }
+    ]
+}

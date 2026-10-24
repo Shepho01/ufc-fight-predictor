@@ -1,0 +1,112 @@
+{
+    "fighter_id": "a566371ba2ad7152",
+    "name": "Josh Thomson",
+    "record": "22-9-0 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 21, 1978",
+    "sig_strikes_landed_per_min": "2.59",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "2.12",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "1.92",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "54%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "c0e8095c91c39b06",
+            "fight_url": "http://ufcstats.com/fight-details/c0e8095c91c39b06"
+        },
+        {
+            "fight_id": "23124e6f3e7aa37d",
+            "fight_url": "http://ufcstats.com/fight-details/23124e6f3e7aa37d"
+        },
+        {
+            "fight_id": "7fda79ba69b06c0b",
+            "fight_url": "http://ufcstats.com/fight-details/7fda79ba69b06c0b"
+        },
+        {
+            "fight_id": "56ce29bdb1fe9abf",
+            "fight_url": "http://ufcstats.com/fight-details/56ce29bdb1fe9abf"
+        },
+        {
+            "fight_id": "4732c745da1e7152",
+            "fight_url": "http://ufcstats.com/fight-details/4732c745da1e7152"
+        },
+        {
+            "fight_id": "e1157b4b85376364",
+            "fight_url": "http://ufcstats.com/fight-details/e1157b4b85376364"
+        },
+        {
+            "fight_id": "4b075f9bd40a607b",
+            "fight_url": "http://ufcstats.com/fight-details/4b075f9bd40a607b"
+        },
+        {
+            "fight_id": "9f4999e98cc3140d",
+            "fight_url": "http://ufcstats.com/fight-details/9f4999e98cc3140d"
+        },
+        {
+            "fight_id": "fb2c55c96429544d",
+            "fight_url": "http://ufcstats.com/fight-details/fb2c55c96429544d"
+        },
+        {
+            "fight_id": "37bf2148d7436ad1",
+            "fight_url": "http://ufcstats.com/fight-details/37bf2148d7436ad1"
+        },
+        {
+            "fight_id": "0addd9418fbac80b",
+            "fight_url": "http://ufcstats.com/fight-details/0addd9418fbac80b"
+        },
+        {
+            "fight_id": "c8dcda179a4dbf7a",
+            "fight_url": "http://ufcstats.com/fight-details/c8dcda179a4dbf7a"
+        },
+        {
+            "fight_id": "c266ee1c1fe8c4c2",
+            "fight_url": "http://ufcstats.com/fight-details/c266ee1c1fe8c4c2"
+        },
+        {
+            "fight_id": "7beefab4396b3609",
+            "fight_url": "http://ufcstats.com/fight-details/7beefab4396b3609"
+        },
+        {
+            "fight_id": "10fa5dcc005594df",
+            "fight_url": "http://ufcstats.com/fight-details/10fa5dcc005594df"
+        },
+        {
+            "fight_id": "0a4052e2042bc1a2",
+            "fight_url": "http://ufcstats.com/fight-details/0a4052e2042bc1a2"
+        },
+        {
+            "fight_id": "667266b6d18b0db3",
+            "fight_url": "http://ufcstats.com/fight-details/667266b6d18b0db3"
+        },
+        {
+            "fight_id": "a0f1f25c90222b4d",
+            "fight_url": "http://ufcstats.com/fight-details/a0f1f25c90222b4d"
+        },
+        {
+            "fight_id": "b2bc7788472c5704",
+            "fight_url": "http://ufcstats.com/fight-details/b2bc7788472c5704"
+        },
+        {
+            "fight_id": "c9c5b2507c6be9e3",
+            "fight_url": "http://ufcstats.com/fight-details/c9c5b2507c6be9e3"
+        },
+        {
+            "fight_id": "fab7e4790b11de3c",
+            "fight_url": "http://ufcstats.com/fight-details/fab7e4790b11de3c"
+        },
+        {
+            "fight_id": "3cdcaa0a59dfb8ea",
+            "fight_url": "http://ufcstats.com/fight-details/3cdcaa0a59dfb8ea"
+        },
+        {
+            "fight_id": "82d5c8ae5aa80251",
+            "fight_url": "http://ufcstats.com/fight-details/82d5c8ae5aa80251"
+        }
+    ]
+}

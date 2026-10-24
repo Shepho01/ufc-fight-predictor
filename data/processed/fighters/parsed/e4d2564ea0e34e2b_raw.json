@@ -1,0 +1,28 @@
+{
+    "fighter_id": "e4d2564ea0e34e2b",
+    "name": "Mehdi Baghdad",
+    "record": "11-5-0",
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Apr 13, 1985",
+    "sig_strikes_landed_per_min": "3.13",
+    "sig_striking_accuracy": "30%",
+    "sig_strikes_absorbed_per_min": "4.56",
+    "sig_strike_defense": "46%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "33%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "5e13fbe15c887a33",
+            "fight_url": "http://ufcstats.com/fight-details/5e13fbe15c887a33"
+        },
+        {
+            "fight_id": "226c6a86f4f81122",
+            "fight_url": "http://ufcstats.com/fight-details/226c6a86f4f81122"
+        }
+    ]
+}

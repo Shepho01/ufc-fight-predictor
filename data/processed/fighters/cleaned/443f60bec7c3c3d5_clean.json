@@ -1,0 +1,23 @@
+{
+    "fighter_id": "443f60bec7c3c3d5",
+    "name": "Michael McBride",
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 9,
+    "dob_month": 3,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 4.08,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 5.85,
+    "sig_strike_defense": 0.4,
+    "takedowns_landed_per_15_min": 1.85,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.3,
+    "submission_attempts_per_15_min": 1.2
+}

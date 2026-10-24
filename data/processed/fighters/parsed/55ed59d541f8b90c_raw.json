@@ -1,0 +1,36 @@
+{
+    "fighter_id": "55ed59d541f8b90c",
+    "name": "Rolando Dy",
+    "record": "9-7-1 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Aug 11, 1990",
+    "sig_strikes_landed_per_min": "3.04",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "4.47",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.30",
+    "takedown_accuracy": "20%",
+    "takedown_defense": "68%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "bb7408d59b7279f7",
+            "fight_url": "http://ufcstats.com/fight-details/bb7408d59b7279f7"
+        },
+        {
+            "fight_id": "903feee04bc91c59",
+            "fight_url": "http://ufcstats.com/fight-details/903feee04bc91c59"
+        },
+        {
+            "fight_id": "6be073563a421bca",
+            "fight_url": "http://ufcstats.com/fight-details/6be073563a421bca"
+        },
+        {
+            "fight_id": "b66f4fa1b9b96b51",
+            "fight_url": "http://ufcstats.com/fight-details/b66f4fa1b9b96b51"
+        }
+    ]
+}

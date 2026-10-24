@@ -1,0 +1,44 @@
+{
+    "fighter_id": "be5cfd73617a5b1a",
+    "name": "Javier Vazquez",
+    "record": "16-5-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Jul 16, 1977",
+    "sig_strikes_landed_per_min": "2.43",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "1.99",
+    "sig_strike_defense": "72%",
+    "takedowns_landed_per_15_min": "2.56",
+    "takedown_accuracy": "52%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "4289bcb551b07bc1",
+            "fight_url": "http://ufcstats.com/fight-details/4289bcb551b07bc1"
+        },
+        {
+            "fight_id": "65df45b296cfa7d8",
+            "fight_url": "http://ufcstats.com/fight-details/65df45b296cfa7d8"
+        },
+        {
+            "fight_id": "4cb4ee5c0ff9e779",
+            "fight_url": "http://ufcstats.com/fight-details/4cb4ee5c0ff9e779"
+        },
+        {
+            "fight_id": "9ada499a8b14bc94",
+            "fight_url": "http://ufcstats.com/fight-details/9ada499a8b14bc94"
+        },
+        {
+            "fight_id": "8b3afee3c9a41224",
+            "fight_url": "http://ufcstats.com/fight-details/8b3afee3c9a41224"
+        },
+        {
+            "fight_id": "5c07100ba35e6a16",
+            "fight_url": "http://ufcstats.com/fight-details/5c07100ba35e6a16"
+        }
+    ]
+}

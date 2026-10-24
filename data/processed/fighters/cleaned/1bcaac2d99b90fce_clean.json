@@ -1,0 +1,23 @@
+{
+    "fighter_id": "1bcaac2d99b90fce",
+    "name": "Sergio Moraes",
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 170,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 23,
+    "dob_month": 7,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 2.42,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.73,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 1.2,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 0.4
+}

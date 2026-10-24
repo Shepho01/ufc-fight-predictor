@@ -1,0 +1,40 @@
+{
+    "fighter_id": "029afd138865d20a",
+    "name": "Rafael Alves",
+    "record": "20-12-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Nov 14, 1990",
+    "sig_strikes_landed_per_min": "1.85",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "3.30",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "0.29",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "44%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "02615499125b4b5d",
+            "fight_url": "http://ufcstats.com/fight-details/02615499125b4b5d"
+        },
+        {
+            "fight_id": "81a18de517a3336a",
+            "fight_url": "http://ufcstats.com/fight-details/81a18de517a3336a"
+        },
+        {
+            "fight_id": "2c21abbc28e3876a",
+            "fight_url": "http://ufcstats.com/fight-details/2c21abbc28e3876a"
+        },
+        {
+            "fight_id": "82d48296fd06c27f",
+            "fight_url": "http://ufcstats.com/fight-details/82d48296fd06c27f"
+        },
+        {
+            "fight_id": "1c8d40763bb262b9",
+            "fight_url": "http://ufcstats.com/fight-details/1c8d40763bb262b9"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "872b018076f831b0",
+        "event_name": "UFC Fight Night: Della Maddalena vs. Prates",
+        "event_day": 2,
+        "event_month": 5,
+        "event_year": 2026,
+        "location": "Perth, Western Australia, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "eb6d9fef6c374830",
+            "fighter_a": "Carlos Prates",
+            "fighter_b": "Jack Della Maddalena",
+            "winner": "Carlos Prates",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": 3,
+            "time_seconds": 197,
+            "fight_url": "http://ufcstats.com/fight-details/eb6d9fef6c374830"
+        },
+        {
+            "fight_id": "5c7c38dece435cde",
+            "fighter_a": "Quillan Salkilld",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Quillan Salkilld",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 209,
+            "fight_url": "http://ufcstats.com/fight-details/5c7c38dece435cde"
+        },
+        {
+            "fight_id": "afec383a96893ec5",
+            "fighter_a": "Steve Erceg",
+            "fighter_b": "Tim Elliott",
+            "winner": "Steve Erceg",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/afec383a96893ec5"
+        },
+        {
+            "fight_id": "cfc884a249141cba",
+            "fighter_a": "Marwan Rahiki",
+            "fighter_b": "Ollie Schmid",
+            "winner": "Marwan Rahiki",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/cfc884a249141cba"
+        },
+        {
+            "fight_id": "a564219e7a964aa6",
+            "fighter_a": "Brando Pericic",
+            "fighter_b": "Shamil Gaziev",
+            "winner": "Brando Pericic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 224,
+            "fight_url": "http://ufcstats.com/fight-details/a564219e7a964aa6"
+        },
+        {
+            "fight_id": "2afaa97901d5587c",
+            "fighter_a": "Louie Sutherland",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Louie Sutherland",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2afaa97901d5587c"
+        },
+        {
+            "fight_id": "46181797eb543a0b",
+            "fighter_a": "Cam Rowston",
+            "fighter_b": "Robert Bryczek",
+            "winner": "Cam Rowston",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/46181797eb543a0b"
+        },
+        {
+            "fight_id": "1cb0711cd49dd95e",
+            "fighter_a": "Junior Tafa",
+            "fighter_b": "Kevin Christian",
+            "winner": "Junior Tafa",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/1cb0711cd49dd95e"
+        },
+        {
+            "fight_id": "edff38661bf2866b",
+            "fighter_a": "Jacob Malkoun",
+            "fighter_b": "Gerald Meerschaert",
+            "winner": "Jacob Malkoun",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/edff38661bf2866b"
+        },
+        {
+            "fight_id": "00bde62cac38e5e9",
+            "fighter_a": "Colby Thicknesse",
+            "fighter_b": "Vince Morales",
+            "winner": "Colby Thicknesse",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/00bde62cac38e5e9"
+        },
+        {
+            "fight_id": "827c64369b374989",
+            "fighter_a": "Wes Schultz",
+            "fighter_b": "Ben Johnston",
+            "winner": "Wes Schultz",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 110,
+            "fight_url": "http://ufcstats.com/fight-details/827c64369b374989"
+        },
+        {
+            "fight_id": "7ac4ae301ed699ab",
+            "fighter_a": "Jonathan Micallef",
+            "fighter_b": "Themba Gorimbo",
+            "winner": "Jonathan Micallef",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7ac4ae301ed699ab"
+        },
+        {
+            "fight_id": "610a640a0cd81ce5",
+            "fighter_a": "Kody Steele",
+            "fighter_b": "Dom Mar Fan",
+            "winner": "Kody Steele",
+            "weight_class": "Lightweight",
+            "method": "SUB Heel Hook",
+            "round": 1,
+            "time_seconds": 236,
+            "fight_url": "http://ufcstats.com/fight-details/610a640a0cd81ce5"
+        }
+    ]
+}

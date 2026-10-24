@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "dfb965c9824425db",
+        "event_name": "UFC Fight Night: Overeem vs. Harris",
+        "event_date": "May 16, 2020",
+        "location": "Jacksonville, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ce0748519d5ea5c6",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Walt Harris",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:00",
+            "fight_url": "http://ufcstats.com/fight-details/ce0748519d5ea5c6"
+        },
+        {
+            "fight_id": "27bfb9205119f23b",
+            "fighter_a": "Claudia Gadelha",
+            "fighter_b": "Angela Hill",
+            "winner": "Claudia Gadelha",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/27bfb9205119f23b"
+        },
+        {
+            "fight_id": "58540b24ed77d31b",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Edson Barboza",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/58540b24ed77d31b"
+        },
+        {
+            "fight_id": "821a1c6f5d7fab14",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Eryk Anders",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/821a1c6f5d7fab14"
+        },
+        {
+            "fight_id": "81f2f2d4b0302590",
+            "fighter_a": "Song Yadong",
+            "fighter_b": "Marlon Vera",
+            "winner": "Song Yadong",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/81f2f2d4b0302590"
+        },
+        {
+            "fight_id": "adac148ee6fa3bf7",
+            "fighter_a": "Miguel Baeza",
+            "fighter_b": "Matt Brown",
+            "winner": "Miguel Baeza",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:18",
+            "fight_url": "http://ufcstats.com/fight-details/adac148ee6fa3bf7"
+        },
+        {
+            "fight_id": "51461da4ba467901",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Anthony Hernandez",
+            "winner": "Kevin Holland",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knees",
+            "round": "1",
+            "time": "0:39",
+            "fight_url": "http://ufcstats.com/fight-details/51461da4ba467901"
+        },
+        {
+            "fight_id": "b1e66cea3a4d4709",
+            "fighter_a": "Giga Chikadze",
+            "fighter_b": "Irwin Rivera",
+            "winner": "Giga Chikadze",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b1e66cea3a4d4709"
+        },
+        {
+            "fight_id": "f039c93516e48253",
+            "fighter_a": "Nate Landwehr",
+            "fighter_b": "Darren Elkins",
+            "winner": "Nate Landwehr",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f039c93516e48253"
+        },
+        {
+            "fight_id": "906283a2adcbc3e0",
+            "fighter_a": "Cortney Casey",
+            "fighter_b": "Mara Romero Borella",
+            "winner": "Cortney Casey",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "3:36",
+            "fight_url": "http://ufcstats.com/fight-details/906283a2adcbc3e0"
+        },
+        {
+            "fight_id": "ebe122e962d26fa4",
+            "fighter_a": "Rodrigo Nascimento",
+            "fighter_b": "Don'Tale Mayes",
+            "winner": "Rodrigo Nascimento",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/ebe122e962d26fa4"
+        }
+    ]
+}

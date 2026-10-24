@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "2719f300b0439039",
+        "event_name": "UFC 292: Sterling vs. O'Malley",
+        "event_date": "August 19, 2023",
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ee796ecb4ee8680b",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Aljamain Sterling",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:51",
+            "fight_url": "http://ufcstats.com/fight-details/ee796ecb4ee8680b"
+        },
+        {
+            "fight_id": "845e38dfbfea6e53",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Amanda Lemos",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/845e38dfbfea6e53"
+        },
+        {
+            "fight_id": "78d2c01dc963f204",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Neil Magny",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/78d2c01dc963f204"
+        },
+        {
+            "fight_id": "fd4d30036a3f3efb",
+            "fighter_a": "Mario Bautista",
+            "fighter_b": "Da'Mon Blackshear",
+            "winner": "Mario Bautista",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fd4d30036a3f3efb"
+        },
+        {
+            "fight_id": "621e6f0929a3dbfc",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/621e6f0929a3dbfc"
+        },
+        {
+            "fight_id": "1a95cc401f68f4c8",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Chris Weidman",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1a95cc401f68f4c8"
+        },
+        {
+            "fight_id": "f995ed679ef8bdf4",
+            "fighter_a": "Gregory Rodrigues",
+            "fighter_b": "Denis Tiuliulin",
+            "winner": "Gregory Rodrigues",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "1:43",
+            "fight_url": "http://ufcstats.com/fight-details/f995ed679ef8bdf4"
+        },
+        {
+            "fight_id": "62d53ad8f8769666",
+            "fighter_a": "Kurt Holobaugh",
+            "fighter_b": "Austin Hubbard",
+            "winner": "Kurt Holobaugh",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "2:39",
+            "fight_url": "http://ufcstats.com/fight-details/62d53ad8f8769666"
+        },
+        {
+            "fight_id": "e9754f597ec50f6f",
+            "fighter_a": "Brad Katona",
+            "fighter_b": "Cody Gibson",
+            "winner": "Brad Katona",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e9754f597ec50f6f"
+        },
+        {
+            "fight_id": "9f7c28381b6913c8",
+            "fighter_a": "Andre Petroski",
+            "fighter_b": "Gerald Meerschaert",
+            "winner": "Andre Petroski",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f7c28381b6913c8"
+        },
+        {
+            "fight_id": "8c7b5b21b3532027",
+            "fighter_a": "Natalia Silva",
+            "fighter_b": "Andrea Lee",
+            "winner": "Natalia Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8c7b5b21b3532027"
+        },
+        {
+            "fight_id": "f329bd89e375d6df",
+            "fighter_a": "Karine Silva",
+            "fighter_b": "Maryna Moroz",
+            "winner": "Karine Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/f329bd89e375d6df"
+        }
+    ]
+}

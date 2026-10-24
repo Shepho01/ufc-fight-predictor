@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "4f95f74620a6b7a4",
+        "event_name": "Affliction - Day of Reckoning",
+        "event_date": "January 24, 2009",
+        "location": "Anaheim, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0e55d1bebe8a3f19",
+            "fighter_a": "Jay Hieron",
+            "fighter_b": "Jason High",
+            "winner": "Jay Hieron",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:04",
+            "fight_url": "http://ufcstats.com/fight-details/0e55d1bebe8a3f19"
+        },
+        {
+            "fight_id": "c264e1cdd6988bea",
+            "fighter_a": "Fedor Emelianenko",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Fedor Emelianenko",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/c264e1cdd6988bea"
+        },
+        {
+            "fight_id": "88632e2831585801",
+            "fighter_a": "Josh Barnett",
+            "fighter_b": "Gilbert Yvel",
+            "winner": "Josh Barnett",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "3:05",
+            "fight_url": "http://ufcstats.com/fight-details/88632e2831585801"
+        },
+        {
+            "fight_id": "8d1732e9ea4698b0",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Matt Lindland",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:37",
+            "fight_url": "http://ufcstats.com/fight-details/8d1732e9ea4698b0"
+        },
+        {
+            "fight_id": "9bc609407cfbfca5",
+            "fighter_a": "Renato Sobral",
+            "fighter_b": "Rameau Thierry Sokoudjou",
+            "winner": "Renato Sobral",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB D'Arce Choke",
+            "round": "2",
+            "time": "2:36",
+            "fight_url": "http://ufcstats.com/fight-details/9bc609407cfbfca5"
+        },
+        {
+            "fight_id": "c95fce7d64beeac8",
+            "fighter_a": "Paul Buentello",
+            "fighter_b": "Kiril Sidelnikov",
+            "winner": "Paul Buentello",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "4:18",
+            "fight_url": "http://ufcstats.com/fight-details/c95fce7d64beeac8"
+        },
+        {
+            "fight_id": "4ff244d056c1c815",
+            "fighter_a": "Dan Lauzon",
+            "fighter_b": "King Green",
+            "winner": "Dan Lauzon",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:55",
+            "fight_url": "http://ufcstats.com/fight-details/4ff244d056c1c815"
+        },
+        {
+            "fight_id": "5e93d36fdf0f6f8e",
+            "fighter_a": "Rogerio Nogueira",
+            "fighter_b": "Vladimir Matyushenko",
+            "winner": "Rogerio Nogueira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "4:26",
+            "fight_url": "http://ufcstats.com/fight-details/5e93d36fdf0f6f8e"
+        },
+        {
+            "fight_id": "5511eaf7873c4a21",
+            "fighter_a": "LC Davis",
+            "fighter_b": "Bao Quach",
+            "winner": "LC Davis",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5511eaf7873c4a21"
+        },
+        {
+            "fight_id": "c6cb0d84501c98d3",
+            "fighter_a": "Albert Rios",
+            "fighter_b": "Antonio Duarte",
+            "winner": "Albert Rios",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c6cb0d84501c98d3"
+        },
+        {
+            "fight_id": "bbf93892f1a9017c",
+            "fighter_a": "Brett Cooper",
+            "fighter_b": "Patrick Speight",
+            "winner": "Brett Cooper",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:39",
+            "fight_url": "http://ufcstats.com/fight-details/bbf93892f1a9017c"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fighter_id": "c23e3d4875340d8d",
+    "name": "Zhang Tiequan",
+    "record": "15-4-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jul 25, 1978",
+    "sig_strikes_landed_per_min": "1.23",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "2.14",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "1.95",
+    "takedown_accuracy": "58%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "3.4",
+    "fight_history": [
+        {
+            "fight_id": "8d556e2826924946",
+            "fight_url": "http://ufcstats.com/fight-details/8d556e2826924946"
+        },
+        {
+            "fight_id": "84e800acc2aacd8e",
+            "fight_url": "http://ufcstats.com/fight-details/84e800acc2aacd8e"
+        },
+        {
+            "fight_id": "a730a20ab0c61499",
+            "fight_url": "http://ufcstats.com/fight-details/a730a20ab0c61499"
+        },
+        {
+            "fight_id": "5b6796a9194d339b",
+            "fight_url": "http://ufcstats.com/fight-details/5b6796a9194d339b"
+        },
+        {
+            "fight_id": "dbf2d62a64405265",
+            "fight_url": "http://ufcstats.com/fight-details/dbf2d62a64405265"
+        },
+        {
+            "fight_id": "6954b6e02651e353",
+            "fight_url": "http://ufcstats.com/fight-details/6954b6e02651e353"
+        }
+    ]
+}

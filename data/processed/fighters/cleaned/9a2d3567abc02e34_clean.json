@@ -1,0 +1,23 @@
+{
+    "fighter_id": "9a2d3567abc02e34",
+    "name": "Tae Hyun Bang",
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Switch",
+    "dob_day": 15,
+    "dob_month": 4,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.72,
+    "sig_striking_accuracy": 0.38,
+    "sig_strikes_absorbed_per_min": 2.07,
+    "sig_strike_defense": 0.66,
+    "takedowns_landed_per_15_min": 0.49,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.57,
+    "submission_attempts_per_15_min": 0.5
+}

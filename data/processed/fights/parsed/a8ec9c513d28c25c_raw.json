@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a8ec9c513d28c25c",
+        "event_id": "8caca5857ce0e30b",
+        "event_name": "UFC on FUEL TV: Korean Zombie vs Poirier",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 4,
+        "finish_time": "1:07",
+        "referee": "Dan Miragliotta",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "74 of 154",
+            "Sig. str. %": "48%",
+            "Total str.": "149 of 240",
+            "Td": "4 of 4",
+            "Td %": "100%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "5:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "74 of 154",
+            "Sig. str. %": "48%",
+            "Head": "59 of 136",
+            "Body": "12 of 15",
+            "Leg": "3 of 3",
+            "Distance": "60 of 135",
+            "Clinch": "5 of 6",
+            "Ground": "9 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 127",
+            "Sig. str. %": "44%",
+            "Total str.": "70 of 146",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "2",
+            "Ctrl": "3:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 127",
+            "Sig. str. %": "44%",
+            "Head": "44 of 111",
+            "Body": "1 of 2",
+            "Leg": "11 of 14",
+            "Distance": "55 of 124",
+            "Clinch": "1 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

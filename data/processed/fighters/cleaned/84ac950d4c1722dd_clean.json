@@ -1,0 +1,23 @@
+{
+    "fighter_id": "84ac950d4c1722dd",
+    "name": "Duane Ludwig",
+    "wins": 21,
+    "losses": 14,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 170,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 4,
+    "dob_month": 8,
+    "dob_year": 1978,
+    "sig_strikes_landed_per_min": 4.62,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 3.05,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.43,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.59,
+    "submission_attempts_per_15_min": 0.1
+}

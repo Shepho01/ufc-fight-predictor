@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1d43112d98de273a",
+        "event_id": "601cf40c09090853",
+        "event_name": "UFC 156: Aldo vs Edgar",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "e5c9de15bb58b1c6"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 169",
+            "Sig. str. %": "21%",
+            "Total str.": "37 of 169",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 169",
+            "Sig. str. %": "21%",
+            "Head": "28 of 156",
+            "Body": "6 of 10",
+            "Leg": "3 of 3",
+            "Distance": "31 of 154",
+            "Clinch": "6 of 15",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e5c9de15bb58b1c6",
+        "name": "Evan Dunham",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "91 of 237",
+            "Sig. str. %": "38%",
+            "Total str.": "98 of 245",
+            "Td": "0 of 9",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "91 of 237",
+            "Sig. str. %": "38%",
+            "Head": "76 of 210",
+            "Body": "10 of 21",
+            "Leg": "5 of 6",
+            "Distance": "73 of 209",
+            "Clinch": "18 of 28",
+            "Ground": "0 of 0"
+        }
+    }
+}

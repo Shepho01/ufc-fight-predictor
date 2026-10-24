@@ -1,0 +1,24 @@
+{
+    "fighter_id": "44a94bbde42246e4",
+    "name": "Gleidson Cutis",
+    "record": "7-4-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Feb 07, 1989",
+    "sig_strikes_landed_per_min": "2.99",
+    "sig_striking_accuracy": "52%",
+    "sig_strikes_absorbed_per_min": "8.28",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "bf785a636fb3ba17",
+            "fight_url": "http://ufcstats.com/fight-details/bf785a636fb3ba17"
+        }
+    ]
+}

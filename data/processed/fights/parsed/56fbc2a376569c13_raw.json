@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "56fbc2a376569c13",
+        "event_id": "063649e21bc9d6d5",
+        "event_name": "UFC Fight Night: Henderson vs Dos Anjos",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "3:47",
+        "referee": "Dan Miragliotta",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "124 of 204",
+            "Sig. str. %": "60%",
+            "Total str.": "137 of 219",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "124 of 204",
+            "Sig. str. %": "60%",
+            "Head": "95 of 170",
+            "Body": "26 of 29",
+            "Leg": "3 of 5",
+            "Distance": "70 of 143",
+            "Clinch": "14 of 17",
+            "Ground": "40 of 44"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cc900c6a71ed23f3",
+        "name": "Clay Collard",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "70 of 209",
+            "Sig. str. %": "33%",
+            "Total str.": "73 of 213",
+            "Td": "1 of 10",
+            "Td %": "10%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 209",
+            "Sig. str. %": "33%",
+            "Head": "38 of 155",
+            "Body": "16 of 31",
+            "Leg": "16 of 23",
+            "Distance": "52 of 181",
+            "Clinch": "14 of 21",
+            "Ground": "4 of 7"
+        }
+    }
+}

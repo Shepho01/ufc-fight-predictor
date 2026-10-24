@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3b05a4ced6dd74f5",
+        "event_id": "902ab9197b83d0db",
+        "event_name": "UFC Fight Night: Moreno vs. Royval 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "0:58",
+        "referee": "Marc Goddard",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "55 of 115",
+            "Sig. str. %": "47%",
+            "Total str.": "64 of 135",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 115",
+            "Sig. str. %": "47%",
+            "Head": "36 of 91",
+            "Body": "11 of 15",
+            "Leg": "8 of 9",
+            "Distance": "34 of 86",
+            "Clinch": "9 of 12",
+            "Ground": "12 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 73",
+            "Sig. str. %": "38%",
+            "Total str.": "47 of 104",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "5:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 73",
+            "Sig. str. %": "38%",
+            "Head": "26 of 69",
+            "Body": "2 of 4",
+            "Leg": "0 of 0",
+            "Distance": "13 of 50",
+            "Clinch": "2 of 3",
+            "Ground": "13 of 20"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1158a27a1a04b971",
+        "event_id": "9eedac48b497de5a",
+        "event_name": "UFC 328: Chimaev vs. Strickland",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:20",
+        "referee": "Gary Copeland",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 87",
+            "Sig. str. %": "65%",
+            "Total str.": "64 of 95",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 87",
+            "Sig. str. %": "65%",
+            "Head": "44 of 69",
+            "Body": "9 of 14",
+            "Leg": "4 of 4",
+            "Distance": "22 of 41",
+            "Clinch": "0 of 0",
+            "Ground": "35 of 46"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "18968f97ad34f15c",
+        "name": "Jeremy Stephens",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 13",
+            "Sig. str. %": "38%",
+            "Total str.": "7 of 15",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 13",
+            "Sig. str. %": "38%",
+            "Head": "3 of 10",
+            "Body": "0 of 1",
+            "Leg": "2 of 2",
+            "Distance": "4 of 12",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

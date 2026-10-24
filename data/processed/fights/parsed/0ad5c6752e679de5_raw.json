@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0ad5c6752e679de5",
+        "event_id": "80d918336163b80c",
+        "event_name": "UFC on FOX: Dos Anjos vs. Cowboy 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John Hosegood",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 132",
+            "Sig. str. %": "44%",
+            "Total str.": "72 of 148",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 132",
+            "Sig. str. %": "44%",
+            "Head": "38 of 101",
+            "Body": "16 of 25",
+            "Leg": "5 of 6",
+            "Distance": "50 of 115",
+            "Clinch": "9 of 17",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d1e7fc58d4225cdf",
+        "name": "Danny Castillo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 124",
+            "Sig. str. %": "45%",
+            "Total str.": "60 of 127",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 124",
+            "Sig. str. %": "45%",
+            "Head": "47 of 112",
+            "Body": "4 of 5",
+            "Leg": "6 of 7",
+            "Distance": "51 of 115",
+            "Clinch": "6 of 7",
+            "Ground": "0 of 2"
+        }
+    }
+}

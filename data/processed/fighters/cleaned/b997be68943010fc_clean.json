@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b997be68943010fc",
+    "name": "Geoff Neal",
+    "wins": 16,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 170,
+    "reach_cm": 190.5,
+    "stance": "Southpaw",
+    "dob_day": 28,
+    "dob_month": 8,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 5.02,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 5.5,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.54,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.87,
+    "submission_attempts_per_15_min": 0.1
+}

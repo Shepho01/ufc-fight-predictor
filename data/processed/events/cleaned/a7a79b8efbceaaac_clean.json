@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "a7a79b8efbceaaac",
+        "event_name": "UFC Fight Night: Ngannou vs. Velasquez",
+        "event_day": 17,
+        "event_month": 2,
+        "event_year": 2019,
+        "location": "Phoenix, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "01983cba42704c49",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Cain Velasquez",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/01983cba42704c49"
+        },
+        {
+            "fight_id": "a212e4c197983ad1",
+            "fighter_a": "Paul Felder",
+            "fighter_b": "James Vick",
+            "winner": "Paul Felder",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a212e4c197983ad1"
+        },
+        {
+            "fight_id": "354425c41008a01f",
+            "fighter_a": "Cynthia Calvillo",
+            "fighter_b": "Cortney Casey",
+            "winner": "Cynthia Calvillo",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/354425c41008a01f"
+        },
+        {
+            "fight_id": "c8bc7e668ffffc7c",
+            "fighter_a": "Kron Gracie",
+            "fighter_b": "Alex Caceres",
+            "winner": "Kron Gracie",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 126,
+            "fight_url": "http://ufcstats.com/fight-details/c8bc7e668ffffc7c"
+        },
+        {
+            "fight_id": "1521f94cafdfd783",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Bryan Barberena",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/1521f94cafdfd783"
+        },
+        {
+            "fight_id": "0a4247ba4ae1cca5",
+            "fighter_a": "Andre Fili",
+            "fighter_b": "Myles Jury",
+            "winner": "Andre Fili",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0a4247ba4ae1cca5"
+        },
+        {
+            "fight_id": "58e21d505c082a9e",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Jimmie Rivera",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/58e21d505c082a9e"
+        },
+        {
+            "fight_id": "0d698108c5f5d1d6",
+            "fighter_a": "Manny Bermudez",
+            "fighter_b": "Benito Lopez",
+            "winner": "Manny Bermudez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 189,
+            "fight_url": "http://ufcstats.com/fight-details/0d698108c5f5d1d6"
+        },
+        {
+            "fight_id": "bdeca00572419011",
+            "fighter_a": "Andrea Lee",
+            "fighter_b": "Ashlee Evans-Smith",
+            "winner": "Andrea Lee",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bdeca00572419011"
+        },
+        {
+            "fight_id": "f96f719ad667dd96",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Scott Holtzman",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f96f719ad667dd96"
+        },
+        {
+            "fight_id": "7fec3b1ec923ad24",
+            "fighter_a": "Luke Sanders",
+            "fighter_b": "Renan Barao",
+            "winner": "Luke Sanders",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/7fec3b1ec923ad24"
+        },
+        {
+            "fight_id": "a9184def876faec6",
+            "fighter_a": "Emily Whitmire",
+            "fighter_b": "Aleksandra Albu",
+            "winner": "Emily Whitmire",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/a9184def876faec6"
+        }
+    ]
+}

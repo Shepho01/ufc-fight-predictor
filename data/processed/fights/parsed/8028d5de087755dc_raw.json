@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8028d5de087755dc",
+        "event_id": "9f3d6ddef3d3cccc",
+        "event_name": "UFC Fight Night: Weidman vs. Gastelum",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "6f242453c91a5af0",
+        "name": "Dennis Bermudez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "69 of 160",
+            "Sig. str. %": "43%",
+            "Total str.": "101 of 194",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "69 of 160",
+            "Sig. str. %": "43%",
+            "Head": "39 of 126",
+            "Body": "18 of 21",
+            "Leg": "12 of 13",
+            "Distance": "47 of 125",
+            "Clinch": "22 of 34",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "70 of 154",
+            "Sig. str. %": "45%",
+            "Total str.": "99 of 189",
+            "Td": "3 of 10",
+            "Td %": "30%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "4:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 154",
+            "Sig. str. %": "45%",
+            "Head": "42 of 119",
+            "Body": "24 of 31",
+            "Leg": "4 of 4",
+            "Distance": "34 of 107",
+            "Clinch": "33 of 44",
+            "Ground": "3 of 3"
+        }
+    }
+}

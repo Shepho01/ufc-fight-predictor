@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "f9c7fe2682af3802",
+        "event_name": "UFC Fight Night: Henderson vs Thatch",
+        "event_date": "February 14, 2015",
+        "location": "Broomfield, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fb5ce6329f243d8b",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Brandon Thatch",
+            "winner": "Benson Henderson",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "4",
+            "time": "3:58",
+            "fight_url": "http://ufcstats.com/fight-details/fb5ce6329f243d8b"
+        },
+        {
+            "fight_id": "509bd83b00e4ab7c",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Cole Miller",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/509bd83b00e4ab7c"
+        },
+        {
+            "fight_id": "0bdb170e1fef36b6",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Kiichi Kunimoto",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "1:22",
+            "fight_url": "http://ufcstats.com/fight-details/0bdb170e1fef36b6"
+        },
+        {
+            "fight_id": "60820d105e57d5d6",
+            "fighter_a": "Daniel Kelly",
+            "fighter_b": "Patrick Walsh",
+            "winner": "Daniel Kelly",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60820d105e57d5d6"
+        },
+        {
+            "fight_id": "dcee56e0cbfacb45",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Michel Prazeres",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dcee56e0cbfacb45"
+        },
+        {
+            "fight_id": "1a3572d1502efdf4",
+            "fighter_a": "Ray Borg",
+            "fighter_b": "Chris Kelades",
+            "winner": "Ray Borg",
+            "weight_class": "Flyweight",
+            "method": "SUB Kimura",
+            "round": "3",
+            "time": "2:56",
+            "fight_url": "http://ufcstats.com/fight-details/1a3572d1502efdf4"
+        },
+        {
+            "fight_id": "a4badfa86304f799",
+            "fighter_a": "Efrain Escudero",
+            "fighter_b": "Rodrigo de Lima",
+            "winner": "Efrain Escudero",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a4badfa86304f799"
+        },
+        {
+            "fight_id": "b91807add93763c9",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Jim Alers",
+            "winner": "Chas Skelly",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/b91807add93763c9"
+        },
+        {
+            "fight_id": "93ac52a9fdca03e1",
+            "fighter_a": "Zach Makovsky",
+            "fighter_b": "Tim Elliott",
+            "winner": "Zach Makovsky",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/93ac52a9fdca03e1"
+        },
+        {
+            "fight_id": "357781ff34a3d39f",
+            "fighter_a": "James Moontasri",
+            "fighter_b": "Cody Pfister",
+            "winner": "James Moontasri",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/357781ff34a3d39f"
+        }
+    ]
+}

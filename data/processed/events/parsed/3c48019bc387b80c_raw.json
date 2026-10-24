@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "3c48019bc387b80c",
+        "event_name": "UFC 150: Henderson vs Edgar II",
+        "event_date": "August 11, 2012",
+        "location": "Denver, Colorado, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7ddf71a85fbb0e4c",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ddf71a85fbb0e4c"
+        },
+        {
+            "fight_id": "7c07a71fa1882bf4",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Melvin Guillard",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:16",
+            "fight_url": "http://ufcstats.com/fight-details/7c07a71fa1882bf4"
+        },
+        {
+            "fight_id": "c47cf097227cc6a0",
+            "fighter_a": "Jake Shields",
+            "fighter_b": "Ed Herman",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "Overturned",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c47cf097227cc6a0"
+        },
+        {
+            "fight_id": "f0d5e2c27c9fd2c1",
+            "fighter_a": "Yushin Okami",
+            "fighter_b": "Buddy Roberts",
+            "winner": "Yushin Okami",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:05",
+            "fight_url": "http://ufcstats.com/fight-details/f0d5e2c27c9fd2c1"
+        },
+        {
+            "fight_id": "42f11b82d67585af",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Justin Lawrence",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/42f11b82d67585af"
+        },
+        {
+            "fight_id": "0c58b5f37bfeb65a",
+            "fighter_a": "Dennis Bermudez",
+            "fighter_b": "Tommy Hayden",
+            "winner": "Dennis Bermudez",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:43",
+            "fight_url": "http://ufcstats.com/fight-details/0c58b5f37bfeb65a"
+        },
+        {
+            "fight_id": "9360a34eb511a9b4",
+            "fighter_a": "Michael Kuiper",
+            "fighter_b": "Jared Hamman",
+            "winner": "Michael Kuiper",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:16",
+            "fight_url": "http://ufcstats.com/fight-details/9360a34eb511a9b4"
+        },
+        {
+            "fight_id": "19da5aa17c896a1a",
+            "fighter_a": "Erik Perez",
+            "fighter_b": "Ken Stone",
+            "winner": "Erik Perez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:17",
+            "fight_url": "http://ufcstats.com/fight-details/19da5aa17c896a1a"
+        },
+        {
+            "fight_id": "be6d6abb11ef8297",
+            "fighter_a": "Chico Camus",
+            "fighter_b": "Dustin Pague",
+            "winner": "Chico Camus",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/be6d6abb11ef8297"
+        },
+        {
+            "fight_id": "4af9088a165c7751",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Eiji Mitsuoka",
+            "winner": "Nik Lentz",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:45",
+            "fight_url": "http://ufcstats.com/fight-details/4af9088a165c7751"
+        }
+    ]
+}

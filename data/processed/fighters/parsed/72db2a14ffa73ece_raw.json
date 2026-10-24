@@ -1,0 +1,76 @@
+{
+    "fighter_id": "72db2a14ffa73ece",
+    "name": "Mateusz Gamrot",
+    "record": "26-5-0 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Dec 11, 1990",
+    "sig_strikes_landed_per_min": "3.14",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.79",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "5.08",
+    "takedown_accuracy": "38%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "a10deecfb8558335",
+            "fight_url": "http://ufcstats.com/fight-details/a10deecfb8558335"
+        },
+        {
+            "fight_id": "62b5ce408c150fa8",
+            "fight_url": "http://ufcstats.com/fight-details/62b5ce408c150fa8"
+        },
+        {
+            "fight_id": "79865287be90e4be",
+            "fight_url": "http://ufcstats.com/fight-details/79865287be90e4be"
+        },
+        {
+            "fight_id": "212527d462690304",
+            "fight_url": "http://ufcstats.com/fight-details/212527d462690304"
+        },
+        {
+            "fight_id": "059f5cf0e9e37627",
+            "fight_url": "http://ufcstats.com/fight-details/059f5cf0e9e37627"
+        },
+        {
+            "fight_id": "8baff440b82afd2b",
+            "fight_url": "http://ufcstats.com/fight-details/8baff440b82afd2b"
+        },
+        {
+            "fight_id": "23a604f460289271",
+            "fight_url": "http://ufcstats.com/fight-details/23a604f460289271"
+        },
+        {
+            "fight_id": "d6d034e98ce85246",
+            "fight_url": "http://ufcstats.com/fight-details/d6d034e98ce85246"
+        },
+        {
+            "fight_id": "69f39e5d959311b1",
+            "fight_url": "http://ufcstats.com/fight-details/69f39e5d959311b1"
+        },
+        {
+            "fight_id": "1f5f59924b59408b",
+            "fight_url": "http://ufcstats.com/fight-details/1f5f59924b59408b"
+        },
+        {
+            "fight_id": "730f14ccff80f3b0",
+            "fight_url": "http://ufcstats.com/fight-details/730f14ccff80f3b0"
+        },
+        {
+            "fight_id": "72105dd82d964e7a",
+            "fight_url": "http://ufcstats.com/fight-details/72105dd82d964e7a"
+        },
+        {
+            "fight_id": "998296216e7171ed",
+            "fight_url": "http://ufcstats.com/fight-details/998296216e7171ed"
+        },
+        {
+            "fight_id": "e5279358b128c2ac",
+            "fight_url": "http://ufcstats.com/fight-details/e5279358b128c2ac"
+        }
+    ]
+}

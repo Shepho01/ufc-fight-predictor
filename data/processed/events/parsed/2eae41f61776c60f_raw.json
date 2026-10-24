@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "2eae41f61776c60f",
+        "event_name": "UFC 225: Whittaker vs. Romero 2",
+        "event_date": "June 09, 2018",
+        "location": "Chicago, Illinois, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5a09fd7cb3db9705",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Yoel Romero",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5a09fd7cb3db9705"
+        },
+        {
+            "fight_id": "eb6f80ccaf2a3dbc",
+            "fighter_a": "Colby Covington",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Colby Covington",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/eb6f80ccaf2a3dbc"
+        },
+        {
+            "fight_id": "051124b25d576906",
+            "fighter_a": "Holly Holm",
+            "fighter_b": "Megan Anderson",
+            "winner": "Holly Holm",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/051124b25d576906"
+        },
+        {
+            "fight_id": "319b09306094259b",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/319b09306094259b"
+        },
+        {
+            "fight_id": "64756e0f4b305da8",
+            "fighter_a": "CM Punk",
+            "fighter_b": "Mike Jackson",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "Overturned",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/64756e0f4b305da8"
+        },
+        {
+            "fight_id": "7fd0f7b3866b2c75",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Alistair Overeem",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "2:56",
+            "fight_url": "http://ufcstats.com/fight-details/7fd0f7b3866b2c75"
+        },
+        {
+            "fight_id": "c3425412e4f2f486",
+            "fighter_a": "Claudia Gadelha",
+            "fighter_b": "Carla Esparza",
+            "winner": "Claudia Gadelha",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c3425412e4f2f486"
+        },
+        {
+            "fight_id": "32990cbf8976d94b",
+            "fighter_a": "Mirsad Bektic",
+            "fighter_b": "Ricardo Lamas",
+            "winner": "Mirsad Bektic",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/32990cbf8976d94b"
+        },
+        {
+            "fight_id": "140e810f952714ea",
+            "fighter_a": "Chris de la Rocha",
+            "fighter_b": "Rashad Coulter",
+            "winner": "Chris de la Rocha",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:53",
+            "fight_url": "http://ufcstats.com/fight-details/140e810f952714ea"
+        },
+        {
+            "fight_id": "8f9b16f170dbdbb6",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Rashad Evans",
+            "winner": "Anthony Smith",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "0:53",
+            "fight_url": "http://ufcstats.com/fight-details/8f9b16f170dbdbb6"
+        },
+        {
+            "fight_id": "5e2f2f5d9a756de9",
+            "fighter_a": "Sergio Pettis",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Sergio Pettis",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5e2f2f5d9a756de9"
+        },
+        {
+            "fight_id": "e82d734674ce4d46",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Clay Guida",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/e82d734674ce4d46"
+        },
+        {
+            "fight_id": "d3f5854d16fc31f9",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Mike Santiago",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:50",
+            "fight_url": "http://ufcstats.com/fight-details/d3f5854d16fc31f9"
+        }
+    ]
+}

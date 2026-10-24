@@ -1,0 +1,72 @@
+{
+    "fighter_id": "032cc3922d871c7f",
+    "name": "Khabib Nurmagomedov",
+    "record": "29-0-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 20, 1988",
+    "sig_strikes_landed_per_min": "4.10",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "1.75",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "5.32",
+    "takedown_accuracy": "48%",
+    "takedown_defense": "84%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "59eea37af7efb06c",
+            "fight_url": "http://ufcstats.com/fight-details/59eea37af7efb06c"
+        },
+        {
+            "fight_id": "01a4827b3596d111",
+            "fight_url": "http://ufcstats.com/fight-details/01a4827b3596d111"
+        },
+        {
+            "fight_id": "3eea92e7f26fb05b",
+            "fight_url": "http://ufcstats.com/fight-details/3eea92e7f26fb05b"
+        },
+        {
+            "fight_id": "eab7b76e177e1903",
+            "fight_url": "http://ufcstats.com/fight-details/eab7b76e177e1903"
+        },
+        {
+            "fight_id": "a88a4c126d585320",
+            "fight_url": "http://ufcstats.com/fight-details/a88a4c126d585320"
+        },
+        {
+            "fight_id": "c26806c2d554e50c",
+            "fight_url": "http://ufcstats.com/fight-details/c26806c2d554e50c"
+        },
+        {
+            "fight_id": "781b4b6951df64fe",
+            "fight_url": "http://ufcstats.com/fight-details/781b4b6951df64fe"
+        },
+        {
+            "fight_id": "9d1722fb8b83a92a",
+            "fight_url": "http://ufcstats.com/fight-details/9d1722fb8b83a92a"
+        },
+        {
+            "fight_id": "ca2b48fd007126e0",
+            "fight_url": "http://ufcstats.com/fight-details/ca2b48fd007126e0"
+        },
+        {
+            "fight_id": "e1d33aa47b35d021",
+            "fight_url": "http://ufcstats.com/fight-details/e1d33aa47b35d021"
+        },
+        {
+            "fight_id": "7651b2e09ea2c420",
+            "fight_url": "http://ufcstats.com/fight-details/7651b2e09ea2c420"
+        },
+        {
+            "fight_id": "ded18af0e4eae2f7",
+            "fight_url": "http://ufcstats.com/fight-details/ded18af0e4eae2f7"
+        },
+        {
+            "fight_id": "8360accf6f70ebc4",
+            "fight_url": "http://ufcstats.com/fight-details/8360accf6f70ebc4"
+        }
+    ]
+}

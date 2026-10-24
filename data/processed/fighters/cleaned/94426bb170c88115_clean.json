@@ -1,0 +1,23 @@
+{
+    "fighter_id": "94426bb170c88115",
+    "name": "Sodiq Yusuff",
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 19,
+    "dob_month": 5,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.27,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 4.29,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 0.36,
+    "takedown_accuracy": 0.23,
+    "takedown_defense": 0.62,
+    "submission_attempts_per_15_min": 0.4
+}

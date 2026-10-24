@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ebb94e00d6431e7a",
+        "event_id": "47b7e4e60813b7b2",
+        "event_name": "UFC Fight Night: Belfort vs. Gastelum",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Camila Albuquerque",
+        "winner_id": "68f6e96c5fa6e044"
+    },
+    "fighter_a": {
+        "fighter_id": "b71ce838b01f2cad",
+        "name": "Rony Jason",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "18 of 36",
+            "Sig. str. %": "50%",
+            "Total str.": "95 of 116",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 36",
+            "Sig. str. %": "50%",
+            "Head": "14 of 30",
+            "Body": "3 of 5",
+            "Leg": "1 of 1",
+            "Distance": "11 of 26",
+            "Clinch": "0 of 0",
+            "Ground": "7 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "68f6e96c5fa6e044",
+        "name": "Jeremy Kennedy",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 74",
+            "Sig. str. %": "62%",
+            "Total str.": "105 of 143",
+            "Td": "8 of 9",
+            "Td %": "88%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 74",
+            "Sig. str. %": "62%",
+            "Head": "44 of 71",
+            "Body": "1 of 2",
+            "Leg": "1 of 1",
+            "Distance": "13 of 35",
+            "Clinch": "2 of 4",
+            "Ground": "31 of 35"
+        }
+    }
+}

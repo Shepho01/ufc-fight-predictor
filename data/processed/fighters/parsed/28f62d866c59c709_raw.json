@@ -1,0 +1,36 @@
+{
+    "fighter_id": "28f62d866c59c709",
+    "name": "Waylon Lowe",
+    "record": "16-7-0 (2 NC)",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Southpaw",
+    "dob": "Oct 31, 1980",
+    "sig_strikes_landed_per_min": "1.88",
+    "sig_striking_accuracy": "55%",
+    "sig_strikes_absorbed_per_min": "2.40",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "4.47",
+    "takedown_accuracy": "55%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "04d97700dbdaef5e",
+            "fight_url": "http://ufcstats.com/fight-details/04d97700dbdaef5e"
+        },
+        {
+            "fight_id": "dbfac95047e7b33a",
+            "fight_url": "http://ufcstats.com/fight-details/dbfac95047e7b33a"
+        },
+        {
+            "fight_id": "b30bb2ba5b68a180",
+            "fight_url": "http://ufcstats.com/fight-details/b30bb2ba5b68a180"
+        },
+        {
+            "fight_id": "655a110a0bd2ea42",
+            "fight_url": "http://ufcstats.com/fight-details/655a110a0bd2ea42"
+        }
+    ]
+}

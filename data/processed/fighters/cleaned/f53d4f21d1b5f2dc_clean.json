@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f53d4f21d1b5f2dc",
+    "name": "Diego Ferreira",
+    "wins": 20,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 18,
+    "dob_month": 1,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 4.95,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.58,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 1.08,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.58,
+    "submission_attempts_per_15_min": 0.5
+}

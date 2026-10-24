@@ -1,0 +1,76 @@
+{
+    "fighter_id": "f9b200db02b488d9",
+    "name": "Lando Vannata",
+    "record": "12-8-2",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Mar 14, 1992",
+    "sig_strikes_landed_per_min": "4.52",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "4.71",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "1.24",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "9c9c26679701b84d",
+            "fight_url": "http://ufcstats.com/fight-details/9c9c26679701b84d"
+        },
+        {
+            "fight_id": "cef255a992ba7af3",
+            "fight_url": "http://ufcstats.com/fight-details/cef255a992ba7af3"
+        },
+        {
+            "fight_id": "173d576e6247a88a",
+            "fight_url": "http://ufcstats.com/fight-details/173d576e6247a88a"
+        },
+        {
+            "fight_id": "be2e28ba3bdeb400",
+            "fight_url": "http://ufcstats.com/fight-details/be2e28ba3bdeb400"
+        },
+        {
+            "fight_id": "0b21755eb0897396",
+            "fight_url": "http://ufcstats.com/fight-details/0b21755eb0897396"
+        },
+        {
+            "fight_id": "eab100e978c730c5",
+            "fight_url": "http://ufcstats.com/fight-details/eab100e978c730c5"
+        },
+        {
+            "fight_id": "951968aa52a84928",
+            "fight_url": "http://ufcstats.com/fight-details/951968aa52a84928"
+        },
+        {
+            "fight_id": "aa71cf96ba4e5a36",
+            "fight_url": "http://ufcstats.com/fight-details/aa71cf96ba4e5a36"
+        },
+        {
+            "fight_id": "df9aa51f6ccdfe02",
+            "fight_url": "http://ufcstats.com/fight-details/df9aa51f6ccdfe02"
+        },
+        {
+            "fight_id": "2817a6f9e09eb15f",
+            "fight_url": "http://ufcstats.com/fight-details/2817a6f9e09eb15f"
+        },
+        {
+            "fight_id": "c46d51fb87a4f485",
+            "fight_url": "http://ufcstats.com/fight-details/c46d51fb87a4f485"
+        },
+        {
+            "fight_id": "7ac4b9823b1e139b",
+            "fight_url": "http://ufcstats.com/fight-details/7ac4b9823b1e139b"
+        },
+        {
+            "fight_id": "071d488ec8ccf254",
+            "fight_url": "http://ufcstats.com/fight-details/071d488ec8ccf254"
+        },
+        {
+            "fight_id": "824fb74f5fc34218",
+            "fight_url": "http://ufcstats.com/fight-details/824fb74f5fc34218"
+        }
+    ]
+}

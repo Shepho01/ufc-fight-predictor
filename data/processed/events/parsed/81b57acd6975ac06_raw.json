@@ -1,0 +1,109 @@
+{
+    "event": {
+        "event_id": "81b57acd6975ac06",
+        "event_name": "UFC Fight Night: Rozenstruik vs. Gane",
+        "event_date": "February 27, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4a704dae3091adaf",
+            "fighter_a": "Ciryl Gane",
+            "fighter_b": "Jairzinho Rozenstruik",
+            "winner": "Ciryl Gane",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4a704dae3091adaf"
+        },
+        {
+            "fight_id": "3a4e2dffcdd1c838",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3a4e2dffcdd1c838"
+        },
+        {
+            "fight_id": "f3ad8ad8d242678e",
+            "fighter_a": "Montana De La Rosa",
+            "fighter_b": "Mayra Bueno Silva",
+            "winner": null,
+            "weight_class": "Women's Flyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f3ad8ad8d242678e"
+        },
+        {
+            "fight_id": "c2ee423d1f0b4f6f",
+            "fighter_a": "Pedro Munhoz",
+            "fighter_b": "Jimmie Rivera",
+            "winner": "Pedro Munhoz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c2ee423d1f0b4f6f"
+        },
+        {
+            "fight_id": "6a0341234ecc4e87",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Kevin Croom",
+            "winner": "Alex Caceres",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6a0341234ecc4e87"
+        },
+        {
+            "fight_id": "3eac2d47ac252f4b",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Alexander Hernandez",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3eac2d47ac252f4b"
+        },
+        {
+            "fight_id": "a7315147a7022a93",
+            "fighter_a": "Alexis Davis",
+            "fighter_b": "Sabina Mazo",
+            "winner": "Alexis Davis",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7315147a7022a93"
+        },
+        {
+            "fight_id": "11a83369d49ad138",
+            "fighter_a": "Ronnie Lawrence",
+            "fighter_b": "Vince Cachero",
+            "winner": "Ronnie Lawrence",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/11a83369d49ad138"
+        },
+        {
+            "fight_id": "bc86601cf781a89c",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "Maxim Grishin",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc86601cf781a89c"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b82b243982fcb2ac",
+        "event_id": "a4dd5c9a75763295",
+        "event_name": "UFC Fight Night: Barnett vs Nelson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Greg Kleynjans",
+        "winner_id": "633a45d131192ffe"
+    },
+    "fighter_a": {
+        "fighter_id": "bc8f6b42767e28df",
+        "name": "Naoyuki Kotani",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 55",
+            "Sig. str. %": "38%",
+            "Total str.": "61 of 95",
+            "Td": "1 of 8",
+            "Td %": "12%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 55",
+            "Sig. str. %": "38%",
+            "Head": "15 of 40",
+            "Body": "2 of 10",
+            "Leg": "4 of 5",
+            "Distance": "13 of 46",
+            "Clinch": "0 of 0",
+            "Ground": "8 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "57 of 104",
+            "Sig. str. %": "54%",
+            "Total str.": "59 of 108",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 104",
+            "Sig. str. %": "54%",
+            "Head": "50 of 95",
+            "Body": "6 of 8",
+            "Leg": "1 of 1",
+            "Distance": "24 of 58",
+            "Clinch": "3 of 3",
+            "Ground": "30 of 43"
+        }
+    }
+}

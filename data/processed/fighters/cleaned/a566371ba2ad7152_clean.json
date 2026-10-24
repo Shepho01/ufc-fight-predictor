@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a566371ba2ad7152",
+    "name": "Josh Thomson",
+    "wins": 22,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 21,
+    "dob_month": 9,
+    "dob_year": 1978,
+    "sig_strikes_landed_per_min": 2.59,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 2.12,
+    "sig_strike_defense": 0.64,
+    "takedowns_landed_per_15_min": 1.92,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.54,
+    "submission_attempts_per_15_min": 1.3
+}

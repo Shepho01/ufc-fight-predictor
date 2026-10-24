@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "db1c5b5a710fbdb0",
+        "event_id": "f12f979b657ab876",
+        "event_name": "UFC Live: Jones vs Matyushenko",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "0:41",
+        "referee": "Herb Dean",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 4",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 4",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 4",
+            "Sig. str. %": "0%",
+            "Head": "0 of 4",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 4",
+            "Sig. str. %": "75%",
+            "Total str.": "3 of 4",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 4",
+            "Sig. str. %": "75%",
+            "Head": "2 of 3",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "1 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 3"
+        }
+    }
+}

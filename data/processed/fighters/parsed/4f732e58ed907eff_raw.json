@@ -1,0 +1,124 @@
+{
+    "fighter_id": "4f732e58ed907eff",
+    "name": "Ross Pearson",
+    "record": "20-16-0 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Sep 26, 1984",
+    "sig_strikes_landed_per_min": "3.68",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "4.09",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "0.74",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "b7ff74563d034519",
+            "fight_url": "http://ufcstats.com/fight-details/b7ff74563d034519"
+        },
+        {
+            "fight_id": "3249bbbb7ce837ef",
+            "fight_url": "http://ufcstats.com/fight-details/3249bbbb7ce837ef"
+        },
+        {
+            "fight_id": "e8f2902be7b350ad",
+            "fight_url": "http://ufcstats.com/fight-details/e8f2902be7b350ad"
+        },
+        {
+            "fight_id": "dc7ba55ca764cfbe",
+            "fight_url": "http://ufcstats.com/fight-details/dc7ba55ca764cfbe"
+        },
+        {
+            "fight_id": "6b5fe10e6e7d160a",
+            "fight_url": "http://ufcstats.com/fight-details/6b5fe10e6e7d160a"
+        },
+        {
+            "fight_id": "806ee07a1a7042b8",
+            "fight_url": "http://ufcstats.com/fight-details/806ee07a1a7042b8"
+        },
+        {
+            "fight_id": "1299f04f429bcc0e",
+            "fight_url": "http://ufcstats.com/fight-details/1299f04f429bcc0e"
+        },
+        {
+            "fight_id": "f7c9f7a6edca5299",
+            "fight_url": "http://ufcstats.com/fight-details/f7c9f7a6edca5299"
+        },
+        {
+            "fight_id": "d0dc419dc7acb7e2",
+            "fight_url": "http://ufcstats.com/fight-details/d0dc419dc7acb7e2"
+        },
+        {
+            "fight_id": "0449c55a8c24a59e",
+            "fight_url": "http://ufcstats.com/fight-details/0449c55a8c24a59e"
+        },
+        {
+            "fight_id": "0b8fdeeb626b4396",
+            "fight_url": "http://ufcstats.com/fight-details/0b8fdeeb626b4396"
+        },
+        {
+            "fight_id": "0337fa731f5b02c1",
+            "fight_url": "http://ufcstats.com/fight-details/0337fa731f5b02c1"
+        },
+        {
+            "fight_id": "73954f3895cac499",
+            "fight_url": "http://ufcstats.com/fight-details/73954f3895cac499"
+        },
+        {
+            "fight_id": "efa3f3c8945cad0a",
+            "fight_url": "http://ufcstats.com/fight-details/efa3f3c8945cad0a"
+        },
+        {
+            "fight_id": "8d7ea177efadc718",
+            "fight_url": "http://ufcstats.com/fight-details/8d7ea177efadc718"
+        },
+        {
+            "fight_id": "b25662d83e6d4c3b",
+            "fight_url": "http://ufcstats.com/fight-details/b25662d83e6d4c3b"
+        },
+        {
+            "fight_id": "fa520c5834cda94e",
+            "fight_url": "http://ufcstats.com/fight-details/fa520c5834cda94e"
+        },
+        {
+            "fight_id": "e2bacdc395aa7b40",
+            "fight_url": "http://ufcstats.com/fight-details/e2bacdc395aa7b40"
+        },
+        {
+            "fight_id": "40fa0bf9783cdc2e",
+            "fight_url": "http://ufcstats.com/fight-details/40fa0bf9783cdc2e"
+        },
+        {
+            "fight_id": "434411f139e51760",
+            "fight_url": "http://ufcstats.com/fight-details/434411f139e51760"
+        },
+        {
+            "fight_id": "fa3294fe655440dd",
+            "fight_url": "http://ufcstats.com/fight-details/fa3294fe655440dd"
+        },
+        {
+            "fight_id": "72372c31dee3cadc",
+            "fight_url": "http://ufcstats.com/fight-details/72372c31dee3cadc"
+        },
+        {
+            "fight_id": "2aeba1cc4004d0bc",
+            "fight_url": "http://ufcstats.com/fight-details/2aeba1cc4004d0bc"
+        },
+        {
+            "fight_id": "2328c7832a356a6d",
+            "fight_url": "http://ufcstats.com/fight-details/2328c7832a356a6d"
+        },
+        {
+            "fight_id": "b4ebb7576e9745e7",
+            "fight_url": "http://ufcstats.com/fight-details/b4ebb7576e9745e7"
+        },
+        {
+            "fight_id": "1d30430af5257347",
+            "fight_url": "http://ufcstats.com/fight-details/1d30430af5257347"
+        }
+    ]
+}

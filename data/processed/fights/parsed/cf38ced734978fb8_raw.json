@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "cf38ced734978fb8",
+        "event_id": "f9aa6376ae16bfb4",
+        "event_name": "UFC Fight Night: McGregor vs Siver",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin MacDonald",
+        "winner_id": "c8097968da5e5f13"
+    },
+    "fighter_a": {
+        "fighter_id": "7b310409440c9102",
+        "name": "Zhang Lipeng",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 46",
+            "Sig. str. %": "60%",
+            "Total str.": "47 of 67",
+            "Td": "0 of 7",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 46",
+            "Sig. str. %": "60%",
+            "Head": "7 of 19",
+            "Body": "7 of 11",
+            "Leg": "14 of 16",
+            "Distance": "8 of 20",
+            "Clinch": "19 of 25",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 65",
+            "Sig. str. %": "72%",
+            "Total str.": "133 of 163",
+            "Td": "4 of 9",
+            "Td %": "44%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "9:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 65",
+            "Sig. str. %": "72%",
+            "Head": "18 of 29",
+            "Body": "7 of 11",
+            "Leg": "22 of 25",
+            "Distance": "13 of 25",
+            "Clinch": "25 of 29",
+            "Ground": "9 of 11"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "fighter_id": "b7b84ccd221be298",
+    "name": "Nasrat Haqparast",
+    "record": "18-7-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Aug 22, 1995",
+    "sig_strikes_landed_per_min": "6.24",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "6.18",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "0.31",
+    "takedown_accuracy": "18%",
+    "takedown_defense": "84%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "bbd05484f8c8d739",
+            "fight_url": "http://ufcstats.com/fight-details/bbd05484f8c8d739"
+        },
+        {
+            "fight_id": "cb902d73389ed34b",
+            "fight_url": "http://ufcstats.com/fight-details/cb902d73389ed34b"
+        },
+        {
+            "fight_id": "061990783b9bdb36",
+            "fight_url": "http://ufcstats.com/fight-details/061990783b9bdb36"
+        },
+        {
+            "fight_id": "774fb0c0c1c2bc6a",
+            "fight_url": "http://ufcstats.com/fight-details/774fb0c0c1c2bc6a"
+        },
+        {
+            "fight_id": "acc57a9c114b694a",
+            "fight_url": "http://ufcstats.com/fight-details/acc57a9c114b694a"
+        },
+        {
+            "fight_id": "bfff5a3777841344",
+            "fight_url": "http://ufcstats.com/fight-details/bfff5a3777841344"
+        },
+        {
+            "fight_id": "7bced112f3229b1b",
+            "fight_url": "http://ufcstats.com/fight-details/7bced112f3229b1b"
+        },
+        {
+            "fight_id": "388adad23aaa9d39",
+            "fight_url": "http://ufcstats.com/fight-details/388adad23aaa9d39"
+        },
+        {
+            "fight_id": "b3c23fb2d71bba51",
+            "fight_url": "http://ufcstats.com/fight-details/b3c23fb2d71bba51"
+        },
+        {
+            "fight_id": "a6828a6dfb21d33c",
+            "fight_url": "http://ufcstats.com/fight-details/a6828a6dfb21d33c"
+        },
+        {
+            "fight_id": "26173f6491300eaa",
+            "fight_url": "http://ufcstats.com/fight-details/26173f6491300eaa"
+        },
+        {
+            "fight_id": "63dd38f0dcc2ee88",
+            "fight_url": "http://ufcstats.com/fight-details/63dd38f0dcc2ee88"
+        },
+        {
+            "fight_id": "dbbd17b6995f014b",
+            "fight_url": "http://ufcstats.com/fight-details/dbbd17b6995f014b"
+        },
+        {
+            "fight_id": "3d7ea6012fd8f786",
+            "fight_url": "http://ufcstats.com/fight-details/3d7ea6012fd8f786"
+        },
+        {
+            "fight_id": "4f16ef3e707447a0",
+            "fight_url": "http://ufcstats.com/fight-details/4f16ef3e707447a0"
+        },
+        {
+            "fight_id": "61070325bb440f58",
+            "fight_url": "http://ufcstats.com/fight-details/61070325bb440f58"
+        }
+    ]
+}

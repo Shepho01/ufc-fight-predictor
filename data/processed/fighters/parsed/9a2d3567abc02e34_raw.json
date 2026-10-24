@@ -1,0 +1,40 @@
+{
+    "fighter_id": "9a2d3567abc02e34",
+    "name": "Tae Hyun Bang",
+    "record": "18-10-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Apr 15, 1983",
+    "sig_strikes_landed_per_min": "2.72",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "2.07",
+    "sig_strike_defense": "66%",
+    "takedowns_landed_per_15_min": "0.49",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "31dd8b5d6444f19b",
+            "fight_url": "http://ufcstats.com/fight-details/31dd8b5d6444f19b"
+        },
+        {
+            "fight_id": "e8d3768f293a699b",
+            "fight_url": "http://ufcstats.com/fight-details/e8d3768f293a699b"
+        },
+        {
+            "fight_id": "1e176413438fabd5",
+            "fight_url": "http://ufcstats.com/fight-details/1e176413438fabd5"
+        },
+        {
+            "fight_id": "a84d032d7d217427",
+            "fight_url": "http://ufcstats.com/fight-details/a84d032d7d217427"
+        },
+        {
+            "fight_id": "181429d8227794cb",
+            "fight_url": "http://ufcstats.com/fight-details/181429d8227794cb"
+        }
+    ]
+}

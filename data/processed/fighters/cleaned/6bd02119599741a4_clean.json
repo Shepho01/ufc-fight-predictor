@@ -1,0 +1,23 @@
+{
+    "fighter_id": "6bd02119599741a4",
+    "name": "Pedro Munhoz",
+    "wins": 20,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 2,
+    "height_cm": 167.64,
+    "weight_lbs": 135,
+    "reach_cm": 165.1,
+    "stance": "Orthodox",
+    "dob_day": 7,
+    "dob_month": 9,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 5.38,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 6.29,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 0.48,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.82,
+    "submission_attempts_per_15_min": 0.5
+}

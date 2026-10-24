@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f046d724d2a84ac5",
+    "name": "Desmond Green",
+    "wins": 23,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Southpaw",
+    "dob_day": 11,
+    "dob_month": 10,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.7,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 2.51,
+    "sig_strike_defense": 0.69,
+    "takedowns_landed_per_15_min": 1.62,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.75,
+    "submission_attempts_per_15_min": 0.0
+}

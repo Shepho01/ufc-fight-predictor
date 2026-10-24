@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ffd3e3d37cba32da",
+        "event_id": "53f02bbc41d99432",
+        "event_name": "UFC 179: Aldo vs Mendes 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Osiris Maia",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 154",
+            "Sig. str. %": "30%",
+            "Total str.": "133 of 251",
+            "Td": "1 of 14",
+            "Td %": "7%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 154",
+            "Sig. str. %": "30%",
+            "Head": "25 of 113",
+            "Body": "17 of 36",
+            "Leg": "5 of 5",
+            "Distance": "21 of 100",
+            "Clinch": "25 of 52",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7413b80dbb0f8f9f",
+        "name": "Lucas Martins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "26 of 82",
+            "Sig. str. %": "31%",
+            "Total str.": "41 of 97",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 82",
+            "Sig. str. %": "31%",
+            "Head": "16 of 70",
+            "Body": "6 of 7",
+            "Leg": "4 of 5",
+            "Distance": "19 of 71",
+            "Clinch": "7 of 11",
+            "Ground": "0 of 0"
+        }
+    }
+}

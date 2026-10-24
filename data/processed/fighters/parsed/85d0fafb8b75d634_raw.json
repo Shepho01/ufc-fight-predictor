@@ -1,0 +1,28 @@
+{
+    "fighter_id": "85d0fafb8b75d634",
+    "name": "Juan Manuel Puig",
+    "record": "11-4-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Apr 23, 1989",
+    "sig_strikes_landed_per_min": "4.91",
+    "sig_striking_accuracy": "23%",
+    "sig_strikes_absorbed_per_min": "7.17",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "1a637fbda4bdf575",
+            "fight_url": "http://ufcstats.com/fight-details/1a637fbda4bdf575"
+        },
+        {
+            "fight_id": "2f91307892d163ce",
+            "fight_url": "http://ufcstats.com/fight-details/2f91307892d163ce"
+        }
+    ]
+}

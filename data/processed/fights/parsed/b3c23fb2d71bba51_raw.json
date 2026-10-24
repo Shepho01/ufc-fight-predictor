@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b3c23fb2d71bba51",
+        "event_id": "0eec866a077889f0",
+        "event_name": "UFC 266: Volkanovski vs. Ortega",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "73 of 153",
+            "Sig. str. %": "47%",
+            "Total str.": "177 of 261",
+            "Td": "3 of 7",
+            "Td %": "42%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "73 of 153",
+            "Sig. str. %": "47%",
+            "Head": "26 of 97",
+            "Body": "27 of 32",
+            "Leg": "20 of 24",
+            "Distance": "55 of 134",
+            "Clinch": "14 of 15",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b7b84ccd221be298",
+        "name": "Nasrat Haqparast",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 69",
+            "Sig. str. %": "39%",
+            "Total str.": "35 of 77",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 69",
+            "Sig. str. %": "39%",
+            "Head": "17 of 56",
+            "Body": "9 of 11",
+            "Leg": "1 of 2",
+            "Distance": "23 of 63",
+            "Clinch": "4 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

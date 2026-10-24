@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "f65a0eb902f9476b",
+        "event_name": "UFC 282: Blachowicz vs. Ankalaev",
+        "event_date": "December 10, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3c3a9c1ec0604fc2",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Magomed Ankalaev",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3c3a9c1ec0604fc2"
+        },
+        {
+            "fight_id": "144cd3f62591a5fb",
+            "fighter_a": "Paddy Pimblett",
+            "fighter_b": "Jared Gordon",
+            "winner": "Paddy Pimblett",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/144cd3f62591a5fb"
+        },
+        {
+            "fight_id": "11f65de5348e4bc4",
+            "fighter_a": "Santiago Ponzinibbio",
+            "fighter_b": "Alex Morono",
+            "winner": "Santiago Ponzinibbio",
+            "weight_class": "Catch Weight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:29",
+            "fight_url": "http://ufcstats.com/fight-details/11f65de5348e4bc4"
+        },
+        {
+            "fight_id": "ecab8b8b36727b8d",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Darren Till",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "SUB Neck Crank",
+            "round": "3",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/ecab8b8b36727b8d"
+        },
+        {
+            "fight_id": "4a17876e99f6baf3",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Bryce Mitchell",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:10",
+            "fight_url": "http://ufcstats.com/fight-details/4a17876e99f6baf3"
+        },
+        {
+            "fight_id": "fd7421f421e802bd",
+            "fighter_a": "Raul Rosas Jr.",
+            "fighter_b": "Jay Perrin",
+            "winner": "Raul Rosas Jr.",
+            "weight_class": "Bantamweight",
+            "method": "SUB Neck Crank",
+            "round": "1",
+            "time": "2:44",
+            "fight_url": "http://ufcstats.com/fight-details/fd7421f421e802bd"
+        },
+        {
+            "fight_id": "1779cc4ae925df01",
+            "fighter_a": "Jairzinho Rozenstruik",
+            "fighter_b": "Chris Daukaus",
+            "winner": "Jairzinho Rozenstruik",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:23",
+            "fight_url": "http://ufcstats.com/fight-details/1779cc4ae925df01"
+        },
+        {
+            "fight_id": "4e9d76ed54f1f352",
+            "fighter_a": "Edmen Shahbazyan",
+            "fighter_b": "Dalcha Lungiambula",
+            "winner": "Edmen Shahbazyan",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:41",
+            "fight_url": "http://ufcstats.com/fight-details/4e9d76ed54f1f352"
+        },
+        {
+            "fight_id": "a346180c8b109469",
+            "fighter_a": "Chris Curtis",
+            "fighter_b": "Joaquin Buckley",
+            "winner": "Chris Curtis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:49",
+            "fight_url": "http://ufcstats.com/fight-details/a346180c8b109469"
+        },
+        {
+            "fight_id": "a1a5d06b0e7ada62",
+            "fighter_a": "Billy Quarantillo",
+            "fighter_b": "Alexander Hernandez",
+            "winner": "Billy Quarantillo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:30",
+            "fight_url": "http://ufcstats.com/fight-details/a1a5d06b0e7ada62"
+        },
+        {
+            "fight_id": "2d9d966e0e8df232",
+            "fighter_a": "TJ Brown",
+            "fighter_b": "Erik Silva",
+            "winner": "TJ Brown",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:41",
+            "fight_url": "http://ufcstats.com/fight-details/2d9d966e0e8df232"
+        },
+        {
+            "fight_id": "5bc31abb5842942a",
+            "fighter_a": "Cameron Saaiman",
+            "fighter_b": "Steven Koslow",
+            "winner": "Cameron Saaiman",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:13",
+            "fight_url": "http://ufcstats.com/fight-details/5bc31abb5842942a"
+        }
+    ]
+}

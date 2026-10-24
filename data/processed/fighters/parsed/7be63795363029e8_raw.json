@@ -1,0 +1,48 @@
+{
+    "fighter_id": "7be63795363029e8",
+    "name": "Cody McKenzie",
+    "record": "16-10-0",
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Dec 16, 1987",
+    "sig_strikes_landed_per_min": "1.74",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "2.50",
+    "sig_strike_defense": "67%",
+    "takedowns_landed_per_15_min": "2.50",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "14%",
+    "submission_attempts_per_15_min": "2.5",
+    "fight_history": [
+        {
+            "fight_id": "5929c539190c8a07",
+            "fight_url": "http://ufcstats.com/fight-details/5929c539190c8a07"
+        },
+        {
+            "fight_id": "44ad16cd4e6c93d7",
+            "fight_url": "http://ufcstats.com/fight-details/44ad16cd4e6c93d7"
+        },
+        {
+            "fight_id": "d1268ffa059f9d42",
+            "fight_url": "http://ufcstats.com/fight-details/d1268ffa059f9d42"
+        },
+        {
+            "fight_id": "df5ab14481442365",
+            "fight_url": "http://ufcstats.com/fight-details/df5ab14481442365"
+        },
+        {
+            "fight_id": "5dc4552c9288441a",
+            "fight_url": "http://ufcstats.com/fight-details/5dc4552c9288441a"
+        },
+        {
+            "fight_id": "ab8b506dd2277da3",
+            "fight_url": "http://ufcstats.com/fight-details/ab8b506dd2277da3"
+        },
+        {
+            "fight_id": "f5686732b85adafc",
+            "fight_url": "http://ufcstats.com/fight-details/f5686732b85adafc"
+        }
+    ]
+}

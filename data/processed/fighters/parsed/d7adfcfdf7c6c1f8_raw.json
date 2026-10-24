@@ -1,0 +1,32 @@
+{
+    "fighter_id": "d7adfcfdf7c6c1f8",
+    "name": "Ian Entwistle",
+    "record": "9-3-0",
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Nov 19, 1986",
+    "sig_strikes_landed_per_min": "0.11",
+    "sig_striking_accuracy": "7%",
+    "sig_strikes_absorbed_per_min": "7.36",
+    "sig_strike_defense": "31%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "12.1",
+    "fight_history": [
+        {
+            "fight_id": "d1d7400c131ed40e",
+            "fight_url": "http://ufcstats.com/fight-details/d1d7400c131ed40e"
+        },
+        {
+            "fight_id": "1b23096378482313",
+            "fight_url": "http://ufcstats.com/fight-details/1b23096378482313"
+        },
+        {
+            "fight_id": "ee532a38a0b93127",
+            "fight_url": "http://ufcstats.com/fight-details/ee532a38a0b93127"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "f3155a94ca420126",
+        "event_name": "UFC Fight Night: Holohan vs Smolka",
+        "event_day": 24,
+        "event_month": 10,
+        "event_year": 2015,
+        "location": "Dublin, Leinster, Ireland"
+    },
+    "fights": [
+        {
+            "fight_id": "8d1559bbcea7e92a",
+            "fighter_a": "Louis Smolka",
+            "fighter_b": "Paddy Holohan",
+            "winner": "Louis Smolka",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 249,
+            "fight_url": "http://ufcstats.com/fight-details/8d1559bbcea7e92a"
+        },
+        {
+            "fight_id": "5ae114b3fdef6d2f",
+            "fighter_a": "Norman Parke",
+            "fighter_b": "Reza Madadi",
+            "winner": "Norman Parke",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5ae114b3fdef6d2f"
+        },
+        {
+            "fight_id": "2e0ae17a22a6f824",
+            "fighter_a": "Nicolas Dalby",
+            "fighter_b": "Darren Till",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2e0ae17a22a6f824"
+        },
+        {
+            "fight_id": "a1569926652ebc36",
+            "fighter_a": "Neil Seery",
+            "fighter_b": "Jon Delos Reyes",
+            "winner": "Neil Seery",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 252,
+            "fight_url": "http://ufcstats.com/fight-details/a1569926652ebc36"
+        },
+        {
+            "fight_id": "665a35fcac41d277",
+            "fighter_a": "Stevie Ray",
+            "fighter_b": "Mickael Lebout",
+            "winner": "Stevie Ray",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/665a35fcac41d277"
+        },
+        {
+            "fight_id": "475a41d83edd47dd",
+            "fighter_a": "Aisling Daly",
+            "fighter_b": "Ericka Almeida",
+            "winner": "Aisling Daly",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/475a41d83edd47dd"
+        },
+        {
+            "fight_id": "3e39829aedc9346f",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Scott Askham",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3e39829aedc9346f"
+        },
+        {
+            "fight_id": "2ad291d61792fd7d",
+            "fighter_a": "Tom Breese",
+            "fighter_b": "Cathal Pendred",
+            "winner": "Tom Breese",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 277,
+            "fight_url": "http://ufcstats.com/fight-details/2ad291d61792fd7d"
+        },
+        {
+            "fight_id": "cf3a93dd5460593c",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Robert Whiteford",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf3a93dd5460593c"
+        },
+        {
+            "fight_id": "43313a340ff0d2b5",
+            "fighter_a": "Garreth McLellan",
+            "fighter_b": "Bubba Bush",
+            "winner": "Garreth McLellan",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 298,
+            "fight_url": "http://ufcstats.com/fight-details/43313a340ff0d2b5"
+        }
+    ]
+}

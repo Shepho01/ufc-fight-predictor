@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "5f8e00c27b7e7410",
+        "event_name": "UFC Fight Night: Smith vs. Teixeira",
+        "event_day": 13,
+        "event_month": 5,
+        "event_year": 2020,
+        "location": "Jacksonville, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8539c4b795d33a92",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Anthony Smith",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 5,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/8539c4b795d33a92"
+        },
+        {
+            "fight_id": "394ae51820bedd4c",
+            "fighter_a": "Ben Rothwell",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Ben Rothwell",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/394ae51820bedd4c"
+        },
+        {
+            "fight_id": "46c050a827ee83d6",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Alexander Hernandez",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/46c050a827ee83d6"
+        },
+        {
+            "fight_id": "3094e82731ec55e7",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Ray Borg",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3094e82731ec55e7"
+        },
+        {
+            "fight_id": "312946f6b72ebd51",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Philipe Lins",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/312946f6b72ebd51"
+        },
+        {
+            "fight_id": "87f58feac6b50367",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Michael Johnson",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "SUB Ankle Lock",
+            "round": 2,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/87f58feac6b50367"
+        },
+        {
+            "fight_id": "fbbba3da4438cb04",
+            "fighter_a": "Sijara Eubanks",
+            "fighter_b": "Sarah Moras",
+            "winner": "Sijara Eubanks",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fbbba3da4438cb04"
+        },
+        {
+            "fight_id": "918103d82ecbed75",
+            "fighter_a": "Omar Morales",
+            "fighter_b": "Gabriel Benitez",
+            "winner": "Omar Morales",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/918103d82ecbed75"
+        },
+        {
+            "fight_id": "3ce634d03af7e14c",
+            "fighter_a": "Brian Kelleher",
+            "fighter_b": "Hunter Azure",
+            "winner": "Brian Kelleher",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 220,
+            "fight_url": "http://ufcstats.com/fight-details/3ce634d03af7e14c"
+        },
+        {
+            "fight_id": "b2ca310c9d0037d3",
+            "fighter_a": "Chase Sherman",
+            "fighter_b": "Ike Villanueva",
+            "winner": "Chase Sherman",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 49,
+            "fight_url": "http://ufcstats.com/fight-details/b2ca310c9d0037d3"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "5efaaf313b652dd7",
+        "event_name": "Noche UFC: Lopes vs. Silva",
+        "event_day": 13,
+        "event_month": 9,
+        "event_year": 2025,
+        "location": "San Antonio, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "de1a3734be60e6a1",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Jean Silva",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 288,
+            "fight_url": "http://ufcstats.com/fight-details/de1a3734be60e6a1"
+        },
+        {
+            "fight_id": "944b929130b23c2a",
+            "fighter_a": "David Martinez",
+            "fighter_b": "Rob Font",
+            "winner": "David Martinez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/944b929130b23c2a"
+        },
+        {
+            "fight_id": "7cbfeba85f86d1bf",
+            "fighter_a": "Rafa Garcia",
+            "fighter_b": "Jared Gordon",
+            "winner": "Rafa Garcia",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": 3,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/7cbfeba85f86d1bf"
+        },
+        {
+            "fight_id": "114d2f6fcd3f6f00",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Dustin Stoltzfus",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/114d2f6fcd3f6f00"
+        },
+        {
+            "fight_id": "202c47db69768356",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Diego Ferreira",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 226,
+            "fight_url": "http://ufcstats.com/fight-details/202c47db69768356"
+        },
+        {
+            "fight_id": "8a884a7930d75ca9",
+            "fighter_a": "Santiago Luna",
+            "fighter_b": "Quang Le",
+            "winner": "Santiago Luna",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 168,
+            "fight_url": "http://ufcstats.com/fight-details/8a884a7930d75ca9"
+        },
+        {
+            "fight_id": "07a378b257aad5a9",
+            "fighter_a": "Dusko Todorovic",
+            "fighter_b": "Jose Daniel Medina",
+            "winner": "Dusko Todorovic",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/07a378b257aad5a9"
+        },
+        {
+            "fight_id": "352839a03b428e74",
+            "fighter_a": "Joaquim Silva",
+            "fighter_b": "Claudio Puelles",
+            "winner": "Joaquim Silva",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/352839a03b428e74"
+        },
+        {
+            "fight_id": "9474f64347aade7a",
+            "fighter_a": "Tatiana Suarez",
+            "fighter_b": "Amanda Lemos",
+            "winner": "Tatiana Suarez",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9474f64347aade7a"
+        },
+        {
+            "fight_id": "3dc1a6335d890650",
+            "fighter_a": "Jesus Aguilar",
+            "fighter_b": "Luis Gurule",
+            "winner": "Jesus Aguilar",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3dc1a6335d890650"
+        },
+        {
+            "fight_id": "d822ebc7dbc6c259",
+            "fighter_a": "Zach Reese",
+            "fighter_b": "Sedriques Dumas",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "CNC",
+            "round": 1,
+            "time_seconds": 51,
+            "fight_url": "http://ufcstats.com/fight-details/d822ebc7dbc6c259"
+        },
+        {
+            "fight_id": "a1e193425e716b42",
+            "fighter_a": "Alden Coria",
+            "fighter_b": "Alessandro Costa",
+            "winner": "Alden Coria",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 47,
+            "fight_url": "http://ufcstats.com/fight-details/a1e193425e716b42"
+        },
+        {
+            "fight_id": "c4a6174b0698652e",
+            "fighter_a": "Montse Rendon",
+            "fighter_b": "Alice Pereira",
+            "winner": "Montse Rendon",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4a6174b0698652e"
+        },
+        {
+            "fight_id": "3dd2fde7bff79c51",
+            "fighter_a": "Daniil Donchenko",
+            "fighter_b": "Rodrigo Sezinando",
+            "winner": "Daniil Donchenko",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/3dd2fde7bff79c51"
+        }
+    ]
+}

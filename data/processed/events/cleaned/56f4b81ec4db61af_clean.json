@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "56f4b81ec4db61af",
+        "event_name": "UFC on FX: Belfort vs Bisping",
+        "event_day": 19,
+        "event_month": 1,
+        "event_year": 2013,
+        "location": "Sao Paulo, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "b51d691b9f5603a8",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Michael Bisping",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 87,
+            "fight_url": "http://ufcstats.com/fight-details/b51d691b9f5603a8"
+        },
+        {
+            "fight_id": "4d231d5d5f815085",
+            "fighter_a": "CB Dollaway",
+            "fighter_b": "Daniel Sarafian",
+            "winner": "CB Dollaway",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4d231d5d5f815085"
+        },
+        {
+            "fight_id": "2eeb1656692bd967",
+            "fighter_a": "Gabriel Gonzaga",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Gabriel Gonzaga",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/2eeb1656692bd967"
+        },
+        {
+            "fight_id": "7651b2e09ea2c420",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Thiago Tavares",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 115,
+            "fight_url": "http://ufcstats.com/fight-details/7651b2e09ea2c420"
+        },
+        {
+            "fight_id": "8f426040f746905d",
+            "fighter_a": "Godofredo Pepey",
+            "fighter_b": "Milton Vieira",
+            "winner": "Godofredo Pepey",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8f426040f746905d"
+        },
+        {
+            "fight_id": "dff7ce155b47442c",
+            "fighter_a": "Ronny Markes",
+            "fighter_b": "Andrew Craig",
+            "winner": "Ronny Markes",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dff7ce155b47442c"
+        },
+        {
+            "fight_id": "302ce74d8b0d12a6",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Diego Nunes",
+            "winner": "Nik Lentz",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/302ce74d8b0d12a6"
+        },
+        {
+            "fight_id": "470f6fdd47f671fd",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Lucas Martins",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/470f6fdd47f671fd"
+        },
+        {
+            "fight_id": "7601245171a28da1",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Pedro Nobre",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "CNC",
+            "round": 1,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/7601245171a28da1"
+        },
+        {
+            "fight_id": "c7ad34973f9d1cf6",
+            "fighter_a": "Ildemar Alcantara",
+            "fighter_b": "Wagner Prado",
+            "winner": "Ildemar Alcantara",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kneebar",
+            "round": 2,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/c7ad34973f9d1cf6"
+        },
+        {
+            "fight_id": "f4273b2155fe20fe",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "CJ Keith",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 110,
+            "fight_url": "http://ufcstats.com/fight-details/f4273b2155fe20fe"
+        }
+    ]
+}

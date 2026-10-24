@@ -1,0 +1,80 @@
+{
+    "fighter_id": "040a74bb0a465c54",
+    "name": "Arnold Allen",
+    "record": "21-4-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Jan 22, 1994",
+    "sig_strikes_landed_per_min": "3.52",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "3.15",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "1.24",
+    "takedown_accuracy": "60%",
+    "takedown_defense": "73%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "e4aa608124896794",
+            "fight_url": "http://ufcstats.com/fight-details/e4aa608124896794"
+        },
+        {
+            "fight_id": "836a188a90e479a5",
+            "fight_url": "http://ufcstats.com/fight-details/836a188a90e479a5"
+        },
+        {
+            "fight_id": "8a2e28da18ba6a25",
+            "fight_url": "http://ufcstats.com/fight-details/8a2e28da18ba6a25"
+        },
+        {
+            "fight_id": "1a7cd191f0cf160c",
+            "fight_url": "http://ufcstats.com/fight-details/1a7cd191f0cf160c"
+        },
+        {
+            "fight_id": "6049301b4deea035",
+            "fight_url": "http://ufcstats.com/fight-details/6049301b4deea035"
+        },
+        {
+            "fight_id": "a554a72bb0377213",
+            "fight_url": "http://ufcstats.com/fight-details/a554a72bb0377213"
+        },
+        {
+            "fight_id": "ce3d94186567a684",
+            "fight_url": "http://ufcstats.com/fight-details/ce3d94186567a684"
+        },
+        {
+            "fight_id": "71b81d8199a0fa19",
+            "fight_url": "http://ufcstats.com/fight-details/71b81d8199a0fa19"
+        },
+        {
+            "fight_id": "ed94cdc0f2b97e15",
+            "fight_url": "http://ufcstats.com/fight-details/ed94cdc0f2b97e15"
+        },
+        {
+            "fight_id": "c48af5eafb532d0a",
+            "fight_url": "http://ufcstats.com/fight-details/c48af5eafb532d0a"
+        },
+        {
+            "fight_id": "8cc4c597aecbfef5",
+            "fight_url": "http://ufcstats.com/fight-details/8cc4c597aecbfef5"
+        },
+        {
+            "fight_id": "f6efb09c01e4cac6",
+            "fight_url": "http://ufcstats.com/fight-details/f6efb09c01e4cac6"
+        },
+        {
+            "fight_id": "7ec86f2af631344f",
+            "fight_url": "http://ufcstats.com/fight-details/7ec86f2af631344f"
+        },
+        {
+            "fight_id": "c82f9bc365ff1074",
+            "fight_url": "http://ufcstats.com/fight-details/c82f9bc365ff1074"
+        },
+        {
+            "fight_id": "cd7fd3f034717d3c",
+            "fight_url": "http://ufcstats.com/fight-details/cd7fd3f034717d3c"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "538ca98010ed00ec",
+        "event_id": "6750e338922a099d",
+        "event_name": "UFC 300: Pereira vs. Hill",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:29",
+        "referee": "Mark Smith",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "94426bb170c88115",
+        "name": "Sodiq Yusuff",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 5",
+            "Sig. str. %": "40%",
+            "Total str.": "2 of 5",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 5",
+            "Sig. str. %": "40%",
+            "Head": "1 of 1",
+            "Body": "0 of 0",
+            "Leg": "1 of 4",
+            "Distance": "2 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "26 of 32",
+            "Sig. str. %": "81%",
+            "Total str.": "29 of 35",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 32",
+            "Sig. str. %": "81%",
+            "Head": "21 of 27",
+            "Body": "2 of 2",
+            "Leg": "3 of 3",
+            "Distance": "3 of 4",
+            "Clinch": "5 of 7",
+            "Ground": "18 of 21"
+        }
+    }
+}

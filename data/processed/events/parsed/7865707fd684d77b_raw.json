@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "7865707fd684d77b",
+        "event_name": "UFC on FUEL TV: Nogueira vs. Werdum",
+        "event_date": "June 08, 2013",
+        "location": "Fortaleza, Ceara, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "8857bf28823b1b2d",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Antonio Rodrigo Nogueira",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "2:41",
+            "fight_url": "http://ufcstats.com/fight-details/8857bf28823b1b2d"
+        },
+        {
+            "fight_id": "bd9100f5d4ee6823",
+            "fighter_a": "Leonardo Santos",
+            "fighter_b": "William Macario",
+            "winner": "Leonardo Santos",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "4:43",
+            "fight_url": "http://ufcstats.com/fight-details/bd9100f5d4ee6823"
+        },
+        {
+            "fight_id": "2692ac9853970e08",
+            "fighter_a": "Thiago Silva",
+            "fighter_b": "Rafael Cavalcante",
+            "winner": "Thiago Silva",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:29",
+            "fight_url": "http://ufcstats.com/fight-details/2692ac9853970e08"
+        },
+        {
+            "fight_id": "0e272af30a23e09b",
+            "fighter_a": "Erick Silva",
+            "fighter_b": "Jason High",
+            "winner": "Erick Silva",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "1:11",
+            "fight_url": "http://ufcstats.com/fight-details/0e272af30a23e09b"
+        },
+        {
+            "fight_id": "8c1787fe568f1ca6",
+            "fighter_a": "Daniel Sarafian",
+            "fighter_b": "Eddie Mendez",
+            "winner": "Daniel Sarafian",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "2:20",
+            "fight_url": "http://ufcstats.com/fight-details/8c1787fe568f1ca6"
+        },
+        {
+            "fight_id": "c25c2000aa99832c",
+            "fighter_a": "Rony Jason",
+            "fighter_b": "Mike Wilkinson",
+            "winner": "Rony Jason",
+            "weight_class": "Featherweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "1:24",
+            "fight_url": "http://ufcstats.com/fight-details/c25c2000aa99832c"
+        },
+        {
+            "fight_id": "f5ebfe526cf409e8",
+            "fighter_a": "Raphael Assuncao",
+            "fighter_b": "Vaughan Lee",
+            "winner": "Raphael Assuncao",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "1:51",
+            "fight_url": "http://ufcstats.com/fight-details/f5ebfe526cf409e8"
+        },
+        {
+            "fight_id": "d03618c86d395b43",
+            "fighter_a": "Felipe Arantes",
+            "fighter_b": "Godofredo Pepey",
+            "winner": "Felipe Arantes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "3:32",
+            "fight_url": "http://ufcstats.com/fight-details/d03618c86d395b43"
+        },
+        {
+            "fight_id": "b6d027c60f879e4a",
+            "fighter_a": "Ildemar Alcantara",
+            "fighter_b": "Leandro Silva",
+            "winner": "Ildemar Alcantara",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b6d027c60f879e4a"
+        },
+        {
+            "fight_id": "291bebbbf4f9128f",
+            "fighter_a": "Rodrigo Damm",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Rodrigo Damm",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/291bebbbf4f9128f"
+        },
+        {
+            "fight_id": "401a21d881a1f26a",
+            "fighter_a": "Caio Magalhaes",
+            "fighter_b": "Karlos Vemola",
+            "winner": "Caio Magalhaes",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:49",
+            "fight_url": "http://ufcstats.com/fight-details/401a21d881a1f26a"
+        },
+        {
+            "fight_id": "66b295262ef7ee91",
+            "fighter_a": "Antonio Braga Neto",
+            "fighter_b": "Anthony Smith",
+            "winner": "Antonio Braga Neto",
+            "weight_class": "Middleweight",
+            "method": "SUB Kneebar",
+            "round": "1",
+            "time": "1:52",
+            "fight_url": "http://ufcstats.com/fight-details/66b295262ef7ee91"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4c27ca8c8481f79a",
+    "name": "Alexandre Franca Nogueira",
+    "wins": 18,
+    "losses": 6,
+    "draws": 3,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 15,
+    "dob_month": 1,
+    "dob_year": 1978,
+    "sig_strikes_landed_per_min": 0.6,
+    "sig_striking_accuracy": 0.2,
+    "sig_strikes_absorbed_per_min": 4.18,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

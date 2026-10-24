@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2bcb1b0b05e2c739",
+        "event_id": "35dc6220b113b7ec",
+        "event_name": "UFC Fight Night: Fight for the Troops 3",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:50",
+        "referee": "John McCarthy",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "20 of 54",
+            "Sig. str. %": "37%",
+            "Total str.": "20 of 54",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 54",
+            "Sig. str. %": "37%",
+            "Head": "5 of 29",
+            "Body": "7 of 16",
+            "Leg": "8 of 9",
+            "Distance": "20 of 54",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "8f6a18831a120817",
+        "name": "James Krause",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 64",
+            "Sig. str. %": "34%",
+            "Total str.": "22 of 64",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 64",
+            "Sig. str. %": "34%",
+            "Head": "14 of 51",
+            "Body": "2 of 3",
+            "Leg": "6 of 10",
+            "Distance": "21 of 63",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

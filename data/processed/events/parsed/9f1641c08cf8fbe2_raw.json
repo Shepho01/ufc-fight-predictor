@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "9f1641c08cf8fbe2",
+        "event_name": "WEC 50: Cruz vs. Benavidez",
+        "event_date": "August 18, 2010",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ca9d8b701e9abc23",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Joseph Benavidez",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ca9d8b701e9abc23"
+        },
+        {
+            "fight_id": "0c3ab516e78bdb04",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Shane Roller",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "3",
+            "time": "4:51",
+            "fight_url": "http://ufcstats.com/fight-details/0c3ab516e78bdb04"
+        },
+        {
+            "fight_id": "45c260921c7a96a6",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Cub Swanson",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/45c260921c7a96a6"
+        },
+        {
+            "fight_id": "20b569f81522c897",
+            "fighter_a": "Scott Jorgensen",
+            "fighter_b": "Brad Pickett",
+            "winner": "Scott Jorgensen",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/20b569f81522c897"
+        },
+        {
+            "fight_id": "c6a2e152acb09324",
+            "fighter_a": "Bart Palaszewski",
+            "fighter_b": "Zachary Micklewright",
+            "winner": "Bart Palaszewski",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:31",
+            "fight_url": "http://ufcstats.com/fight-details/c6a2e152acb09324"
+        },
+        {
+            "fight_id": "11b5d0cfccb73d2f",
+            "fighter_a": "Maciej Jewtuszko",
+            "fighter_b": "Anthony Njokuani",
+            "winner": "Maciej Jewtuszko",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/11b5d0cfccb73d2f"
+        },
+        {
+            "fight_id": "4cb4ee5c0ff9e779",
+            "fighter_a": "Javier Vazquez",
+            "fighter_b": "Mackens Semerzier",
+            "winner": "Javier Vazquez",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/4cb4ee5c0ff9e779"
+        },
+        {
+            "fight_id": "54447cee0aa2e38f",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Dave Jansen",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/54447cee0aa2e38f"
+        },
+        {
+            "fight_id": "a0186ed12aa08f41",
+            "fighter_a": "Fredson Paixao",
+            "fighter_b": "Bryan Caraway",
+            "winner": "Fredson Paixao",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a0186ed12aa08f41"
+        },
+        {
+            "fight_id": "be17aaad7221e2d9",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/be17aaad7221e2d9"
+        }
+    ]
+}

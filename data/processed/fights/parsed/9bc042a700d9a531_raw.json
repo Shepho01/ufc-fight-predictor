@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9bc042a700d9a531",
+        "event_id": "1ef0eae31904e534",
+        "event_name": "UFC 229: Khabib vs. McGregor",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:19",
+        "referee": "Dan Miragliotta",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "7d96bc577e5178b2",
+        "name": "Gray Maynard",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 27",
+            "Sig. str. %": "48%",
+            "Total str.": "13 of 27",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 27",
+            "Sig. str. %": "48%",
+            "Head": "11 of 25",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "11 of 23",
+            "Clinch": "2 of 4",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "75 of 101",
+            "Sig. str. %": "74%",
+            "Total str.": "92 of 121",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 101",
+            "Sig. str. %": "74%",
+            "Head": "67 of 93",
+            "Body": "5 of 5",
+            "Leg": "3 of 3",
+            "Distance": "23 of 34",
+            "Clinch": "12 of 16",
+            "Ground": "40 of 51"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "014f1da2083ca174",
+        "event_id": "e49c2db95e572dc8",
+        "event_name": "UFC Fight Night: Thompson vs. Neal",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 70",
+            "Sig. str. %": "62%",
+            "Total str.": "60 of 86",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 70",
+            "Sig. str. %": "62%",
+            "Head": "17 of 38",
+            "Body": "21 of 26",
+            "Leg": "6 of 6",
+            "Distance": "36 of 62",
+            "Clinch": "8 of 8",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7c7332319c14094c",
+        "name": "Marlon Vera",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 82",
+            "Sig. str. %": "56%",
+            "Total str.": "92 of 133",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 82",
+            "Sig. str. %": "56%",
+            "Head": "8 of 33",
+            "Body": "11 of 15",
+            "Leg": "27 of 34",
+            "Distance": "34 of 69",
+            "Clinch": "12 of 13",
+            "Ground": "0 of 0"
+        }
+    }
+}

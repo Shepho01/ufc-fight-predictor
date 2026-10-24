@@ -1,0 +1,56 @@
+{
+    "fighter_id": "7826923b47f8d72a",
+    "name": "Paddy Pimblett",
+    "record": "24-4-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jan 03, 1995",
+    "sig_strikes_landed_per_min": "5.48",
+    "sig_striking_accuracy": "52%",
+    "sig_strikes_absorbed_per_min": "3.86",
+    "sig_strike_defense": "42%",
+    "takedowns_landed_per_15_min": "0.68",
+    "takedown_accuracy": "21%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "1.4",
+    "fight_history": [
+        {
+            "fight_id": "130b325610c54a64",
+            "fight_url": "http://ufcstats.com/fight-details/130b325610c54a64"
+        },
+        {
+            "fight_id": "fa4b3f5ce8055921",
+            "fight_url": "http://ufcstats.com/fight-details/fa4b3f5ce8055921"
+        },
+        {
+            "fight_id": "d05cb4c4135ce402",
+            "fight_url": "http://ufcstats.com/fight-details/d05cb4c4135ce402"
+        },
+        {
+            "fight_id": "3e2bde19e752f64b",
+            "fight_url": "http://ufcstats.com/fight-details/3e2bde19e752f64b"
+        },
+        {
+            "fight_id": "ac8628d945a78b03",
+            "fight_url": "http://ufcstats.com/fight-details/ac8628d945a78b03"
+        },
+        {
+            "fight_id": "144cd3f62591a5fb",
+            "fight_url": "http://ufcstats.com/fight-details/144cd3f62591a5fb"
+        },
+        {
+            "fight_id": "8e02bdaac8ed50e5",
+            "fight_url": "http://ufcstats.com/fight-details/8e02bdaac8ed50e5"
+        },
+        {
+            "fight_id": "001441f70c293931",
+            "fight_url": "http://ufcstats.com/fight-details/001441f70c293931"
+        },
+        {
+            "fight_id": "8fc238e84c4624a7",
+            "fight_url": "http://ufcstats.com/fight-details/8fc238e84c4624a7"
+        }
+    ]
+}

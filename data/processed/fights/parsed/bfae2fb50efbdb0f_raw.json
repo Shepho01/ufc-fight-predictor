@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "bfae2fb50efbdb0f",
+        "event_id": "620be7e0712d431b",
+        "event_name": "UFC Fight Night: Poirier vs. Gaethje",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 4,
+        "finish_time": "0:33",
+        "referee": "Herb Dean",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "174 of 351",
+            "Sig. str. %": "49%",
+            "Total str.": "179 of 357",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "174 of 351",
+            "Sig. str. %": "49%",
+            "Head": "142 of 314",
+            "Body": "21 of 26",
+            "Leg": "11 of 11",
+            "Distance": "162 of 338",
+            "Clinch": "12 of 13",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9e8f6c728eb01124",
+        "name": "Justin Gaethje",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "115 of 212",
+            "Sig. str. %": "54%",
+            "Total str.": "116 of 213",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "115 of 212",
+            "Sig. str. %": "54%",
+            "Head": "56 of 143",
+            "Body": "9 of 12",
+            "Leg": "50 of 57",
+            "Distance": "98 of 194",
+            "Clinch": "17 of 18",
+            "Ground": "0 of 0"
+        }
+    }
+}

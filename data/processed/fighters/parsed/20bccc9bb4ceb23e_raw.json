@@ -1,0 +1,60 @@
+{
+    "fighter_id": "20bccc9bb4ceb23e",
+    "name": "Melquizael Costa",
+    "record": "26-8-0",
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Sep 14, 1996",
+    "sig_strikes_landed_per_min": "4.29",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.19",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.53",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "e4aa608124896794",
+            "fight_url": "http://ufcstats.com/fight-details/e4aa608124896794"
+        },
+        {
+            "fight_id": "dc6f6c8228390ebb",
+            "fight_url": "http://ufcstats.com/fight-details/dc6f6c8228390ebb"
+        },
+        {
+            "fight_id": "93ca562453f65b8d",
+            "fight_url": "http://ufcstats.com/fight-details/93ca562453f65b8d"
+        },
+        {
+            "fight_id": "fe2acfdaaaec3dba",
+            "fight_url": "http://ufcstats.com/fight-details/fe2acfdaaaec3dba"
+        },
+        {
+            "fight_id": "41cdbcc0f3635b8f",
+            "fight_url": "http://ufcstats.com/fight-details/41cdbcc0f3635b8f"
+        },
+        {
+            "fight_id": "3ded9bfdfb75f39b",
+            "fight_url": "http://ufcstats.com/fight-details/3ded9bfdfb75f39b"
+        },
+        {
+            "fight_id": "94f5b35b2b6c72b1",
+            "fight_url": "http://ufcstats.com/fight-details/94f5b35b2b6c72b1"
+        },
+        {
+            "fight_id": "5ac1725f775c6f00",
+            "fight_url": "http://ufcstats.com/fight-details/5ac1725f775c6f00"
+        },
+        {
+            "fight_id": "b4cc389bb4af3707",
+            "fight_url": "http://ufcstats.com/fight-details/b4cc389bb4af3707"
+        },
+        {
+            "fight_id": "8cdcdfb76d1670dd",
+            "fight_url": "http://ufcstats.com/fight-details/8cdcdfb76d1670dd"
+        }
+    ]
+}

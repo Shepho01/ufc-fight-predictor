@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "41dca66f9dadfc86",
+        "event_name": "UFC Fight Night: Santos vs. Teixeira",
+        "event_day": 7,
+        "event_month": 11,
+        "event_year": 2020,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "923e151bd990961b",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Thiago Santos",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 109,
+            "fight_url": "http://ufcstats.com/fight-details/923e151bd990961b"
+        },
+        {
+            "fight_id": "f0cf92b063735164",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Tanner Boser",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f0cf92b063735164"
+        },
+        {
+            "fight_id": "6ac3d588f9630f0a",
+            "fighter_a": "Raoni Barcelos",
+            "fighter_b": "Khalid Taha",
+            "winner": "Raoni Barcelos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6ac3d588f9630f0a"
+        },
+        {
+            "fight_id": "0fed97329b78b887",
+            "fighter_a": "Giga Chikadze",
+            "fighter_b": "Jamey Simmons",
+            "winner": "Giga Chikadze",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 231,
+            "fight_url": "http://ufcstats.com/fight-details/0fed97329b78b887"
+        },
+        {
+            "fight_id": "b76590c02f86e705",
+            "fighter_a": "Yan Xiaonan",
+            "fighter_b": "Claudia Gadelha",
+            "winner": "Yan Xiaonan",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b76590c02f86e705"
+        },
+        {
+            "fight_id": "fea7dd5904ab4c91",
+            "fighter_a": "Trevin Giles",
+            "fighter_b": "Bevon Lewis",
+            "winner": "Trevin Giles",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 86,
+            "fight_url": "http://ufcstats.com/fight-details/fea7dd5904ab4c91"
+        },
+        {
+            "fight_id": "2267d967d1daf08a",
+            "fighter_a": "Alexandr Romanov",
+            "fighter_b": "Marcos Rogerio de Lima",
+            "winner": "Alexandr Romanov",
+            "weight_class": "Heavyweight",
+            "method": "SUB Forearm Choke",
+            "round": 1,
+            "time_seconds": 288,
+            "fight_url": "http://ufcstats.com/fight-details/2267d967d1daf08a"
+        },
+        {
+            "fight_id": "69fa167ba5d0fd82",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Eduardo Garagorri",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 142,
+            "fight_url": "http://ufcstats.com/fight-details/69fa167ba5d0fd82"
+        },
+        {
+            "fight_id": "55019da3a4bd5d54",
+            "fighter_a": "Max Griffin",
+            "fighter_b": "Ramiz Brahimaj",
+            "winner": "Max Griffin",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbow",
+            "round": 3,
+            "time_seconds": 123,
+            "fight_url": "http://ufcstats.com/fight-details/55019da3a4bd5d54"
+        },
+        {
+            "fight_id": "cb720b01fd6f9785",
+            "fighter_a": "Gustavo Lopez",
+            "fighter_b": "Anthony Birchak",
+            "winner": "Gustavo Lopez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 163,
+            "fight_url": "http://ufcstats.com/fight-details/cb720b01fd6f9785"
+        }
+    ]
+}

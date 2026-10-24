@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4bf3010fdeea9d93",
+        "event_id": "b3b6e80b7d5f8f0d",
+        "event_name": "UFC 281: Adesanya vs. Pereira",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 76",
+            "Sig. str. %": "50%",
+            "Total str.": "63 of 105",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:47"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 76",
+            "Sig. str. %": "50%",
+            "Head": "34 of 71",
+            "Body": "2 of 2",
+            "Leg": "2 of 3",
+            "Distance": "32 of 66",
+            "Clinch": "3 of 4",
+            "Ground": "3 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4b93a88f3b1de35b",
+        "name": "Michael Chandler",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "43 of 100",
+            "Sig. str. %": "43%",
+            "Total str.": "65 of 135",
+            "Td": "3 of 7",
+            "Td %": "42%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 100",
+            "Sig. str. %": "43%",
+            "Head": "32 of 80",
+            "Body": "10 of 17",
+            "Leg": "1 of 3",
+            "Distance": "25 of 76",
+            "Clinch": "2 of 2",
+            "Ground": "16 of 22"
+        }
+    }
+}

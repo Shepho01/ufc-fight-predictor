@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "69fa167ba5d0fd82",
+        "event_id": "41dca66f9dadfc86",
+        "event_name": "UFC Fight Night: Santos vs. Teixeira",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:22",
+        "referee": "Chris Tognoni",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 72",
+            "Sig. str. %": "44%",
+            "Total str.": "120 of 168",
+            "Td": "7 of 21",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "7:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 72",
+            "Sig. str. %": "44%",
+            "Head": "21 of 58",
+            "Body": "10 of 13",
+            "Leg": "1 of 1",
+            "Distance": "18 of 55",
+            "Clinch": "12 of 15",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7bde387d50829adf",
+        "name": "Eduardo Garagorri",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 78",
+            "Sig. str. %": "46%",
+            "Total str.": "48 of 90",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 78",
+            "Sig. str. %": "46%",
+            "Head": "28 of 69",
+            "Body": "8 of 9",
+            "Leg": "0 of 0",
+            "Distance": "30 of 69",
+            "Clinch": "3 of 4",
+            "Ground": "3 of 5"
+        }
+    }
+}

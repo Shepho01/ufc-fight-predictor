@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fbf77262d8da342b",
+        "event_id": "f3743d8ef5dde970",
+        "event_name": "UFC 303: Pereira vs. Prochazka 2",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 39",
+            "Sig. str. %": "48%",
+            "Total str.": "65 of 101",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "7:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 39",
+            "Sig. str. %": "48%",
+            "Head": "12 of 26",
+            "Body": "3 of 7",
+            "Leg": "4 of 6",
+            "Distance": "9 of 25",
+            "Clinch": "5 of 7",
+            "Ground": "5 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "a67d071163962af8",
+        "name": "Michael Page",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 38",
+            "Sig. str. %": "55%",
+            "Total str.": "52 of 74",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 38",
+            "Sig. str. %": "55%",
+            "Head": "15 of 28",
+            "Body": "4 of 5",
+            "Leg": "2 of 5",
+            "Distance": "19 of 34",
+            "Clinch": "0 of 1",
+            "Ground": "2 of 3"
+        }
+    }
+}

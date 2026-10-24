@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b96e1222eb1a0faf",
+        "event_id": "51b0bb73a1da34bc",
+        "event_name": "UFC Fight Night: Machida vs Mousasi",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:40",
+        "referee": "Mario Yamasaki",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 43",
+            "Sig. str. %": "53%",
+            "Total str.": "57 of 79",
+            "Td": "3 of 8",
+            "Td %": "37%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "6:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 43",
+            "Sig. str. %": "53%",
+            "Head": "9 of 28",
+            "Body": "12 of 13",
+            "Leg": "2 of 2",
+            "Distance": "7 of 20",
+            "Clinch": "9 of 15",
+            "Ground": "7 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6c4451cb13c9303",
+        "name": "Andy Ogle",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 49",
+            "Sig. str. %": "42%",
+            "Total str.": "34 of 62",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 49",
+            "Sig. str. %": "42%",
+            "Head": "16 of 42",
+            "Body": "4 of 6",
+            "Leg": "1 of 1",
+            "Distance": "12 of 34",
+            "Clinch": "5 of 8",
+            "Ground": "4 of 7"
+        }
+    }
+}

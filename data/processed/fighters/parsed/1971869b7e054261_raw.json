@@ -1,0 +1,48 @@
+{
+    "fighter_id": "1971869b7e054261",
+    "name": "Mike de la Torre",
+    "record": "14-7-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 22, 1986",
+    "sig_strikes_landed_per_min": "3.21",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "4.75",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "0.36",
+    "takedown_accuracy": "16%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "23ba0218f9f65e33",
+            "fight_url": "http://ufcstats.com/fight-details/23ba0218f9f65e33"
+        },
+        {
+            "fight_id": "c29b63d6cd2ba413",
+            "fight_url": "http://ufcstats.com/fight-details/c29b63d6cd2ba413"
+        },
+        {
+            "fight_id": "85168b8d99f7ce42",
+            "fight_url": "http://ufcstats.com/fight-details/85168b8d99f7ce42"
+        },
+        {
+            "fight_id": "8410fb6d495a2cc2",
+            "fight_url": "http://ufcstats.com/fight-details/8410fb6d495a2cc2"
+        },
+        {
+            "fight_id": "a7ff11c5dfe65e86",
+            "fight_url": "http://ufcstats.com/fight-details/a7ff11c5dfe65e86"
+        },
+        {
+            "fight_id": "fe6b45e7210bfa8e",
+            "fight_url": "http://ufcstats.com/fight-details/fe6b45e7210bfa8e"
+        },
+        {
+            "fight_id": "a7aac5f6b470ddaa",
+            "fight_url": "http://ufcstats.com/fight-details/a7aac5f6b470ddaa"
+        }
+    ]
+}

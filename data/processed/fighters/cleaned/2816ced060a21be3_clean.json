@@ -1,0 +1,23 @@
+{
+    "fighter_id": "2816ced060a21be3",
+    "name": "Nick Hein",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 167.64,
+    "weight_lbs": 155,
+    "reach_cm": 167.64000000000001,
+    "stance": "Southpaw",
+    "dob_day": 24,
+    "dob_month": 4,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 2.65,
+    "sig_striking_accuracy": 0.35,
+    "sig_strikes_absorbed_per_min": 3.61,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.86,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.83,
+    "submission_attempts_per_15_min": 0.0
+}

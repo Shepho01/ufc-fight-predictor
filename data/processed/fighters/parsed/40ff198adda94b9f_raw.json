@@ -1,0 +1,36 @@
+{
+    "fighter_id": "40ff198adda94b9f",
+    "name": "Mark Eddiva",
+    "record": "6-3-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Feb 16, 1986",
+    "sig_strikes_landed_per_min": "3.37",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "2.98",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "1.45",
+    "takedown_accuracy": "22%",
+    "takedown_defense": "63%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "e3fb9146a7eaaa47",
+            "fight_url": "http://ufcstats.com/fight-details/e3fb9146a7eaaa47"
+        },
+        {
+            "fight_id": "4702ef17c48bf1d1",
+            "fight_url": "http://ufcstats.com/fight-details/4702ef17c48bf1d1"
+        },
+        {
+            "fight_id": "c556a9d615f11483",
+            "fight_url": "http://ufcstats.com/fight-details/c556a9d615f11483"
+        },
+        {
+            "fight_id": "2ebe2ae9b4812f0a",
+            "fight_url": "http://ufcstats.com/fight-details/2ebe2ae9b4812f0a"
+        }
+    ]
+}

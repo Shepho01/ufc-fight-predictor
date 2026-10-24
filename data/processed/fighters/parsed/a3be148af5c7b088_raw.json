@@ -1,0 +1,44 @@
+{
+    "fighter_id": "a3be148af5c7b088",
+    "name": "Piotr Hallmann",
+    "record": "18-6-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 25, 1987",
+    "sig_strikes_landed_per_min": "3.98",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "3.17",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "2.55",
+    "takedown_accuracy": "44%",
+    "takedown_defense": "70%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "a637cd1012af870f",
+            "fight_url": "http://ufcstats.com/fight-details/a637cd1012af870f"
+        },
+        {
+            "fight_id": "08cbd4c521831adf",
+            "fight_url": "http://ufcstats.com/fight-details/08cbd4c521831adf"
+        },
+        {
+            "fight_id": "246f38c7855a6400",
+            "fight_url": "http://ufcstats.com/fight-details/246f38c7855a6400"
+        },
+        {
+            "fight_id": "6ff8fff0fe2a3cd9",
+            "fight_url": "http://ufcstats.com/fight-details/6ff8fff0fe2a3cd9"
+        },
+        {
+            "fight_id": "22fdf7a08691db5d",
+            "fight_url": "http://ufcstats.com/fight-details/22fdf7a08691db5d"
+        },
+        {
+            "fight_id": "5aeac72404dd7c6d",
+            "fight_url": "http://ufcstats.com/fight-details/5aeac72404dd7c6d"
+        }
+    ]
+}

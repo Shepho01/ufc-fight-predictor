@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "108140213049e629",
+        "event_id": "acff437707625fc7",
+        "event_name": "UFC Fight Night: Marquardt vs Palhares",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jon Schorle",
+        "winner_id": "d1941565abf50b16"
+    },
+    "fighter_a": {
+        "fighter_id": "d1941565abf50b16",
+        "name": "Jim Miller",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 113",
+            "Sig. str. %": "25%",
+            "Total str.": "44 of 128",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 113",
+            "Sig. str. %": "25%",
+            "Head": "13 of 85",
+            "Body": "7 of 15",
+            "Leg": "9 of 13",
+            "Distance": "25 of 101",
+            "Clinch": "4 of 12",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 100",
+            "Sig. str. %": "23%",
+            "Total str.": "36 of 114",
+            "Td": "4 of 5",
+            "Td %": "80%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 100",
+            "Sig. str. %": "23%",
+            "Head": "21 of 94",
+            "Body": "1 of 4",
+            "Leg": "1 of 2",
+            "Distance": "20 of 92",
+            "Clinch": "3 of 7",
+            "Ground": "0 of 1"
+        }
+    }
+}

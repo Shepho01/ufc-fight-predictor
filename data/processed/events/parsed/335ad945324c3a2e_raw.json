@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "335ad945324c3a2e",
+        "event_name": "UFC 270: Ngannou vs. Gane",
+        "event_date": "January 22, 2022",
+        "location": "Anaheim, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e786542667fdecf0",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Ciryl Gane",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e786542667fdecf0"
+        },
+        {
+            "fight_id": "cddd3d4febe097f8",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Brandon Moreno",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/cddd3d4febe097f8"
+        },
+        {
+            "fight_id": "5ba543efdce072f5",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Andre Fialho",
+            "winner": "Michel Pereira",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5ba543efdce072f5"
+        },
+        {
+            "fight_id": "80f65ee9b6f8d63b",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Cody Stamann",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:47",
+            "fight_url": "http://ufcstats.com/fight-details/80f65ee9b6f8d63b"
+        },
+        {
+            "fight_id": "453283e947919ff7",
+            "fighter_a": "Michael Morales",
+            "fighter_b": "Trevin Giles",
+            "winner": "Michael Morales",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:06",
+            "fight_url": "http://ufcstats.com/fight-details/453283e947919ff7"
+        },
+        {
+            "fight_id": "44a55ba1de2b30e2",
+            "fighter_a": "Victor Henry",
+            "fighter_b": "Raoni Barcelos",
+            "winner": "Victor Henry",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/44a55ba1de2b30e2"
+        },
+        {
+            "fight_id": "0669231ebe3dd560",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Pete Rodriguez",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:59",
+            "fight_url": "http://ufcstats.com/fight-details/0669231ebe3dd560"
+        },
+        {
+            "fight_id": "9687021e5c4d092a",
+            "fighter_a": "Tony Gravely",
+            "fighter_b": "Saimon Oliveira",
+            "winner": "Tony Gravely",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9687021e5c4d092a"
+        },
+        {
+            "fight_id": "5da7168ac2ff0e1d",
+            "fighter_a": "Matt Frevola",
+            "fighter_b": "Genaro Valdez",
+            "winner": "Matt Frevola",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/5da7168ac2ff0e1d"
+        },
+        {
+            "fight_id": "4047c2e259529179",
+            "fighter_a": "Vanessa Demopoulos",
+            "fighter_b": "Silvana Gomez Juarez",
+            "winner": "Vanessa Demopoulos",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "2:25",
+            "fight_url": "http://ufcstats.com/fight-details/4047c2e259529179"
+        },
+        {
+            "fight_id": "0a0beb5aa9810de4",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Kay Hansen",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0a0beb5aa9810de4"
+        }
+    ]
+}

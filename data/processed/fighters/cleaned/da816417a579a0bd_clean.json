@@ -1,0 +1,23 @@
+{
+    "fighter_id": "da816417a579a0bd",
+    "name": "Gavin Tucker",
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 145,
+    "reach_cm": 167.64000000000001,
+    "stance": "Southpaw",
+    "dob_day": 17,
+    "dob_month": 6,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 4.29,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 4.18,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 3.13,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.53,
+    "submission_attempts_per_15_min": 1.5
+}

@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "e5c9de15bb58b1c6",
+        "event_name": "UFC Fight Night: Saffiedine vs Lim",
+        "event_day": 4,
+        "event_month": 1,
+        "event_year": 2014,
+        "location": "Singapore, Singapore"
+    },
+    "fights": [
+        {
+            "fight_id": "3ff7d02ef633ee22",
+            "fighter_a": "Tarec Saffiedine",
+            "fighter_b": "Hyun Gyu Lim",
+            "winner": "Tarec Saffiedine",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3ff7d02ef633ee22"
+        },
+        {
+            "fight_id": "07d1d120dab41893",
+            "fighter_a": "Tatsuya Kawajiri",
+            "fighter_b": "Sean Soriano",
+            "winner": "Tatsuya Kawajiri",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 50,
+            "fight_url": "http://ufcstats.com/fight-details/07d1d120dab41893"
+        },
+        {
+            "fight_id": "74edd53297a084b9",
+            "fighter_a": "Kiichi Kunimoto",
+            "fighter_b": "Luiz Dutra",
+            "winner": "Kiichi Kunimoto",
+            "weight_class": "Welterweight",
+            "method": "DQ",
+            "round": 1,
+            "time_seconds": 177,
+            "fight_url": "http://ufcstats.com/fight-details/74edd53297a084b9"
+        },
+        {
+            "fight_id": "221cb15141299346",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Shunichi Shimizu",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 233,
+            "fight_url": "http://ufcstats.com/fight-details/221cb15141299346"
+        },
+        {
+            "fight_id": "4b69545737f1902a",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Will Chope",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/4b69545737f1902a"
+        },
+        {
+            "fight_id": "ab8722d48a5a447e",
+            "fighter_a": "Katsunori Kikuno",
+            "fighter_b": "Quinn Mulhern",
+            "winner": "Katsunori Kikuno",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ab8722d48a5a447e"
+        },
+        {
+            "fight_id": "e2bb4b8ce5ada2a8",
+            "fighter_a": "Royston Wee",
+            "fighter_b": "Dave Galera",
+            "winner": "Royston Wee",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e2bb4b8ce5ada2a8"
+        },
+        {
+            "fight_id": "181429d8227794cb",
+            "fighter_a": "Mairbek Taisumov",
+            "fighter_b": "Tae Hyun Bang",
+            "winner": "Mairbek Taisumov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/181429d8227794cb"
+        },
+        {
+            "fight_id": "eb82e95ab678f8bc",
+            "fighter_a": "Dustin Kimura",
+            "fighter_b": "Jon Delos Reyes",
+            "winner": "Dustin Kimura",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 133,
+            "fight_url": "http://ufcstats.com/fight-details/eb82e95ab678f8bc"
+        },
+        {
+            "fight_id": "f7bd56e197bab2a6",
+            "fighter_a": "Russell Doane",
+            "fighter_b": "Leandro Issa",
+            "winner": "Russell Doane",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": 2,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/f7bd56e197bab2a6"
+        }
+    ]
+}

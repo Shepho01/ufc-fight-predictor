@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "ac5f67109accb482",
+        "event_name": "UFC Fight Night: Cowboy vs. Edwards",
+        "event_day": 23,
+        "event_month": 6,
+        "event_year": 2018,
+        "location": "Kallang, Singapore"
+    },
+    "fights": [
+        {
+            "fight_id": "28c70663b99560a8",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/28c70663b99560a8"
+        },
+        {
+            "fight_id": "bb4755924dfafaea",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Tyson Pedro",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/bb4755924dfafaea"
+        },
+        {
+            "fight_id": "2242e7df6f320ea6",
+            "fighter_a": "Jessica Eye",
+            "fighter_b": "Jessica-Rose Clark",
+            "winner": "Jessica Eye",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2242e7df6f320ea6"
+        },
+        {
+            "fight_id": "484c48d3723e72cd",
+            "fighter_a": "Li Jingliang",
+            "fighter_b": "Daichi Abe",
+            "winner": "Li Jingliang",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/484c48d3723e72cd"
+        },
+        {
+            "fight_id": "8167bd097a16062f",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Teruto Ishihara",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 208,
+            "fight_url": "http://ufcstats.com/fight-details/8167bd097a16062f"
+        },
+        {
+            "fight_id": "c5c5f678558a0ba2",
+            "fighter_a": "Song Yadong",
+            "fighter_b": "Felipe Arantes",
+            "winner": "Song Yadong",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/c5c5f678558a0ba2"
+        },
+        {
+            "fight_id": "bb7408d59b7279f7",
+            "fighter_a": "Shane Young",
+            "fighter_b": "Rolando Dy",
+            "winner": "Shane Young",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 280,
+            "fight_url": "http://ufcstats.com/fight-details/bb7408d59b7279f7"
+        },
+        {
+            "fight_id": "b125025990755616",
+            "fighter_a": "Song Kenan",
+            "fighter_b": "Hector Aldana",
+            "winner": "Song Kenan",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 285,
+            "fight_url": "http://ufcstats.com/fight-details/b125025990755616"
+        },
+        {
+            "fight_id": "ab6cd718c5459eeb",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Shinsho Anzai",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 164,
+            "fight_url": "http://ufcstats.com/fight-details/ab6cd718c5459eeb"
+        },
+        {
+            "fight_id": "d80b0bea0e260b95",
+            "fighter_a": "Yan Xiaonan",
+            "fighter_b": "Viviane Pereira",
+            "winner": "Yan Xiaonan",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d80b0bea0e260b95"
+        },
+        {
+            "fight_id": "d5176b45df32f67e",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Naoki Inoue",
+            "winner": "Matt Schnell",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d5176b45df32f67e"
+        },
+        {
+            "fight_id": "26582aa0b79d2f20",
+            "fighter_a": "Yuta Sasaki",
+            "fighter_b": "Jenel Lausa",
+            "winner": "Yuta Sasaki",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 244,
+            "fight_url": "http://ufcstats.com/fight-details/26582aa0b79d2f20"
+        },
+        {
+            "fight_id": "3d12c63c47828937",
+            "fighter_a": "Ji Yeon Kim",
+            "fighter_b": "Melinda Fabian",
+            "winner": "Ji Yeon Kim",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d12c63c47828937"
+        }
+    ]
+}

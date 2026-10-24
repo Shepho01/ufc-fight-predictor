@@ -1,0 +1,23 @@
+{
+    "fighter_id": "8866c6f509c19089",
+    "name": "Ryan Hall",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 22,
+    "dob_month": 2,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 2.38,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 1.33,
+    "sig_strike_defense": 0.65,
+    "takedowns_landed_per_15_min": 0.22,
+    "takedown_accuracy": 0.09,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 2.2
+}

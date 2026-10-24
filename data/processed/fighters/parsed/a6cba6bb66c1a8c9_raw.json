@@ -1,0 +1,76 @@
+{
+    "fighter_id": "a6cba6bb66c1a8c9",
+    "name": "Danny Roberts",
+    "record": "18-8-0",
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Jul 14, 1987",
+    "sig_strikes_landed_per_min": "3.18",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.73",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.24",
+    "takedown_accuracy": "9%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "d54ebd2a3435a357",
+            "fight_url": "http://ufcstats.com/fight-details/d54ebd2a3435a357"
+        },
+        {
+            "fight_id": "d0c01840c72429c6",
+            "fight_url": "http://ufcstats.com/fight-details/d0c01840c72429c6"
+        },
+        {
+            "fight_id": "6a902b97ac98c283",
+            "fight_url": "http://ufcstats.com/fight-details/6a902b97ac98c283"
+        },
+        {
+            "fight_id": "e3881a6895be3e9e",
+            "fight_url": "http://ufcstats.com/fight-details/e3881a6895be3e9e"
+        },
+        {
+            "fight_id": "071a1cd551b7b4d5",
+            "fight_url": "http://ufcstats.com/fight-details/071a1cd551b7b4d5"
+        },
+        {
+            "fight_id": "04c9ebe419195f8b",
+            "fight_url": "http://ufcstats.com/fight-details/04c9ebe419195f8b"
+        },
+        {
+            "fight_id": "8a8190f3f71408a4",
+            "fight_url": "http://ufcstats.com/fight-details/8a8190f3f71408a4"
+        },
+        {
+            "fight_id": "23e03d226eb7af80",
+            "fight_url": "http://ufcstats.com/fight-details/23e03d226eb7af80"
+        },
+        {
+            "fight_id": "288c942b0ad152a6",
+            "fight_url": "http://ufcstats.com/fight-details/288c942b0ad152a6"
+        },
+        {
+            "fight_id": "71dc4379c738450f",
+            "fight_url": "http://ufcstats.com/fight-details/71dc4379c738450f"
+        },
+        {
+            "fight_id": "1ccde17f48fb709e",
+            "fight_url": "http://ufcstats.com/fight-details/1ccde17f48fb709e"
+        },
+        {
+            "fight_id": "85bec51d0bdf511f",
+            "fight_url": "http://ufcstats.com/fight-details/85bec51d0bdf511f"
+        },
+        {
+            "fight_id": "be0af5916c8e8e99",
+            "fight_url": "http://ufcstats.com/fight-details/be0af5916c8e8e99"
+        },
+        {
+            "fight_id": "3e875e1625bbdfbd",
+            "fight_url": "http://ufcstats.com/fight-details/3e875e1625bbdfbd"
+        }
+    ]
+}

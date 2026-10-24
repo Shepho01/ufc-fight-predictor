@@ -1,0 +1,68 @@
+{
+    "fighter_id": "583ee11abddfc581",
+    "name": "Nate Landwehr",
+    "record": "18-9-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jun 06, 1988",
+    "sig_strikes_landed_per_min": "5.38",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "6.18",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.69",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "69%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "49707683a6ebf34c",
+            "fight_url": "http://ufcstats.com/fight-details/49707683a6ebf34c"
+        },
+        {
+            "fight_id": "60949f33201415ca",
+            "fight_url": "http://ufcstats.com/fight-details/60949f33201415ca"
+        },
+        {
+            "fight_id": "4e5d4a36eaaa3a78",
+            "fight_url": "http://ufcstats.com/fight-details/4e5d4a36eaaa3a78"
+        },
+        {
+            "fight_id": "089388c9f00ce9c6",
+            "fight_url": "http://ufcstats.com/fight-details/089388c9f00ce9c6"
+        },
+        {
+            "fight_id": "636b01ee49925e49",
+            "fight_url": "http://ufcstats.com/fight-details/636b01ee49925e49"
+        },
+        {
+            "fight_id": "46c67efd68a0b15d",
+            "fight_url": "http://ufcstats.com/fight-details/46c67efd68a0b15d"
+        },
+        {
+            "fight_id": "bce8ece2ff26b4d4",
+            "fight_url": "http://ufcstats.com/fight-details/bce8ece2ff26b4d4"
+        },
+        {
+            "fight_id": "efd7efba85092c6f",
+            "fight_url": "http://ufcstats.com/fight-details/efd7efba85092c6f"
+        },
+        {
+            "fight_id": "a2e1116a9fe84aa9",
+            "fight_url": "http://ufcstats.com/fight-details/a2e1116a9fe84aa9"
+        },
+        {
+            "fight_id": "e175c1a0bff30187",
+            "fight_url": "http://ufcstats.com/fight-details/e175c1a0bff30187"
+        },
+        {
+            "fight_id": "f039c93516e48253",
+            "fight_url": "http://ufcstats.com/fight-details/f039c93516e48253"
+        },
+        {
+            "fight_id": "901dbd1e6463c4ba",
+            "fight_url": "http://ufcstats.com/fight-details/901dbd1e6463c4ba"
+        }
+    ]
+}

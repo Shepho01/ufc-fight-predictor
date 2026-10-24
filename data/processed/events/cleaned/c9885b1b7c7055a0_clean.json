@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "c9885b1b7c7055a0",
+        "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+        "event_day": 15,
+        "event_month": 7,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "73370221b3fa3676",
+            "fighter_a": "Holly Holm",
+            "fighter_b": "Mayra Bueno Silva",
+            "winner": null,
+            "weight_class": "Women's Bantamweight",
+            "method": "Overturned Guillotine Choke",
+            "round": 2,
+            "time_seconds": 38,
+            "fight_url": "http://ufcstats.com/fight-details/73370221b3fa3676"
+        },
+        {
+            "fight_id": "3352c65f3f6d9b2a",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Bassil Hafez",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3352c65f3f6d9b2a"
+        },
+        {
+            "fight_id": "b52dccbe69864d2a",
+            "fighter_a": "Francisco Prado",
+            "fighter_b": "Ottman Azaitar",
+            "winner": "Francisco Prado",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 245,
+            "fight_url": "http://ufcstats.com/fight-details/b52dccbe69864d2a"
+        },
+        {
+            "fight_id": "6adfe44b110c1510",
+            "fighter_a": "JunYong Park",
+            "fighter_b": "Albert Duraev",
+            "winner": "JunYong Park",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 285,
+            "fight_url": "http://ufcstats.com/fight-details/6adfe44b110c1510"
+        },
+        {
+            "fight_id": "81b7a6aa147bd912",
+            "fighter_a": "Norma Dumont",
+            "fighter_b": "Chelsea Chandler",
+            "winner": "Norma Dumont",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/81b7a6aa147bd912"
+        },
+        {
+            "fight_id": "e4620f3fa451a3a4",
+            "fighter_a": "Nazim Sadykhov",
+            "fighter_b": "Terrance McKinney",
+            "winner": "Nazim Sadykhov",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 67,
+            "fight_url": "http://ufcstats.com/fight-details/e4620f3fa451a3a4"
+        },
+        {
+            "fight_id": "8362b372adb2f302",
+            "fighter_a": "Melsik Baghdasaryan",
+            "fighter_b": "Tucker Lutz",
+            "winner": "Melsik Baghdasaryan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8362b372adb2f302"
+        },
+        {
+            "fight_id": "eb30c9c975e15436",
+            "fighter_a": "Viktoriia Dudakova",
+            "fighter_b": "Istela Nunes",
+            "winner": "Viktoriia Dudakova",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 34,
+            "fight_url": "http://ufcstats.com/fight-details/eb30c9c975e15436"
+        },
+        {
+            "fight_id": "b4cc389bb4af3707",
+            "fighter_a": "Melquizael Costa",
+            "fighter_b": "Austin Lingo",
+            "winner": "Melquizael Costa",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b4cc389bb4af3707"
+        },
+        {
+            "fight_id": "3624f4ae9c1d703e",
+            "fighter_a": "Evan Elder",
+            "fighter_b": "Genaro Valdez",
+            "winner": "Evan Elder",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3624f4ae9c1d703e"
+        },
+        {
+            "fight_id": "dae80502466c8726",
+            "fighter_a": "Azat Maksum",
+            "fighter_b": "Tyson Nam",
+            "winner": "Azat Maksum",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dae80502466c8726"
+        },
+        {
+            "fight_id": "57785c9be5b4526d",
+            "fighter_a": "Alexander Munoz",
+            "fighter_b": "Carl Deaton",
+            "winner": "Alexander Munoz",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/57785c9be5b4526d"
+        },
+        {
+            "fight_id": "cae7de0873e03947",
+            "fighter_a": "Ailin Perez",
+            "fighter_b": "Ashlee Evans-Smith",
+            "winner": "Ailin Perez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cae7de0873e03947"
+        }
+    ]
+}

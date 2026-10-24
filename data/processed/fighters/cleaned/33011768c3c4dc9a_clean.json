@@ -1,0 +1,23 @@
+{
+    "fighter_id": "33011768c3c4dc9a",
+    "name": "Terry Etim",
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 11,
+    "dob_month": 1,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 2.16,
+    "sig_striking_accuracy": 0.35,
+    "sig_strikes_absorbed_per_min": 2.53,
+    "sig_strike_defense": 0.67,
+    "takedowns_landed_per_15_min": 0.43,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.39,
+    "submission_attempts_per_15_min": 1.4
+}

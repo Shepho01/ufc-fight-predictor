@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f4f5049e789b7716",
+        "event_id": "47b7e4e60813b7b2",
+        "event_name": "UFC Fight Night: Belfort vs. Gastelum",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Osiris Maia",
+        "winner_id": "1bcaac2d99b90fce"
+    },
+    "fighter_a": {
+        "fighter_id": "1bcaac2d99b90fce",
+        "name": "Sergio Moraes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "39 of 93",
+            "Sig. str. %": "41%",
+            "Total str.": "39 of 93",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "39 of 93",
+            "Sig. str. %": "41%",
+            "Head": "24 of 71",
+            "Body": "13 of 20",
+            "Leg": "2 of 2",
+            "Distance": "39 of 93",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "0052de90691d4a93",
+        "name": "Davi Ramos",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 122",
+            "Sig. str. %": "28%",
+            "Total str.": "35 of 122",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 122",
+            "Sig. str. %": "28%",
+            "Head": "21 of 97",
+            "Body": "7 of 17",
+            "Leg": "7 of 8",
+            "Distance": "35 of 122",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

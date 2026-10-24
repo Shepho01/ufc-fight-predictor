@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "59851163aaf1aed8",
+        "event_name": "UFC 180: Werdum vs Hunt",
+        "event_day": 15,
+        "event_month": 11,
+        "event_year": 2014,
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "03a200326e56d597",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Mark Hunt",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 2,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/03a200326e56d597"
+        },
+        {
+            "fight_id": "12eec1df1fd078a2",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Jake Ellenberger",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 286,
+            "fight_url": "http://ufcstats.com/fight-details/12eec1df1fd078a2"
+        },
+        {
+            "fight_id": "7228398a1ab12183",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Dennis Bermudez",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 198,
+            "fight_url": "http://ufcstats.com/fight-details/7228398a1ab12183"
+        },
+        {
+            "fight_id": "925f745c03ebd638",
+            "fighter_a": "Augusto Montano",
+            "fighter_b": "Chris Heatherly",
+            "winner": "Augusto Montano",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knees",
+            "round": 1,
+            "time_seconds": 290,
+            "fight_url": "http://ufcstats.com/fight-details/925f745c03ebd638"
+        },
+        {
+            "fight_id": "1e1a09bbedf7781d",
+            "fighter_a": "Hector Urbina",
+            "fighter_b": "Edgar Garcia",
+            "winner": "Hector Urbina",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/1e1a09bbedf7781d"
+        },
+        {
+            "fight_id": "9e47b2a66d0e9315",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Leonardo Morales",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9e47b2a66d0e9315"
+        },
+        {
+            "fight_id": "7a440fcd8048b091",
+            "fighter_a": "Alejandro Perez",
+            "fighter_b": "Jose Quinonez",
+            "winner": "Alejandro Perez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7a440fcd8048b091"
+        },
+        {
+            "fight_id": "07f9fc40f1e6aa87",
+            "fighter_a": "Jessica Eye",
+            "fighter_b": "Leslie Smith",
+            "winner": "Jessica Eye",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/07f9fc40f1e6aa87"
+        },
+        {
+            "fight_id": "4087bb7b3b1b9e24",
+            "fighter_a": "Gabriel Benitez",
+            "fighter_b": "Humberto Brown Morrison",
+            "winner": "Gabriel Benitez",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 30,
+            "fight_url": "http://ufcstats.com/fight-details/4087bb7b3b1b9e24"
+        },
+        {
+            "fight_id": "a788042d4d0c50d4",
+            "fighter_a": "Henry Briones",
+            "fighter_b": "Guido Cannetti",
+            "winner": "Henry Briones",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 104,
+            "fight_url": "http://ufcstats.com/fight-details/a788042d4d0c50d4"
+        },
+        {
+            "fight_id": "22f52e3b614e0d8a",
+            "fighter_a": "Marco Beltran",
+            "fighter_b": "Marlon Vera",
+            "winner": "Marco Beltran",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/22f52e3b614e0d8a"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "91daeeeea0a83e49",
+        "event_id": "d023ae89a2a4a41e",
+        "event_name": "UFC Live: Kongo vs Barry",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Overturned",
+        "finish_round": 2,
+        "finish_time": "1:48",
+        "referee": "Chip Snider",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 33",
+            "Sig. str. %": "42%",
+            "Total str.": "19 of 40",
+            "Td": "2 of 7",
+            "Td %": "28%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 33",
+            "Sig. str. %": "42%",
+            "Head": "9 of 24",
+            "Body": "1 of 3",
+            "Leg": "4 of 6",
+            "Distance": "12 of 28",
+            "Clinch": "0 of 1",
+            "Ground": "2 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "NC",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "31 of 59",
+            "Sig. str. %": "52%",
+            "Total str.": "61 of 93",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "3",
+            "Rev.": "2",
+            "Ctrl": "2:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 59",
+            "Sig. str. %": "52%",
+            "Head": "23 of 47",
+            "Body": "6 of 9",
+            "Leg": "2 of 3",
+            "Distance": "11 of 27",
+            "Clinch": "12 of 19",
+            "Ground": "8 of 13"
+        }
+    }
+}

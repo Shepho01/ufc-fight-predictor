@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "c2a7623f398d9bd7",
+        "event_name": "WEC 34: Faber vs. Pulver",
+        "event_day": 1,
+        "event_month": 6,
+        "event_year": 2008,
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c5eaf65f33e8da6e",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Jens Pulver",
+            "winner": "Urijah Faber",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c5eaf65f33e8da6e"
+        },
+        {
+            "fight_id": "1744dad5ab1fe406",
+            "fighter_a": "Miguel Torres",
+            "fighter_b": "Yoshiro Maeda",
+            "winner": "Miguel Torres",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1744dad5ab1fe406"
+        },
+        {
+            "fight_id": "7ee462ee20361982",
+            "fighter_a": "Mark Munoz",
+            "fighter_b": "Chuck Grigsby",
+            "winner": "Mark Munoz",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/7ee462ee20361982"
+        },
+        {
+            "fight_id": "93e3c033ad898819",
+            "fighter_a": "Rob McCullough",
+            "fighter_b": "Kenneth Alexander",
+            "winner": "Rob McCullough",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/93e3c033ad898819"
+        },
+        {
+            "fight_id": "dc4ccf631665e8bb",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Danny Castillo",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/dc4ccf631665e8bb"
+        },
+        {
+            "fight_id": "4dff739953febc35",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Jeff Curran",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4dff739953febc35"
+        },
+        {
+            "fight_id": "4e4c7cf58dd3b82b",
+            "fighter_a": "Will Ribeiro",
+            "fighter_b": "Chase Beebe",
+            "winner": "Will Ribeiro",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4e4c7cf58dd3b82b"
+        },
+        {
+            "fight_id": "a59dfa68457f92bf",
+            "fighter_a": "Tim McKenzie",
+            "fighter_b": "Jeremy Lang",
+            "winner": "Tim McKenzie",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 40,
+            "fight_url": "http://ufcstats.com/fight-details/a59dfa68457f92bf"
+        },
+        {
+            "fight_id": "3757cabdc1ad7f36",
+            "fighter_a": "Alex Serdyukov",
+            "fighter_b": "Luis Santos",
+            "winner": "Alex Serdyukov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3757cabdc1ad7f36"
+        },
+        {
+            "fight_id": "06de2289364efcd5",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Alexandre Franca Nogueira",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 202,
+            "fight_url": "http://ufcstats.com/fight-details/06de2289364efcd5"
+        },
+        {
+            "fight_id": "faa39c2f5956a7ee",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Charlie Valencia",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/faa39c2f5956a7ee"
+        }
+    ]
+}

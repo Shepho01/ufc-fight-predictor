@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "972197a8c61ac413",
+        "event_name": "UFC 265: Lewis vs. Gane",
+        "event_day": 7,
+        "event_month": 8,
+        "event_year": 2021,
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bf732e22055e8634",
+            "fighter_a": "Ciryl Gane",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Ciryl Gane",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 251,
+            "fight_url": "http://ufcstats.com/fight-details/bf732e22055e8634"
+        },
+        {
+            "fight_id": "980927e7dcc131c0",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "Jose Aldo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/980927e7dcc131c0"
+        },
+        {
+            "fight_id": "efe985e626a0d8c0",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Michael Chiesa",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 205,
+            "fight_url": "http://ufcstats.com/fight-details/efe985e626a0d8c0"
+        },
+        {
+            "fight_id": "903d2c361d005b70",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Angela Hill",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/903d2c361d005b70"
+        },
+        {
+            "fight_id": "962aab0abdd34173",
+            "fighter_a": "Song Yadong",
+            "fighter_b": "Casey Kenney",
+            "winner": "Song Yadong",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/962aab0abdd34173"
+        },
+        {
+            "fight_id": "76ece0ee2ef5d240",
+            "fighter_a": "Rafael Fiziev",
+            "fighter_b": "King Green",
+            "winner": "Rafael Fiziev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/76ece0ee2ef5d240"
+        },
+        {
+            "fight_id": "3d75081ce43774ca",
+            "fighter_a": "Vince Morales",
+            "fighter_b": "Drako Rodriguez",
+            "winner": "Vince Morales",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d75081ce43774ca"
+        },
+        {
+            "fight_id": "dcd0793ff1a43b68",
+            "fighter_a": "Alonzo Menifield",
+            "fighter_b": "Ed Herman",
+            "winner": "Alonzo Menifield",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dcd0793ff1a43b68"
+        },
+        {
+            "fight_id": "f2336b7545f5f442",
+            "fighter_a": "Jessica Penne",
+            "fighter_b": "Karolina Kowalkiewicz",
+            "winner": "Jessica Penne",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 272,
+            "fight_url": "http://ufcstats.com/fight-details/f2336b7545f5f442"
+        },
+        {
+            "fight_id": "85c5dd604d5b3634",
+            "fighter_a": "Manel Kape",
+            "fighter_b": "Ode Osbourne",
+            "winner": "Manel Kape",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 1,
+            "time_seconds": 284,
+            "fight_url": "http://ufcstats.com/fight-details/85c5dd604d5b3634"
+        },
+        {
+            "fight_id": "9a678f346946b6a4",
+            "fighter_a": "Miles Johns",
+            "fighter_b": "Anderson Dos Santos",
+            "winner": "Miles Johns",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 76,
+            "fight_url": "http://ufcstats.com/fight-details/9a678f346946b6a4"
+        },
+        {
+            "fight_id": "cce232c1b1b2e4a0",
+            "fighter_a": "Melissa Gatto",
+            "fighter_b": "Victoria Leonardo",
+            "winner": "Melissa Gatto",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cce232c1b1b2e4a0"
+        },
+        {
+            "fight_id": "af9927b5589e708b",
+            "fighter_a": "Johnny Munoz",
+            "fighter_b": "Jamey Simmons",
+            "winner": "Johnny Munoz",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 155,
+            "fight_url": "http://ufcstats.com/fight-details/af9927b5589e708b"
+        }
+    ]
+}

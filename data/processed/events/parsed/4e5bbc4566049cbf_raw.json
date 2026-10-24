@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "4e5bbc4566049cbf",
+        "event_name": "UFC Fight Night: Machida vs Dollaway",
+        "event_date": "December 20, 2014",
+        "location": "Barueri, Sao Paulo, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "b57aaf04af8bdd34",
+            "fighter_a": "Lyoto Machida",
+            "fighter_b": "CB Dollaway",
+            "winner": "Lyoto Machida",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:02",
+            "fight_url": "http://ufcstats.com/fight-details/b57aaf04af8bdd34"
+        },
+        {
+            "fight_id": "53e818dd5abdf787",
+            "fighter_a": "Renan Barao",
+            "fighter_b": "Mitch Gagnon",
+            "winner": "Renan Barao",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:53",
+            "fight_url": "http://ufcstats.com/fight-details/53e818dd5abdf787"
+        },
+        {
+            "fight_id": "e17c7b239e8d6c32",
+            "fighter_a": "Patrick Cummins",
+            "fighter_b": "Antonio Carlos Junior",
+            "winner": "Patrick Cummins",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e17c7b239e8d6c32"
+        },
+        {
+            "fight_id": "8040697ea2f36dbd",
+            "fighter_a": "Rashid Magomedov",
+            "fighter_b": "Elias Silverio",
+            "winner": "Rashid Magomedov",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:57",
+            "fight_url": "http://ufcstats.com/fight-details/8040697ea2f36dbd"
+        },
+        {
+            "fight_id": "647f6d2b9b784222",
+            "fighter_a": "Erick Silva",
+            "fighter_b": "Mike Rhodes",
+            "winner": "Erick Silva",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/647f6d2b9b784222"
+        },
+        {
+            "fight_id": "317e6940e8bf5290",
+            "fighter_a": "Daniel Sarafian",
+            "fighter_b": "Antonio Dos Santos",
+            "winner": "Daniel Sarafian",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "1:01",
+            "fight_url": "http://ufcstats.com/fight-details/317e6940e8bf5290"
+        },
+        {
+            "fight_id": "d92abff61b0ff5db",
+            "fighter_a": "Marcos Rogerio de Lima",
+            "fighter_b": "Igor Pokrajac",
+            "winner": "Marcos Rogerio de Lima",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/d92abff61b0ff5db"
+        },
+        {
+            "fight_id": "c26a094aa7ce817e",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Tom Niinimaki",
+            "winner": "Renato Moicano",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:30",
+            "fight_url": "http://ufcstats.com/fight-details/c26a094aa7ce817e"
+        },
+        {
+            "fight_id": "9f5c84d05107f42b",
+            "fighter_a": "Hacran Dias",
+            "fighter_b": "Darren Elkins",
+            "winner": "Hacran Dias",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f5c84d05107f42b"
+        },
+        {
+            "fight_id": "fb4bce82541b4061",
+            "fighter_a": "Leandro Issa",
+            "fighter_b": "Yuta Sasaki",
+            "winner": "Leandro Issa",
+            "weight_class": "Bantamweight",
+            "method": "SUB Neck Crank",
+            "round": "2",
+            "time": "4:13",
+            "fight_url": "http://ufcstats.com/fight-details/fb4bce82541b4061"
+        },
+        {
+            "fight_id": "b9893ab3bed62e60",
+            "fighter_a": "Tim Means",
+            "fighter_b": "Marcio Alexandre Junior",
+            "winner": "Tim Means",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b9893ab3bed62e60"
+        },
+        {
+            "fight_id": "8a6ecf3dc2b17c19",
+            "fighter_a": "Vitor Miranda",
+            "fighter_b": "Jake Collier",
+            "winner": "Vitor Miranda",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/8a6ecf3dc2b17c19"
+        }
+    ]
+}

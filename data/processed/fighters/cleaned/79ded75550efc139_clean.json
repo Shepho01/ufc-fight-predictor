@@ -1,0 +1,23 @@
+{
+    "fighter_id": "79ded75550efc139",
+    "name": "Shinya Aoki",
+    "wins": 39,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 154,
+    "reach_cm": null,
+    "stance": "Southpaw",
+    "dob_day": 9,
+    "dob_month": 5,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 0.97,
+    "sig_striking_accuracy": 0.58,
+    "sig_strikes_absorbed_per_min": 1.25,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 2.54,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 4.0
+}

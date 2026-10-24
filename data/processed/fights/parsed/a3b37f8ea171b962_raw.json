@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a3b37f8ea171b962",
+        "event_id": "fc31f896cde2bc2e",
+        "event_name": "UFC 169: Barao vs Faber 2",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 119",
+            "Sig. str. %": "52%",
+            "Total str.": "85 of 143",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "5:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 119",
+            "Sig. str. %": "52%",
+            "Head": "29 of 73",
+            "Body": "13 of 24",
+            "Leg": "20 of 22",
+            "Distance": "56 of 111",
+            "Clinch": "6 of 6",
+            "Ground": "0 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "3974fa35c917af1d",
+        "name": "Ricardo Lamas",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 146",
+            "Sig. str. %": "28%",
+            "Total str.": "63 of 170",
+            "Td": "1 of 6",
+            "Td %": "16%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 146",
+            "Sig. str. %": "28%",
+            "Head": "17 of 92",
+            "Body": "8 of 14",
+            "Leg": "16 of 40",
+            "Distance": "27 of 118",
+            "Clinch": "6 of 7",
+            "Ground": "8 of 21"
+        }
+    }
+}

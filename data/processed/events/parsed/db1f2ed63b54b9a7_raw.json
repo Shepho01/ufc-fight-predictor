@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "db1f2ed63b54b9a7",
+        "event_name": "UFC 196: McGregor vs Diaz",
+        "event_date": "March 05, 2016",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4ace70bff9debdfb",
+            "fighter_a": "Nate Diaz",
+            "fighter_b": "Conor McGregor",
+            "winner": "Nate Diaz",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:12",
+            "fight_url": "http://ufcstats.com/fight-details/4ace70bff9debdfb"
+        },
+        {
+            "fight_id": "7ffd80b65b0ff942",
+            "fighter_a": "Miesha Tate",
+            "fighter_b": "Holly Holm",
+            "winner": "Miesha Tate",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "5",
+            "time": "3:30",
+            "fight_url": "http://ufcstats.com/fight-details/7ffd80b65b0ff942"
+        },
+        {
+            "fight_id": "17c598d7841daae0",
+            "fighter_a": "Ilir Latifi",
+            "fighter_b": "Gian Villante",
+            "winner": "Ilir Latifi",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/17c598d7841daae0"
+        },
+        {
+            "fight_id": "0bdea30d7a7322f7",
+            "fighter_a": "Corey Anderson",
+            "fighter_b": "Tom Lawlor",
+            "winner": "Corey Anderson",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0bdea30d7a7322f7"
+        },
+        {
+            "fight_id": "ba2f3b9a12400aa0",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Valentina Shevchenko",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ba2f3b9a12400aa0"
+        },
+        {
+            "fight_id": "e86f7b7f3a047d2a",
+            "fighter_a": "Siyar Bahadurzada",
+            "fighter_b": "Brandon Thatch",
+            "winner": "Siyar Bahadurzada",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "4:11",
+            "fight_url": "http://ufcstats.com/fight-details/e86f7b7f3a047d2a"
+        },
+        {
+            "fight_id": "90a5ddd6738605d9",
+            "fighter_a": "Nordine Taleb",
+            "fighter_b": "Erick Silva",
+            "winner": "Nordine Taleb",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/90a5ddd6738605d9"
+        },
+        {
+            "fight_id": "49f83168974fb60f",
+            "fighter_a": "Vitor Miranda",
+            "fighter_b": "Marcelo Guimaraes",
+            "winner": "Vitor Miranda",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "1:09",
+            "fight_url": "http://ufcstats.com/fight-details/49f83168974fb60f"
+        },
+        {
+            "fight_id": "d3255f2b8ef2b559",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Chas Skelly",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d3255f2b8ef2b559"
+        },
+        {
+            "fight_id": "3f3b8dcd16dd7383",
+            "fighter_a": "Diego Sanchez",
+            "fighter_b": "Jim Miller",
+            "winner": "Diego Sanchez",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f3b8dcd16dd7383"
+        },
+        {
+            "fight_id": "8295c37ad4b6187e",
+            "fighter_a": "Jason Saggo",
+            "fighter_b": "Justin Salas",
+            "winner": "Jason Saggo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:31",
+            "fight_url": "http://ufcstats.com/fight-details/8295c37ad4b6187e"
+        },
+        {
+            "fight_id": "6ecd93dbbaba7e10",
+            "fighter_a": "Teruto Ishihara",
+            "fighter_b": "Julian Erosa",
+            "winner": "Teruto Ishihara",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:34",
+            "fight_url": "http://ufcstats.com/fight-details/6ecd93dbbaba7e10"
+        }
+    ]
+}

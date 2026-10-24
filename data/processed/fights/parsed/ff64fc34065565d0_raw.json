@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ff64fc34065565d0",
+        "event_id": "aae0897825336b1a",
+        "event_name": "UFC Fight Night: Condit vs Alves",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "1:10",
+        "referee": "Kevin MacDonald",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 69",
+            "Sig. str. %": "53%",
+            "Total str.": "58 of 95",
+            "Td": "2 of 10",
+            "Td %": "20%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "6:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 69",
+            "Sig. str. %": "53%",
+            "Head": "24 of 53",
+            "Body": "8 of 10",
+            "Leg": "5 of 6",
+            "Distance": "19 of 41",
+            "Clinch": "12 of 21",
+            "Ground": "6 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "64 of 84",
+            "Sig. str. %": "76%",
+            "Total str.": "84 of 105",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "64 of 84",
+            "Sig. str. %": "76%",
+            "Head": "36 of 51",
+            "Body": "25 of 28",
+            "Leg": "3 of 5",
+            "Distance": "13 of 20",
+            "Clinch": "23 of 27",
+            "Ground": "28 of 37"
+        }
+    }
+}

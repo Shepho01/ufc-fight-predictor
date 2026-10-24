@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "5f2f0da6fd6a84fd",
+        "event_name": "DREAM 6: Middleweight Grand Prix 2008 Final Round",
+        "event_date": "September 23, 2008",
+        "location": "Saitama, Japan"
+    },
+    "fights": [
+        {
+            "fight_id": "463f534067039d23",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Jacare Souza",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "2:15",
+            "fight_url": "http://ufcstats.com/fight-details/463f534067039d23"
+        },
+        {
+            "fight_id": "6d47fed801b6516d",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Mirko Filipovic",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "CNC",
+            "round": "1",
+            "time": "6:09",
+            "fight_url": "http://ufcstats.com/fight-details/6d47fed801b6516d"
+        },
+        {
+            "fight_id": "ec157232743329de",
+            "fighter_a": "Shinya Aoki",
+            "fighter_b": "Todd Moore",
+            "winner": "Shinya Aoki",
+            "weight_class": "Lightweight",
+            "method": "SUB Neck Crank",
+            "round": "1",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/ec157232743329de"
+        },
+        {
+            "fight_id": "4eaec67c66814dab",
+            "fighter_a": "Yoshihiro Akiyama",
+            "fighter_b": "Masanori Tonooka",
+            "winner": "Yoshihiro Akiyama",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "6:26",
+            "fight_url": "http://ufcstats.com/fight-details/4eaec67c66814dab"
+        },
+        {
+            "fight_id": "6a65af5991ea7540",
+            "fighter_a": "Hayato Sakurai",
+            "fighter_b": "Kuniyoshi Hironaka",
+            "winner": "Hayato Sakurai",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6a65af5991ea7540"
+        },
+        {
+            "fight_id": "cfb3647b2826d7be",
+            "fighter_a": "Masakatsu Funaki",
+            "fighter_b": "Ikuhisa Minowa",
+            "winner": "Masakatsu Funaki",
+            "weight_class": "Middleweight",
+            "method": "SUB Heel Hook",
+            "round": "1",
+            "time": "0:52",
+            "fight_url": "http://ufcstats.com/fight-details/cfb3647b2826d7be"
+        },
+        {
+            "fight_id": "c17dbd0bdaf336ea",
+            "fighter_a": "Atsushi Yamamoto",
+            "fighter_b": "Hideo Tokoro",
+            "winner": "Atsushi Yamamoto",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c17dbd0bdaf336ea"
+        },
+        {
+            "fight_id": "06d4faa6e2b78376",
+            "fighter_a": "Sergei Kharitonov",
+            "fighter_b": "Jimmy Ambriz",
+            "winner": "Sergei Kharitonov",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:15",
+            "fight_url": "http://ufcstats.com/fight-details/06d4faa6e2b78376"
+        },
+        {
+            "fight_id": "04bd246a93a48400",
+            "fighter_a": "Keita Nakamura",
+            "fighter_b": "Adriano Martins",
+            "winner": "Keita Nakamura",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/04bd246a93a48400"
+        },
+        {
+            "fight_id": "2dcd5ab3bda87007",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Zelg Galesic",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "1:27",
+            "fight_url": "http://ufcstats.com/fight-details/2dcd5ab3bda87007"
+        },
+        {
+            "fight_id": "5c17cf860ab2d396",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Melvin Manhoef",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Middleweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/5c17cf860ab2d396"
+        },
+        {
+            "fight_id": "47d8d85681bebf18",
+            "fighter_a": "Andrews Nakahara",
+            "fighter_b": "Dong Sik Yoon",
+            "winner": "Andrews Nakahara",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:30",
+            "fight_url": "http://ufcstats.com/fight-details/47d8d85681bebf18"
+        }
+    ]
+}

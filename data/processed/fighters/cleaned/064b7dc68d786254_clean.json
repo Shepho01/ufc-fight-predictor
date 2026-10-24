@@ -1,0 +1,23 @@
+{
+    "fighter_id": "064b7dc68d786254",
+    "name": "Cain Carrizosa",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 22,
+    "dob_month": 7,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 2.72,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 5.8,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.14,
+    "submission_attempts_per_15_min": 0.0
+}

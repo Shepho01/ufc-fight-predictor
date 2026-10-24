@@ -1,0 +1,68 @@
+{
+    "fighter_id": "83fd97284f4bb4a4",
+    "name": "Efrain Escudero",
+    "record": "28-12-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 15, 1986",
+    "sig_strikes_landed_per_min": "2.92",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.30",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "1.31",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "083a0283b7bc503b",
+            "fight_url": "http://ufcstats.com/fight-details/083a0283b7bc503b"
+        },
+        {
+            "fight_id": "4e3611c9a9e20ff0",
+            "fight_url": "http://ufcstats.com/fight-details/4e3611c9a9e20ff0"
+        },
+        {
+            "fight_id": "47e8726b301f3f32",
+            "fight_url": "http://ufcstats.com/fight-details/47e8726b301f3f32"
+        },
+        {
+            "fight_id": "a4badfa86304f799",
+            "fight_url": "http://ufcstats.com/fight-details/a4badfa86304f799"
+        },
+        {
+            "fight_id": "72d2ab073f4120a4",
+            "fight_url": "http://ufcstats.com/fight-details/72d2ab073f4120a4"
+        },
+        {
+            "fight_id": "ad101f8850eff427",
+            "fight_url": "http://ufcstats.com/fight-details/ad101f8850eff427"
+        },
+        {
+            "fight_id": "46bea6d63ffe17e4",
+            "fight_url": "http://ufcstats.com/fight-details/46bea6d63ffe17e4"
+        },
+        {
+            "fight_id": "a24121c70f773fe2",
+            "fight_url": "http://ufcstats.com/fight-details/a24121c70f773fe2"
+        },
+        {
+            "fight_id": "3832958c913305f0",
+            "fight_url": "http://ufcstats.com/fight-details/3832958c913305f0"
+        },
+        {
+            "fight_id": "504b540805598fa5",
+            "fight_url": "http://ufcstats.com/fight-details/504b540805598fa5"
+        },
+        {
+            "fight_id": "656e1040e6e007b2",
+            "fight_url": "http://ufcstats.com/fight-details/656e1040e6e007b2"
+        },
+        {
+            "fight_id": "86b8419f22f398c0",
+            "fight_url": "http://ufcstats.com/fight-details/86b8419f22f398c0"
+        }
+    ]
+}

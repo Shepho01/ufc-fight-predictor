@@ -1,0 +1,64 @@
+{
+    "fighter_id": "4c88a1db5a46c6a4",
+    "name": "Jai Herbert",
+    "record": "15-6-1",
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "May 13, 1988",
+    "sig_strikes_landed_per_min": "3.24",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.29",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.37",
+    "takedown_accuracy": "20%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "295339c08c80a3cf",
+            "fight_url": "http://ufcstats.com/fight-details/295339c08c80a3cf"
+        },
+        {
+            "fight_id": "e644218737c1a778",
+            "fight_url": "http://ufcstats.com/fight-details/e644218737c1a778"
+        },
+        {
+            "fight_id": "2a1071689c3af9df",
+            "fight_url": "http://ufcstats.com/fight-details/2a1071689c3af9df"
+        },
+        {
+            "fight_id": "d038ff5ac21094f3",
+            "fight_url": "http://ufcstats.com/fight-details/d038ff5ac21094f3"
+        },
+        {
+            "fight_id": "c4caa8a4f32a0eed",
+            "fight_url": "http://ufcstats.com/fight-details/c4caa8a4f32a0eed"
+        },
+        {
+            "fight_id": "938c2c71b84e56ff",
+            "fight_url": "http://ufcstats.com/fight-details/938c2c71b84e56ff"
+        },
+        {
+            "fight_id": "a1029686c3f1bead",
+            "fight_url": "http://ufcstats.com/fight-details/a1029686c3f1bead"
+        },
+        {
+            "fight_id": "a200b5dcbdd2506e",
+            "fight_url": "http://ufcstats.com/fight-details/a200b5dcbdd2506e"
+        },
+        {
+            "fight_id": "6d7eecf4acecda2a",
+            "fight_url": "http://ufcstats.com/fight-details/6d7eecf4acecda2a"
+        },
+        {
+            "fight_id": "4341ebb5a56e6943",
+            "fight_url": "http://ufcstats.com/fight-details/4341ebb5a56e6943"
+        },
+        {
+            "fight_id": "3b209a2aee014ac2",
+            "fight_url": "http://ufcstats.com/fight-details/3b209a2aee014ac2"
+        }
+    ]
+}

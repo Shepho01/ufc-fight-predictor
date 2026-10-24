@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f039c93516e48253",
+        "event_id": "dfb965c9824425db",
+        "event_name": "UFC Fight Night: Overeem vs. Harris",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "583ee11abddfc581"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "121 of 253",
+            "Sig. str. %": "47%",
+            "Total str.": "142 of 276",
+            "Td": "1 of 13",
+            "Td %": "7%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "121 of 253",
+            "Sig. str. %": "47%",
+            "Head": "101 of 229",
+            "Body": "14 of 18",
+            "Leg": "6 of 6",
+            "Distance": "103 of 224",
+            "Clinch": "17 of 28",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "583ee11abddfc581",
+        "name": "Nate Landwehr",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "118 of 234",
+            "Sig. str. %": "50%",
+            "Total str.": "121 of 237",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "0:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "118 of 234",
+            "Sig. str. %": "50%",
+            "Head": "96 of 211",
+            "Body": "8 of 9",
+            "Leg": "14 of 14",
+            "Distance": "96 of 206",
+            "Clinch": "22 of 28",
+            "Ground": "0 of 0"
+        }
+    }
+}

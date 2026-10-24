@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "32541eb5d12668b4",
+        "event_name": "UFC on FOX: VanZant vs. Waterson",
+        "event_date": "December 17, 2016",
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5840527835a8ffb2",
+            "fighter_a": "Michelle Waterson-Gomez",
+            "fighter_b": "Paige VanZant",
+            "winner": "Michelle Waterson-Gomez",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:21",
+            "fight_url": "http://ufcstats.com/fight-details/5840527835a8ffb2"
+        },
+        {
+            "fight_id": "23bc29f1b6baacad",
+            "fighter_a": "Mickey Gall",
+            "fighter_b": "Sage Northcutt",
+            "winner": "Mickey Gall",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:40",
+            "fight_url": "http://ufcstats.com/fight-details/23bc29f1b6baacad"
+        },
+        {
+            "fight_id": "2cdf841a057d9039",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Brad Pickett",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2cdf841a057d9039"
+        },
+        {
+            "fight_id": "473b9b56cdaedba3",
+            "fighter_a": "Alan Jouban",
+            "fighter_b": "Mike Perry",
+            "winner": "Alan Jouban",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/473b9b56cdaedba3"
+        },
+        {
+            "fight_id": "01f396a7372dc8ff",
+            "fighter_a": "Paul Craig",
+            "fighter_b": "Henrique da Silva",
+            "winner": "Paul Craig",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/01f396a7372dc8ff"
+        },
+        {
+            "fight_id": "4b35edc671de861f",
+            "fighter_a": "Mizuto Hirota",
+            "fighter_b": "Cole Miller",
+            "winner": "Mizuto Hirota",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4b35edc671de861f"
+        },
+        {
+            "fight_id": "677588ea237aa5c0",
+            "fighter_a": "Colby Covington",
+            "fighter_b": "Bryan Barberena",
+            "winner": "Colby Covington",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/677588ea237aa5c0"
+        },
+        {
+            "fight_id": "30f6cf4253b13b76",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "James Moontasri",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/30f6cf4253b13b76"
+        },
+        {
+            "fight_id": "7979888b1fb5eb39",
+            "fighter_a": "Josh Emmett",
+            "fighter_b": "Scott Holtzman",
+            "winner": "Josh Emmett",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7979888b1fb5eb39"
+        },
+        {
+            "fight_id": "d77ace7aadb2383e",
+            "fighter_a": "Leslie Smith",
+            "fighter_b": "Irene Aldana",
+            "winner": "Leslie Smith",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d77ace7aadb2383e"
+        },
+        {
+            "fight_id": "ca6d4239726931f9",
+            "fighter_a": "Eddie Wineland",
+            "fighter_b": "Takeya Mizugaki",
+            "winner": "Eddie Wineland",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/ca6d4239726931f9"
+        },
+        {
+            "fight_id": "88c712be47805d63",
+            "fighter_a": "Hector Sandoval",
+            "fighter_b": "Fredy Serrano",
+            "winner": "Hector Sandoval",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/88c712be47805d63"
+        },
+        {
+            "fight_id": "1ca4274019680d23",
+            "fighter_a": "Sultan Aliev",
+            "fighter_b": "Bojan Velickovic",
+            "winner": "Sultan Aliev",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1ca4274019680d23"
+        }
+    ]
+}

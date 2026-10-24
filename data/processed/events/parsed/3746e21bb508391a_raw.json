@@ -1,0 +1,98 @@
+{
+    "event": {
+        "event_id": "3746e21bb508391a",
+        "event_name": "UFC Fight Night: Brunson vs. Shahbazyan",
+        "event_date": "August 01, 2020",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0b88d0c76f9cd7e4",
+            "fighter_a": "Derek Brunson",
+            "fighter_b": "Edmen Shahbazyan",
+            "winner": "Derek Brunson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "0:26",
+            "fight_url": "http://ufcstats.com/fight-details/0b88d0c76f9cd7e4"
+        },
+        {
+            "fight_id": "5885445f39dac389",
+            "fighter_a": "Jennifer Maia",
+            "fighter_b": "Joanne Wood",
+            "winner": "Jennifer Maia",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:29",
+            "fight_url": "http://ufcstats.com/fight-details/5885445f39dac389"
+        },
+        {
+            "fight_id": "2fb1abeb337e0ccc",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Randy Brown",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "4:56",
+            "fight_url": "http://ufcstats.com/fight-details/2fb1abeb337e0ccc"
+        },
+        {
+            "fight_id": "0b21755eb0897396",
+            "fighter_a": "King Green",
+            "fighter_b": "Lando Vannata",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0b21755eb0897396"
+        },
+        {
+            "fight_id": "94b48b98d0292720",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Frankie Saenz",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": "3",
+            "time": "0:57",
+            "fight_url": "http://ufcstats.com/fight-details/94b48b98d0292720"
+        },
+        {
+            "fight_id": "6ba9f6a7a9361354",
+            "fighter_a": "Nate Maness",
+            "fighter_b": "Johnny Munoz",
+            "winner": "Nate Maness",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6ba9f6a7a9361354"
+        },
+        {
+            "fight_id": "76b9a338597fc604",
+            "fighter_a": "Jamall Emmers",
+            "fighter_b": "Vince Cachero",
+            "winner": "Jamall Emmers",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/76b9a338597fc604"
+        },
+        {
+            "fight_id": "dcf161082c849205",
+            "fighter_a": "Chris Gutierrez",
+            "fighter_b": "Cody Durden",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dcf161082c849205"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "db1be0ca226d3a2f",
+        "event_id": "ff4c3ab594c7fac3",
+        "event_name": "UFC 199: Rockhold vs. Bisping 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:40",
+        "referee": "Herb Dean",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "62 of 189",
+            "Sig. str. %": "32%",
+            "Total str.": "62 of 189",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 189",
+            "Sig. str. %": "32%",
+            "Head": "52 of 175",
+            "Body": "9 of 13",
+            "Leg": "1 of 1",
+            "Distance": "60 of 185",
+            "Clinch": "1 of 3",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c47df9303d318c67",
+        "name": "Clay Guida",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "62 of 192",
+            "Sig. str. %": "32%",
+            "Total str.": "70 of 209",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 192",
+            "Sig. str. %": "32%",
+            "Head": "42 of 164",
+            "Body": "13 of 21",
+            "Leg": "7 of 7",
+            "Distance": "58 of 188",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

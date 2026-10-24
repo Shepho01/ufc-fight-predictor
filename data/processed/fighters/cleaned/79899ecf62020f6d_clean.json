@@ -1,0 +1,23 @@
+{
+    "fighter_id": "79899ecf62020f6d",
+    "name": "Joe Stevenson",
+    "wins": 33,
+    "losses": 16,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 15,
+    "dob_month": 6,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 2.05,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 2.44,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 2.75,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.39,
+    "submission_attempts_per_15_min": 2.2
+}

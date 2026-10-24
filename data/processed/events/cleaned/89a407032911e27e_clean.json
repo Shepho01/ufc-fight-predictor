@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "89a407032911e27e",
+        "event_name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+        "event_day": 26,
+        "event_month": 8,
+        "event_year": 2023,
+        "location": "Kallang, Singapore"
+    },
+    "fights": [
+        {
+            "fight_id": "96704d7ba3a452d9",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 23,
+            "fight_url": "http://ufcstats.com/fight-details/96704d7ba3a452d9"
+        },
+        {
+            "fight_id": "c53b0f678fe2f16a",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Ryan Spann",
+            "winner": "Anthony Smith",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c53b0f678fe2f16a"
+        },
+        {
+            "fight_id": "dd617f6ab4916ec4",
+            "fighter_a": "Giga Chikadze",
+            "fighter_b": "Alex Caceres",
+            "winner": "Giga Chikadze",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dd617f6ab4916ec4"
+        },
+        {
+            "fight_id": "de89bea7b0dcd2d3",
+            "fighter_a": "Rinya Nakamura",
+            "fighter_b": "Fernie Garcia",
+            "winner": "Rinya Nakamura",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de89bea7b0dcd2d3"
+        },
+        {
+            "fight_id": "5531317352862978",
+            "fighter_a": "Erin Blanchfield",
+            "fighter_b": "Taila Santos",
+            "winner": "Erin Blanchfield",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5531317352862978"
+        },
+        {
+            "fight_id": "f7bc845ce74f5fe7",
+            "fighter_a": "Junior Tafa",
+            "fighter_b": "Parker Porter",
+            "winner": "Junior Tafa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 84,
+            "fight_url": "http://ufcstats.com/fight-details/f7bc845ce74f5fe7"
+        },
+        {
+            "fight_id": "bfc9989751bd0d04",
+            "fighter_a": "Waldo Cortes Acosta",
+            "fighter_b": "Lukasz Brzeski",
+            "winner": "Waldo Cortes Acosta",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 181,
+            "fight_url": "http://ufcstats.com/fight-details/bfc9989751bd0d04"
+        },
+        {
+            "fight_id": "48231fbd1af53674",
+            "fighter_a": "Garrett Armfield",
+            "fighter_b": "Toshiomi Kazama",
+            "winner": "Garrett Armfield",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/48231fbd1af53674"
+        },
+        {
+            "fight_id": "293c5f4c9aca5c54",
+            "fighter_a": "Michal Oleksiejczuk",
+            "fighter_b": "Chidi Njokuani",
+            "winner": "Michal Oleksiejczuk",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/293c5f4c9aca5c54"
+        },
+        {
+            "fight_id": "da6b863cf684e0ae",
+            "fighter_a": "Song Kenan",
+            "fighter_b": "Rolando Bedoya",
+            "winner": "Song Kenan",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/da6b863cf684e0ae"
+        },
+        {
+            "fight_id": "977250a28d3b8a3f",
+            "fighter_a": "Billy Ray Goff",
+            "fighter_b": "Yusaku Kinoshita",
+            "winner": "Billy Ray Goff",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 229,
+            "fight_url": "http://ufcstats.com/fight-details/977250a28d3b8a3f"
+        },
+        {
+            "fight_id": "23865dfc8361ac62",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Liang Na",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 289,
+            "fight_url": "http://ufcstats.com/fight-details/23865dfc8361ac62"
+        },
+        {
+            "fight_id": "b65b37c0e00074d9",
+            "fighter_a": "SeungWoo Choi",
+            "fighter_b": "Jarno Errens",
+            "winner": "SeungWoo Choi",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b65b37c0e00074d9"
+        }
+    ]
+}

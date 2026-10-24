@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c335f44e4f3515ea",
+        "event_id": "56ec58954158966a",
+        "event_name": "UFC Fight Night: Cannonier vs. Strickland",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:45",
+        "referee": "Keith Peterson",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "34 of 121",
+            "Sig. str. %": "28%",
+            "Total str.": "34 of 121",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "34 of 121",
+            "Sig. str. %": "28%",
+            "Head": "16 of 86",
+            "Body": "9 of 21",
+            "Leg": "9 of 14",
+            "Distance": "33 of 119",
+            "Clinch": "0 of 1",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "73 of 142",
+            "Sig. str. %": "51%",
+            "Total str.": "75 of 145",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "73 of 142",
+            "Sig. str. %": "51%",
+            "Head": "50 of 113",
+            "Body": "17 of 22",
+            "Leg": "6 of 7",
+            "Distance": "72 of 141",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

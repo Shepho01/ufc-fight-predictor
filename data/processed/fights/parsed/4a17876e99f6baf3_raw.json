@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4a17876e99f6baf3",
+        "event_id": "f65a0eb902f9476b",
+        "event_name": "UFC 282: Blachowicz vs. Ankalaev",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "3:10",
+        "referee": "Marc Goddard",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "d9c6f19f958643e9",
+        "name": "Bryce Mitchell",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 82",
+            "Sig. str. %": "43%",
+            "Total str.": "46 of 94",
+            "Td": "1 of 9",
+            "Td %": "11%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 82",
+            "Sig. str. %": "43%",
+            "Head": "22 of 57",
+            "Body": "11 of 22",
+            "Leg": "3 of 3",
+            "Distance": "34 of 79",
+            "Clinch": "1 of 1",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "40 of 77",
+            "Sig. str. %": "51%",
+            "Total str.": "53 of 93",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "40 of 77",
+            "Sig. str. %": "51%",
+            "Head": "34 of 63",
+            "Body": "5 of 13",
+            "Leg": "1 of 1",
+            "Distance": "29 of 64",
+            "Clinch": "3 of 4",
+            "Ground": "8 of 9"
+        }
+    }
+}

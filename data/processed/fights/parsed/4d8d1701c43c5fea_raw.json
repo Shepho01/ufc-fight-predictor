@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4d8d1701c43c5fea",
+        "event_id": "4a9e305633f3ef47",
+        "event_name": "UFC 276: Adesanya vs. Cannonier",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Chris Tognoni",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "116 of 193",
+            "Sig. str. %": "60%",
+            "Total str.": "129 of 206",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "116 of 193",
+            "Sig. str. %": "60%",
+            "Head": "87 of 160",
+            "Body": "17 of 21",
+            "Leg": "12 of 12",
+            "Distance": "111 of 188",
+            "Clinch": "2 of 2",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "5eb50529a8418b77",
+        "name": "Gabe Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "90 of 195",
+            "Sig. str. %": "46%",
+            "Total str.": "102 of 208",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "90 of 195",
+            "Sig. str. %": "46%",
+            "Head": "31 of 112",
+            "Body": "24 of 36",
+            "Leg": "35 of 47",
+            "Distance": "90 of 194",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

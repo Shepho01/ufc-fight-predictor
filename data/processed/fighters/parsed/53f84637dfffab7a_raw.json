@@ -1,0 +1,32 @@
+{
+    "fighter_id": "53f84637dfffab7a",
+    "name": "Eric Wisely",
+    "record": "26-9-1",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Southpaw",
+    "dob": "Jul 25, 1984",
+    "sig_strikes_landed_per_min": "1.42",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "2.08",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "27%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "0890d21317c9aa2d",
+            "fight_url": "http://ufcstats.com/fight-details/0890d21317c9aa2d"
+        },
+        {
+            "fight_id": "7a4e5bcd7336d203",
+            "fight_url": "http://ufcstats.com/fight-details/7a4e5bcd7336d203"
+        },
+        {
+            "fight_id": "f0c53220b4201b43",
+            "fight_url": "http://ufcstats.com/fight-details/f0c53220b4201b43"
+        }
+    ]
+}

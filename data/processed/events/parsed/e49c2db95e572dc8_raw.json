@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "e49c2db95e572dc8",
+        "event_name": "UFC Fight Night: Thompson vs. Neal",
+        "event_date": "December 19, 2020",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c7375d5db21cbaae",
+            "fighter_a": "Stephen Thompson",
+            "fighter_b": "Geoff Neal",
+            "winner": "Stephen Thompson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c7375d5db21cbaae"
+        },
+        {
+            "fight_id": "014f1da2083ca174",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Marlon Vera",
+            "winner": "Jose Aldo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/014f1da2083ca174"
+        },
+        {
+            "fight_id": "3d35eb2d46bf74de",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Khaos Williams",
+            "winner": "Michel Pereira",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3d35eb2d46bf74de"
+        },
+        {
+            "fight_id": "8955ea3c7c332e6c",
+            "fighter_a": "Rob Font",
+            "fighter_b": "Marlon Moraes",
+            "winner": "Rob Font",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/8955ea3c7c332e6c"
+        },
+        {
+            "fight_id": "cd150cd28738a7c5",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Greg Hardy",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:31",
+            "fight_url": "http://ufcstats.com/fight-details/cd150cd28738a7c5"
+        },
+        {
+            "fight_id": "1c4602efe5587902",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Alex Morono",
+            "winner": "Anthony Pettis",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1c4602efe5587902"
+        },
+        {
+            "fight_id": "4cb249714ff56656",
+            "fighter_a": "Pannie Kianzad",
+            "fighter_b": "Sijara Eubanks",
+            "winner": "Pannie Kianzad",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4cb249714ff56656"
+        },
+        {
+            "fight_id": "f004d3d50b78af50",
+            "fighter_a": "Deron Winn",
+            "fighter_b": "Antonio Arroyo",
+            "winner": "Deron Winn",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f004d3d50b78af50"
+        },
+        {
+            "fight_id": "f2fb049980631302",
+            "fighter_a": "Taila Santos",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Taila Santos",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f2fb049980631302"
+        },
+        {
+            "fight_id": "0fe4906754b2d0f9",
+            "fighter_a": "Tafon Nchukwi",
+            "fighter_b": "Jamie Pickett",
+            "winner": "Tafon Nchukwi",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0fe4906754b2d0f9"
+        },
+        {
+            "fight_id": "62e6eadbb2805760",
+            "fighter_a": "Jimmy Flick",
+            "fighter_b": "Cody Durden",
+            "winner": "Jimmy Flick",
+            "weight_class": "Flyweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/62e6eadbb2805760"
+        },
+        {
+            "fight_id": "8da75fd76a9b8e1d",
+            "fighter_a": "Christos Giagos",
+            "fighter_b": "Carlton Minus",
+            "winner": "Christos Giagos",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8da75fd76a9b8e1d"
+        }
+    ]
+}

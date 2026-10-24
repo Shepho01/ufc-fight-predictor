@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e8d3768f293a699b",
+        "event_id": "4d636c3aa1105950",
+        "event_name": "UFC Fight Night: Henderson vs Masvidal",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Steve Perceval",
+        "winner_id": "9a2d3567abc02e34"
+    },
+    "fighter_a": {
+        "fighter_id": "9a2d3567abc02e34",
+        "name": "Tae Hyun Bang",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "54 of 109",
+            "Sig. str. %": "49%",
+            "Total str.": "68 of 124",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "0:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 109",
+            "Sig. str. %": "49%",
+            "Head": "50 of 104",
+            "Body": "3 of 4",
+            "Leg": "1 of 1",
+            "Distance": "41 of 87",
+            "Clinch": "4 of 11",
+            "Ground": "9 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6905d45bd71b50a9",
+        "name": "Leo Kuntz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 91",
+            "Sig. str. %": "34%",
+            "Total str.": "74 of 137",
+            "Td": "3 of 12",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "6:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 91",
+            "Sig. str. %": "34%",
+            "Head": "25 of 78",
+            "Body": "4 of 9",
+            "Leg": "2 of 4",
+            "Distance": "27 of 85",
+            "Clinch": "2 of 4",
+            "Ground": "2 of 2"
+        }
+    }
+}

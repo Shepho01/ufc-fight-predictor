@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "ad044be25c94dcfd",
+        "event_name": "UFC Fight Night: Hall vs. Silva",
+        "event_day": 31,
+        "event_month": 10,
+        "event_year": 2020,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "039c645e8f3ac00f",
+            "fighter_a": "Uriah Hall",
+            "fighter_b": "Anderson Silva",
+            "winner": "Uriah Hall",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 4,
+            "time_seconds": 84,
+            "fight_url": "http://ufcstats.com/fight-details/039c645e8f3ac00f"
+        },
+        {
+            "fight_id": "83955de599b2d874",
+            "fighter_a": "Bryce Mitchell",
+            "fighter_b": "Andre Fili",
+            "winner": "Bryce Mitchell",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/83955de599b2d874"
+        },
+        {
+            "fight_id": "d763ad79532b27ff",
+            "fighter_a": "Greg Hardy",
+            "fighter_b": "Maurice Greene",
+            "winner": "Greg Hardy",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 72,
+            "fight_url": "http://ufcstats.com/fight-details/d763ad79532b27ff"
+        },
+        {
+            "fight_id": "997dcf5fd2eb0f2f",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Charlie Ontiveros",
+            "winner": "Kevin Holland",
+            "weight_class": "Middleweight",
+            "method": "SUB Injury",
+            "round": 1,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/997dcf5fd2eb0f2f"
+        },
+        {
+            "fight_id": "6915d46b49999f60",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "King Green",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6915d46b49999f60"
+        },
+        {
+            "fight_id": "95beb5ec32718faf",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Chris Gruetzemacher",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 106,
+            "fight_url": "http://ufcstats.com/fight-details/95beb5ec32718faf"
+        },
+        {
+            "fight_id": "4e566bd7094b49da",
+            "fighter_a": "Adrian Yanez",
+            "fighter_b": "Victor Rodriguez",
+            "winner": "Adrian Yanez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 166,
+            "fight_url": "http://ufcstats.com/fight-details/4e566bd7094b49da"
+        },
+        {
+            "fight_id": "09f5fb0bec3c948a",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Jack Marshman",
+            "winner": "Sean Strickland",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/09f5fb0bec3c948a"
+        },
+        {
+            "fight_id": "696ff200d98fa878",
+            "fighter_a": "Jason Witt",
+            "fighter_b": "Cole Williams",
+            "winner": "Jason Witt",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 129,
+            "fight_url": "http://ufcstats.com/fight-details/696ff200d98fa878"
+        },
+        {
+            "fight_id": "783761d95060ffc4",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "Justin Ledet",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/783761d95060ffc4"
+        },
+        {
+            "fight_id": "7e6f12a95c14f9de",
+            "fighter_a": "Miles Johns",
+            "fighter_b": "Kevin Natividad",
+            "winner": "Miles Johns",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 171,
+            "fight_url": "http://ufcstats.com/fight-details/7e6f12a95c14f9de"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c3ef3cb03edde8bb",
+        "event_id": "a780d16cf7eed44d",
+        "event_name": "UFC Fight Night: Emmett vs. Topuria",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "fba03cd6cc28dc41",
+        "name": "Josh Emmett",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "87 of 305",
+            "Sig. str. %": "28%",
+            "Total str.": "89 of 309",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "87 of 305",
+            "Sig. str. %": "28%",
+            "Head": "43 of 232",
+            "Body": "26 of 53",
+            "Leg": "18 of 20",
+            "Distance": "87 of 305",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "152 of 344",
+            "Sig. str. %": "44%",
+            "Total str.": "171 of 365",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "152 of 344",
+            "Sig. str. %": "44%",
+            "Head": "124 of 302",
+            "Body": "9 of 16",
+            "Leg": "19 of 26",
+            "Distance": "114 of 289",
+            "Clinch": "2 of 2",
+            "Ground": "36 of 53"
+        }
+    }
+}

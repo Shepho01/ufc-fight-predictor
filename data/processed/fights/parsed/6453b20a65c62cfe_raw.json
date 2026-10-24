@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "6453b20a65c62cfe",
+        "event_id": "e0b74df14f52cd15",
+        "event_name": "UFC 162: Silva vs Weidman",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Yves Lavigne",
+        "winner_id": "f2688492b9a525a3"
+    },
+    "fighter_a": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "81 of 146",
+            "Sig. str. %": "55%",
+            "Total str.": "114 of 182",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "81 of 146",
+            "Sig. str. %": "55%",
+            "Head": "53 of 112",
+            "Body": "23 of 29",
+            "Leg": "5 of 5",
+            "Distance": "61 of 122",
+            "Clinch": "4 of 5",
+            "Ground": "16 of 19"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 125",
+            "Sig. str. %": "30%",
+            "Total str.": "59 of 146",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 125",
+            "Sig. str. %": "30%",
+            "Head": "27 of 101",
+            "Body": "7 of 17",
+            "Leg": "4 of 7",
+            "Distance": "31 of 117",
+            "Clinch": "5 of 6",
+            "Ground": "2 of 2"
+        }
+    }
+}

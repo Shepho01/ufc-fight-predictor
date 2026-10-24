@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "66766984842c13dc",
+        "event_name": "UFC 317: Topuria vs. Oliveira",
+        "event_day": 28,
+        "event_month": 6,
+        "event_year": 2025,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7a64d63e12618ba7",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Ilia Topuria",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 147,
+            "fight_url": "http://ufcstats.com/fight-details/7a64d63e12618ba7"
+        },
+        {
+            "fight_id": "8308464729ea7c40",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Kai Kara-France",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 115,
+            "fight_url": "http://ufcstats.com/fight-details/8308464729ea7c40"
+        },
+        {
+            "fight_id": "f722b96ae6862843",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Brandon Royval",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f722b96ae6862843"
+        },
+        {
+            "fight_id": "1ea9ad3b6e1cba79",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Renato Moicano",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1ea9ad3b6e1cba79"
+        },
+        {
+            "fight_id": "f6a3c78f15ff26c7",
+            "fighter_a": "Payton Talbott",
+            "fighter_b": "Felipe Lima",
+            "winner": "Payton Talbott",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f6a3c78f15ff26c7"
+        },
+        {
+            "fight_id": "958522de54ccc536",
+            "fighter_a": "Gregory Rodrigues",
+            "fighter_b": "Jack Hermansson",
+            "winner": "Gregory Rodrigues",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/958522de54ccc536"
+        },
+        {
+            "fight_id": "2f523b757f7f33a2",
+            "fighter_a": "Jose Delgado",
+            "fighter_b": "Hyder Amil",
+            "winner": "Jose Delgado",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/2f523b757f7f33a2"
+        },
+        {
+            "fight_id": "815ff62ca8e217be",
+            "fighter_a": "Tracy Cortez",
+            "fighter_b": "Viviane Araujo",
+            "winner": "Tracy Cortez",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/815ff62ca8e217be"
+        },
+        {
+            "fight_id": "d7be78c400e7e0f9",
+            "fighter_a": "Terrance McKinney",
+            "fighter_b": "Viacheslav Borshchev",
+            "winner": "Terrance McKinney",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 55,
+            "fight_url": "http://ufcstats.com/fight-details/d7be78c400e7e0f9"
+        },
+        {
+            "fight_id": "9bff9fe298e63357",
+            "fighter_a": "Jacobe Smith",
+            "fighter_b": "Niko Price",
+            "winner": "Jacobe Smith",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 243,
+            "fight_url": "http://ufcstats.com/fight-details/9bff9fe298e63357"
+        },
+        {
+            "fight_id": "043172689e415438",
+            "fighter_a": "Jhonata Diniz",
+            "fighter_b": "Alvin Hines",
+            "winner": "Jhonata Diniz",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/043172689e415438"
+        }
+    ]
+}

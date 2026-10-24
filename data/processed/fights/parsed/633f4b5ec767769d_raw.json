@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "633f4b5ec767769d",
+        "event_id": "b2e3aca4cd363477",
+        "event_name": "UFC Fight Night: Machado Garry vs. Prates",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "442c9011034ae1fd"
+    },
+    "fighter_a": {
+        "fighter_id": "442c9011034ae1fd",
+        "name": "Ian Machado Garry",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "126 of 242",
+            "Sig. str. %": "52%",
+            "Total str.": "141 of 259",
+            "Td": "4 of 19",
+            "Td %": "21%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "126 of 242",
+            "Sig. str. %": "52%",
+            "Head": "86 of 185",
+            "Body": "17 of 28",
+            "Leg": "23 of 29",
+            "Distance": "120 of 231",
+            "Clinch": "2 of 6",
+            "Ground": "4 of 5"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7ee0fd831c0fe7c3",
+        "name": "Carlos Prates",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "63 of 129",
+            "Sig. str. %": "48%",
+            "Total str.": "64 of 132",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "63 of 129",
+            "Sig. str. %": "48%",
+            "Head": "38 of 97",
+            "Body": "16 of 21",
+            "Leg": "9 of 11",
+            "Distance": "50 of 114",
+            "Clinch": "1 of 2",
+            "Ground": "12 of 13"
+        }
+    }
+}

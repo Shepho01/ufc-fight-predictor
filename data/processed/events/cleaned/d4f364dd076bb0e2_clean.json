@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "d4f364dd076bb0e2",
+        "event_name": "UFC Fight Night: Ortega vs. The Korean Zombie",
+        "event_day": 17,
+        "event_month": 10,
+        "event_year": 2020,
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "5a440bdee19efaab",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5a440bdee19efaab"
+        },
+        {
+            "fight_id": "e7a915f39ecf6db0",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Katlyn Cerminara",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 295,
+            "fight_url": "http://ufcstats.com/fight-details/e7a915f39ecf6db0"
+        },
+        {
+            "fight_id": "948da1b7ebbb06b3",
+            "fighter_a": "Jimmy Crute",
+            "fighter_b": "Modestas Bukauskas",
+            "winner": "Jimmy Crute",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 121,
+            "fight_url": "http://ufcstats.com/fight-details/948da1b7ebbb06b3"
+        },
+        {
+            "fight_id": "4eb5f99202f5fe97",
+            "fighter_a": "James Krause",
+            "fighter_b": "Claudio Silva",
+            "winner": "James Krause",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4eb5f99202f5fe97"
+        },
+        {
+            "fight_id": "e4d0be5ae320c4ae",
+            "fighter_a": "Jonathan Martinez",
+            "fighter_b": "Thomas Almeida",
+            "winner": "Jonathan Martinez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e4d0be5ae320c4ae"
+        },
+        {
+            "fight_id": "e5279358b128c2ac",
+            "fighter_a": "Guram Kutateladze",
+            "fighter_b": "Mateusz Gamrot",
+            "winner": "Guram Kutateladze",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e5279358b128c2ac"
+        },
+        {
+            "fight_id": "9b6135943a4c8fe7",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Poliana Botelho",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9b6135943a4c8fe7"
+        },
+        {
+            "fight_id": "50e0bcba7551a25f",
+            "fighter_a": "JunYong Park",
+            "fighter_b": "John Phillips",
+            "winner": "JunYong Park",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/50e0bcba7551a25f"
+        },
+        {
+            "fight_id": "2735a2ea77ddc0b5",
+            "fighter_a": "Fares Ziam",
+            "fighter_b": "Jamie Mullarkey",
+            "winner": "Fares Ziam",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2735a2ea77ddc0b5"
+        },
+        {
+            "fight_id": "b3e12698e65cf8d0",
+            "fighter_a": "Maxim Grishin",
+            "fighter_b": "Gadzhimurad Antigulov",
+            "winner": "Maxim Grishin",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 298,
+            "fight_url": "http://ufcstats.com/fight-details/b3e12698e65cf8d0"
+        },
+        {
+            "fight_id": "024a04f78b37b7d9",
+            "fighter_a": "Said Nurmagomedov",
+            "fighter_b": "Mark Striegl",
+            "winner": "Said Nurmagomedov",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 51,
+            "fight_url": "http://ufcstats.com/fight-details/024a04f78b37b7d9"
+        }
+    ]
+}

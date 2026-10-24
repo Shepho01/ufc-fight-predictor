@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b2297232b9310ba5",
+        "event_id": "9f3d6ddef3d3cccc",
+        "event_name": "UFC Fight Night: Weidman vs. Gastelum",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "c8097968da5e5f13"
+    },
+    "fighter_a": {
+        "fighter_id": "96c336b463e0662c",
+        "name": "Frankie Perez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 63",
+            "Sig. str. %": "34%",
+            "Total str.": "53 of 99",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 63",
+            "Sig. str. %": "34%",
+            "Head": "6 of 40",
+            "Body": "7 of 13",
+            "Leg": "9 of 10",
+            "Distance": "12 of 50",
+            "Clinch": "2 of 4",
+            "Ground": "8 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 43",
+            "Sig. str. %": "53%",
+            "Total str.": "51 of 79",
+            "Td": "3 of 8",
+            "Td %": "37%",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "8:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 43",
+            "Sig. str. %": "53%",
+            "Head": "16 of 31",
+            "Body": "6 of 8",
+            "Leg": "1 of 4",
+            "Distance": "12 of 30",
+            "Clinch": "2 of 2",
+            "Ground": "9 of 11"
+        }
+    }
+}

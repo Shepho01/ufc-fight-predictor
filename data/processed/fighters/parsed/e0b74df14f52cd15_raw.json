@@ -1,0 +1,76 @@
+{
+    "fighter_id": "e0b74df14f52cd15",
+    "name": "Mike Brown",
+    "record": "26-9-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 08, 1975",
+    "sig_strikes_landed_per_min": "2.98",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.45",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "3.23",
+    "takedown_accuracy": "40%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "05dce98da0acefd8",
+            "fight_url": "http://ufcstats.com/fight-details/05dce98da0acefd8"
+        },
+        {
+            "fight_id": "d5457867cbd0caf7",
+            "fight_url": "http://ufcstats.com/fight-details/d5457867cbd0caf7"
+        },
+        {
+            "fight_id": "9468f58f8abf78df",
+            "fight_url": "http://ufcstats.com/fight-details/9468f58f8abf78df"
+        },
+        {
+            "fight_id": "ba5b23e7ef308883",
+            "fight_url": "http://ufcstats.com/fight-details/ba5b23e7ef308883"
+        },
+        {
+            "fight_id": "965989097794b22b",
+            "fight_url": "http://ufcstats.com/fight-details/965989097794b22b"
+        },
+        {
+            "fight_id": "310cc5580bf9b3c0",
+            "fight_url": "http://ufcstats.com/fight-details/310cc5580bf9b3c0"
+        },
+        {
+            "fight_id": "39003cb1926bb9e0",
+            "fight_url": "http://ufcstats.com/fight-details/39003cb1926bb9e0"
+        },
+        {
+            "fight_id": "bb9ed6e1e0181299",
+            "fight_url": "http://ufcstats.com/fight-details/bb9ed6e1e0181299"
+        },
+        {
+            "fight_id": "516df95b0c8c3127",
+            "fight_url": "http://ufcstats.com/fight-details/516df95b0c8c3127"
+        },
+        {
+            "fight_id": "7c292e1fe5e5b682",
+            "fight_url": "http://ufcstats.com/fight-details/7c292e1fe5e5b682"
+        },
+        {
+            "fight_id": "5a81ddab738c45e8",
+            "fight_url": "http://ufcstats.com/fight-details/5a81ddab738c45e8"
+        },
+        {
+            "fight_id": "fe1eb1104377f2da",
+            "fight_url": "http://ufcstats.com/fight-details/fe1eb1104377f2da"
+        },
+        {
+            "fight_id": "4dff739953febc35",
+            "fight_url": "http://ufcstats.com/fight-details/4dff739953febc35"
+        },
+        {
+            "fight_id": "1d9d91f78334129d",
+            "fight_url": "http://ufcstats.com/fight-details/1d9d91f78334129d"
+        }
+    ]
+}

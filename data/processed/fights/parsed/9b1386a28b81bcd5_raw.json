@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9b1386a28b81bcd5",
+        "event_id": "2dc7f1762dc0a7ef",
+        "event_name": "UFC 203: Miocic vs. Overeem",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:17",
+        "referee": "Gary Copeland",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 50",
+            "Sig. str. %": "76%",
+            "Total str.": "80 of 97",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "7:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 50",
+            "Sig. str. %": "76%",
+            "Head": "32 of 43",
+            "Body": "5 of 5",
+            "Leg": "1 of 2",
+            "Distance": "10 of 19",
+            "Clinch": "2 of 2",
+            "Ground": "26 of 29"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "443f60bec7c3c3d5",
+        "name": "Michael McBride",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 31",
+            "Sig. str. %": "51%",
+            "Total str.": "42 of 65",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 31",
+            "Sig. str. %": "51%",
+            "Head": "10 of 22",
+            "Body": "1 of 3",
+            "Leg": "5 of 6",
+            "Distance": "14 of 27",
+            "Clinch": "0 of 1",
+            "Ground": "2 of 3"
+        }
+    }
+}

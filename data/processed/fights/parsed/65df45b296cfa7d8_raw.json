@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "65df45b296cfa7d8",
+        "event_id": "484acc7b0f856ce9",
+        "event_name": "WEC 52: Faber vs. Mizugaki",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 71",
+            "Sig. str. %": "42%",
+            "Total str.": "76 of 123",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "11:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 71",
+            "Sig. str. %": "42%",
+            "Head": "23 of 64",
+            "Body": "4 of 4",
+            "Leg": "3 of 3",
+            "Distance": "12 of 30",
+            "Clinch": "0 of 0",
+            "Ground": "18 of 41"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "be5cfd73617a5b1a",
+        "name": "Javier Vazquez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 22",
+            "Sig. str. %": "27%",
+            "Total str.": "90 of 111",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 22",
+            "Sig. str. %": "27%",
+            "Head": "3 of 19",
+            "Body": "0 of 0",
+            "Leg": "3 of 3",
+            "Distance": "5 of 20",
+            "Clinch": "0 of 1",
+            "Ground": "1 of 1"
+        }
+    }
+}

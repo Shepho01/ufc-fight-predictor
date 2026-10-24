@@ -1,0 +1,23 @@
+{
+    "fighter_id": "98a58c26c5b1ed17",
+    "name": "Patricio Pitbull",
+    "wins": 38,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 145,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 7,
+    "dob_month": 7,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.06,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 4.66,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 1.21,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.74,
+    "submission_attempts_per_15_min": 0.5
+}

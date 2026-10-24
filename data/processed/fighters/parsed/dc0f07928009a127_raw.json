@@ -1,0 +1,48 @@
+{
+    "fighter_id": "dc0f07928009a127",
+    "name": "Rob Emerson",
+    "record": "18-12-0 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jul 30, 1981",
+    "sig_strikes_landed_per_min": "2.50",
+    "sig_striking_accuracy": "30%",
+    "sig_strikes_absorbed_per_min": "2.83",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "2.02",
+    "takedown_accuracy": "52%",
+    "takedown_defense": "65%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "b32acf1c70321321",
+            "fight_url": "http://ufcstats.com/fight-details/b32acf1c70321321"
+        },
+        {
+            "fight_id": "840863604b38a33f",
+            "fight_url": "http://ufcstats.com/fight-details/840863604b38a33f"
+        },
+        {
+            "fight_id": "329a097e0b53daac",
+            "fight_url": "http://ufcstats.com/fight-details/329a097e0b53daac"
+        },
+        {
+            "fight_id": "0a1f2e1f9d91bc9a",
+            "fight_url": "http://ufcstats.com/fight-details/0a1f2e1f9d91bc9a"
+        },
+        {
+            "fight_id": "e915c1987050eac8",
+            "fight_url": "http://ufcstats.com/fight-details/e915c1987050eac8"
+        },
+        {
+            "fight_id": "c5f56797c68ecbeb",
+            "fight_url": "http://ufcstats.com/fight-details/c5f56797c68ecbeb"
+        },
+        {
+            "fight_id": "53343bd123bcf651",
+            "fight_url": "http://ufcstats.com/fight-details/53343bd123bcf651"
+        }
+    ]
+}

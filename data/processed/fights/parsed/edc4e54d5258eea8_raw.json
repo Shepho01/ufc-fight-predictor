@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "edc4e54d5258eea8",
+        "event_id": "030f08370fd1c2bb",
+        "event_name": "UFC on FX: Belfort vs. Rockhold",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:34",
+        "referee": "Leon Roberts",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 67",
+            "Sig. str. %": "31%",
+            "Total str.": "23 of 69",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 67",
+            "Sig. str. %": "31%",
+            "Head": "15 of 59",
+            "Body": "5 of 7",
+            "Leg": "1 of 1",
+            "Distance": "14 of 59",
+            "Clinch": "6 of 7",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "03c9994c5b8958ec",
+        "name": "John Cholish",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "9 of 26",
+            "Sig. str. %": "34%",
+            "Total str.": "9 of 26",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 26",
+            "Sig. str. %": "34%",
+            "Head": "2 of 15",
+            "Body": "3 of 6",
+            "Leg": "4 of 5",
+            "Distance": "9 of 23",
+            "Clinch": "0 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

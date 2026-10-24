@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ff8802aae3b81c3f",
+        "event_id": "304fcd812f12c589",
+        "event_name": "UFC Fight Night: Stout vs Fisher",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:52",
+        "referee": "John McCarthy",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 5",
+            "Sig. str. %": "60%",
+            "Total str.": "4 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "0:57"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 5",
+            "Sig. str. %": "60%",
+            "Head": "3 of 5",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "3 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c9bbf1a0285a8076",
+        "name": "Jeff Cox",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 4",
+            "Sig. str. %": "0%",
+            "Total str.": "1 of 5",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 4",
+            "Sig. str. %": "0%",
+            "Head": "0 of 4",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

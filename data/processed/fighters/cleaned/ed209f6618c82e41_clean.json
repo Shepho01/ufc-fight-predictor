@@ -1,0 +1,23 @@
+{
+    "fighter_id": "ed209f6618c82e41",
+    "name": "Hacran Dias",
+    "wins": 23,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 16,
+    "dob_month": 6,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 2.08,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 3.31,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 2.5,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.76,
+    "submission_attempts_per_15_min": 0.5
+}

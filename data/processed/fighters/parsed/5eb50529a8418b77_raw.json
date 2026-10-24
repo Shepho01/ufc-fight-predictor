@@ -1,0 +1,44 @@
+{
+    "fighter_id": "5eb50529a8418b77",
+    "name": "Gabe Green",
+    "record": "12-5-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "May 02, 1993",
+    "sig_strikes_landed_per_min": "5.60",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "6.19",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "0.71",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "a9a6cca4bbf7a5db",
+            "fight_url": "http://ufcstats.com/fight-details/a9a6cca4bbf7a5db"
+        },
+        {
+            "fight_id": "81fda78adcaedbc7",
+            "fight_url": "http://ufcstats.com/fight-details/81fda78adcaedbc7"
+        },
+        {
+            "fight_id": "4d8d1701c43c5fea",
+            "fight_url": "http://ufcstats.com/fight-details/4d8d1701c43c5fea"
+        },
+        {
+            "fight_id": "5b731da9e4be4391",
+            "fight_url": "http://ufcstats.com/fight-details/5b731da9e4be4391"
+        },
+        {
+            "fight_id": "357c5b86ec83b826",
+            "fight_url": "http://ufcstats.com/fight-details/357c5b86ec83b826"
+        },
+        {
+            "fight_id": "767819f321431bed",
+            "fight_url": "http://ufcstats.com/fight-details/767819f321431bed"
+        }
+    ]
+}

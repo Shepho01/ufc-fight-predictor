@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fc8ad0c7fc70dde7",
+        "event_id": "f3743d8ef5dde970",
+        "event_name": "UFC 303: Pereira vs. Prochazka 2",
+        "weight_class": "Catch Weight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "82a5152216251682",
+        "name": "Dan Ige",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "42 of 77",
+            "Sig. str. %": "54%",
+            "Total str.": "67 of 103",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "42 of 77",
+            "Sig. str. %": "54%",
+            "Head": "34 of 67",
+            "Body": "4 of 5",
+            "Leg": "4 of 5",
+            "Distance": "24 of 53",
+            "Clinch": "3 of 4",
+            "Ground": "15 of 20"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "49 of 100",
+            "Sig. str. %": "49%",
+            "Total str.": "90 of 143",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "4:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "49 of 100",
+            "Sig. str. %": "49%",
+            "Head": "32 of 74",
+            "Body": "8 of 14",
+            "Leg": "9 of 12",
+            "Distance": "38 of 85",
+            "Clinch": "10 of 14",
+            "Ground": "1 of 1"
+        }
+    }
+}

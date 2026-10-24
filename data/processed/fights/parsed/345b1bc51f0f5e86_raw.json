@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "345b1bc51f0f5e86",
+        "event_id": "ff4c3ab594c7fac3",
+        "event_name": "UFC 199: Rockhold vs. Bisping 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John McCarthy",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "103 of 205",
+            "Sig. str. %": "50%",
+            "Total str.": "111 of 213",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "103 of 205",
+            "Sig. str. %": "50%",
+            "Head": "80 of 179",
+            "Body": "12 of 12",
+            "Leg": "11 of 14",
+            "Distance": "82 of 181",
+            "Clinch": "11 of 13",
+            "Ground": "10 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "3974fa35c917af1d",
+        "name": "Ricardo Lamas",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "64 of 135",
+            "Sig. str. %": "47%",
+            "Total str.": "66 of 137",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "64 of 135",
+            "Sig. str. %": "47%",
+            "Head": "35 of 103",
+            "Body": "4 of 4",
+            "Leg": "25 of 28",
+            "Distance": "57 of 127",
+            "Clinch": "6 of 7",
+            "Ground": "1 of 1"
+        }
+    }
+}

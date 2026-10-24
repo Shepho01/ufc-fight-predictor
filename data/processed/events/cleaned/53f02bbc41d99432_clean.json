@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "53f02bbc41d99432",
+        "event_name": "UFC 179: Aldo vs Mendes 2",
+        "event_day": 25,
+        "event_month": 10,
+        "event_year": 2014,
+        "location": "Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "7099374e91f9283b",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Chad Mendes",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7099374e91f9283b"
+        },
+        {
+            "fight_id": "06854105c3503075",
+            "fighter_a": "Phil Davis",
+            "fighter_b": "Glover Teixeira",
+            "winner": "Phil Davis",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/06854105c3503075"
+        },
+        {
+            "fight_id": "2bfb60face19904d",
+            "fighter_a": "Fabio Maldonado",
+            "fighter_b": "Hans Stringer",
+            "winner": "Fabio Maldonado",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/2bfb60face19904d"
+        },
+        {
+            "fight_id": "ffd3e3d37cba32da",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Lucas Martins",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ffd3e3d37cba32da"
+        },
+        {
+            "fight_id": "852223ee1a2d0a74",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Diego Ferreira",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/852223ee1a2d0a74"
+        },
+        {
+            "fight_id": "d1b2ce8ee57307c0",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "William Macario",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 160,
+            "fight_url": "http://ufcstats.com/fight-details/d1b2ce8ee57307c0"
+        },
+        {
+            "fight_id": "502d7cb01921170f",
+            "fighter_a": "Yan Cabral",
+            "fighter_b": "Naoyuki Kotani",
+            "winner": "Yan Cabral",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 186,
+            "fight_url": "http://ufcstats.com/fight-details/502d7cb01921170f"
+        },
+        {
+            "fight_id": "a90fde18a088f99b",
+            "fighter_a": "Wilson Reis",
+            "fighter_b": "Scott Jorgensen",
+            "winner": "Wilson Reis",
+            "weight_class": "Flyweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 208,
+            "fight_url": "http://ufcstats.com/fight-details/a90fde18a088f99b"
+        },
+        {
+            "fight_id": "432e57033ceecee0",
+            "fighter_a": "Andre Fili",
+            "fighter_b": "Felipe Arantes",
+            "winner": "Andre Fili",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/432e57033ceecee0"
+        },
+        {
+            "fight_id": "2a44035824303dee",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Christos Giagos",
+            "winner": "Gilbert Burns",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 297,
+            "fight_url": "http://ufcstats.com/fight-details/2a44035824303dee"
+        },
+        {
+            "fight_id": "4cc9ef5e68009fd4",
+            "fighter_a": "Anthony Rocco Martin",
+            "fighter_b": "Fabricio Camoes",
+            "winner": "Anthony Rocco Martin",
+            "weight_class": "Lightweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/4cc9ef5e68009fd4"
+        }
+    ]
+}

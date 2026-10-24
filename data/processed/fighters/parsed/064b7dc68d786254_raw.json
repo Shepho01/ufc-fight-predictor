@@ -1,0 +1,28 @@
+{
+    "fighter_id": "064b7dc68d786254",
+    "name": "Cain Carrizosa",
+    "record": "10-3-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Jul 22, 1986",
+    "sig_strikes_landed_per_min": "2.72",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "5.80",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "14%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "632f6960544caa3c",
+            "fight_url": "http://ufcstats.com/fight-details/632f6960544caa3c"
+        },
+        {
+            "fight_id": "788c4bbf925cdf40",
+            "fight_url": "http://ufcstats.com/fight-details/788c4bbf925cdf40"
+        }
+    ]
+}

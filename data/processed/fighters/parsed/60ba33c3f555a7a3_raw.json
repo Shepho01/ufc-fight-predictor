@@ -1,0 +1,52 @@
+{
+    "fighter_id": "60ba33c3f555a7a3",
+    "name": "Josh Grispi",
+    "record": "14-5-0",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Oct 14, 1988",
+    "sig_strikes_landed_per_min": "1.44",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "3.71",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.97",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "16%",
+    "submission_attempts_per_15_min": "2.2",
+    "fight_history": [
+        {
+            "fight_id": "d607908be8b19273",
+            "fight_url": "http://ufcstats.com/fight-details/d607908be8b19273"
+        },
+        {
+            "fight_id": "9a85303025a077b5",
+            "fight_url": "http://ufcstats.com/fight-details/9a85303025a077b5"
+        },
+        {
+            "fight_id": "2ebfb072b178649e",
+            "fight_url": "http://ufcstats.com/fight-details/2ebfb072b178649e"
+        },
+        {
+            "fight_id": "b13e3620949300c5",
+            "fight_url": "http://ufcstats.com/fight-details/b13e3620949300c5"
+        },
+        {
+            "fight_id": "778653bf095d4487",
+            "fight_url": "http://ufcstats.com/fight-details/778653bf095d4487"
+        },
+        {
+            "fight_id": "61f89bde8ce388a4",
+            "fight_url": "http://ufcstats.com/fight-details/61f89bde8ce388a4"
+        },
+        {
+            "fight_id": "74aaff7cf997e127",
+            "fight_url": "http://ufcstats.com/fight-details/74aaff7cf997e127"
+        },
+        {
+            "fight_id": "1e02a945f4ada4ef",
+            "fight_url": "http://ufcstats.com/fight-details/1e02a945f4ada4ef"
+        }
+    ]
+}

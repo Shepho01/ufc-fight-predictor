@@ -1,0 +1,23 @@
+{
+    "fighter_id": "40093d1d2d78394e",
+    "name": "Charles Rosa",
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 175.26,
+    "stance": "Switch",
+    "dob_day": 24,
+    "dob_month": 8,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 3.08,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 3.86,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 1.67,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.38,
+    "submission_attempts_per_15_min": 1.0
+}

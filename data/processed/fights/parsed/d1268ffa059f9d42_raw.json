@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d1268ffa059f9d42",
+        "event_id": "e8efeb9cf33b1941",
+        "event_name": "UFC 148: Silva vs Sonnen 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:31",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "8 of 8",
+            "Sig. str. %": "100%",
+            "Total str.": "9 of 9",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 8",
+            "Sig. str. %": "100%",
+            "Head": "5 of 5",
+            "Body": "2 of 2",
+            "Leg": "1 of 1",
+            "Distance": "4 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7be63795363029e8",
+        "name": "Cody McKenzie",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 6",
+            "Sig. str. %": "16%",
+            "Total str.": "1 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 6",
+            "Sig. str. %": "16%",
+            "Head": "0 of 5",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "1 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

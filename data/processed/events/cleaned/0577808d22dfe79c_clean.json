@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "0577808d22dfe79c",
+        "event_name": "UFC Fight Night: Bigfoot vs Mir",
+        "event_day": 22,
+        "event_month": 2,
+        "event_year": 2015,
+        "location": "Porto Alegre, Rio Grande do Sul, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "223f9a750428e1d0",
+            "fighter_a": "Frank Mir",
+            "fighter_b": "Antonio Silva",
+            "winner": "Frank Mir",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/223f9a750428e1d0"
+        },
+        {
+            "fight_id": "d785f22c4cc99a3d",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Edson Barboza",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d785f22c4cc99a3d"
+        },
+        {
+            "fight_id": "1574bb7476c9e556",
+            "fighter_a": "Sam Alvey",
+            "fighter_b": "Cezar Ferreira",
+            "winner": "Sam Alvey",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 214,
+            "fight_url": "http://ufcstats.com/fight-details/1574bb7476c9e556"
+        },
+        {
+            "fight_id": "4228886e94a25a63",
+            "fighter_a": "Adriano Martins",
+            "fighter_b": "Rustam Khabilov",
+            "winner": "Adriano Martins",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4228886e94a25a63"
+        },
+        {
+            "fight_id": "c7cbf6b47051fa7d",
+            "fighter_a": "Frankie Saenz",
+            "fighter_b": "Iuri Alcantara",
+            "winner": "Frankie Saenz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c7cbf6b47051fa7d"
+        },
+        {
+            "fight_id": "82e713f037e37fe9",
+            "fighter_a": "Santiago Ponzinibbio",
+            "fighter_b": "Sean Strickland",
+            "winner": "Santiago Ponzinibbio",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/82e713f037e37fe9"
+        },
+        {
+            "fight_id": "76726a66840ccfa4",
+            "fighter_a": "Marion Reneau",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Marion Reneau",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/76726a66840ccfa4"
+        },
+        {
+            "fight_id": "ec659c4e19f62700",
+            "fighter_a": "Matt Dwyer",
+            "fighter_b": "William Macario",
+            "winner": "Matt Dwyer",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 194,
+            "fight_url": "http://ufcstats.com/fight-details/ec659c4e19f62700"
+        },
+        {
+            "fight_id": "a7ff11c5dfe65e86",
+            "fighter_a": "Mike de la Torre",
+            "fighter_b": "Tiago dos Santos e Silva",
+            "winner": "Mike de la Torre",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 179,
+            "fight_url": "http://ufcstats.com/fight-details/a7ff11c5dfe65e86"
+        },
+        {
+            "fight_id": "10cff9ac7ce89c28",
+            "fighter_a": "Douglas Silva de Andrade",
+            "fighter_b": "Cody Gibson",
+            "winner": "Douglas Silva de Andrade",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/10cff9ac7ce89c28"
+        },
+        {
+            "fight_id": "b6a609806d44659f",
+            "fighter_a": "Ivan Jorge",
+            "fighter_b": "Josh Shockley",
+            "winner": "Ivan Jorge",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b6a609806d44659f"
+        }
+    ]
+}

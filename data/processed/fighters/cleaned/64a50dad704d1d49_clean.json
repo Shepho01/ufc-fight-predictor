@@ -1,0 +1,23 @@
+{
+    "fighter_id": "64a50dad704d1d49",
+    "name": "Edson Barboza",
+    "wins": 24,
+    "losses": 15,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 190.5,
+    "stance": "Orthodox",
+    "dob_day": 21,
+    "dob_month": 1,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 4.15,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 4.76,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 0.42,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.73,
+    "submission_attempts_per_15_min": 0.1
+}

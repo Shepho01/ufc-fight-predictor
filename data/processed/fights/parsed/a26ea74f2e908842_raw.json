@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a26ea74f2e908842",
+        "event_id": "fccb0fee256b7b4d",
+        "event_name": "UFC 329: McGregor vs. Holloway 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:59",
+        "referee": "Kerry Hatley",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "43 of 72",
+            "Sig. str. %": "59%",
+            "Total str.": "57 of 86",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 72",
+            "Sig. str. %": "59%",
+            "Head": "18 of 43",
+            "Body": "20 of 24",
+            "Leg": "5 of 5",
+            "Distance": "35 of 59",
+            "Clinch": "0 of 2",
+            "Ground": "8 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "809bd1a871491508",
+        "name": "Terrance McKinney",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "45 of 80",
+            "Sig. str. %": "56%",
+            "Total str.": "59 of 96",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 80",
+            "Sig. str. %": "56%",
+            "Head": "40 of 75",
+            "Body": "5 of 5",
+            "Leg": "0 of 0",
+            "Distance": "25 of 58",
+            "Clinch": "2 of 3",
+            "Ground": "18 of 19"
+        }
+    }
+}

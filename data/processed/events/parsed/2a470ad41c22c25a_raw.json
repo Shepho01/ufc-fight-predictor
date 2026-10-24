@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "2a470ad41c22c25a",
+        "event_name": "UFC Fight Night: Lewis vs. Daukaus",
+        "event_date": "December 18, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4b7ec02b39fc6f70",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Chris Daukaus",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:36",
+            "fight_url": "http://ufcstats.com/fight-details/4b7ec02b39fc6f70"
+        },
+        {
+            "fight_id": "8b3b38167060b1d7",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Stephen Thompson",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8b3b38167060b1d7"
+        },
+        {
+            "fight_id": "2e200563dd7c4922",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Angela Hill",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2e200563dd7c4922"
+        },
+        {
+            "fight_id": "a43dcd04788d95c7",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Raphael Assuncao",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:14",
+            "fight_url": "http://ufcstats.com/fight-details/a43dcd04788d95c7"
+        },
+        {
+            "fight_id": "730f14ccff80f3b0",
+            "fighter_a": "Mateusz Gamrot",
+            "fighter_b": "Diego Ferreira",
+            "winner": "Mateusz Gamrot",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/730f14ccff80f3b0"
+        },
+        {
+            "fight_id": "2a5484a6d5e7a2da",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Darren Elkins",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:12",
+            "fight_url": "http://ufcstats.com/fight-details/2a5484a6d5e7a2da"
+        },
+        {
+            "fight_id": "bdaca0a96d44438a",
+            "fighter_a": "Gerald Meerschaert",
+            "fighter_b": "Dustin Stoltzfus",
+            "winner": "Gerald Meerschaert",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:58",
+            "fight_url": "http://ufcstats.com/fight-details/bdaca0a96d44438a"
+        },
+        {
+            "fight_id": "fc0927c657c51622",
+            "fighter_a": "Justin Tafa",
+            "fighter_b": "Harry Hunsucker",
+            "winner": "Justin Tafa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/fc0927c657c51622"
+        },
+        {
+            "fight_id": "dd552b389152636a",
+            "fighter_a": "Melissa Gatto",
+            "fighter_b": "Sijara Eubanks",
+            "winner": "Melissa Gatto",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "0:45",
+            "fight_url": "http://ufcstats.com/fight-details/dd552b389152636a"
+        },
+        {
+            "fight_id": "b4f88d65b47c2a39",
+            "fighter_a": "Charles Jourdain",
+            "fighter_b": "Andre Ewell",
+            "winner": "Charles Jourdain",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b4f88d65b47c2a39"
+        },
+        {
+            "fight_id": "85d9a516c3c6c205",
+            "fighter_a": "Raquel Pennington",
+            "fighter_b": "Macy Chiasson",
+            "winner": "Raquel Pennington",
+            "weight_class": "Women's Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "3:07",
+            "fight_url": "http://ufcstats.com/fight-details/85d9a516c3c6c205"
+        },
+        {
+            "fight_id": "a760d0f5de2e1aaa",
+            "fighter_a": "Don'Tale Mayes",
+            "fighter_b": "Josh Parisian",
+            "winner": "Don'Tale Mayes",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/a760d0f5de2e1aaa"
+        },
+        {
+            "fight_id": "ea76a3af8c5ecc55",
+            "fighter_a": "Jordan Leavitt",
+            "fighter_b": "Matt Sayles",
+            "winner": "Jordan Leavitt",
+            "weight_class": "Lightweight",
+            "method": "SUB Inverted Triangle",
+            "round": "2",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/ea76a3af8c5ecc55"
+        }
+    ]
+}

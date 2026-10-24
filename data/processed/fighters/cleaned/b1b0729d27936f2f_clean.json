@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b1b0729d27936f2f",
+    "name": "Belal Muhammad",
+    "wins": 24,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 170,
+    "reach_cm": 182.88,
+    "stance": "Orthodox",
+    "dob_day": 9,
+    "dob_month": 7,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 4.36,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.92,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 1.98,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.9,
+    "submission_attempts_per_15_min": 0.1
+}

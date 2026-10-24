@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "d29b5c4f22c6357d",
+        "event_name": "UFC Fight Night: Rivera vs. Moraes",
+        "event_day": 1,
+        "event_month": 6,
+        "event_year": 2018,
+        "location": "Utica, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "69b147aaaafeb47d",
+            "fighter_a": "Marlon Moraes",
+            "fighter_b": "Jimmie Rivera",
+            "winner": "Marlon Moraes",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 33,
+            "fight_url": "http://ufcstats.com/fight-details/69b147aaaafeb47d"
+        },
+        {
+            "fight_id": "921a8db065cd8cc5",
+            "fighter_a": "Gregor Gillespie",
+            "fighter_b": "Vinc Pichel",
+            "winner": "Gregor Gillespie",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/921a8db065cd8cc5"
+        },
+        {
+            "fight_id": "f43f9861e73739c8",
+            "fighter_a": "Walt Harris",
+            "fighter_b": "Daniel Spitz",
+            "winner": "Walt Harris",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/f43f9861e73739c8"
+        },
+        {
+            "fight_id": "b7c7707ccea492c7",
+            "fighter_a": "Ben Saunders",
+            "fighter_b": "Jake Ellenberger",
+            "winner": "Ben Saunders",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 116,
+            "fight_url": "http://ufcstats.com/fight-details/b7c7707ccea492c7"
+        },
+        {
+            "fight_id": "9cb4196446f3ce79",
+            "fighter_a": "Julio Arce",
+            "fighter_b": "Daniel Teymur",
+            "winner": "Julio Arce",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 175,
+            "fight_url": "http://ufcstats.com/fight-details/9cb4196446f3ce79"
+        },
+        {
+            "fight_id": "194d73490eb731c6",
+            "fighter_a": "Sam Alvey",
+            "fighter_b": "Gian Villante",
+            "winner": "Sam Alvey",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/194d73490eb731c6"
+        },
+        {
+            "fight_id": "9fb0a4e18ddcd14c",
+            "fighter_a": "Sijara Eubanks",
+            "fighter_b": "Lauren Murphy",
+            "winner": "Sijara Eubanks",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9fb0a4e18ddcd14c"
+        },
+        {
+            "fight_id": "a25633b1494f1360",
+            "fighter_a": "David Teymur",
+            "fighter_b": "Nik Lentz",
+            "winner": "David Teymur",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a25633b1494f1360"
+        },
+        {
+            "fight_id": "026c4a26106cc158",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Chance Rencountre",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/026c4a26106cc158"
+        },
+        {
+            "fight_id": "19fc916df1f0e6ff",
+            "fighter_a": "Desmond Green",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Desmond Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/19fc916df1f0e6ff"
+        },
+        {
+            "fight_id": "4b155647201d549e",
+            "fighter_a": "Nathaniel Wood",
+            "fighter_b": "Johnny Eduardo",
+            "winner": "Nathaniel Wood",
+            "weight_class": "Bantamweight",
+            "method": "SUB D'Arce Choke",
+            "round": 2,
+            "time_seconds": 138,
+            "fight_url": "http://ufcstats.com/fight-details/4b155647201d549e"
+        },
+        {
+            "fight_id": "7969abc596485189",
+            "fighter_a": "Jose Torres",
+            "fighter_b": "Jarred Brooks",
+            "winner": "Jose Torres",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 175,
+            "fight_url": "http://ufcstats.com/fight-details/7969abc596485189"
+        }
+    ]
+}

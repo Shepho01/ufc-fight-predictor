@@ -1,0 +1,52 @@
+{
+    "fighter_id": "2e7878927067fdca",
+    "name": "Manuel Torres",
+    "record": "17-4-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Mar 25, 1995",
+    "sig_strikes_landed_per_min": "6.57",
+    "sig_striking_accuracy": "56%",
+    "sig_strikes_absorbed_per_min": "4.24",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "1.32",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "c13dc0cccef263f7",
+            "fight_url": "http://ufcstats.com/fight-details/c13dc0cccef263f7"
+        },
+        {
+            "fight_id": "c797b58d85c840a4",
+            "fight_url": "http://ufcstats.com/fight-details/c797b58d85c840a4"
+        },
+        {
+            "fight_id": "8fc8d66ad0074ab0",
+            "fight_url": "http://ufcstats.com/fight-details/8fc8d66ad0074ab0"
+        },
+        {
+            "fight_id": "3733d100f7bd5590",
+            "fight_url": "http://ufcstats.com/fight-details/3733d100f7bd5590"
+        },
+        {
+            "fight_id": "673a156925dfb31d",
+            "fight_url": "http://ufcstats.com/fight-details/673a156925dfb31d"
+        },
+        {
+            "fight_id": "98458778348ea5d7",
+            "fight_url": "http://ufcstats.com/fight-details/98458778348ea5d7"
+        },
+        {
+            "fight_id": "e240d6f77747ec46",
+            "fight_url": "http://ufcstats.com/fight-details/e240d6f77747ec46"
+        },
+        {
+            "fight_id": "da70e4dd9950090b",
+            "fight_url": "http://ufcstats.com/fight-details/da70e4dd9950090b"
+        }
+    ]
+}

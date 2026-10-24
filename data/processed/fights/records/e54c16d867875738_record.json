@@ -9,6 +9,7 @@
         "method": "Submission",
         "finish_round": 1,
         "finish_time_seconds": 283,
+        "duration_seconds": 283,
         "referee": "Andy Social",
         "winner_id": "275aca31f61ba28c",
         "event_day": 28,

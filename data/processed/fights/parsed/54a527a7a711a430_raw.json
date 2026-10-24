@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "54a527a7a711a430",
+        "event_id": "484acc7b0f856ce9",
+        "event_name": "WEC 52: Faber vs. Mizugaki",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:53",
+        "referee": "Kim Winslow",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "a36a14985a57a1c6",
+        "name": "Zachary Micklewright",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 18",
+            "Sig. str. %": "33%",
+            "Total str.": "6 of 18",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 18",
+            "Sig. str. %": "33%",
+            "Head": "5 of 17",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "6 of 18",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 64",
+            "Sig. str. %": "59%",
+            "Total str.": "41 of 67",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 64",
+            "Sig. str. %": "59%",
+            "Head": "35 of 61",
+            "Body": "3 of 3",
+            "Leg": "0 of 0",
+            "Distance": "35 of 61",
+            "Clinch": "3 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

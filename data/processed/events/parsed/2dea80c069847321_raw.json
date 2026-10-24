@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "2dea80c069847321",
+        "event_name": "UFC Fight Night: Hunt vs Nelson",
+        "event_date": "September 20, 2014",
+        "location": "Saitama, Japan"
+    },
+    "fights": [
+        {
+            "fight_id": "ef3c1a2ac6510d26",
+            "fighter_a": "Mark Hunt",
+            "fighter_b": "Roy Nelson",
+            "winner": "Mark Hunt",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "3:00",
+            "fight_url": "http://ufcstats.com/fight-details/ef3c1a2ac6510d26"
+        },
+        {
+            "fight_id": "5ff0c4c6006f0873",
+            "fighter_a": "Myles Jury",
+            "fighter_b": "Takanori Gomi",
+            "winner": "Myles Jury",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/5ff0c4c6006f0873"
+        },
+        {
+            "fight_id": "1e797ccd275a98d0",
+            "fighter_a": "Yoshihiro Akiyama",
+            "fighter_b": "Amir Sadollah",
+            "winner": "Yoshihiro Akiyama",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1e797ccd275a98d0"
+        },
+        {
+            "fight_id": "36d9d7e331e6b589",
+            "fighter_a": "Miesha Tate",
+            "fighter_b": "Rin Nakai",
+            "winner": "Miesha Tate",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/36d9d7e331e6b589"
+        },
+        {
+            "fight_id": "26cd506de4221057",
+            "fighter_a": "Kiichi Kunimoto",
+            "fighter_b": "Richard Walsh",
+            "winner": "Kiichi Kunimoto",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/26cd506de4221057"
+        },
+        {
+            "fight_id": "c2a36e996bba3a4a",
+            "fighter_a": "Kyoji Horiguchi",
+            "fighter_b": "Jon Delos Reyes",
+            "winner": "Kyoji Horiguchi",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:48",
+            "fight_url": "http://ufcstats.com/fight-details/c2a36e996bba3a4a"
+        },
+        {
+            "fight_id": "b516beb27416e492",
+            "fighter_a": "Masanori Kanehara",
+            "fighter_b": "Alex Caceres",
+            "winner": "Masanori Kanehara",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b516beb27416e492"
+        },
+        {
+            "fight_id": "7690e946d9d81f51",
+            "fighter_a": "Katsunori Kikuno",
+            "fighter_b": "Sam Sicilia",
+            "winner": "Katsunori Kikuno",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/7690e946d9d81f51"
+        },
+        {
+            "fight_id": "de2dad48d95305d7",
+            "fighter_a": "Hyun Gyu Lim",
+            "fighter_b": "Takenori Sato",
+            "winner": "Hyun Gyu Lim",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "1:18",
+            "fight_url": "http://ufcstats.com/fight-details/de2dad48d95305d7"
+        },
+        {
+            "fight_id": "a4398b9257a93d78",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Michinori Tanaka",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a4398b9257a93d78"
+        },
+        {
+            "fight_id": "3dd55cca2358a511",
+            "fighter_a": "Johnny Case",
+            "fighter_b": "Kazuki Tokudome",
+            "winner": "Johnny Case",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:34",
+            "fight_url": "http://ufcstats.com/fight-details/3dd55cca2358a511"
+        },
+        {
+            "fight_id": "284e05afc9479620",
+            "fighter_a": "Maximo Blanco",
+            "fighter_b": "Dan Hooker",
+            "winner": "Maximo Blanco",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/284e05afc9479620"
+        }
+    ]
+}

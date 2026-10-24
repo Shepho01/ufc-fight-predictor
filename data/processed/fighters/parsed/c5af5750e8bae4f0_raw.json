@@ -1,0 +1,48 @@
+{
+    "fighter_id": "c5af5750e8bae4f0",
+    "name": "Kyle Bochniak",
+    "record": "8-5-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Feb 05, 1987",
+    "sig_strikes_landed_per_min": "2.63",
+    "sig_striking_accuracy": "31%",
+    "sig_strikes_absorbed_per_min": "5.11",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "1.14",
+    "takedown_accuracy": "15%",
+    "takedown_defense": "62%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "9c3fb95a1558b38d",
+            "fight_url": "http://ufcstats.com/fight-details/9c3fb95a1558b38d"
+        },
+        {
+            "fight_id": "e0e22d7bc5a293e8",
+            "fight_url": "http://ufcstats.com/fight-details/e0e22d7bc5a293e8"
+        },
+        {
+            "fight_id": "6c5f7f98ec0b6f17",
+            "fight_url": "http://ufcstats.com/fight-details/6c5f7f98ec0b6f17"
+        },
+        {
+            "fight_id": "ea66be2688f542be",
+            "fight_url": "http://ufcstats.com/fight-details/ea66be2688f542be"
+        },
+        {
+            "fight_id": "bcf842992f9accdc",
+            "fight_url": "http://ufcstats.com/fight-details/bcf842992f9accdc"
+        },
+        {
+            "fight_id": "df33799f117000cb",
+            "fight_url": "http://ufcstats.com/fight-details/df33799f117000cb"
+        },
+        {
+            "fight_id": "5afd44d1e567d2e8",
+            "fight_url": "http://ufcstats.com/fight-details/5afd44d1e567d2e8"
+        }
+    ]
+}

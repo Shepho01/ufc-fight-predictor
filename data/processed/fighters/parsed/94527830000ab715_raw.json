@@ -1,0 +1,132 @@
+{
+    "fighter_id": "94527830000ab715",
+    "name": "Rani Yahya",
+    "record": "28-12-1 (1 NC)",
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Sep 12, 1984",
+    "sig_strikes_landed_per_min": "1.71",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "2.08",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "2.73",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "29%",
+    "submission_attempts_per_15_min": "1.8",
+    "fight_history": [
+        {
+            "fight_id": "55231cc4112334b4",
+            "fight_url": "http://ufcstats.com/fight-details/55231cc4112334b4"
+        },
+        {
+            "fight_id": "034cbbec91f67852",
+            "fight_url": "http://ufcstats.com/fight-details/034cbbec91f67852"
+        },
+        {
+            "fight_id": "1cd8f5a107f64e39",
+            "fight_url": "http://ufcstats.com/fight-details/1cd8f5a107f64e39"
+        },
+        {
+            "fight_id": "03bdbf2d18f3025d",
+            "fight_url": "http://ufcstats.com/fight-details/03bdbf2d18f3025d"
+        },
+        {
+            "fight_id": "e2503ed6a1f9257d",
+            "fight_url": "http://ufcstats.com/fight-details/e2503ed6a1f9257d"
+        },
+        {
+            "fight_id": "069e3e704cbf6337",
+            "fight_url": "http://ufcstats.com/fight-details/069e3e704cbf6337"
+        },
+        {
+            "fight_id": "5362ea7c63432cf9",
+            "fight_url": "http://ufcstats.com/fight-details/5362ea7c63432cf9"
+        },
+        {
+            "fight_id": "bf8f747e57d6d1c7",
+            "fight_url": "http://ufcstats.com/fight-details/bf8f747e57d6d1c7"
+        },
+        {
+            "fight_id": "19348172178f42ed",
+            "fight_url": "http://ufcstats.com/fight-details/19348172178f42ed"
+        },
+        {
+            "fight_id": "dc169cc01d675125",
+            "fight_url": "http://ufcstats.com/fight-details/dc169cc01d675125"
+        },
+        {
+            "fight_id": "0408a452fb5c3e14",
+            "fight_url": "http://ufcstats.com/fight-details/0408a452fb5c3e14"
+        },
+        {
+            "fight_id": "df661c70c40adf84",
+            "fight_url": "http://ufcstats.com/fight-details/df661c70c40adf84"
+        },
+        {
+            "fight_id": "3100a4e29da974ad",
+            "fight_url": "http://ufcstats.com/fight-details/3100a4e29da974ad"
+        },
+        {
+            "fight_id": "6f19f24780c4f23f",
+            "fight_url": "http://ufcstats.com/fight-details/6f19f24780c4f23f"
+        },
+        {
+            "fight_id": "ceac6997d22f2f3b",
+            "fight_url": "http://ufcstats.com/fight-details/ceac6997d22f2f3b"
+        },
+        {
+            "fight_id": "e9ec16e4e7cfb120",
+            "fight_url": "http://ufcstats.com/fight-details/e9ec16e4e7cfb120"
+        },
+        {
+            "fight_id": "bf6857338637013b",
+            "fight_url": "http://ufcstats.com/fight-details/bf6857338637013b"
+        },
+        {
+            "fight_id": "1dcc880fc80e6332",
+            "fight_url": "http://ufcstats.com/fight-details/1dcc880fc80e6332"
+        },
+        {
+            "fight_id": "9a85303025a077b5",
+            "fight_url": "http://ufcstats.com/fight-details/9a85303025a077b5"
+        },
+        {
+            "fight_id": "e516a0e035fd57f7",
+            "fight_url": "http://ufcstats.com/fight-details/e516a0e035fd57f7"
+        },
+        {
+            "fight_id": "ba5b23e7ef308883",
+            "fight_url": "http://ufcstats.com/fight-details/ba5b23e7ef308883"
+        },
+        {
+            "fight_id": "756ec128df94ce6e",
+            "fight_url": "http://ufcstats.com/fight-details/756ec128df94ce6e"
+        },
+        {
+            "fight_id": "41bd31453f0a9e0a",
+            "fight_url": "http://ufcstats.com/fight-details/41bd31453f0a9e0a"
+        },
+        {
+            "fight_id": "86b19fddda4583d5",
+            "fight_url": "http://ufcstats.com/fight-details/86b19fddda4583d5"
+        },
+        {
+            "fight_id": "b6bfa84d467f6690",
+            "fight_url": "http://ufcstats.com/fight-details/b6bfa84d467f6690"
+        },
+        {
+            "fight_id": "ba1fb8f4eb0cf2c8",
+            "fight_url": "http://ufcstats.com/fight-details/ba1fb8f4eb0cf2c8"
+        },
+        {
+            "fight_id": "ae2dfd555dd3d55b",
+            "fight_url": "http://ufcstats.com/fight-details/ae2dfd555dd3d55b"
+        },
+        {
+            "fight_id": "c108e8f2c0330460",
+            "fight_url": "http://ufcstats.com/fight-details/c108e8f2c0330460"
+        }
+    ]
+}

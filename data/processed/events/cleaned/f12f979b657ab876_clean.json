@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "f12f979b657ab876",
+        "event_name": "UFC Live: Jones vs Matyushenko",
+        "event_day": 1,
+        "event_month": 8,
+        "event_year": 2010,
+        "location": "San Diego, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7949430ebc47f31b",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Vladimir Matyushenko",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/7949430ebc47f31b"
+        },
+        {
+            "fight_id": "743f9df5bdfbcb95",
+            "fighter_a": "Yushin Okami",
+            "fighter_b": "Mark Munoz",
+            "winner": "Yushin Okami",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/743f9df5bdfbcb95"
+        },
+        {
+            "fight_id": "c0dc7511452ed0f8",
+            "fighter_a": "Jake Ellenberger",
+            "fighter_b": "John Howard",
+            "winner": "Jake Ellenberger",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 3,
+            "time_seconds": 141,
+            "fight_url": "http://ufcstats.com/fight-details/c0dc7511452ed0f8"
+        },
+        {
+            "fight_id": "a01524699dfa3526",
+            "fighter_a": "Takanori Gomi",
+            "fighter_b": "Tyson Griffin",
+            "winner": "Takanori Gomi",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/a01524699dfa3526"
+        },
+        {
+            "fight_id": "71cb15f6dbdaccd8",
+            "fighter_a": "Jacob Volkmann",
+            "fighter_b": "Paul Kelly",
+            "winner": "Jacob Volkmann",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/71cb15f6dbdaccd8"
+        },
+        {
+            "fight_id": "860954fbe26b867a",
+            "fighter_a": "Matthew Riddle",
+            "fighter_b": "DaMarques Johnson",
+            "winner": "Matthew Riddle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/860954fbe26b867a"
+        },
+        {
+            "fight_id": "26800d759ba50371",
+            "fighter_a": "Igor Pokrajac",
+            "fighter_b": "James Irvin",
+            "winner": "Igor Pokrajac",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 149,
+            "fight_url": "http://ufcstats.com/fight-details/26800d759ba50371"
+        },
+        {
+            "fight_id": "a3902e22c10725c4",
+            "fighter_a": "Brian Stann",
+            "fighter_b": "Mike Massenzio",
+            "winner": "Brian Stann",
+            "weight_class": "Middleweight",
+            "method": "SUB Triangle Choke",
+            "round": 3,
+            "time_seconds": 190,
+            "fight_url": "http://ufcstats.com/fight-details/a3902e22c10725c4"
+        },
+        {
+            "fight_id": "db1c5b5a710fbdb0",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Darren Elkins",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Armbar",
+            "round": 1,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/db1c5b5a710fbdb0"
+        },
+        {
+            "fight_id": "92dea6ff8f0c1b10",
+            "fighter_a": "Rob Kimmons",
+            "fighter_b": "Steve Steinbeiss",
+            "winner": "Rob Kimmons",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/92dea6ff8f0c1b10"
+        }
+    ]
+}

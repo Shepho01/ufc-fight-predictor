@@ -1,0 +1,23 @@
+{
+    "fighter_id": "65ddc8a9ac4e8531",
+    "name": "Keita Nakamura",
+    "wins": 34,
+    "losses": 10,
+    "draws": 2,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 170,
+    "reach_cm": 185.42000000000002,
+    "stance": "Southpaw",
+    "dob_day": 22,
+    "dob_month": 5,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 2.23,
+    "sig_striking_accuracy": 0.36,
+    "sig_strikes_absorbed_per_min": 3.2,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 1.65,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.3
+}

@@ -1,0 +1,44 @@
+{
+    "fighter_id": "2747c60e42d9d75f",
+    "name": "David Teymur",
+    "record": "8-2-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "May 01, 1989",
+    "sig_strikes_landed_per_min": "4.69",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "3.53",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "0.94",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "77%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "85036b967403cdab",
+            "fight_url": "http://ufcstats.com/fight-details/85036b967403cdab"
+        },
+        {
+            "fight_id": "a25633b1494f1360",
+            "fight_url": "http://ufcstats.com/fight-details/a25633b1494f1360"
+        },
+        {
+            "fight_id": "676320a61f800f10",
+            "fight_url": "http://ufcstats.com/fight-details/676320a61f800f10"
+        },
+        {
+            "fight_id": "7ac4b9823b1e139b",
+            "fight_url": "http://ufcstats.com/fight-details/7ac4b9823b1e139b"
+        },
+        {
+            "fight_id": "cb76509b5c2f2a90",
+            "fight_url": "http://ufcstats.com/fight-details/cb76509b5c2f2a90"
+        },
+        {
+            "fight_id": "0845e0f9e8d61b0f",
+            "fight_url": "http://ufcstats.com/fight-details/0845e0f9e8d61b0f"
+        }
+    ]
+}

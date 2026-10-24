@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "852454c572675334",
+        "event_name": "UFC Fight Night: Marreta vs. Anders",
+        "event_date": "September 22, 2018",
+        "location": "Sao Paulo, Sao Paulo, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "7cdda45e7d52bf40",
+            "fighter_a": "Thiago Santos",
+            "fighter_b": "Eryk Anders",
+            "winner": "Thiago Santos",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7cdda45e7d52bf40"
+        },
+        {
+            "fight_id": "a409a5381f082e8f",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "Carlo Pedersoli Jr.",
+            "winner": "Alex Oliveira",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:39",
+            "fight_url": "http://ufcstats.com/fight-details/a409a5381f082e8f"
+        },
+        {
+            "fight_id": "1669773acd404217",
+            "fighter_a": "Rogerio Nogueira",
+            "fighter_b": "Sam Alvey",
+            "winner": "Rogerio Nogueira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:00",
+            "fight_url": "http://ufcstats.com/fight-details/1669773acd404217"
+        },
+        {
+            "fight_id": "f4187c30c311eb93",
+            "fighter_a": "Andre Ewell",
+            "fighter_b": "Renan Barao",
+            "winner": "Andre Ewell",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f4187c30c311eb93"
+        },
+        {
+            "fight_id": "a7492cbfb9b5d4a3",
+            "fighter_a": "Randa Markos",
+            "fighter_b": "Marina Rodriguez",
+            "winner": null,
+            "weight_class": "Women's Strawweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7492cbfb9b5d4a3"
+        },
+        {
+            "fight_id": "ba766bd03090dab9",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Christos Giagos",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:22",
+            "fight_url": "http://ufcstats.com/fight-details/ba766bd03090dab9"
+        },
+        {
+            "fight_id": "3d9398386c84109b",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Evan Dunham",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/3d9398386c84109b"
+        },
+        {
+            "fight_id": "30eaf1650bc359b3",
+            "fighter_a": "Ryan Spann",
+            "fighter_b": "Luis Henrique",
+            "winner": "Ryan Spann",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/30eaf1650bc359b3"
+        },
+        {
+            "fight_id": "d7c7b312279104d2",
+            "fighter_a": "Augusto Sakai",
+            "fighter_b": "Chase Sherman",
+            "winner": "Augusto Sakai",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:03",
+            "fight_url": "http://ufcstats.com/fight-details/d7c7b312279104d2"
+        },
+        {
+            "fight_id": "b509c337d181c567",
+            "fighter_a": "Sergio Moraes",
+            "fighter_b": "Ben Saunders",
+            "winner": "Sergio Moraes",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/b509c337d181c567"
+        },
+        {
+            "fight_id": "0c618cd41b88c558",
+            "fighter_a": "Mayra Bueno Silva",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Mayra Bueno Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:55",
+            "fight_url": "http://ufcstats.com/fight-details/0c618cd41b88c558"
+        },
+        {
+            "fight_id": "c5479f20e4db357d",
+            "fighter_a": "Thales Leites",
+            "fighter_b": "Hector Lombard",
+            "winner": "Thales Leites",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c5479f20e4db357d"
+        },
+        {
+            "fight_id": "1c6d3ef6beb9966e",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Luigi Vendramini",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "2",
+            "time": "1:20",
+            "fight_url": "http://ufcstats.com/fight-details/1c6d3ef6beb9966e"
+        },
+        {
+            "fight_id": "37ff18106c6e38fc",
+            "fighter_a": "Livinha Souza",
+            "fighter_b": "Alex Chambers",
+            "winner": "Livinha Souza",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:21",
+            "fight_url": "http://ufcstats.com/fight-details/37ff18106c6e38fc"
+        }
+    ]
+}

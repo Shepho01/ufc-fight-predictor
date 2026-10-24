@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "2ce6541127b0e232",
+        "event_name": "UFC Fight Night: Holloway vs Oliveira",
+        "event_date": "August 23, 2015",
+        "location": "Saskatoon, Saskatchewan, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "05e2832cd5ffb7a6",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "1:39",
+            "fight_url": "http://ufcstats.com/fight-details/05e2832cd5ffb7a6"
+        },
+        {
+            "fight_id": "2c01f4df404ff6ee",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Erick Silva",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2c01f4df404ff6ee"
+        },
+        {
+            "fight_id": "499557c33e67deaf",
+            "fighter_a": "Patrick Cote",
+            "fighter_b": "Joshua Burkman",
+            "winner": "Patrick Cote",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/499557c33e67deaf"
+        },
+        {
+            "fight_id": "870a98d6f943d9b7",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Chad Laprise",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/870a98d6f943d9b7"
+        },
+        {
+            "fight_id": "961246a6d621ef40",
+            "fighter_a": "Olivier Aubin-Mercier",
+            "fighter_b": "Tony Sims",
+            "winner": "Olivier Aubin-Mercier",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/961246a6d621ef40"
+        },
+        {
+            "fight_id": "20b70a226f1c13fb",
+            "fighter_a": "Valerie Letourneau",
+            "fighter_b": "Maryna Moroz",
+            "winner": "Valerie Letourneau",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/20b70a226f1c13fb"
+        },
+        {
+            "fight_id": "3945b08be8d62861",
+            "fighter_a": "Frankie Perez",
+            "fighter_b": "Sam Stout",
+            "winner": "Frankie Perez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/3945b08be8d62861"
+        },
+        {
+            "fight_id": "1bf7f647f309464e",
+            "fighter_a": "Felipe Arantes",
+            "fighter_b": "Yves Jabouin",
+            "winner": "Felipe Arantes",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:21",
+            "fight_url": "http://ufcstats.com/fight-details/1bf7f647f309464e"
+        },
+        {
+            "fight_id": "21d6db22c6089308",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Marcos Rogerio de Lima",
+            "winner": "Nikita Krylov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:29",
+            "fight_url": "http://ufcstats.com/fight-details/21d6db22c6089308"
+        },
+        {
+            "fight_id": "785dd27b03946f95",
+            "fighter_a": "Chris Kelades",
+            "fighter_b": "Chris Beal",
+            "winner": "Chris Kelades",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/785dd27b03946f95"
+        },
+        {
+            "fight_id": "2d23ca9d8abc0c97",
+            "fighter_a": "Shane Campbell",
+            "fighter_b": "Elias Silverio",
+            "winner": "Shane Campbell",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2d23ca9d8abc0c97"
+        },
+        {
+            "fight_id": "22e5596f75d9d8e7",
+            "fighter_a": "Misha Cirkunov",
+            "fighter_b": "Daniel Jolly",
+            "winner": "Misha Cirkunov",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:45",
+            "fight_url": "http://ufcstats.com/fight-details/22e5596f75d9d8e7"
+        }
+    ]
+}

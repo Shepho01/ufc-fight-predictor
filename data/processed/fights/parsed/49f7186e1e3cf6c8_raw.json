@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "49f7186e1e3cf6c8",
+        "event_id": "b5882371e2a3900d",
+        "event_name": "UFC 234: Adesanya vs. Silva",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Greg Kleynjans",
+        "winner_id": "4cd8b03aee1d0138"
+    },
+    "fighter_a": {
+        "fighter_id": "4cd8b03aee1d0138",
+        "name": "Shane Young",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "120 of 308",
+            "Sig. str. %": "38%",
+            "Total str.": "121 of 309",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "120 of 308",
+            "Sig. str. %": "38%",
+            "Head": "69 of 237",
+            "Body": "32 of 46",
+            "Leg": "19 of 25",
+            "Distance": "119 of 307",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "bf0e700106d00e55",
+        "name": "Austin Arnett",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "77 of 209",
+            "Sig. str. %": "36%",
+            "Total str.": "78 of 210",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 209",
+            "Sig. str. %": "36%",
+            "Head": "72 of 201",
+            "Body": "3 of 6",
+            "Leg": "2 of 2",
+            "Distance": "76 of 208",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

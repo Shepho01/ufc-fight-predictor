@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b1be8b41b1a4fd85",
+        "event_id": "398b440e73d55b8b",
+        "event_name": "UFC Fight Night: Hermansson vs. Vettori",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:38",
+        "referee": "Mark Smith",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "31 of 63",
+            "Sig. str. %": "49%",
+            "Total str.": "31 of 64",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 63",
+            "Sig. str. %": "49%",
+            "Head": "12 of 34",
+            "Body": "18 of 28",
+            "Leg": "1 of 1",
+            "Distance": "30 of 60",
+            "Clinch": "0 of 2",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "29af297d9f1de0f8",
+        "name": "Damon Jackson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 52",
+            "Sig. str. %": "30%",
+            "Total str.": "16 of 53",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 52",
+            "Sig. str. %": "30%",
+            "Head": "10 of 40",
+            "Body": "5 of 10",
+            "Leg": "1 of 2",
+            "Distance": "15 of 50",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

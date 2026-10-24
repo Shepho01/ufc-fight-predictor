@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4ff244d056c1c815",
+        "event_id": "4f95f74620a6b7a4",
+        "event_name": "Affliction - Day of Reckoning",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:55",
+        "referee": "Herb Dean",
+        "winner_id": "4c8d6fde2dde07c4"
+    },
+    "fighter_a": {
+        "fighter_id": "4c8d6fde2dde07c4",
+        "name": "Dan Lauzon",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 21",
+            "Sig. str. %": "9%",
+            "Total str.": "2 of 21",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "5",
+            "Rev.": "0",
+            "Ctrl": "--"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 21",
+            "Sig. str. %": "9%",
+            "Head": "2 of 17",
+            "Body": "0 of 3",
+            "Leg": "0 of 1",
+            "Distance": "2 of 20",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 59",
+            "Sig. str. %": "35%",
+            "Total str.": "24 of 64",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "--"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 59",
+            "Sig. str. %": "35%",
+            "Head": "12 of 45",
+            "Body": "9 of 14",
+            "Leg": "0 of 0",
+            "Distance": "7 of 26",
+            "Clinch": "13 of 30",
+            "Ground": "1 of 3"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f24c296256faeff2",
+        "event_id": "ed069a95aaaf4f56",
+        "event_name": "UFC on FOX: Johnson vs. Reis",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "7ea1f74cef32f906"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "75 of 143",
+            "Sig. str. %": "52%",
+            "Total str.": "104 of 176",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 143",
+            "Sig. str. %": "52%",
+            "Head": "14 of 71",
+            "Body": "27 of 33",
+            "Leg": "34 of 39",
+            "Distance": "60 of 124",
+            "Clinch": "15 of 19",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7ea1f74cef32f906",
+        "name": "Rashid Magomedov",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "75 of 189",
+            "Sig. str. %": "39%",
+            "Total str.": "88 of 202",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 189",
+            "Sig. str. %": "39%",
+            "Head": "43 of 140",
+            "Body": "28 of 41",
+            "Leg": "4 of 8",
+            "Distance": "69 of 180",
+            "Clinch": "5 of 8",
+            "Ground": "1 of 1"
+        }
+    }
+}

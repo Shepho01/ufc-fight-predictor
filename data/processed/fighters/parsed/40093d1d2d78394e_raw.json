@@ -1,0 +1,72 @@
+{
+    "fighter_id": "40093d1d2d78394e",
+    "name": "Charles Rosa",
+    "record": "14-8-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Switch",
+    "dob": "Aug 24, 1986",
+    "sig_strikes_landed_per_min": "3.08",
+    "sig_striking_accuracy": "36%",
+    "sig_strikes_absorbed_per_min": "3.86",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "1.67",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "38%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "f6fd50bf69bb59e6",
+            "fight_url": "http://ufcstats.com/fight-details/f6fd50bf69bb59e6"
+        },
+        {
+            "fight_id": "3a8c0158d910546d",
+            "fight_url": "http://ufcstats.com/fight-details/3a8c0158d910546d"
+        },
+        {
+            "fight_id": "df16b9c2fc9722e9",
+            "fight_url": "http://ufcstats.com/fight-details/df16b9c2fc9722e9"
+        },
+        {
+            "fight_id": "5357dab4d331eb18",
+            "fight_url": "http://ufcstats.com/fight-details/5357dab4d331eb18"
+        },
+        {
+            "fight_id": "82243207b4dfce87",
+            "fight_url": "http://ufcstats.com/fight-details/82243207b4dfce87"
+        },
+        {
+            "fight_id": "1109a8f2adc81ce0",
+            "fight_url": "http://ufcstats.com/fight-details/1109a8f2adc81ce0"
+        },
+        {
+            "fight_id": "08244974cf39ae38",
+            "fight_url": "http://ufcstats.com/fight-details/08244974cf39ae38"
+        },
+        {
+            "fight_id": "076c98ac0561521f",
+            "fight_url": "http://ufcstats.com/fight-details/076c98ac0561521f"
+        },
+        {
+            "fight_id": "ddb015ac5c067aa9",
+            "fight_url": "http://ufcstats.com/fight-details/ddb015ac5c067aa9"
+        },
+        {
+            "fight_id": "5afd44d1e567d2e8",
+            "fight_url": "http://ufcstats.com/fight-details/5afd44d1e567d2e8"
+        },
+        {
+            "fight_id": "243e5e9b6678f303",
+            "fight_url": "http://ufcstats.com/fight-details/243e5e9b6678f303"
+        },
+        {
+            "fight_id": "85e57ad2b3831621",
+            "fight_url": "http://ufcstats.com/fight-details/85e57ad2b3831621"
+        },
+        {
+            "fight_id": "24ac3d1bee1610ef",
+            "fight_url": "http://ufcstats.com/fight-details/24ac3d1bee1610ef"
+        }
+    ]
+}

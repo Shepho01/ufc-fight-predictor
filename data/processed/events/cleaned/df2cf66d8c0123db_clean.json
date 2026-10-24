@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "df2cf66d8c0123db",
+        "event_name": "UFC 143: Diaz vs Condit",
+        "event_day": 4,
+        "event_month": 2,
+        "event_year": 2012,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "09a2909e1848be52",
+            "fighter_a": "Carlos Condit",
+            "fighter_b": "Nick Diaz",
+            "winner": "Carlos Condit",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/09a2909e1848be52"
+        },
+        {
+            "fight_id": "6bde0b88f21304d4",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Roy Nelson",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6bde0b88f21304d4"
+        },
+        {
+            "fight_id": "cee1fb8ac703f34f",
+            "fighter_a": "Josh Koscheck",
+            "fighter_b": "Mike Pierce",
+            "winner": "Josh Koscheck",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cee1fb8ac703f34f"
+        },
+        {
+            "fight_id": "6fbe7dffff5f5f1e",
+            "fighter_a": "Renan Barao",
+            "fighter_b": "Scott Jorgensen",
+            "winner": "Renan Barao",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6fbe7dffff5f5f1e"
+        },
+        {
+            "fight_id": "7e57d7848f9faacf",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Clifford Starks",
+            "winner": "Ed Herman",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 103,
+            "fight_url": "http://ufcstats.com/fight-details/7e57d7848f9faacf"
+        },
+        {
+            "fight_id": "099a2db0470d456b",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Max Holloway",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "SUB Triangle Armbar",
+            "round": 1,
+            "time_seconds": 203,
+            "fight_url": "http://ufcstats.com/fight-details/099a2db0470d456b"
+        },
+        {
+            "fight_id": "d019250cc6d93527",
+            "fighter_a": "Edwin Figueroa",
+            "fighter_b": "Alex Caceres",
+            "winner": "Edwin Figueroa",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d019250cc6d93527"
+        },
+        {
+            "fight_id": "bd340a13bc3df8a1",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Chris Cope",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 79,
+            "fight_url": "http://ufcstats.com/fight-details/bd340a13bc3df8a1"
+        },
+        {
+            "fight_id": "6ecc59654c2f519f",
+            "fighter_a": "Matthew Riddle",
+            "fighter_b": "Henry Martinez",
+            "winner": "Matthew Riddle",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6ecc59654c2f519f"
+        },
+        {
+            "fight_id": "5510b86a35c5614b",
+            "fighter_a": "Rafael Natal",
+            "fighter_b": "Michael Kuiper",
+            "winner": "Rafael Natal",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5510b86a35c5614b"
+        },
+        {
+            "fight_id": "40c080d0f86f1f1f",
+            "fighter_a": "Stephen Thompson",
+            "fighter_b": "Dan Stittgen",
+            "winner": "Stephen Thompson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/40c080d0f86f1f1f"
+        }
+    ]
+}

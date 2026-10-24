@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b22eab3aa1522f40",
+        "event_id": "ef927e4fe2117ab8",
+        "event_name": "UFC 269: Oliveira vs. Poirier",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "1:02",
+        "referee": "Herb Dean",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "73 of 131",
+            "Sig. str. %": "55%",
+            "Total str.": "98 of 157",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "3",
+            "Rev.": "1",
+            "Ctrl": "5:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "73 of 131",
+            "Sig. str. %": "55%",
+            "Head": "48 of 99",
+            "Body": "22 of 29",
+            "Leg": "3 of 3",
+            "Distance": "38 of 86",
+            "Clinch": "17 of 19",
+            "Ground": "18 of 26"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "58 of 94",
+            "Sig. str. %": "61%",
+            "Total str.": "69 of 105",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "58 of 94",
+            "Sig. str. %": "61%",
+            "Head": "56 of 92",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "49 of 80",
+            "Clinch": "5 of 7",
+            "Ground": "4 of 7"
+        }
+    }
+}

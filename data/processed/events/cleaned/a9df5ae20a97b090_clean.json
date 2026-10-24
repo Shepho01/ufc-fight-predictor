@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "a9df5ae20a97b090",
+        "event_name": "UFC 299: O'Malley vs. Vera 2",
+        "event_day": 9,
+        "event_month": 3,
+        "event_year": 2024,
+        "location": "Miami, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "894c44c3d04aaf6f",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Marlon Vera",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/894c44c3d04aaf6f"
+        },
+        {
+            "fight_id": "6e73ebbd089aff5e",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Benoit Saint Denis",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 152,
+            "fight_url": "http://ufcstats.com/fight-details/6e73ebbd089aff5e"
+        },
+        {
+            "fight_id": "270edfb687c0d20c",
+            "fighter_a": "Michael Page",
+            "fighter_b": "Kevin Holland",
+            "winner": "Michael Page",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/270edfb687c0d20c"
+        },
+        {
+            "fight_id": "68f7f992603192c6",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Gilbert Burns",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": 3,
+            "time_seconds": 223,
+            "fight_url": "http://ufcstats.com/fight-details/68f7f992603192c6"
+        },
+        {
+            "fight_id": "9861b6d04e6ed43c",
+            "fighter_a": "Petr Yan",
+            "fighter_b": "Song Yadong",
+            "winner": "Petr Yan",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9861b6d04e6ed43c"
+        },
+        {
+            "fight_id": "0133019a4f1055ee",
+            "fighter_a": "Curtis Blaydes",
+            "fighter_b": "Jailton Almeida",
+            "winner": "Curtis Blaydes",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 36,
+            "fight_url": "http://ufcstats.com/fight-details/0133019a4f1055ee"
+        },
+        {
+            "fight_id": "33658a3ca932d15d",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Katlyn Cerminara",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/33658a3ca932d15d"
+        },
+        {
+            "fight_id": "8baff440b82afd2b",
+            "fighter_a": "Mateusz Gamrot",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Mateusz Gamrot",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8baff440b82afd2b"
+        },
+        {
+            "fight_id": "ebb758b49e82d0ed",
+            "fighter_a": "Kyler Phillips",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "Kyler Phillips",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ebb758b49e82d0ed"
+        },
+        {
+            "fight_id": "7bc7af11050e861b",
+            "fighter_a": "Philipe Lins",
+            "fighter_b": "Ion Cutelaba",
+            "winner": "Philipe Lins",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7bc7af11050e861b"
+        },
+        {
+            "fight_id": "f0a9dfbb6f6ac852",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Michal Oleksiejczuk",
+            "winner": "Michel Pereira",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/f0a9dfbb6f6ac852"
+        },
+        {
+            "fight_id": "cbdf29f36b343f6f",
+            "fighter_a": "Robelis Despaigne",
+            "fighter_b": "Josh Parisian",
+            "winner": "Robelis Despaigne",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/cbdf29f36b343f6f"
+        },
+        {
+            "fight_id": "3d3dde60e3d59c1c",
+            "fighter_a": "Asu Almabayev",
+            "fighter_b": "CJ Vergara",
+            "winner": "Asu Almabayev",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d3dde60e3d59c1c"
+        },
+        {
+            "fight_id": "3677ce6c1ee06a83",
+            "fighter_a": "Joanne Wood",
+            "fighter_b": "Maryna Moroz",
+            "winner": "Joanne Wood",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3677ce6c1ee06a83"
+        }
+    ]
+}

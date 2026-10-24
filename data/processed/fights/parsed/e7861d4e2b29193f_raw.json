@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e7861d4e2b29193f",
+        "event_id": "c3c23c99477c041b",
+        "event_name": "UFC on FOX: Evans vs Davis",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "TKO - Doctor's Stoppage",
+        "finish_round": 2,
+        "finish_time": "5:00",
+        "referee": "John McCarthy",
+        "winner_id": "e5c9de15bb58b1c6"
+    },
+    "fighter_a": {
+        "fighter_id": "e5c9de15bb58b1c6",
+        "name": "Evan Dunham",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "68 of 97",
+            "Sig. str. %": "70%",
+            "Total str.": "100 of 129",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "4:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "68 of 97",
+            "Sig. str. %": "70%",
+            "Head": "65 of 94",
+            "Body": "3 of 3",
+            "Leg": "0 of 0",
+            "Distance": "42 of 66",
+            "Clinch": "17 of 20",
+            "Ground": "9 of 11"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "39 of 76",
+            "Sig. str. %": "51%",
+            "Total str.": "57 of 96",
+            "Td": "2 of 8",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "39 of 76",
+            "Sig. str. %": "51%",
+            "Head": "28 of 61",
+            "Body": "8 of 12",
+            "Leg": "3 of 3",
+            "Distance": "25 of 51",
+            "Clinch": "14 of 25",
+            "Ground": "0 of 0"
+        }
+    }
+}

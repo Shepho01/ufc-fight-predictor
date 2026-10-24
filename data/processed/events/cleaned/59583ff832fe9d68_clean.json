@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "59583ff832fe9d68",
+        "event_name": "WEC 39: Brown vs. Garcia",
+        "event_day": 1,
+        "event_month": 3,
+        "event_year": 2009,
+        "location": "Corpus Christi, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5a81ddab738c45e8",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 117,
+            "fight_url": "http://ufcstats.com/fight-details/5a81ddab738c45e8"
+        },
+        {
+            "fight_id": "3d80efab061e456c",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Bart Palaszewski",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3d80efab061e456c"
+        },
+        {
+            "fight_id": "87b267fed23d9680",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Chris Mickle",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 99,
+            "fight_url": "http://ufcstats.com/fight-details/87b267fed23d9680"
+        },
+        {
+            "fight_id": "201e7c6d2db7c9d5",
+            "fighter_a": "Rob McCullough",
+            "fighter_b": "Marcus Hicks",
+            "winner": "Rob McCullough",
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/201e7c6d2db7c9d5"
+        },
+        {
+            "fight_id": "8bbf5502c291e020",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Phil Cardella",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8bbf5502c291e020"
+        },
+        {
+            "fight_id": "e8bcff901e1e98f6",
+            "fighter_a": "Damacio Page",
+            "fighter_b": "Marcos Galvao",
+            "winner": "Damacio Page",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 18,
+            "fight_url": "http://ufcstats.com/fight-details/e8bcff901e1e98f6"
+        },
+        {
+            "fight_id": "ebb45ec974325bac",
+            "fighter_a": "Johny Hendricks",
+            "fighter_b": "Alex Serdyukov",
+            "winner": "Johny Hendricks",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ebb45ec974325bac"
+        },
+        {
+            "fight_id": "190fb679c4e633e2",
+            "fighter_a": "Kenji Osawa",
+            "fighter_b": "Rafael Rebello",
+            "winner": "Kenji Osawa",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/190fb679c4e633e2"
+        },
+        {
+            "fight_id": "69e7f5780b7b038b",
+            "fighter_a": "Alex Karalexis",
+            "fighter_b": "Greg McIntyre",
+            "winner": "Alex Karalexis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 259,
+            "fight_url": "http://ufcstats.com/fight-details/69e7f5780b7b038b"
+        },
+        {
+            "fight_id": "cff365dc885a37b5",
+            "fighter_a": "John Franchi",
+            "fighter_b": "Mike Budnik",
+            "winner": "John Franchi",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cff365dc885a37b5"
+        },
+        {
+            "fight_id": "2524a350c54e3fe3",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Justin Haskins",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/2524a350c54e3fe3"
+        }
+    ]
+}

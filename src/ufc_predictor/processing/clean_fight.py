@@ -30,13 +30,18 @@ def parse_percentage(value: str):
     return int(number) / 100
 
 
-def parse_control_time(value: str):
-    parts = value.split(":")
+def parse_control_time(value):
+    if value is None:
+        return None
 
-    minutes = int(parts[0])
-    seconds = int(parts[1])
+    value = value.strip()
 
-    return (minutes * 60) + seconds
+    if value in ("", "-", "--", "---"):
+        return None
+
+    minutes, seconds = value.split(":")
+
+    return int(minutes) * 60 + int(seconds)
 
 
 def calculate_accuracy(landed, attempted):
@@ -174,6 +179,20 @@ def clean_fighter(fighter):
 
 def clean_fight(raw_fight):
     fight = raw_fight["fight"]
+    
+    finish_time_seconds = parse_control_time(
+        fight["finish_time"]
+    )
+    
+    if finish_time_seconds is None:
+        raise ValueError(
+            f"Missing finish time for fight {fight['fight_id']}"
+        )
+
+    duration_seconds = (
+        (fight["finish_round"] - 1) * 300
+        + finish_time_seconds
+    )
 
     cleaned_fight = {
         "fight": {
@@ -185,9 +204,8 @@ def clean_fight(raw_fight):
             "scheduled_rounds": fight["scheduled_rounds"],
             "method": fight["method"],
             "finish_round": fight["finish_round"],
-            "finish_time_seconds": parse_control_time(
-                fight["finish_time"]
-            ),
+            "finish_time_seconds": finish_time_seconds,
+            "duration_seconds": duration_seconds,
             "referee": fight["referee"],
             "winner_id": fight["winner_id"]
         },

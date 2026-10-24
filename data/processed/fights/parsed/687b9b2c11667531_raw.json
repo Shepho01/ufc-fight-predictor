@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "687b9b2c11667531",
+        "event_id": "579fcdfcabd23a7b",
+        "event_name": "UFC Fight Night: Brown vs Silva",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jerry Krysz",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "cc6f9d1e89f3449a",
+        "name": "Manvel Gamburyan",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 52",
+            "Sig. str. %": "53%",
+            "Total str.": "60 of 86",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "1:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 52",
+            "Sig. str. %": "53%",
+            "Head": "20 of 41",
+            "Body": "5 of 8",
+            "Leg": "3 of 3",
+            "Distance": "10 of 28",
+            "Clinch": "18 of 22",
+            "Ground": "0 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "52 of 99",
+            "Sig. str. %": "52%",
+            "Total str.": "90 of 141",
+            "Td": "4 of 16",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "9:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "52 of 99",
+            "Sig. str. %": "52%",
+            "Head": "23 of 65",
+            "Body": "19 of 23",
+            "Leg": "10 of 11",
+            "Distance": "20 of 55",
+            "Clinch": "25 of 34",
+            "Ground": "7 of 10"
+        }
+    }
+}

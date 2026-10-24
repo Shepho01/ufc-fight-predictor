@@ -1,0 +1,36 @@
+{
+    "fighter_id": "03c9994c5b8958ec",
+    "name": "John Cholish",
+    "record": "8-3-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Dec 17, 1983",
+    "sig_strikes_landed_per_min": "2.65",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "2.29",
+    "sig_strike_defense": "73%",
+    "takedowns_landed_per_15_min": "1.82",
+    "takedown_accuracy": "31%",
+    "takedown_defense": "78%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "edc4e54d5258eea8",
+            "fight_url": "http://ufcstats.com/fight-details/edc4e54d5258eea8"
+        },
+        {
+            "fight_id": "c039953c2f438832",
+            "fight_url": "http://ufcstats.com/fight-details/c039953c2f438832"
+        },
+        {
+            "fight_id": "e094423979fc7c6a",
+            "fight_url": "http://ufcstats.com/fight-details/e094423979fc7c6a"
+        },
+        {
+            "fight_id": "1e1e7772ec0f73ad",
+            "fight_url": "http://ufcstats.com/fight-details/1e1e7772ec0f73ad"
+        }
+    ]
+}

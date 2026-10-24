@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "1c5879330d42255f",
+        "event_name": "The Ultimate Fighter: Team Edgar vs. Team Penn Finale",
+        "event_day": 6,
+        "event_month": 7,
+        "event_year": 2014,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bdcb43bf1daa790b",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "BJ Penn",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/bdcb43bf1daa790b"
+        },
+        {
+            "fight_id": "8c5785de472dd9b2",
+            "fighter_a": "Corey Anderson",
+            "fighter_b": "Matt Van Buren",
+            "winner": "Corey Anderson",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/8c5785de472dd9b2"
+        },
+        {
+            "fight_id": "14a59abb3160ddaa",
+            "fighter_a": "Eddie Gordon",
+            "fighter_b": "Dhiego Lima",
+            "winner": "Eddie Gordon",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 71,
+            "fight_url": "http://ufcstats.com/fight-details/14a59abb3160ddaa"
+        },
+        {
+            "fight_id": "e7081f3a0a982f9d",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Guto Inocente",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 210,
+            "fight_url": "http://ufcstats.com/fight-details/e7081f3a0a982f9d"
+        },
+        {
+            "fight_id": "de17a01ce8a0c654",
+            "fighter_a": "Dustin Ortiz",
+            "fighter_b": "Justin Scoggins",
+            "winner": "Dustin Ortiz",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de17a01ce8a0c654"
+        },
+        {
+            "fight_id": "94371d1af8aab471",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Jesse Ronson",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/94371d1af8aab471"
+        },
+        {
+            "fight_id": "8fd355e482806ca7",
+            "fighter_a": "Leandro Issa",
+            "fighter_b": "Jumabieke Tuerxun",
+            "winner": "Leandro Issa",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 229,
+            "fight_url": "http://ufcstats.com/fight-details/8fd355e482806ca7"
+        },
+        {
+            "fight_id": "2f91307892d163ce",
+            "fighter_a": "Adriano Martins",
+            "fighter_b": "Juan Manuel Puig",
+            "winner": "Adriano Martins",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 141,
+            "fight_url": "http://ufcstats.com/fight-details/2f91307892d163ce"
+        },
+        {
+            "fight_id": "1117f90ee81e0bbf",
+            "fighter_a": "Patrick Walsh",
+            "fighter_b": "Daniel Spohn",
+            "winner": "Patrick Walsh",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1117f90ee81e0bbf"
+        },
+        {
+            "fight_id": "e7318f41bce58b8c",
+            "fighter_a": "Sarah Moras",
+            "fighter_b": "Alexis Dufresne",
+            "winner": "Sarah Moras",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e7318f41bce58b8c"
+        },
+        {
+            "fight_id": "a6245f48fc60bc6a",
+            "fighter_a": "Robert Drysdale",
+            "fighter_b": "Keith Berish",
+            "winner": null,
+            "weight_class": "Light Heavyweight",
+            "method": "Overturned",
+            "round": 1,
+            "time_seconds": 123,
+            "fight_url": "http://ufcstats.com/fight-details/a6245f48fc60bc6a"
+        }
+    ]
+}

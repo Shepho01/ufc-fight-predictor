@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "81f3d28d30d17378",
+        "event_id": "0cfbbfa0ba6d9855",
+        "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:55",
+        "referee": "Herb Dean",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "4148802ae4a50768",
+        "name": "Daniel Zellhuber",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 78",
+            "Sig. str. %": "21%",
+            "Total str.": "17 of 78",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 78",
+            "Sig. str. %": "21%",
+            "Head": "7 of 59",
+            "Body": "4 of 10",
+            "Leg": "6 of 9",
+            "Distance": "17 of 77",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "86 of 134",
+            "Sig. str. %": "64%",
+            "Total str.": "100 of 148",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "86 of 134",
+            "Sig. str. %": "64%",
+            "Head": "39 of 72",
+            "Body": "21 of 29",
+            "Leg": "26 of 33",
+            "Distance": "71 of 119",
+            "Clinch": "5 of 5",
+            "Ground": "10 of 10"
+        }
+    }
+}

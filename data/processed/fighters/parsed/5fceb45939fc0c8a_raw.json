@@ -1,0 +1,36 @@
+{
+    "fighter_id": "5fceb45939fc0c8a",
+    "name": "Tom Niinimaki",
+    "record": "22-8-1",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jul 25, 1982",
+    "sig_strikes_landed_per_min": "1.91",
+    "sig_striking_accuracy": "54%",
+    "sig_strikes_absorbed_per_min": "2.31",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "2.97",
+    "takedown_accuracy": "46%",
+    "takedown_defense": "33%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "c26a094aa7ce817e",
+            "fight_url": "http://ufcstats.com/fight-details/c26a094aa7ce817e"
+        },
+        {
+            "fight_id": "e8f6232d12d52b58",
+            "fight_url": "http://ufcstats.com/fight-details/e8f6232d12d52b58"
+        },
+        {
+            "fight_id": "0b1af005a5f25561",
+            "fight_url": "http://ufcstats.com/fight-details/0b1af005a5f25561"
+        },
+        {
+            "fight_id": "e9ec16e4e7cfb120",
+            "fight_url": "http://ufcstats.com/fight-details/e9ec16e4e7cfb120"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "323d4ca260dfa0ba",
+    "name": "Esteban Ribovics",
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 175.26,
+    "stance": "Orthodox",
+    "dob_day": 27,
+    "dob_month": 4,
+    "dob_year": 1996,
+    "sig_strikes_landed_per_min": 7.48,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 5.78,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.31,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.1
+}

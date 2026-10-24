@@ -1,0 +1,23 @@
+{
+    "fighter_id": "22a92d7f62195791",
+    "name": "Tony Ferguson",
+    "wins": 26,
+    "losses": 11,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 170,
+    "reach_cm": 193.04,
+    "stance": "Orthodox",
+    "dob_day": 12,
+    "dob_month": 2,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 4.91,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 4.37,
+    "sig_strike_defense": 0.55,
+    "takedowns_landed_per_15_min": 0.39,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.9
+}

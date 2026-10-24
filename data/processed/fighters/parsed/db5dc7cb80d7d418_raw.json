@@ -1,0 +1,24 @@
+{
+    "fighter_id": "db5dc7cb80d7d418",
+    "name": "Will Chope",
+    "record": "34-13-0",
+    "height": "6' 4\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Switch",
+    "dob": "Sep 08, 1990",
+    "sig_strikes_landed_per_min": "4.43",
+    "sig_striking_accuracy": "27%",
+    "sig_strikes_absorbed_per_min": "9.93",
+    "sig_strike_defense": "46%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "4b69545737f1902a",
+            "fight_url": "http://ufcstats.com/fight-details/4b69545737f1902a"
+        }
+    ]
+}

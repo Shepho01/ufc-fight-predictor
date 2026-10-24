@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "060dfbc982c6c4ef",
+        "event_id": "2c104b7e59a72629",
+        "event_name": "UFC Fight Night: Andrade vs. Zhang",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "John Sharp",
+        "winner_id": "135d124172a0bea3"
+    },
+    "fighter_a": {
+        "fighter_id": "135d124172a0bea3",
+        "name": "Damir Ismagulov",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "71 of 188",
+            "Sig. str. %": "37%",
+            "Total str.": "73 of 191",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "71 of 188",
+            "Sig. str. %": "37%",
+            "Head": "28 of 132",
+            "Body": "21 of 34",
+            "Leg": "22 of 22",
+            "Distance": "58 of 168",
+            "Clinch": "2 of 3",
+            "Ground": "11 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 114",
+            "Sig. str. %": "31%",
+            "Total str.": "37 of 115",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 114",
+            "Sig. str. %": "31%",
+            "Head": "16 of 88",
+            "Body": "7 of 10",
+            "Leg": "13 of 16",
+            "Distance": "32 of 110",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

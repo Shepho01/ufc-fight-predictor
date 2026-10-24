@@ -1,0 +1,64 @@
+{
+    "fighter_id": "7d21de9c6d7c98b2",
+    "name": "Rich Clementi",
+    "record": "45-23-1",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Mar 31, 1976",
+    "sig_strikes_landed_per_min": "1.43",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "2.29",
+    "sig_strike_defense": "60%",
+    "takedowns_landed_per_15_min": "1.72",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "25%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "820d44b5dccba9b6",
+            "fight_url": "http://ufcstats.com/fight-details/820d44b5dccba9b6"
+        },
+        {
+            "fight_id": "c9721146eba68c2a",
+            "fight_url": "http://ufcstats.com/fight-details/c9721146eba68c2a"
+        },
+        {
+            "fight_id": "27868eac1d141498",
+            "fight_url": "http://ufcstats.com/fight-details/27868eac1d141498"
+        },
+        {
+            "fight_id": "02d2da0420fbdd39",
+            "fight_url": "http://ufcstats.com/fight-details/02d2da0420fbdd39"
+        },
+        {
+            "fight_id": "219bd976b8ca745d",
+            "fight_url": "http://ufcstats.com/fight-details/219bd976b8ca745d"
+        },
+        {
+            "fight_id": "17404e252bdab9e7",
+            "fight_url": "http://ufcstats.com/fight-details/17404e252bdab9e7"
+        },
+        {
+            "fight_id": "4a7d39ebc9dce5db",
+            "fight_url": "http://ufcstats.com/fight-details/4a7d39ebc9dce5db"
+        },
+        {
+            "fight_id": "460b421493dd9fb8",
+            "fight_url": "http://ufcstats.com/fight-details/460b421493dd9fb8"
+        },
+        {
+            "fight_id": "14df6d96c5f2d1df",
+            "fight_url": "http://ufcstats.com/fight-details/14df6d96c5f2d1df"
+        },
+        {
+            "fight_id": "c0e8b02fd4a5e56c",
+            "fight_url": "http://ufcstats.com/fight-details/c0e8b02fd4a5e56c"
+        },
+        {
+            "fight_id": "0dade757305afebd",
+            "fight_url": "http://ufcstats.com/fight-details/0dade757305afebd"
+        }
+    ]
+}

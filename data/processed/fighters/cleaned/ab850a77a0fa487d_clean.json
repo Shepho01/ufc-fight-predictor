@@ -1,0 +1,23 @@
+{
+    "fighter_id": "ab850a77a0fa487d",
+    "name": "Sean Spencer",
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 170,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 25,
+    "dob_month": 6,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 4.24,
+    "sig_striking_accuracy": 0.32,
+    "sig_strikes_absorbed_per_min": 4.02,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 0.14,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 0.0
+}

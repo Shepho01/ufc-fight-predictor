@@ -1,0 +1,52 @@
+{
+    "fighter_id": "feaf00f3373435d6",
+    "name": "Chris Gruetzemacher",
+    "record": "15-5-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 16, 1986",
+    "sig_strikes_landed_per_min": "6.18",
+    "sig_striking_accuracy": "57%",
+    "sig_strikes_absorbed_per_min": "4.96",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "0.21",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "65%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "c74b03337a8441ed",
+            "fight_url": "http://ufcstats.com/fight-details/c74b03337a8441ed"
+        },
+        {
+            "fight_id": "12ceec9431fb0827",
+            "fight_url": "http://ufcstats.com/fight-details/12ceec9431fb0827"
+        },
+        {
+            "fight_id": "95beb5ec32718faf",
+            "fight_url": "http://ufcstats.com/fight-details/95beb5ec32718faf"
+        },
+        {
+            "fight_id": "bab65d16fa74fc5b",
+            "fight_url": "http://ufcstats.com/fight-details/bab65d16fa74fc5b"
+        },
+        {
+            "fight_id": "f9536ea60551b840",
+            "fight_url": "http://ufcstats.com/fight-details/f9536ea60551b840"
+        },
+        {
+            "fight_id": "478221ad98336565",
+            "fight_url": "http://ufcstats.com/fight-details/478221ad98336565"
+        },
+        {
+            "fight_id": "b22dbe21c21060b9",
+            "fight_url": "http://ufcstats.com/fight-details/b22dbe21c21060b9"
+        },
+        {
+            "fight_id": "f83616f226c0cffe",
+            "fight_url": "http://ufcstats.com/fight-details/f83616f226c0cffe"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "9e8f6c728eb01124",
+    "name": "Justin Gaethje",
+    "wins": 28,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 11,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 6.29,
+    "sig_striking_accuracy": 0.57,
+    "sig_strikes_absorbed_per_min": 6.83,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.3,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.73,
+    "submission_attempts_per_15_min": 0.0
+}

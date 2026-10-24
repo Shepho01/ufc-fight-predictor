@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "380e8b023290d091",
+        "event_name": "UFC 195: Lawler vs Condit",
+        "event_day": 2,
+        "event_month": 1,
+        "event_year": 2016,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f079cb2db8dbbf04",
+            "fighter_a": "Robbie Lawler",
+            "fighter_b": "Carlos Condit",
+            "winner": "Robbie Lawler",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f079cb2db8dbbf04"
+        },
+        {
+            "fight_id": "f2916c10b7ecfcee",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 54,
+            "fight_url": "http://ufcstats.com/fight-details/f2916c10b7ecfcee"
+        },
+        {
+            "fight_id": "050eb872a69c66bd",
+            "fighter_a": "Albert Tumenov",
+            "fighter_b": "Lorenz Larkin",
+            "winner": "Albert Tumenov",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/050eb872a69c66bd"
+        },
+        {
+            "fight_id": "71499934c065fecb",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Diego Brandao",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "SUB Triangle Choke",
+            "round": 3,
+            "time_seconds": 97,
+            "fight_url": "http://ufcstats.com/fight-details/71499934c065fecb"
+        },
+        {
+            "fight_id": "5337461354f23b98",
+            "fighter_a": "Abel Trujillo",
+            "fighter_b": "Tony Sims",
+            "winner": "Abel Trujillo",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 198,
+            "fight_url": "http://ufcstats.com/fight-details/5337461354f23b98"
+        },
+        {
+            "fight_id": "a19d619f1b9bee7b",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Masanori Kanehara",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 129,
+            "fight_url": "http://ufcstats.com/fight-details/a19d619f1b9bee7b"
+        },
+        {
+            "fight_id": "454861874ecc52d7",
+            "fighter_a": "Alex Morono",
+            "fighter_b": "Kyle Noke",
+            "winner": "Alex Morono",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/454861874ecc52d7"
+        },
+        {
+            "fight_id": "595557b808febe27",
+            "fighter_a": "Justine Kish",
+            "fighter_b": "Nina Nunes",
+            "winner": "Justine Kish",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/595557b808febe27"
+        },
+        {
+            "fight_id": "99a7172fb7438244",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Scott Holtzman",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/99a7172fb7438244"
+        },
+        {
+            "fight_id": "4fa02674b920ff0a",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Joe Duffy",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4fa02674b920ff0a"
+        },
+        {
+            "fight_id": "b46b27222e62aec1",
+            "fighter_a": "Michinori Tanaka",
+            "fighter_b": "Joe Soto",
+            "winner": "Michinori Tanaka",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b46b27222e62aec1"
+        },
+        {
+            "fight_id": "d5778494ce663d7f",
+            "fighter_a": "Sheldon Westcott",
+            "fighter_b": "Edgar Garcia",
+            "winner": "Sheldon Westcott",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 192,
+            "fight_url": "http://ufcstats.com/fight-details/d5778494ce663d7f"
+        }
+    ]
+}

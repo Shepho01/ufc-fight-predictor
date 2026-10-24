@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ebf7cea27b83c432",
+        "event_id": "221b2a3070c7ce3e",
+        "event_name": "UFC 308: Topuria vs. Holloway",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "1:34",
+        "referee": "Marc Goddard",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "75 of 144",
+            "Sig. str. %": "52%",
+            "Total str.": "78 of 147",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "75 of 144",
+            "Sig. str. %": "52%",
+            "Head": "49 of 114",
+            "Body": "11 of 14",
+            "Leg": "15 of 16",
+            "Distance": "71 of 140",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "79 of 204",
+            "Sig. str. %": "38%",
+            "Total str.": "84 of 209",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "79 of 204",
+            "Sig. str. %": "38%",
+            "Head": "47 of 151",
+            "Body": "13 of 30",
+            "Leg": "19 of 23",
+            "Distance": "79 of 204",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

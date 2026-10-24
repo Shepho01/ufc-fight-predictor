@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "128ab9aa4802c73f",
+        "event_id": "5a558ba1ff5e9121",
+        "event_name": "UFC 295: Prochazka vs. Pereira",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:30",
+        "referee": "Keith Peterson",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "13 of 18",
+            "Sig. str. %": "72%",
+            "Total str.": "13 of 18",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 18",
+            "Sig. str. %": "72%",
+            "Head": "11 of 15",
+            "Body": "2 of 2",
+            "Leg": "0 of 1",
+            "Distance": "4 of 8",
+            "Clinch": "3 of 3",
+            "Ground": "6 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b8bbdeff718dbb7d",
+        "name": "Pat Sabatini",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 12",
+            "Sig. str. %": "58%",
+            "Total str.": "10 of 16",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 12",
+            "Sig. str. %": "58%",
+            "Head": "3 of 7",
+            "Body": "3 of 4",
+            "Leg": "1 of 1",
+            "Distance": "5 of 10",
+            "Clinch": "1 of 1",
+            "Ground": "1 of 1"
+        }
+    }
+}

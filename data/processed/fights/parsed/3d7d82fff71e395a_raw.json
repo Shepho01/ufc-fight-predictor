@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3d7d82fff71e395a",
+        "event_id": "eee8efec7b951d84",
+        "event_name": "UFC 307: Pereira vs. Rountree Jr.",
+        "weight_class": "Bantamweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mike Beltran",
+        "winner_id": "bc711b6dd95c1af6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "51 of 117",
+            "Sig. str. %": "43%",
+            "Total str.": "65 of 139",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "51 of 117",
+            "Sig. str. %": "43%",
+            "Head": "41 of 105",
+            "Body": "6 of 8",
+            "Leg": "4 of 4",
+            "Distance": "46 of 111",
+            "Clinch": "2 of 3",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "bc711b6dd95c1af6",
+        "name": "Mario Bautista",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "49 of 142",
+            "Sig. str. %": "34%",
+            "Total str.": "90 of 196",
+            "Td": "0 of 10",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "49 of 142",
+            "Sig. str. %": "34%",
+            "Head": "26 of 111",
+            "Body": "12 of 19",
+            "Leg": "11 of 12",
+            "Distance": "44 of 136",
+            "Clinch": "5 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

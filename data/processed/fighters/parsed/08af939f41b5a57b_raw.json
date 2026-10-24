@@ -1,0 +1,124 @@
+{
+    "fighter_id": "08af939f41b5a57b",
+    "name": "Beneil Dariush",
+    "record": "23-8-1",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "May 06, 1989",
+    "sig_strikes_landed_per_min": "3.74",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "2.63",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "2.21",
+    "takedown_accuracy": "38%",
+    "takedown_defense": "82%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "5c7c38dece435cde",
+            "fight_url": "http://ufcstats.com/fight-details/5c7c38dece435cde"
+        },
+        {
+            "fight_id": "9b5f190cd3f5ce16",
+            "fight_url": "http://ufcstats.com/fight-details/9b5f190cd3f5ce16"
+        },
+        {
+            "fight_id": "1ea9ad3b6e1cba79",
+            "fight_url": "http://ufcstats.com/fight-details/1ea9ad3b6e1cba79"
+        },
+        {
+            "fight_id": "9feb9500b0fedfcd",
+            "fight_url": "http://ufcstats.com/fight-details/9feb9500b0fedfcd"
+        },
+        {
+            "fight_id": "40e8bf8ce508c436",
+            "fight_url": "http://ufcstats.com/fight-details/40e8bf8ce508c436"
+        },
+        {
+            "fight_id": "69f39e5d959311b1",
+            "fight_url": "http://ufcstats.com/fight-details/69f39e5d959311b1"
+        },
+        {
+            "fight_id": "cfbaeb80b5ff7c00",
+            "fight_url": "http://ufcstats.com/fight-details/cfbaeb80b5ff7c00"
+        },
+        {
+            "fight_id": "bbade63ca780668f",
+            "fight_url": "http://ufcstats.com/fight-details/bbade63ca780668f"
+        },
+        {
+            "fight_id": "cfb189e326553f0a",
+            "fight_url": "http://ufcstats.com/fight-details/cfb189e326553f0a"
+        },
+        {
+            "fight_id": "891470d896b1de5a",
+            "fight_url": "http://ufcstats.com/fight-details/891470d896b1de5a"
+        },
+        {
+            "fight_id": "b2d05ae88f820421",
+            "fight_url": "http://ufcstats.com/fight-details/b2d05ae88f820421"
+        },
+        {
+            "fight_id": "9cfad21ef1911728",
+            "fight_url": "http://ufcstats.com/fight-details/9cfad21ef1911728"
+        },
+        {
+            "fight_id": "14cf0828d6e373ab",
+            "fight_url": "http://ufcstats.com/fight-details/14cf0828d6e373ab"
+        },
+        {
+            "fight_id": "9e21a8dea9663e26",
+            "fight_url": "http://ufcstats.com/fight-details/9e21a8dea9663e26"
+        },
+        {
+            "fight_id": "2fed4f1d91767eb1",
+            "fight_url": "http://ufcstats.com/fight-details/2fed4f1d91767eb1"
+        },
+        {
+            "fight_id": "b47e4f0982938e5b",
+            "fight_url": "http://ufcstats.com/fight-details/b47e4f0982938e5b"
+        },
+        {
+            "fight_id": "00494c77d2a88f8c",
+            "fight_url": "http://ufcstats.com/fight-details/00494c77d2a88f8c"
+        },
+        {
+            "fight_id": "2c65d5d20cc893e4",
+            "fight_url": "http://ufcstats.com/fight-details/2c65d5d20cc893e4"
+        },
+        {
+            "fight_id": "613a288e8819fead",
+            "fight_url": "http://ufcstats.com/fight-details/613a288e8819fead"
+        },
+        {
+            "fight_id": "d4e98b827e3d6918",
+            "fight_url": "http://ufcstats.com/fight-details/d4e98b827e3d6918"
+        },
+        {
+            "fight_id": "2bcb878e9d02b8f7",
+            "fight_url": "http://ufcstats.com/fight-details/2bcb878e9d02b8f7"
+        },
+        {
+            "fight_id": "d61a7b593218234b",
+            "fight_url": "http://ufcstats.com/fight-details/d61a7b593218234b"
+        },
+        {
+            "fight_id": "852223ee1a2d0a74",
+            "fight_url": "http://ufcstats.com/fight-details/852223ee1a2d0a74"
+        },
+        {
+            "fight_id": "53fe9da9fb8d4f88",
+            "fight_url": "http://ufcstats.com/fight-details/53fe9da9fb8d4f88"
+        },
+        {
+            "fight_id": "beed8bc1f800de8f",
+            "fight_url": "http://ufcstats.com/fight-details/beed8bc1f800de8f"
+        },
+        {
+            "fight_id": "6f3e189c393c0e09",
+            "fight_url": "http://ufcstats.com/fight-details/6f3e189c393c0e09"
+        }
+    ]
+}

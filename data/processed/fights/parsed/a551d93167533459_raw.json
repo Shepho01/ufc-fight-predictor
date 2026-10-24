@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a551d93167533459",
+        "event_id": "c6e6926a81adcd00",
+        "event_name": "UFC 155: Dos Santos vs Velasquez II",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kim Winslow",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "917e53fa0adea0d3",
+        "name": "Leonard Garcia",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "89 of 359",
+            "Sig. str. %": "24%",
+            "Total str.": "92 of 367",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:37"
+        },
+        "significant_strikes": {
+            "Sig. str": "89 of 359",
+            "Sig. str. %": "24%",
+            "Head": "64 of 320",
+            "Body": "10 of 24",
+            "Leg": "15 of 15",
+            "Distance": "82 of 346",
+            "Clinch": "7 of 12",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "120 of 269",
+            "Sig. str. %": "44%",
+            "Total str.": "122 of 273",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "120 of 269",
+            "Sig. str. %": "44%",
+            "Head": "68 of 193",
+            "Body": "38 of 61",
+            "Leg": "14 of 15",
+            "Distance": "114 of 261",
+            "Clinch": "6 of 7",
+            "Ground": "0 of 1"
+        }
+    }
+}

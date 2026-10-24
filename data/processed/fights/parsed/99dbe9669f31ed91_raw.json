@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "99dbe9669f31ed91",
+        "event_id": "4304992c2acc187b",
+        "event_name": "UFC 257: Poirier vs. McGregor",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Lukasz Bosacki",
+        "winner_id": "eae48ff31db420c2"
+    },
+    "fighter_a": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 103",
+            "Sig. str. %": "48%",
+            "Total str.": "103 of 180",
+            "Td": "10 of 12",
+            "Td %": "83%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 103",
+            "Sig. str. %": "48%",
+            "Head": "32 of 82",
+            "Body": "12 of 15",
+            "Leg": "6 of 6",
+            "Distance": "39 of 86",
+            "Clinch": "5 of 8",
+            "Ground": "6 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "dccb63727f2f5f74",
+        "name": "Matt Frevola",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 57",
+            "Sig. str. %": "28%",
+            "Total str.": "51 of 97",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 57",
+            "Sig. str. %": "28%",
+            "Head": "8 of 46",
+            "Body": "6 of 9",
+            "Leg": "2 of 2",
+            "Distance": "9 of 48",
+            "Clinch": "7 of 9",
+            "Ground": "0 of 0"
+        }
+    }
+}

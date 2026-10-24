@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "293919e355b362b1",
+        "event_id": "f9aa6376ae16bfb4",
+        "event_name": "UFC Fight Night: McGregor vs Siver",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin MacDonald",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "14ff46596ad80609",
+        "name": "Norman Parke",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "43 of 140",
+            "Sig. str. %": "30%",
+            "Total str.": "44 of 141",
+            "Td": "0 of 10",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 140",
+            "Sig. str. %": "30%",
+            "Head": "22 of 99",
+            "Body": "12 of 23",
+            "Leg": "9 of 18",
+            "Distance": "31 of 123",
+            "Clinch": "12 of 17",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "38 of 127",
+            "Sig. str. %": "29%",
+            "Total str.": "38 of 127",
+            "Td": "2 of 6",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 127",
+            "Sig. str. %": "29%",
+            "Head": "21 of 106",
+            "Body": "7 of 10",
+            "Leg": "10 of 11",
+            "Distance": "26 of 113",
+            "Clinch": "12 of 13",
+            "Ground": "0 of 1"
+        }
+    }
+}

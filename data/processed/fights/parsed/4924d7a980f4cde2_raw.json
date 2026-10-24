@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4924d7a980f4cde2",
+        "event_id": "ff9578cdbfabd323",
+        "event_name": "UFC 214: Cormier vs. Jones 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:59",
+        "referee": "Jason Herzog",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "65 of 220",
+            "Sig. str. %": "29%",
+            "Total str.": "65 of 220",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "65 of 220",
+            "Sig. str. %": "29%",
+            "Head": "49 of 198",
+            "Body": "14 of 19",
+            "Leg": "2 of 3",
+            "Distance": "64 of 217",
+            "Clinch": "1 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "109 of 252",
+            "Sig. str. %": "43%",
+            "Total str.": "111 of 254",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "109 of 252",
+            "Sig. str. %": "43%",
+            "Head": "91 of 229",
+            "Body": "8 of 13",
+            "Leg": "10 of 10",
+            "Distance": "109 of 252",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

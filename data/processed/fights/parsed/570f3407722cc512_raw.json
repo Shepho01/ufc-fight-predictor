@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "570f3407722cc512",
+        "event_id": "232c582f29f8f65e",
+        "event_name": "UFC Fight Night: Rodriguez vs. Caceres",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Split",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "120 of 338",
+            "Sig. str. %": "35%",
+            "Total str.": "124 of 343",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "120 of 338",
+            "Sig. str. %": "35%",
+            "Head": "63 of 267",
+            "Body": "17 of 26",
+            "Leg": "40 of 45",
+            "Distance": "106 of 315",
+            "Clinch": "6 of 8",
+            "Ground": "8 of 15"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7aa3d6964eff4877",
+        "name": "Alex Caceres",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 196",
+            "Sig. str. %": "31%",
+            "Total str.": "65 of 202",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 196",
+            "Sig. str. %": "31%",
+            "Head": "46 of 170",
+            "Body": "9 of 14",
+            "Leg": "7 of 12",
+            "Distance": "57 of 187",
+            "Clinch": "4 of 7",
+            "Ground": "1 of 2"
+        }
+    }
+}

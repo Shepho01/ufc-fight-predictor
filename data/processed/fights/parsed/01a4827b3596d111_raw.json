@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "01a4827b3596d111",
+        "event_id": "a79bfbc01b2264d6",
+        "event_name": "UFC 242: Khabib vs. Poirier",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "2:06",
+        "referee": "Marc Goddard",
+        "winner_id": "032cc3922d871c7f"
+    },
+    "fighter_a": {
+        "fighter_id": "032cc3922d871c7f",
+        "name": "Khabib Nurmagomedov",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 41",
+            "Sig. str. %": "53%",
+            "Total str.": "54 of 77",
+            "Td": "7 of 8",
+            "Td %": "87%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "8:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 41",
+            "Sig. str. %": "53%",
+            "Head": "16 of 35",
+            "Body": "3 of 3",
+            "Leg": "3 of 3",
+            "Distance": "10 of 27",
+            "Clinch": "1 of 1",
+            "Ground": "11 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 39",
+            "Sig. str. %": "30%",
+            "Total str.": "30 of 57",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 39",
+            "Sig. str. %": "30%",
+            "Head": "5 of 26",
+            "Body": "2 of 7",
+            "Leg": "5 of 6",
+            "Distance": "12 of 38",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

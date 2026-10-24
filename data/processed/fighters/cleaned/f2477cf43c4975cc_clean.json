@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f2477cf43c4975cc",
+    "name": "Jonathan Martinez",
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 135,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 20,
+    "dob_month": 4,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 4.44,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 4.09,
+    "sig_strike_defense": 0.56,
+    "takedowns_landed_per_15_min": 0.38,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.68,
+    "submission_attempts_per_15_min": 0.1
+}

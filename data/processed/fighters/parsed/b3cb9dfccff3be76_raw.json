@@ -1,0 +1,24 @@
+{
+    "fighter_id": "b3cb9dfccff3be76",
+    "name": "Salahdine Parnasse",
+    "record": "24-2-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Dec 04, 1997",
+    "sig_strikes_landed_per_min": "4.65",
+    "sig_striking_accuracy": "70%",
+    "sig_strikes_absorbed_per_min": "5.42",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "bba8c0ab999b9e6f",
+            "fight_url": "http://ufcstats.com/fight-details/bba8c0ab999b9e6f"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "282fa667ff9c51ed",
+    "name": "Cole Miller",
+    "wins": 21,
+    "losses": 11,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 185.42,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 26,
+    "dob_month": 4,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 3.0,
+    "sig_striking_accuracy": 0.33,
+    "sig_strikes_absorbed_per_min": 3.88,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.6,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.38,
+    "submission_attempts_per_15_min": 1.8
+}

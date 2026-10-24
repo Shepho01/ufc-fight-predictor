@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "be977e524ef56aa4",
+        "event_id": "b23388ff8ac6637b",
+        "event_name": "UFC Fight Night: Thompson vs. Holland",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "87c0b1c696ddfb43"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "57 of 193",
+            "Sig. str. %": "29%",
+            "Total str.": "67 of 203",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "57 of 193",
+            "Sig. str. %": "29%",
+            "Head": "47 of 176",
+            "Body": "9 of 15",
+            "Leg": "1 of 2",
+            "Distance": "49 of 177",
+            "Clinch": "8 of 16",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "87c0b1c696ddfb43",
+        "name": "Jonathan Pearce",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "110 of 222",
+            "Sig. str. %": "49%",
+            "Total str.": "154 of 276",
+            "Td": "2 of 7",
+            "Td %": "28%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "3:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "110 of 222",
+            "Sig. str. %": "49%",
+            "Head": "80 of 188",
+            "Body": "18 of 22",
+            "Leg": "12 of 12",
+            "Distance": "66 of 159",
+            "Clinch": "14 of 20",
+            "Ground": "30 of 43"
+        }
+    }
+}

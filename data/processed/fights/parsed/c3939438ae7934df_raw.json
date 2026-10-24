@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c3939438ae7934df",
+        "event_id": "b45d6b73f4ca4467",
+        "event_name": "UFC Fight Night: Dos Santos vs. Ivanov",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:52",
+        "referee": "Jason Herzog",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "08e908ed6d18d6a0",
+        "name": "Myles Jury",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 12",
+            "Sig. str. %": "25%",
+            "Total str.": "3 of 12",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 12",
+            "Sig. str. %": "25%",
+            "Head": "0 of 6",
+            "Body": "1 of 1",
+            "Leg": "2 of 5",
+            "Distance": "3 of 12",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "17 of 27",
+            "Sig. str. %": "62%",
+            "Total str.": "17 of 27",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 27",
+            "Sig. str. %": "62%",
+            "Head": "16 of 24",
+            "Body": "0 of 0",
+            "Leg": "1 of 3",
+            "Distance": "2 of 5",
+            "Clinch": "0 of 0",
+            "Ground": "15 of 22"
+        }
+    }
+}

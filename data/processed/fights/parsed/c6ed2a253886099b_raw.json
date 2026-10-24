@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c6ed2a253886099b",
+        "event_id": "c96e2ae6021144a1",
+        "event_name": "DWCS 5.1",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "0:12",
+        "referee": "Chris Tognoni",
+        "winner_id": "791c8437b341fba5"
+    },
+    "fighter_a": {
+        "fighter_id": "791c8437b341fba5",
+        "name": "Joanderson Brito",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 74",
+            "Sig. str. %": "59%",
+            "Total str.": "59 of 93",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:47"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 74",
+            "Sig. str. %": "59%",
+            "Head": "27 of 54",
+            "Body": "13 of 16",
+            "Leg": "4 of 4",
+            "Distance": "18 of 39",
+            "Clinch": "2 of 2",
+            "Ground": "24 of 33"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 40",
+            "Sig. str. %": "50%",
+            "Total str.": "37 of 65",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 40",
+            "Sig. str. %": "50%",
+            "Head": "15 of 33",
+            "Body": "5 of 7",
+            "Leg": "0 of 0",
+            "Distance": "17 of 35",
+            "Clinch": "2 of 3",
+            "Ground": "1 of 2"
+        }
+    }
+}

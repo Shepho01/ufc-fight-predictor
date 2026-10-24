@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "20e403a1acfef130",
+        "event_name": "UFC 209: Woodley vs. Thompson 2",
+        "event_date": "March 04, 2017",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "dfc8c5161ea0ccb5",
+            "fighter_a": "Tyron Woodley",
+            "fighter_b": "Stephen Thompson",
+            "winner": "Tyron Woodley",
+            "weight_class": "Welterweight",
+            "method": "M-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dfc8c5161ea0ccb5"
+        },
+        {
+            "fight_id": "7ac4b9823b1e139b",
+            "fighter_a": "David Teymur",
+            "fighter_b": "Lando Vannata",
+            "winner": "David Teymur",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ac4b9823b1e139b"
+        },
+        {
+            "fight_id": "e3ca9462ad0d7685",
+            "fighter_a": "Daniel Kelly",
+            "fighter_b": "Rashad Evans",
+            "winner": "Daniel Kelly",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e3ca9462ad0d7685"
+        },
+        {
+            "fight_id": "54f9e3e1fad7a589",
+            "fighter_a": "Cynthia Calvillo",
+            "fighter_b": "Amanda Cooper",
+            "winner": "Cynthia Calvillo",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/54f9e3e1fad7a589"
+        },
+        {
+            "fight_id": "c79b862be039d9f0",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Mark Hunt",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knees",
+            "round": "3",
+            "time": "1:44",
+            "fight_url": "http://ufcstats.com/fight-details/c79b862be039d9f0"
+        },
+        {
+            "fight_id": "42ad1437a1280294",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Luis Henrique",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "3:46",
+            "fight_url": "http://ufcstats.com/fight-details/42ad1437a1280294"
+        },
+        {
+            "fight_id": "3b536afcc9098925",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Mirsad Bektic",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/3b536afcc9098925"
+        },
+        {
+            "fight_id": "4804776154430aad",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Luke Sanders",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Bantamweight",
+            "method": "SUB Kneebar",
+            "round": "2",
+            "time": "3:13",
+            "fight_url": "http://ufcstats.com/fight-details/4804776154430aad"
+        },
+        {
+            "fight_id": "08b65f5009c34997",
+            "fighter_a": "Mark Godbeer",
+            "fighter_b": "Daniel Spitz",
+            "winner": "Mark Godbeer",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/08b65f5009c34997"
+        },
+        {
+            "fight_id": "6db4d7827082d5b9",
+            "fighter_a": "Tyson Pedro",
+            "fighter_b": "Paul Craig",
+            "winner": "Tyson Pedro",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/6db4d7827082d5b9"
+        },
+        {
+            "fight_id": "2d4743a82fc55642",
+            "fighter_a": "Albert Morales",
+            "fighter_b": "Andre Soukhamthath",
+            "winner": "Albert Morales",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2d4743a82fc55642"
+        }
+    ]
+}

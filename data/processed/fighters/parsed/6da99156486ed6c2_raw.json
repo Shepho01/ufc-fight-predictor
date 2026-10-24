@@ -1,0 +1,96 @@
+{
+    "fighter_id": "6da99156486ed6c2",
+    "name": "Joshua Burkman",
+    "record": "28-16-0 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Apr 10, 1980",
+    "sig_strikes_landed_per_min": "2.69",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "3.13",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "2.53",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "72%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "5edd1cd479f3919e",
+            "fight_url": "http://ufcstats.com/fight-details/5edd1cd479f3919e"
+        },
+        {
+            "fight_id": "3636e085c098dbda",
+            "fight_url": "http://ufcstats.com/fight-details/3636e085c098dbda"
+        },
+        {
+            "fight_id": "12740c6b17779fe9",
+            "fight_url": "http://ufcstats.com/fight-details/12740c6b17779fe9"
+        },
+        {
+            "fight_id": "21b361d723fcf3cd",
+            "fight_url": "http://ufcstats.com/fight-details/21b361d723fcf3cd"
+        },
+        {
+            "fight_id": "6387fdb44c61ccdb",
+            "fight_url": "http://ufcstats.com/fight-details/6387fdb44c61ccdb"
+        },
+        {
+            "fight_id": "d0a8304574e65ec9",
+            "fight_url": "http://ufcstats.com/fight-details/d0a8304574e65ec9"
+        },
+        {
+            "fight_id": "499557c33e67deaf",
+            "fight_url": "http://ufcstats.com/fight-details/499557c33e67deaf"
+        },
+        {
+            "fight_id": "c2f0a53cd67e1736",
+            "fight_url": "http://ufcstats.com/fight-details/c2f0a53cd67e1736"
+        },
+        {
+            "fight_id": "f3100979573e2895",
+            "fight_url": "http://ufcstats.com/fight-details/f3100979573e2895"
+        },
+        {
+            "fight_id": "cfbeeffd65101ae1",
+            "fight_url": "http://ufcstats.com/fight-details/cfbeeffd65101ae1"
+        },
+        {
+            "fight_id": "688c8b695e521ce8",
+            "fight_url": "http://ufcstats.com/fight-details/688c8b695e521ce8"
+        },
+        {
+            "fight_id": "20fc3b3ab2d2fecf",
+            "fight_url": "http://ufcstats.com/fight-details/20fc3b3ab2d2fecf"
+        },
+        {
+            "fight_id": "a9e13a29a332c886",
+            "fight_url": "http://ufcstats.com/fight-details/a9e13a29a332c886"
+        },
+        {
+            "fight_id": "2ce541a11b2eb392",
+            "fight_url": "http://ufcstats.com/fight-details/2ce541a11b2eb392"
+        },
+        {
+            "fight_id": "539a550c0c1acd3e",
+            "fight_url": "http://ufcstats.com/fight-details/539a550c0c1acd3e"
+        },
+        {
+            "fight_id": "000da3152b7b5ab1",
+            "fight_url": "http://ufcstats.com/fight-details/000da3152b7b5ab1"
+        },
+        {
+            "fight_id": "eeb77732d7c3389a",
+            "fight_url": "http://ufcstats.com/fight-details/eeb77732d7c3389a"
+        },
+        {
+            "fight_id": "fbd75b08f377d149",
+            "fight_url": "http://ufcstats.com/fight-details/fbd75b08f377d149"
+        },
+        {
+            "fight_id": "e050c299ffa1f2d3",
+            "fight_url": "http://ufcstats.com/fight-details/e050c299ffa1f2d3"
+        }
+    ]
+}

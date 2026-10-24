@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "9c37681096c6f3a9",
+        "event_name": "UFC Fight Night: Waterson vs. Hill",
+        "event_day": 12,
+        "event_month": 9,
+        "event_year": 2020,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "0ffbf3096a13b47e",
+            "fighter_a": "Michelle Waterson-Gomez",
+            "fighter_b": "Angela Hill",
+            "winner": "Michelle Waterson-Gomez",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0ffbf3096a13b47e"
+        },
+        {
+            "fight_id": "1ed8776f978a0155",
+            "fighter_a": "Ottman Azaitar",
+            "fighter_b": "Khama Worthy",
+            "winner": "Ottman Azaitar",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 93,
+            "fight_url": "http://ufcstats.com/fight-details/1ed8776f978a0155"
+        },
+        {
+            "fight_id": "764012f51c7dc223",
+            "fighter_a": "Roxanne Modafferi",
+            "fighter_b": "Andrea Lee",
+            "winner": "Roxanne Modafferi",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/764012f51c7dc223"
+        },
+        {
+            "fight_id": "3901d9cdbb0949bc",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Mike Rodriguez",
+            "winner": "Ed Herman",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Kimura",
+            "round": 3,
+            "time_seconds": 161,
+            "fight_url": "http://ufcstats.com/fight-details/3901d9cdbb0949bc"
+        },
+        {
+            "fight_id": "06910bddb0745856",
+            "fighter_a": "King Green",
+            "fighter_b": "Alan Patrick",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/06910bddb0745856"
+        },
+        {
+            "fight_id": "c58aaabf2c5635d7",
+            "fighter_a": "Billy Quarantillo",
+            "fighter_b": "Kyle Nelson",
+            "winner": "Billy Quarantillo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 7,
+            "fight_url": "http://ufcstats.com/fight-details/c58aaabf2c5635d7"
+        },
+        {
+            "fight_id": "cf0e0f95524f187a",
+            "fighter_a": "Sijara Eubanks",
+            "fighter_b": "Julia Avila",
+            "winner": "Sijara Eubanks",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf0e0f95524f187a"
+        },
+        {
+            "fight_id": "e1bb0b615c02d715",
+            "fighter_a": "Roosevelt Roberts",
+            "fighter_b": "Kevin Croom",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "Overturned Guillotine Choke",
+            "round": 1,
+            "time_seconds": 31,
+            "fight_url": "http://ufcstats.com/fight-details/e1bb0b615c02d715"
+        },
+        {
+            "fight_id": "2461756d8acd56d2",
+            "fighter_a": "Alexandr Romanov",
+            "fighter_b": "Roque Martinez",
+            "winner": "Alexandr Romanov",
+            "weight_class": "Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 262,
+            "fight_url": "http://ufcstats.com/fight-details/2461756d8acd56d2"
+        },
+        {
+            "fight_id": "bcc9dca5136fc765",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Brok Weaver",
+            "winner": "Jalin Turner",
+            "weight_class": "Catch Weight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 260,
+            "fight_url": "http://ufcstats.com/fight-details/bcc9dca5136fc765"
+        },
+        {
+            "fight_id": "463fc1fd1f17befb",
+            "fighter_a": "Bryan Barberena",
+            "fighter_b": "Anthony Ivy",
+            "winner": "Bryan Barberena",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/463fc1fd1f17befb"
+        },
+        {
+            "fight_id": "ed8fb10b596e6fa4",
+            "fighter_a": "Sabina Mazo",
+            "fighter_b": "Justine Kish",
+            "winner": "Sabina Mazo",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 237,
+            "fight_url": "http://ufcstats.com/fight-details/ed8fb10b596e6fa4"
+        }
+    ]
+}

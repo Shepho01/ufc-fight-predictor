@@ -1,0 +1,23 @@
+{
+    "fighter_id": "879f6cae48d25baa",
+    "name": "Justin Lawrence",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 15,
+    "dob_month": 5,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 3.84,
+    "sig_striking_accuracy": 0.35,
+    "sig_strikes_absorbed_per_min": 2.83,
+    "sig_strike_defense": 0.67,
+    "takedowns_landed_per_15_min": 0.72,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.73,
+    "submission_attempts_per_15_min": 0.0
+}

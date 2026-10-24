@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "92ea4999f99f55fd",
+        "event_id": "896c322f56b8be5a",
+        "event_name": "UFC 103: Franklin vs Belfort",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kerry Hatley",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "67 of 136",
+            "Sig. str. %": "49%",
+            "Total str.": "124 of 197",
+            "Td": "4 of 5",
+            "Td %": "80%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "3:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "67 of 136",
+            "Sig. str. %": "49%",
+            "Head": "35 of 96",
+            "Body": "24 of 27",
+            "Leg": "8 of 13",
+            "Distance": "36 of 91",
+            "Clinch": "13 of 21",
+            "Ground": "18 of 24"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "15b1b21cd743d652",
+        "name": "Rafaello Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 110",
+            "Sig. str. %": "26%",
+            "Total str.": "91 of 188",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "5:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 110",
+            "Sig. str. %": "26%",
+            "Head": "24 of 101",
+            "Body": "3 of 6",
+            "Leg": "2 of 3",
+            "Distance": "18 of 75",
+            "Clinch": "7 of 22",
+            "Ground": "4 of 13"
+        }
+    }
+}

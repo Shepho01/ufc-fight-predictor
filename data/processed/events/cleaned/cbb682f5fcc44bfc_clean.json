@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "cbb682f5fcc44bfc",
+        "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+        "event_day": 12,
+        "event_month": 2,
+        "event_year": 2022,
+        "location": "Houston, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ca8f73d038c4d6e7",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Robert Whittaker",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ca8f73d038c4d6e7"
+        },
+        {
+            "fight_id": "bb42336d6417914c",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Derrick Lewis",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/bb42336d6417914c"
+        },
+        {
+            "fight_id": "18a1617ee7356352",
+            "fighter_a": "Jared Cannonier",
+            "fighter_b": "Derek Brunson",
+            "winner": "Jared Cannonier",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/18a1617ee7356352"
+        },
+        {
+            "fight_id": "238832b58a66ae07",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Alexander Hernandez",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 83,
+            "fight_url": "http://ufcstats.com/fight-details/238832b58a66ae07"
+        },
+        {
+            "fight_id": "388adad23aaa9d39",
+            "fighter_a": "King Green",
+            "fighter_b": "Nasrat Haqparast",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/388adad23aaa9d39"
+        },
+        {
+            "fight_id": "81c22cfa22002ea4",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Jared Vanderaa",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/81c22cfa22002ea4"
+        },
+        {
+            "fight_id": "b1e048825b5bbe1c",
+            "fighter_a": "Casey O'Neill",
+            "fighter_b": "Roxanne Modafferi",
+            "winner": "Casey O'Neill",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b1e048825b5bbe1c"
+        },
+        {
+            "fight_id": "a0ba726da4a50458",
+            "fighter_a": "Kyler Phillips",
+            "fighter_b": "Marcelo Rojo",
+            "winner": "Kyler Phillips",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Armbar",
+            "round": 3,
+            "time_seconds": 108,
+            "fight_url": "http://ufcstats.com/fight-details/a0ba726da4a50458"
+        },
+        {
+            "fight_id": "3bebd99d5f94bec7",
+            "fighter_a": "Carlos Ulberg",
+            "fighter_b": "Fabio Cherant",
+            "winner": "Carlos Ulberg",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3bebd99d5f94bec7"
+        },
+        {
+            "fight_id": "19e742ccaa09cf08",
+            "fighter_a": "Ronnie Lawrence",
+            "fighter_b": "Mana Martinez",
+            "winner": "Ronnie Lawrence",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/19e742ccaa09cf08"
+        },
+        {
+            "fight_id": "c16bda7548181613",
+            "fighter_a": "Jacob Malkoun",
+            "fighter_b": "AJ Dobson",
+            "winner": "Jacob Malkoun",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c16bda7548181613"
+        },
+        {
+            "fight_id": "821bef3a3394dd96",
+            "fighter_a": "Douglas Silva de Andrade",
+            "fighter_b": "Sergey Morozov",
+            "winner": "Douglas Silva de Andrade",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 204,
+            "fight_url": "http://ufcstats.com/fight-details/821bef3a3394dd96"
+        },
+        {
+            "fight_id": "507080ccded73591",
+            "fighter_a": "Jeremiah Wells",
+            "fighter_b": "Blood Diamond",
+            "winner": "Jeremiah Wells",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 278,
+            "fight_url": "http://ufcstats.com/fight-details/507080ccded73591"
+        },
+        {
+            "fight_id": "6708f3a32861038a",
+            "fighter_a": "Maxim Grishin",
+            "fighter_b": "William Knight",
+            "winner": "Maxim Grishin",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6708f3a32861038a"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "fighter_id": "776d4262c4da38bf",
+    "name": "Pete Rodriguez",
+    "record": "5-2-0",
+    "height": "5' 9\"",
+    "weight": "170 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Nov 13, 1996",
+    "sig_strikes_landed_per_min": "9.28",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "12.83",
+    "sig_strike_defense": "42%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "100%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "4cff9aeef3ac75c1",
+            "fight_url": "http://ufcstats.com/fight-details/4cff9aeef3ac75c1"
+        },
+        {
+            "fight_id": "84b04e8d6b251c54",
+            "fight_url": "http://ufcstats.com/fight-details/84b04e8d6b251c54"
+        },
+        {
+            "fight_id": "0669231ebe3dd560",
+            "fight_url": "http://ufcstats.com/fight-details/0669231ebe3dd560"
+        }
+    ]
+}

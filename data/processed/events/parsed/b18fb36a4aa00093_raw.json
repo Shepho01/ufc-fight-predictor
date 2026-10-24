@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "b18fb36a4aa00093",
+        "event_name": "WEC 48: Aldo vs. Faber",
+        "event_date": "April 24, 2010",
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "190b164d02796466",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Urijah Faber",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/190b164d02796466"
+        },
+        {
+            "fight_id": "9293d9f38ba22343",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:57",
+            "fight_url": "http://ufcstats.com/fight-details/9293d9f38ba22343"
+        },
+        {
+            "fight_id": "39003cb1926bb9e0",
+            "fighter_a": "Manvel Gamburyan",
+            "fighter_b": "Mike Brown",
+            "winner": "Manvel Gamburyan",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:22",
+            "fight_url": "http://ufcstats.com/fight-details/39003cb1926bb9e0"
+        },
+        {
+            "fight_id": "ae37a27ad1023507",
+            "fighter_a": "Shane Roller",
+            "fighter_b": "Anthony Njokuani",
+            "winner": "Shane Roller",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:07",
+            "fight_url": "http://ufcstats.com/fight-details/ae37a27ad1023507"
+        },
+        {
+            "fight_id": "da080f49cf73b91c",
+            "fighter_a": "Scott Jorgensen",
+            "fighter_b": "Antonio Banuelos",
+            "winner": "Scott Jorgensen",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/da080f49cf73b91c"
+        },
+        {
+            "fight_id": "ba9438f43e212f52",
+            "fighter_a": "Leonard Garcia",
+            "fighter_b": "Chan Sung Jung",
+            "winner": "Leonard Garcia",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ba9438f43e212f52"
+        },
+        {
+            "fight_id": "43527f349b3d201f",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Alex Karalexis",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/43527f349b3d201f"
+        },
+        {
+            "fight_id": "80d1f9945f7d0d5b",
+            "fighter_a": "Brad Pickett",
+            "fighter_b": "Demetrious Johnson",
+            "winner": "Brad Pickett",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/80d1f9945f7d0d5b"
+        },
+        {
+            "fight_id": "ce17641f02fd29a9",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Anthony Morrison",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:13",
+            "fight_url": "http://ufcstats.com/fight-details/ce17641f02fd29a9"
+        },
+        {
+            "fight_id": "756ec128df94ce6e",
+            "fighter_a": "Takeya Mizugaki",
+            "fighter_b": "Rani Yahya",
+            "winner": "Takeya Mizugaki",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/756ec128df94ce6e"
+        },
+        {
+            "fight_id": "4535ea28402c7e22",
+            "fighter_a": "Tyler Toner",
+            "fighter_b": "Brandon Visher",
+            "winner": "Tyler Toner",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:36",
+            "fight_url": "http://ufcstats.com/fight-details/4535ea28402c7e22"
+        }
+    ]
+}

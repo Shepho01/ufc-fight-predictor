@@ -1,0 +1,23 @@
+{
+    "fighter_id": "edd02825c29028fe",
+    "name": "Marco Polo Reyes",
+    "wins": 8,
+    "losses": 7,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 7,
+    "dob_month": 11,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 6.0,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 5.52,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.46,
+    "submission_attempts_per_15_min": 0.0
+}

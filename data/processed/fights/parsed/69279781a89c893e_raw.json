@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "69279781a89c893e",
+        "event_id": "d1d20e651e6cbc02",
+        "event_name": "UFC Fight Night: Dos Santos vs. Tuivasa",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Steve Perceval",
+        "winner_id": "de45aaae23dfa392"
+    },
+    "fighter_a": {
+        "fighter_id": "35faad160d346839",
+        "name": "Mizuto Hirota",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 55",
+            "Sig. str. %": "34%",
+            "Total str.": "47 of 86",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 55",
+            "Sig. str. %": "34%",
+            "Head": "15 of 50",
+            "Body": "4 of 4",
+            "Leg": "0 of 1",
+            "Distance": "12 of 41",
+            "Clinch": "4 of 10",
+            "Ground": "3 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "de45aaae23dfa392",
+        "name": "Christos Giagos",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 90",
+            "Sig. str. %": "34%",
+            "Total str.": "63 of 131",
+            "Td": "5 of 10",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "9:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 90",
+            "Sig. str. %": "34%",
+            "Head": "22 of 80",
+            "Body": "8 of 9",
+            "Leg": "1 of 1",
+            "Distance": "14 of 53",
+            "Clinch": "3 of 4",
+            "Ground": "14 of 33"
+        }
+    }
+}

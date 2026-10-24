@@ -1,0 +1,72 @@
+{
+    "fighter_id": "5b86d491d63890c5",
+    "name": "Ludovit Klein",
+    "record": "24-6-1",
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Feb 22, 1995",
+    "sig_strikes_landed_per_min": "3.83",
+    "sig_striking_accuracy": "53%",
+    "sig_strikes_absorbed_per_min": "3.57",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "1.29",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "fbd99ae7e1ff993a",
+            "fight_url": "http://ufcstats.com/fight-details/fbd99ae7e1ff993a"
+        },
+        {
+            "fight_id": "e9c034cec33b3479",
+            "fight_url": "http://ufcstats.com/fight-details/e9c034cec33b3479"
+        },
+        {
+            "fight_id": "212527d462690304",
+            "fight_url": "http://ufcstats.com/fight-details/212527d462690304"
+        },
+        {
+            "fight_id": "e01019fbfe0e9528",
+            "fight_url": "http://ufcstats.com/fight-details/e01019fbfe0e9528"
+        },
+        {
+            "fight_id": "251983e1bdae20fe",
+            "fight_url": "http://ufcstats.com/fight-details/251983e1bdae20fe"
+        },
+        {
+            "fight_id": "4e566db7d26df001",
+            "fight_url": "http://ufcstats.com/fight-details/4e566db7d26df001"
+        },
+        {
+            "fight_id": "531ce3d8011fa1f6",
+            "fight_url": "http://ufcstats.com/fight-details/531ce3d8011fa1f6"
+        },
+        {
+            "fight_id": "938c2c71b84e56ff",
+            "fight_url": "http://ufcstats.com/fight-details/938c2c71b84e56ff"
+        },
+        {
+            "fight_id": "b0d06858fb725654",
+            "fight_url": "http://ufcstats.com/fight-details/b0d06858fb725654"
+        },
+        {
+            "fight_id": "36d9337a27b71ba9",
+            "fight_url": "http://ufcstats.com/fight-details/36d9337a27b71ba9"
+        },
+        {
+            "fight_id": "a2e1116a9fe84aa9",
+            "fight_url": "http://ufcstats.com/fight-details/a2e1116a9fe84aa9"
+        },
+        {
+            "fight_id": "4ffbadfb86284af5",
+            "fight_url": "http://ufcstats.com/fight-details/4ffbadfb86284af5"
+        },
+        {
+            "fight_id": "eed8c9955cad1e30",
+            "fight_url": "http://ufcstats.com/fight-details/eed8c9955cad1e30"
+        }
+    ]
+}

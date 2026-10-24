@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a5075f4eaee6036f",
+        "event_id": "4304992c2acc187b",
+        "event_name": "UFC 257: Poirier vs. McGregor",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:30",
+        "referee": "Marc Goddard",
+        "winner_id": "4b93a88f3b1de35b"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "8 of 19",
+            "Sig. str. %": "42%",
+            "Total str.": "8 of 19",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 19",
+            "Sig. str. %": "42%",
+            "Head": "0 of 6",
+            "Body": "0 of 1",
+            "Leg": "8 of 12",
+            "Distance": "8 of 19",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4b93a88f3b1de35b",
+        "name": "Michael Chandler",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "17 of 24",
+            "Sig. str. %": "70%",
+            "Total str.": "17 of 24",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 24",
+            "Sig. str. %": "70%",
+            "Head": "12 of 17",
+            "Body": "4 of 6",
+            "Leg": "1 of 1",
+            "Distance": "7 of 11",
+            "Clinch": "0 of 0",
+            "Ground": "10 of 13"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "ece280745f8727b8",
+        "event_name": "UFC 293: Adesanya vs. Strickland",
+        "event_date": "September 09, 2023",
+        "location": "Sydney, New South Wales, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "7f16e7725245bb2d",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Israel Adesanya",
+            "winner": "Sean Strickland",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7f16e7725245bb2d"
+        },
+        {
+            "fight_id": "e4ed294e16e16d81",
+            "fighter_a": "Alexander Volkov",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Alexander Volkov",
+            "weight_class": "Heavyweight",
+            "method": "SUB Ezekiel Choke",
+            "round": "2",
+            "time": "4:37",
+            "fight_url": "http://ufcstats.com/fight-details/e4ed294e16e16d81"
+        },
+        {
+            "fight_id": "222bb2c67a87d312",
+            "fighter_a": "Manel Kape",
+            "fighter_b": "Felipe dos Santos",
+            "winner": "Manel Kape",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/222bb2c67a87d312"
+        },
+        {
+            "fight_id": "f9d2137f380e66bf",
+            "fighter_a": "Justin Tafa",
+            "fighter_b": "Austen Lane",
+            "winner": "Justin Tafa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:22",
+            "fight_url": "http://ufcstats.com/fight-details/f9d2137f380e66bf"
+        },
+        {
+            "fight_id": "3e1c27f17433f9e4",
+            "fighter_a": "Tyson Pedro",
+            "fighter_b": "Anton Turkalj",
+            "winner": "Tyson Pedro",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:12",
+            "fight_url": "http://ufcstats.com/fight-details/3e1c27f17433f9e4"
+        },
+        {
+            "fight_id": "a3d75cc363a6544b",
+            "fighter_a": "Carlos Ulberg",
+            "fighter_b": "Da Woon Jung",
+            "winner": "Carlos Ulberg",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/a3d75cc363a6544b"
+        },
+        {
+            "fight_id": "09a7f0979a58e6ea",
+            "fighter_a": "Chepe Mariscal",
+            "fighter_b": "Jack Jenkins",
+            "winner": "Chepe Mariscal",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "3:19",
+            "fight_url": "http://ufcstats.com/fight-details/09a7f0979a58e6ea"
+        },
+        {
+            "fight_id": "0aae15358d8606b9",
+            "fighter_a": "Jamie Mullarkey",
+            "fighter_b": "John Makdessi",
+            "winner": "Jamie Mullarkey",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0aae15358d8606b9"
+        },
+        {
+            "fight_id": "bfff5a3777841344",
+            "fighter_a": "Nasrat Haqparast",
+            "fighter_b": "Landon Quinones",
+            "winner": "Nasrat Haqparast",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bfff5a3777841344"
+        },
+        {
+            "fight_id": "56809feb4fe7ea61",
+            "fighter_a": "Charles Radtke",
+            "fighter_b": "Blood Diamond",
+            "winner": "Charles Radtke",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/56809feb4fe7ea61"
+        },
+        {
+            "fight_id": "5d481ff494bf40da",
+            "fighter_a": "Gabriel Miranda",
+            "fighter_b": "Shane Young",
+            "winner": "Gabriel Miranda",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "0:59",
+            "fight_url": "http://ufcstats.com/fight-details/5d481ff494bf40da"
+        },
+        {
+            "fight_id": "65c89e0c92e51bb8",
+            "fighter_a": "Kevin Jousset",
+            "fighter_b": "Kiefer Crosbie",
+            "winner": "Kevin Jousset",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:49",
+            "fight_url": "http://ufcstats.com/fight-details/65c89e0c92e51bb8"
+        }
+    ]
+}

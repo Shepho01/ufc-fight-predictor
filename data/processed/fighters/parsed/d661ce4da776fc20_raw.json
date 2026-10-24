@@ -1,0 +1,88 @@
+{
+    "fighter_id": "d661ce4da776fc20",
+    "name": "Petr Yan",
+    "record": "20-5-0",
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Switch",
+    "dob": "Feb 11, 1993",
+    "sig_strikes_landed_per_min": "5.16",
+    "sig_striking_accuracy": "54%",
+    "sig_strikes_absorbed_per_min": "4.24",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "1.70",
+    "takedown_accuracy": "49%",
+    "takedown_defense": "86%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "e262f5e588b149a6",
+            "fight_url": "http://ufcstats.com/fight-details/e262f5e588b149a6"
+        },
+        {
+            "fight_id": "4a0db214d9721d6e",
+            "fight_url": "http://ufcstats.com/fight-details/4a0db214d9721d6e"
+        },
+        {
+            "fight_id": "d4d4ee045b0ca695",
+            "fight_url": "http://ufcstats.com/fight-details/d4d4ee045b0ca695"
+        },
+        {
+            "fight_id": "f53573316a4f349f",
+            "fight_url": "http://ufcstats.com/fight-details/f53573316a4f349f"
+        },
+        {
+            "fight_id": "9861b6d04e6ed43c",
+            "fight_url": "http://ufcstats.com/fight-details/9861b6d04e6ed43c"
+        },
+        {
+            "fight_id": "0ccd2593c88209e4",
+            "fight_url": "http://ufcstats.com/fight-details/0ccd2593c88209e4"
+        },
+        {
+            "fight_id": "5c3c4bcc6c746ca0",
+            "fight_url": "http://ufcstats.com/fight-details/5c3c4bcc6c746ca0"
+        },
+        {
+            "fight_id": "9a8964b148cb5923",
+            "fight_url": "http://ufcstats.com/fight-details/9a8964b148cb5923"
+        },
+        {
+            "fight_id": "18edff5447989b3f",
+            "fight_url": "http://ufcstats.com/fight-details/18edff5447989b3f"
+        },
+        {
+            "fight_id": "15c9cb5f9320c555",
+            "fight_url": "http://ufcstats.com/fight-details/15c9cb5f9320c555"
+        },
+        {
+            "fight_id": "0f9be7ac405772f8",
+            "fight_url": "http://ufcstats.com/fight-details/0f9be7ac405772f8"
+        },
+        {
+            "fight_id": "a0c82ba11a373008",
+            "fight_url": "http://ufcstats.com/fight-details/a0c82ba11a373008"
+        },
+        {
+            "fight_id": "fe0c844a671dd6d8",
+            "fight_url": "http://ufcstats.com/fight-details/fe0c844a671dd6d8"
+        },
+        {
+            "fight_id": "244aa8f002274344",
+            "fight_url": "http://ufcstats.com/fight-details/244aa8f002274344"
+        },
+        {
+            "fight_id": "498e7b0800af226c",
+            "fight_url": "http://ufcstats.com/fight-details/498e7b0800af226c"
+        },
+        {
+            "fight_id": "c76fd2ddcbc4713d",
+            "fight_url": "http://ufcstats.com/fight-details/c76fd2ddcbc4713d"
+        },
+        {
+            "fight_id": "8167bd097a16062f",
+            "fight_url": "http://ufcstats.com/fight-details/8167bd097a16062f"
+        }
+    ]
+}

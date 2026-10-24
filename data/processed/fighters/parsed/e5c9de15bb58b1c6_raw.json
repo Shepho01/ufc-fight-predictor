@@ -1,0 +1,104 @@
+{
+    "fighter_id": "e5c9de15bb58b1c6",
+    "name": "Evan Dunham",
+    "record": "18-9-1",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Dec 18, 1981",
+    "sig_strikes_landed_per_min": "5.33",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.54",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "1.82",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "79%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "20ba608a6e717f05",
+            "fight_url": "http://ufcstats.com/fight-details/20ba608a6e717f05"
+        },
+        {
+            "fight_id": "3d9398386c84109b",
+            "fight_url": "http://ufcstats.com/fight-details/3d9398386c84109b"
+        },
+        {
+            "fight_id": "8803935990adafc1",
+            "fight_url": "http://ufcstats.com/fight-details/8803935990adafc1"
+        },
+        {
+            "fight_id": "2fed4f1d91767eb1",
+            "fight_url": "http://ufcstats.com/fight-details/2fed4f1d91767eb1"
+        },
+        {
+            "fight_id": "0596fc5eba5c1fe0",
+            "fight_url": "http://ufcstats.com/fight-details/0596fc5eba5c1fe0"
+        },
+        {
+            "fight_id": "991680cd8d0b7900",
+            "fight_url": "http://ufcstats.com/fight-details/991680cd8d0b7900"
+        },
+        {
+            "fight_id": "0b8fdeeb626b4396",
+            "fight_url": "http://ufcstats.com/fight-details/0b8fdeeb626b4396"
+        },
+        {
+            "fight_id": "b10a94377bce3e22",
+            "fight_url": "http://ufcstats.com/fight-details/b10a94377bce3e22"
+        },
+        {
+            "fight_id": "4e7c06f8b2b8c24b",
+            "fight_url": "http://ufcstats.com/fight-details/4e7c06f8b2b8c24b"
+        },
+        {
+            "fight_id": "67222a0d79c83086",
+            "fight_url": "http://ufcstats.com/fight-details/67222a0d79c83086"
+        },
+        {
+            "fight_id": "05f8696303709939",
+            "fight_url": "http://ufcstats.com/fight-details/05f8696303709939"
+        },
+        {
+            "fight_id": "1d43112d98de273a",
+            "fight_url": "http://ufcstats.com/fight-details/1d43112d98de273a"
+        },
+        {
+            "fight_id": "5af6a54d7e0f2b7f",
+            "fight_url": "http://ufcstats.com/fight-details/5af6a54d7e0f2b7f"
+        },
+        {
+            "fight_id": "e7861d4e2b29193f",
+            "fight_url": "http://ufcstats.com/fight-details/e7861d4e2b29193f"
+        },
+        {
+            "fight_id": "fdc82a98c68588c4",
+            "fight_url": "http://ufcstats.com/fight-details/fdc82a98c68588c4"
+        },
+        {
+            "fight_id": "6963c65b49e47277",
+            "fight_url": "http://ufcstats.com/fight-details/6963c65b49e47277"
+        },
+        {
+            "fight_id": "81b5e933186a685a",
+            "fight_url": "http://ufcstats.com/fight-details/81b5e933186a685a"
+        },
+        {
+            "fight_id": "72d69e969eda8679",
+            "fight_url": "http://ufcstats.com/fight-details/72d69e969eda8679"
+        },
+        {
+            "fight_id": "504b540805598fa5",
+            "fight_url": "http://ufcstats.com/fight-details/504b540805598fa5"
+        },
+        {
+            "fight_id": "b0958ed411ae9675",
+            "fight_url": "http://ufcstats.com/fight-details/b0958ed411ae9675"
+        },
+        {
+            "fight_id": "d89b849df7bff79b",
+            "fight_url": "http://ufcstats.com/fight-details/d89b849df7bff79b"
+        }
+    ]
+}

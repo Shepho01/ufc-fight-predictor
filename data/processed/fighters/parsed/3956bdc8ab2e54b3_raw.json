@@ -1,0 +1,28 @@
+{
+    "fighter_id": "3956bdc8ab2e54b3",
+    "name": "John Gunther",
+    "record": "5-1-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 24, 1985",
+    "sig_strikes_landed_per_min": "1.65",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "3.72",
+    "sig_strike_defense": "46%",
+    "takedowns_landed_per_15_min": "7.08",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "933cf2674503c63d",
+            "fight_url": "http://ufcstats.com/fight-details/933cf2674503c63d"
+        },
+        {
+            "fight_id": "9fc03704a10977b3",
+            "fight_url": "http://ufcstats.com/fight-details/9fc03704a10977b3"
+        }
+    ]
+}

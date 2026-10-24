@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7a64d63e12618ba7",
+        "event_id": "66766984842c13dc",
+        "event_name": "UFC 317: Topuria vs. Oliveira",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:27",
+        "referee": "Marc Goddard",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "21 of 29",
+            "Sig. str. %": "72%",
+            "Total str.": "24 of 32",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 29",
+            "Sig. str. %": "72%",
+            "Head": "17 of 23",
+            "Body": "3 of 3",
+            "Leg": "1 of 3",
+            "Distance": "18 of 24",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 5"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "9 of 16",
+            "Sig. str. %": "56%",
+            "Total str.": "10 of 18",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 16",
+            "Sig. str. %": "56%",
+            "Head": "3 of 8",
+            "Body": "2 of 4",
+            "Leg": "4 of 4",
+            "Distance": "8 of 14",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

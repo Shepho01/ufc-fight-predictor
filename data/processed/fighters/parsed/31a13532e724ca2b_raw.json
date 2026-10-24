@@ -1,0 +1,64 @@
+{
+    "fighter_id": "31a13532e724ca2b",
+    "name": "Stevie Ray",
+    "record": "23-9-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Mar 25, 1990",
+    "sig_strikes_landed_per_min": "3.73",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "2.93",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.75",
+    "takedown_accuracy": "46%",
+    "takedown_defense": "55%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "3162ae3ccbf785ac",
+            "fight_url": "http://ufcstats.com/fight-details/3162ae3ccbf785ac"
+        },
+        {
+            "fight_id": "e1bd72aba46f46a1",
+            "fight_url": "http://ufcstats.com/fight-details/e1bd72aba46f46a1"
+        },
+        {
+            "fight_id": "53bb7c4a606d60c0",
+            "fight_url": "http://ufcstats.com/fight-details/53bb7c4a606d60c0"
+        },
+        {
+            "fight_id": "fe9ee00fa47dd7b3",
+            "fight_url": "http://ufcstats.com/fight-details/fe9ee00fa47dd7b3"
+        },
+        {
+            "fight_id": "c62a90c19af6a0e2",
+            "fight_url": "http://ufcstats.com/fight-details/c62a90c19af6a0e2"
+        },
+        {
+            "fight_id": "41385f4e63682b5b",
+            "fight_url": "http://ufcstats.com/fight-details/41385f4e63682b5b"
+        },
+        {
+            "fight_id": "6b5fe10e6e7d160a",
+            "fight_url": "http://ufcstats.com/fight-details/6b5fe10e6e7d160a"
+        },
+        {
+            "fight_id": "1afa8d6ae4d8a5b2",
+            "fight_url": "http://ufcstats.com/fight-details/1afa8d6ae4d8a5b2"
+        },
+        {
+            "fight_id": "665a35fcac41d277",
+            "fight_url": "http://ufcstats.com/fight-details/665a35fcac41d277"
+        },
+        {
+            "fight_id": "976d2cc3d08ca814",
+            "fight_url": "http://ufcstats.com/fight-details/976d2cc3d08ca814"
+        },
+        {
+            "fight_id": "e8d336f4465e6640",
+            "fight_url": "http://ufcstats.com/fight-details/e8d336f4465e6640"
+        }
+    ]
+}

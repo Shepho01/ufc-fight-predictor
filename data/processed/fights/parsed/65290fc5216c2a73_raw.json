@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "65290fc5216c2a73",
+        "event_id": "054defd5420a551f",
+        "event_name": "UFC 118: Edgar vs Penn 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Josh Rosenthal",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "b45d6b73f4ca4467",
+        "name": "Andre Winner",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 35",
+            "Sig. str. %": "57%",
+            "Total str.": "41 of 56",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:24"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 35",
+            "Sig. str. %": "57%",
+            "Head": "11 of 25",
+            "Body": "9 of 9",
+            "Leg": "0 of 1",
+            "Distance": "5 of 16",
+            "Clinch": "15 of 19",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 32",
+            "Sig. str. %": "71%",
+            "Total str.": "80 of 95",
+            "Td": "7 of 18",
+            "Td %": "38%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "13:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 32",
+            "Sig. str. %": "71%",
+            "Head": "10 of 16",
+            "Body": "11 of 13",
+            "Leg": "2 of 3",
+            "Distance": "9 of 14",
+            "Clinch": "11 of 15",
+            "Ground": "3 of 3"
+        }
+    }
+}

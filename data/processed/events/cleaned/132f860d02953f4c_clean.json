@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "132f860d02953f4c",
+        "event_name": "UFC 124: St-Pierre vs Koscheck 2",
+        "event_day": 11,
+        "event_month": 12,
+        "event_year": 2010,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "e87b5c403533b057",
+            "fighter_a": "Georges St-Pierre",
+            "fighter_b": "Josh Koscheck",
+            "winner": "Georges St-Pierre",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e87b5c403533b057"
+        },
+        {
+            "fight_id": "ed6a02c8dcc6f922",
+            "fighter_a": "Stefan Struve",
+            "fighter_b": "Sean McCorkle",
+            "winner": "Stefan Struve",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 235,
+            "fight_url": "http://ufcstats.com/fight-details/ed6a02c8dcc6f922"
+        },
+        {
+            "fight_id": "77785292d4df807c",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Kneebar",
+            "round": 1,
+            "time_seconds": 119,
+            "fight_url": "http://ufcstats.com/fight-details/77785292d4df807c"
+        },
+        {
+            "fight_id": "ecc41acbd699812a",
+            "fighter_a": "Mac Danzig",
+            "fighter_b": "Joe Stevenson",
+            "winner": "Mac Danzig",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/ecc41acbd699812a"
+        },
+        {
+            "fight_id": "f0d86420d88ca27b",
+            "fighter_a": "Thiago Alves",
+            "fighter_b": "John Howard",
+            "winner": "Thiago Alves",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f0d86420d88ca27b"
+        },
+        {
+            "fight_id": "ecc80630494d402a",
+            "fighter_a": "Dan Miller",
+            "fighter_b": "Joe Doerksen",
+            "winner": "Dan Miller",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ecc80630494d402a"
+        },
+        {
+            "fight_id": "94a3e3df3d28d8f0",
+            "fighter_a": "Mark Bocek",
+            "fighter_b": "Dustin Hazelett",
+            "winner": "Mark Bocek",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 153,
+            "fight_url": "http://ufcstats.com/fight-details/94a3e3df3d28d8f0"
+        },
+        {
+            "fight_id": "1de579eecc094c8b",
+            "fighter_a": "Jesse Bongfeldt",
+            "fighter_b": "Rafael Natal",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1de579eecc094c8b"
+        },
+        {
+            "fight_id": "37d988593cb5f14a",
+            "fighter_a": "Sean Pierson",
+            "fighter_b": "Matthew Riddle",
+            "winner": "Sean Pierson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/37d988593cb5f14a"
+        },
+        {
+            "fight_id": "42a361f33cbb8d6f",
+            "fighter_a": "Ricardo Almeida",
+            "fighter_b": "TJ Grant",
+            "winner": "Ricardo Almeida",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/42a361f33cbb8d6f"
+        },
+        {
+            "fight_id": "c4bbae7615545c85",
+            "fighter_a": "John Makdessi",
+            "fighter_b": "Pat Audinwood",
+            "winner": "John Makdessi",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4bbae7615545c85"
+        }
+    ]
+}

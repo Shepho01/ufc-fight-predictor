@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "0cfbbfa0ba6d9855",
+        "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+        "event_day": 28,
+        "event_month": 2,
+        "event_year": 2026,
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "1330b5c21269fe92",
+            "fighter_a": "Lone'er Kavanagh",
+            "fighter_b": "Brandon Moreno",
+            "winner": "Lone'er Kavanagh",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1330b5c21269fe92"
+        },
+        {
+            "fight_id": "36d12b31957e94db",
+            "fighter_a": "David Martinez",
+            "fighter_b": "Marlon Vera",
+            "winner": "David Martinez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/36d12b31957e94db"
+        },
+        {
+            "fight_id": "81f3d28d30d17378",
+            "fighter_a": "King Green",
+            "fighter_b": "Daniel Zellhuber",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 295,
+            "fight_url": "http://ufcstats.com/fight-details/81f3d28d30d17378"
+        },
+        {
+            "fight_id": "7df505d8260ba680",
+            "fighter_a": "Edgar Chairez",
+            "fighter_b": "Felipe Bunes",
+            "winner": "Edgar Chairez",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7df505d8260ba680"
+        },
+        {
+            "fight_id": "15068d7b095ca9bd",
+            "fighter_a": "Imanol Rodriguez",
+            "fighter_b": "Kevin Borjas",
+            "winner": "Imanol Rodriguez",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/15068d7b095ca9bd"
+        },
+        {
+            "fight_id": "3b76a00f5d0400eb",
+            "fighter_a": "Santiago Luna",
+            "fighter_b": "Angel Pacheco",
+            "winner": "Santiago Luna",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3b76a00f5d0400eb"
+        },
+        {
+            "fight_id": "45ec0c5f19c9adbe",
+            "fighter_a": "Ryan Gandra",
+            "fighter_b": "Jose Daniel Medina",
+            "winner": "Ryan Gandra",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/45ec0c5f19c9adbe"
+        },
+        {
+            "fight_id": "c40b934d2666e351",
+            "fighter_a": "Ailin Perez",
+            "fighter_b": "Macy Chiasson",
+            "winner": "Ailin Perez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c40b934d2666e351"
+        },
+        {
+            "fight_id": "25ab195cefbce1d0",
+            "fighter_a": "Cristian Quinonez",
+            "fighter_b": "Kris Moutinho",
+            "winner": "Cristian Quinonez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/25ab195cefbce1d0"
+        },
+        {
+            "fight_id": "6154ee95d3f4fc32",
+            "fighter_a": "Javier Reyes",
+            "fighter_b": "Douglas Silva de Andrade",
+            "winner": "Javier Reyes",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/6154ee95d3f4fc32"
+        },
+        {
+            "fight_id": "44d58943ac8e47e1",
+            "fighter_a": "Regina Tarin",
+            "fighter_b": "Ernesta Kareckaite",
+            "winner": "Regina Tarin",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/44d58943ac8e47e1"
+        },
+        {
+            "fight_id": "581292ffe5b09344",
+            "fighter_a": "Francis Marshall",
+            "fighter_b": "Erik Silva",
+            "winner": "Francis Marshall",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 149,
+            "fight_url": "http://ufcstats.com/fight-details/581292ffe5b09344"
+        },
+        {
+            "fight_id": "c6a85b67fdd2ef3d",
+            "fighter_a": "Damian Pinas",
+            "fighter_b": "Wes Schultz",
+            "winner": "Damian Pinas",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 150,
+            "fight_url": "http://ufcstats.com/fight-details/c6a85b67fdd2ef3d"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "9336e86cfd4ceaa1",
+        "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+        "event_day": 11,
+        "event_month": 10,
+        "event_year": 2025,
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "79865287be90e4be",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Mateusz Gamrot",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 168,
+            "fight_url": "http://ufcstats.com/fight-details/79865287be90e4be"
+        },
+        {
+            "fight_id": "f295eb2a7b0ba4b7",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Montel Jackson",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f295eb2a7b0ba4b7"
+        },
+        {
+            "fight_id": "6188b7fb3f8daacc",
+            "fighter_a": "Joel Alvarez",
+            "fighter_b": "Vicente Luque",
+            "winner": "Joel Alvarez",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6188b7fb3f8daacc"
+        },
+        {
+            "fight_id": "03377f7bf8a2d5ff",
+            "fighter_a": "Mario Pinto",
+            "fighter_b": "Jhonata Diniz",
+            "winner": "Mario Pinto",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 250,
+            "fight_url": "http://ufcstats.com/fight-details/03377f7bf8a2d5ff"
+        },
+        {
+            "fight_id": "2aef1a91d26dde42",
+            "fighter_a": "Kaan Ofli",
+            "fighter_b": "Ricardo Ramos",
+            "winner": "Kaan Ofli",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 182,
+            "fight_url": "http://ufcstats.com/fight-details/2aef1a91d26dde42"
+        },
+        {
+            "fight_id": "cff0abc02974fb4a",
+            "fighter_a": "Michael Aswell Jr.",
+            "fighter_b": "Lucas Almeida",
+            "winner": "Michael Aswell Jr.",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 102,
+            "fight_url": "http://ufcstats.com/fight-details/cff0abc02974fb4a"
+        },
+        {
+            "fight_id": "766b0b26c40525de",
+            "fighter_a": "Jafel Filho",
+            "fighter_b": "Clayton Carpenter",
+            "winner": "Jafel Filho",
+            "weight_class": "Flyweight",
+            "method": "SUB Kimura",
+            "round": 1,
+            "time_seconds": 282,
+            "fight_url": "http://ufcstats.com/fight-details/766b0b26c40525de"
+        },
+        {
+            "fight_id": "a815dafc89adf33b",
+            "fighter_a": "Vitor Petrino",
+            "fighter_b": "Thomas Petersen",
+            "winner": "Vitor Petrino",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/a815dafc89adf33b"
+        },
+        {
+            "fight_id": "546f971f9d8e0a33",
+            "fighter_a": "Bia Mesquita",
+            "fighter_b": "Irina Alekseeva",
+            "winner": "Bia Mesquita",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 134,
+            "fight_url": "http://ufcstats.com/fight-details/546f971f9d8e0a33"
+        },
+        {
+            "fight_id": "434abaea90ccd299",
+            "fighter_a": "Lucas Rocha",
+            "fighter_b": "Stewart Nicoll",
+            "winner": "Lucas Rocha",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/434abaea90ccd299"
+        },
+        {
+            "fight_id": "c547b3e95bcc5f24",
+            "fighter_a": "Julia Polastri",
+            "fighter_b": "Karolina Kowalkiewicz",
+            "winner": "Julia Polastri",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 176,
+            "fight_url": "http://ufcstats.com/fight-details/c547b3e95bcc5f24"
+        },
+        {
+            "fight_id": "0f9e7d0d04e24b74",
+            "fighter_a": "Luan Lacerda",
+            "fighter_b": "Saimon Oliveira",
+            "winner": "Luan Lacerda",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 235,
+            "fight_url": "http://ufcstats.com/fight-details/0f9e7d0d04e24b74"
+        }
+    ]
+}

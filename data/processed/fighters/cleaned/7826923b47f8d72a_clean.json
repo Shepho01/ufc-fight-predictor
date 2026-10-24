@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7826923b47f8d72a",
+    "name": "Paddy Pimblett",
+    "wins": 24,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 3,
+    "dob_month": 1,
+    "dob_year": 1995,
+    "sig_strikes_landed_per_min": 5.48,
+    "sig_striking_accuracy": 0.52,
+    "sig_strikes_absorbed_per_min": 3.86,
+    "sig_strike_defense": 0.42,
+    "takedowns_landed_per_15_min": 0.68,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.46,
+    "submission_attempts_per_15_min": 1.4
+}

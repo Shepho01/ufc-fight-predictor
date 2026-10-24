@@ -1,0 +1,72 @@
+{
+    "fighter_id": "aa1952ec0b3dd8e1",
+    "name": "Kurt Pellegrino",
+    "record": "16-7-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "May 07, 1979",
+    "sig_strikes_landed_per_min": "2.45",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "1.94",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "2.90",
+    "takedown_accuracy": "54%",
+    "takedown_defense": "69%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "e595cb4bfc26193b",
+            "fight_url": "http://ufcstats.com/fight-details/e595cb4bfc26193b"
+        },
+        {
+            "fight_id": "b5608e83faac1387",
+            "fight_url": "http://ufcstats.com/fight-details/b5608e83faac1387"
+        },
+        {
+            "fight_id": "e74e3c2a96fa9c55",
+            "fight_url": "http://ufcstats.com/fight-details/e74e3c2a96fa9c55"
+        },
+        {
+            "fight_id": "b71f07f052d0a48b",
+            "fight_url": "http://ufcstats.com/fight-details/b71f07f052d0a48b"
+        },
+        {
+            "fight_id": "0a1f2e1f9d91bc9a",
+            "fight_url": "http://ufcstats.com/fight-details/0a1f2e1f9d91bc9a"
+        },
+        {
+            "fight_id": "976f7f5e7537c62b",
+            "fight_url": "http://ufcstats.com/fight-details/976f7f5e7537c62b"
+        },
+        {
+            "fight_id": "089dd2e0cc6395fa",
+            "fight_url": "http://ufcstats.com/fight-details/089dd2e0cc6395fa"
+        },
+        {
+            "fight_id": "3957d820e11275f7",
+            "fight_url": "http://ufcstats.com/fight-details/3957d820e11275f7"
+        },
+        {
+            "fight_id": "f00b588a0d9a90e4",
+            "fight_url": "http://ufcstats.com/fight-details/f00b588a0d9a90e4"
+        },
+        {
+            "fight_id": "b15bebf4c6b6f495",
+            "fight_url": "http://ufcstats.com/fight-details/b15bebf4c6b6f495"
+        },
+        {
+            "fight_id": "7455cb1ee651f774",
+            "fight_url": "http://ufcstats.com/fight-details/7455cb1ee651f774"
+        },
+        {
+            "fight_id": "979318b05efd1ea4",
+            "fight_url": "http://ufcstats.com/fight-details/979318b05efd1ea4"
+        },
+        {
+            "fight_id": "eb8a108217b234cb",
+            "fight_url": "http://ufcstats.com/fight-details/eb8a108217b234cb"
+        }
+    ]
+}

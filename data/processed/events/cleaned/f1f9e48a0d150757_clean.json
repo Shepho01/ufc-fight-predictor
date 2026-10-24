@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "f1f9e48a0d150757",
+        "event_name": "UFC 133: Evans vs Ortiz 2",
+        "event_day": 6,
+        "event_month": 8,
+        "event_year": 2011,
+        "location": "Philadelphia, Pennsylvania, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "68ac97071275099f",
+            "fighter_a": "Rashad Evans",
+            "fighter_b": "Tito Ortiz",
+            "winner": "Rashad Evans",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 288,
+            "fight_url": "http://ufcstats.com/fight-details/68ac97071275099f"
+        },
+        {
+            "fight_id": "eb3093e235f048c8",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Yoshihiro Akiyama",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 112,
+            "fight_url": "http://ufcstats.com/fight-details/eb3093e235f048c8"
+        },
+        {
+            "fight_id": "27593cd1cda3cc2f",
+            "fighter_a": "Brian Ebersole",
+            "fighter_b": "Dennis Hallman",
+            "winner": "Brian Ebersole",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 268,
+            "fight_url": "http://ufcstats.com/fight-details/27593cd1cda3cc2f"
+        },
+        {
+            "fight_id": "04df2fbb108b23c1",
+            "fighter_a": "Constantinos Philippou",
+            "fighter_b": "Jorge Rivera",
+            "winner": "Constantinos Philippou",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/04df2fbb108b23c1"
+        },
+        {
+            "fight_id": "c299ca1bc07857d5",
+            "fighter_a": "Rory MacDonald",
+            "fighter_b": "Mike Pyle",
+            "winner": "Rory MacDonald",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 234,
+            "fight_url": "http://ufcstats.com/fight-details/c299ca1bc07857d5"
+        },
+        {
+            "fight_id": "48ac0e2cf3681cca",
+            "fighter_a": "Alexander Gustafsson",
+            "fighter_b": "Matt Hamill",
+            "winner": "Alexander Gustafsson",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 214,
+            "fight_url": "http://ufcstats.com/fight-details/48ac0e2cf3681cca"
+        },
+        {
+            "fight_id": "e516a0e035fd57f7",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Rani Yahya",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e516a0e035fd57f7"
+        },
+        {
+            "fight_id": "de41ca23c9a13bfb",
+            "fighter_a": "Ivan Menjivar",
+            "fighter_b": "Nick Pace",
+            "winner": "Ivan Menjivar",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de41ca23c9a13bfb"
+        },
+        {
+            "fight_id": "87cc38e9d565f819",
+            "fighter_a": "Johny Hendricks",
+            "fighter_b": "Mike Pierce",
+            "winner": "Johny Hendricks",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/87cc38e9d565f819"
+        },
+        {
+            "fight_id": "9468f58f8abf78df",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Nam Phan",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9468f58f8abf78df"
+        },
+        {
+            "fight_id": "ba2f30fb7143a6b1",
+            "fighter_a": "Rafael Natal",
+            "fighter_b": "Paul Bradley",
+            "winner": "Rafael Natal",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ba2f30fb7143a6b1"
+        }
+    ]
+}

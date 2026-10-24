@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "45c260921c7a96a6",
+        "event_id": "9f1641c08cf8fbe2",
+        "event_name": "WEC 50: Cruz vs. Benavidez",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Josh Rosenthal",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 78",
+            "Sig. str. %": "34%",
+            "Total str.": "73 of 125",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 78",
+            "Sig. str. %": "34%",
+            "Head": "13 of 62",
+            "Body": "5 of 7",
+            "Leg": "9 of 9",
+            "Distance": "24 of 70",
+            "Clinch": "1 of 5",
+            "Ground": "2 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 42",
+            "Sig. str. %": "40%",
+            "Total str.": "27 of 52",
+            "Td": "8 of 10",
+            "Td %": "80%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "9:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 42",
+            "Sig. str. %": "40%",
+            "Head": "16 of 40",
+            "Body": "0 of 0",
+            "Leg": "1 of 2",
+            "Distance": "8 of 27",
+            "Clinch": "0 of 1",
+            "Ground": "9 of 14"
+        }
+    }
+}

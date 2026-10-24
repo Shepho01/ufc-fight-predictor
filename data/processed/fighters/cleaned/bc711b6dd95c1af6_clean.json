@@ -1,0 +1,23 @@
+{
+    "fighter_id": "bc711b6dd95c1af6",
+    "name": "Mario Bautista",
+    "wins": 18,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 135,
+    "reach_cm": 175.26,
+    "stance": "Switch",
+    "dob_day": 1,
+    "dob_month": 7,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 5.52,
+    "sig_striking_accuracy": 0.5,
+    "sig_strikes_absorbed_per_min": 4.17,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 2.49,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.57,
+    "submission_attempts_per_15_min": 1.1
+}

@@ -1,0 +1,60 @@
+{
+    "fighter_id": "cbd3e590a85b18c5",
+    "name": "Mirsad Bektic",
+    "record": "13-4-0",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Feb 16, 1991",
+    "sig_strikes_landed_per_min": "2.43",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "1.80",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "3.98",
+    "takedown_accuracy": "52%",
+    "takedown_defense": "92%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "aa08ebe1a69c76ca",
+            "fight_url": "http://ufcstats.com/fight-details/aa08ebe1a69c76ca"
+        },
+        {
+            "fight_id": "be822403f364fff3",
+            "fight_url": "http://ufcstats.com/fight-details/be822403f364fff3"
+        },
+        {
+            "fight_id": "138cb102906573f2",
+            "fight_url": "http://ufcstats.com/fight-details/138cb102906573f2"
+        },
+        {
+            "fight_id": "32990cbf8976d94b",
+            "fight_url": "http://ufcstats.com/fight-details/32990cbf8976d94b"
+        },
+        {
+            "fight_id": "b8648b32caf36c5a",
+            "fight_url": "http://ufcstats.com/fight-details/b8648b32caf36c5a"
+        },
+        {
+            "fight_id": "3b536afcc9098925",
+            "fight_url": "http://ufcstats.com/fight-details/3b536afcc9098925"
+        },
+        {
+            "fight_id": "23253ebb1d86d8b4",
+            "fight_url": "http://ufcstats.com/fight-details/23253ebb1d86d8b4"
+        },
+        {
+            "fight_id": "e54fe354981fe3e7",
+            "fight_url": "http://ufcstats.com/fight-details/e54fe354981fe3e7"
+        },
+        {
+            "fight_id": "c740ceb0427b6317",
+            "fight_url": "http://ufcstats.com/fight-details/c740ceb0427b6317"
+        },
+        {
+            "fight_id": "70e0e57a6755e31e",
+            "fight_url": "http://ufcstats.com/fight-details/70e0e57a6755e31e"
+        }
+    ]
+}

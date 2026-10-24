@@ -1,0 +1,40 @@
+{
+    "fighter_id": "70380ccdc81915b8",
+    "name": "Yadier del Valle",
+    "record": "11-1-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Jul 29, 1996",
+    "sig_strikes_landed_per_min": "4.12",
+    "sig_striking_accuracy": "61%",
+    "sig_strikes_absorbed_per_min": "2.13",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "1.21",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "2.0",
+    "fight_history": [
+        {
+            "fight_id": "06bfde3e3577906f",
+            "fight_url": "http://ufcstats.com/fight-details/06bfde3e3577906f"
+        },
+        {
+            "fight_id": "5b97f47cdd355cbe",
+            "fight_url": "http://ufcstats.com/fight-details/5b97f47cdd355cbe"
+        },
+        {
+            "fight_id": "767b78b67c7da17c",
+            "fight_url": "http://ufcstats.com/fight-details/767b78b67c7da17c"
+        },
+        {
+            "fight_id": "d6e2bc6e6c0cc4fe",
+            "fight_url": "http://ufcstats.com/fight-details/d6e2bc6e6c0cc4fe"
+        },
+        {
+            "fight_id": "477ad8189ec7153d",
+            "fight_url": "http://ufcstats.com/fight-details/477ad8189ec7153d"
+        }
+    ]
+}

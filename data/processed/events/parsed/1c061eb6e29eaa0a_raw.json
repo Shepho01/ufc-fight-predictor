@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "1c061eb6e29eaa0a",
+        "event_name": "UFC on FOX: Velasquez vs Dos Santos",
+        "event_date": "November 12, 2011",
+        "location": "Anaheim, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "78294f5d5e0f2b13",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Cain Velasquez",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:04",
+            "fight_url": "http://ufcstats.com/fight-details/78294f5d5e0f2b13"
+        },
+        {
+            "fight_id": "5254658d4e4126c9",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Clay Guida",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5254658d4e4126c9"
+        },
+        {
+            "fight_id": "db690563ae7fa070",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Pablo Garza",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "SUB D'Arce Choke",
+            "round": "2",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/db690563ae7fa070"
+        },
+        {
+            "fight_id": "0f22781ab4635414",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Cub Swanson",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "2:16",
+            "fight_url": "http://ufcstats.com/fight-details/0f22781ab4635414"
+        },
+        {
+            "fight_id": "bc7743819590b193",
+            "fighter_a": "DaMarques Johnson",
+            "fighter_b": "Clay Harvison",
+            "winner": "DaMarques Johnson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/bc7743819590b193"
+        },
+        {
+            "fight_id": "f0666193c544be4a",
+            "fighter_a": "Darren Uyenoyama",
+            "fighter_b": "Norifumi Yamamoto",
+            "winner": "Darren Uyenoyama",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f0666193c544be4a"
+        },
+        {
+            "fight_id": "8208afe1e52b02e9",
+            "fighter_a": "Mackens Semerzier",
+            "fighter_b": "Robert Peralta",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "Overturned",
+            "round": "3",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/8208afe1e52b02e9"
+        },
+        {
+            "fight_id": "9eed1b277c76f576",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Cole Escovedo",
+            "winner": "Alex Caceres",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9eed1b277c76f576"
+        },
+        {
+            "fight_id": "42a353676554ecf2",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "Paul Bradley",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/42a353676554ecf2"
+        },
+        {
+            "fight_id": "48c6c45d9628bb79",
+            "fighter_a": "Aaron Rosa",
+            "fighter_b": "Matt Lucas",
+            "winner": "Aaron Rosa",
+            "weight_class": "Light Heavyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/48c6c45d9628bb79"
+        }
+    ]
+}

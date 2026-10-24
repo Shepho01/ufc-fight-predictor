@@ -1,0 +1,68 @@
+{
+    "fighter_id": "4bd6b4800070b069",
+    "name": "Chas Skelly",
+    "record": "19-3-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "May 11, 1985",
+    "sig_strikes_landed_per_min": "2.01",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.21",
+    "sig_strike_defense": "49%",
+    "takedowns_landed_per_15_min": "1.74",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "39%",
+    "submission_attempts_per_15_min": "2.3",
+    "fight_history": [
+        {
+            "fight_id": "2d8db91f91f68069",
+            "fight_url": "http://ufcstats.com/fight-details/2d8db91f91f68069"
+        },
+        {
+            "fight_id": "462a95890423d3c6",
+            "fight_url": "http://ufcstats.com/fight-details/462a95890423d3c6"
+        },
+        {
+            "fight_id": "04d37c1c206c0efd",
+            "fight_url": "http://ufcstats.com/fight-details/04d37c1c206c0efd"
+        },
+        {
+            "fight_id": "9882c1dac77c0367",
+            "fight_url": "http://ufcstats.com/fight-details/9882c1dac77c0367"
+        },
+        {
+            "fight_id": "478221ad98336565",
+            "fight_url": "http://ufcstats.com/fight-details/478221ad98336565"
+        },
+        {
+            "fight_id": "00b7497b02b3b2bb",
+            "fight_url": "http://ufcstats.com/fight-details/00b7497b02b3b2bb"
+        },
+        {
+            "fight_id": "d3255f2b8ef2b559",
+            "fight_url": "http://ufcstats.com/fight-details/d3255f2b8ef2b559"
+        },
+        {
+            "fight_id": "6d9f6f7004c791d5",
+            "fight_url": "http://ufcstats.com/fight-details/6d9f6f7004c791d5"
+        },
+        {
+            "fight_id": "b91807add93763c9",
+            "fight_url": "http://ufcstats.com/fight-details/b91807add93763c9"
+        },
+        {
+            "fight_id": "7ba4a04673307cc9",
+            "fight_url": "http://ufcstats.com/fight-details/7ba4a04673307cc9"
+        },
+        {
+            "fight_id": "e8f6232d12d52b58",
+            "fight_url": "http://ufcstats.com/fight-details/e8f6232d12d52b58"
+        },
+        {
+            "fight_id": "70e0e57a6755e31e",
+            "fight_url": "http://ufcstats.com/fight-details/70e0e57a6755e31e"
+        }
+    ]
+}

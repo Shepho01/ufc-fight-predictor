@@ -1,0 +1,36 @@
+{
+    "fighter_id": "4c8d6fde2dde07c4",
+    "name": "Dan Lauzon",
+    "record": "17-6-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Mar 30, 1988",
+    "sig_strikes_landed_per_min": "1.34",
+    "sig_striking_accuracy": "25%",
+    "sig_strikes_absorbed_per_min": "4.09",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "1.63",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "80%",
+    "submission_attempts_per_15_min": "2.7",
+    "fight_history": [
+        {
+            "fight_id": "3832958c913305f0",
+            "fight_url": "http://ufcstats.com/fight-details/3832958c913305f0"
+        },
+        {
+            "fight_id": "47245dd345d9ef7e",
+            "fight_url": "http://ufcstats.com/fight-details/47245dd345d9ef7e"
+        },
+        {
+            "fight_id": "4ff244d056c1c815",
+            "fight_url": "http://ufcstats.com/fight-details/4ff244d056c1c815"
+        },
+        {
+            "fight_id": "94c1844d487490ef",
+            "fight_url": "http://ufcstats.com/fight-details/94c1844d487490ef"
+        }
+    ]
+}

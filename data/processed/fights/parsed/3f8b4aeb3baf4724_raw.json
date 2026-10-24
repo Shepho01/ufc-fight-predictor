@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3f8b4aeb3baf4724",
+        "event_id": "3c6976f8182d9527",
+        "event_name": "UFC 288: Sterling vs. Cejudo",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:08",
+        "referee": "Herb Dean",
+        "winner_id": "dccb63727f2f5f74"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 59",
+            "Sig. str. %": "33%",
+            "Total str.": "20 of 59",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 59",
+            "Sig. str. %": "33%",
+            "Head": "12 of 50",
+            "Body": "8 of 9",
+            "Leg": "0 of 0",
+            "Distance": "19 of 58",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "dccb63727f2f5f74",
+        "name": "Matt Frevola",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "35 of 75",
+            "Sig. str. %": "46%",
+            "Total str.": "39 of 79",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 75",
+            "Sig. str. %": "46%",
+            "Head": "26 of 61",
+            "Body": "6 of 11",
+            "Leg": "3 of 3",
+            "Distance": "22 of 58",
+            "Clinch": "1 of 2",
+            "Ground": "12 of 15"
+        }
+    }
+}

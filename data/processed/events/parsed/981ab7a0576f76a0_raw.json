@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "981ab7a0576f76a0",
+        "event_name": "UFC 301: Pantoja vs. Erceg",
+        "event_date": "May 04, 2024",
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "3f419fce8ba8aa0e",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Steve Erceg",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f419fce8ba8aa0e"
+        },
+        {
+            "fight_id": "b3d88eaea611a4a8",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Jonathan Martinez",
+            "winner": "Jose Aldo",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b3d88eaea611a4a8"
+        },
+        {
+            "fight_id": "a8718a3419a11e15",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Vitor Petrino",
+            "winner": "Anthony Smith",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:00",
+            "fight_url": "http://ufcstats.com/fight-details/a8718a3419a11e15"
+        },
+        {
+            "fight_id": "3e74caa9fff4a5eb",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Michel Pereira",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/3e74caa9fff4a5eb"
+        },
+        {
+            "fight_id": "2db0998b24c11ea0",
+            "fighter_a": "Caio Borralho",
+            "fighter_b": "Paul Craig",
+            "winner": "Caio Borralho",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:10",
+            "fight_url": "http://ufcstats.com/fight-details/2db0998b24c11ea0"
+        },
+        {
+            "fight_id": "c456b1950208e0b2",
+            "fighter_a": "Joanderson Brito",
+            "fighter_b": "Jack Shore",
+            "winner": "Joanderson Brito",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "3:35",
+            "fight_url": "http://ufcstats.com/fight-details/c456b1950208e0b2"
+        },
+        {
+            "fight_id": "c84a29f426f1aab7",
+            "fighter_a": "Iasmin Lucindo",
+            "fighter_b": "Karolina Kowalkiewicz",
+            "winner": "Iasmin Lucindo",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c84a29f426f1aab7"
+        },
+        {
+            "fight_id": "8a121f9c48f3773c",
+            "fighter_a": "Myktybek Orolbai",
+            "fighter_b": "Elves Brener",
+            "winner": "Myktybek Orolbai",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8a121f9c48f3773c"
+        },
+        {
+            "fight_id": "2faf5b8d708f8e94",
+            "fighter_a": "Drakkar Klose",
+            "fighter_b": "Joaquim Silva",
+            "winner": "Drakkar Klose",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2faf5b8d708f8e94"
+        },
+        {
+            "fight_id": "b9de363e6b406853",
+            "fighter_a": "Mauricio Ruffy",
+            "fighter_b": "Jamie Mullarkey",
+            "winner": "Mauricio Ruffy",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/b9de363e6b406853"
+        },
+        {
+            "fight_id": "4661e9ca9354021e",
+            "fighter_a": "Dione Barbosa",
+            "fighter_b": "Ernesta Kareckaite",
+            "winner": "Dione Barbosa",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4661e9ca9354021e"
+        },
+        {
+            "fight_id": "89db7aca37b87711",
+            "fighter_a": "Ismael Bonfim",
+            "fighter_b": "Vinc Pichel",
+            "winner": "Ismael Bonfim",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/89db7aca37b87711"
+        },
+        {
+            "fight_id": "fe0f1b418e6d3ecb",
+            "fighter_a": "Alessandro Costa",
+            "fighter_b": "Kevin Borjas",
+            "winner": "Alessandro Costa",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:35",
+            "fight_url": "http://ufcstats.com/fight-details/fe0f1b418e6d3ecb"
+        }
+    ]
+}

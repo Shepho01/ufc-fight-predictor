@@ -1,0 +1,40 @@
+{
+    "fighter_id": "1dafccb62a0f98ec",
+    "name": "Robert Whiteford",
+    "record": "14-4-0",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Apr 12, 1983",
+    "sig_strikes_landed_per_min": "2.33",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "1.99",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "1.90",
+    "takedown_accuracy": "30%",
+    "takedown_defense": "45%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "42afd8c4fc85f485",
+            "fight_url": "http://ufcstats.com/fight-details/42afd8c4fc85f485"
+        },
+        {
+            "fight_id": "cf3a93dd5460593c",
+            "fight_url": "http://ufcstats.com/fight-details/cf3a93dd5460593c"
+        },
+        {
+            "fight_id": "3bb7210200d90d90",
+            "fight_url": "http://ufcstats.com/fight-details/3bb7210200d90d90"
+        },
+        {
+            "fight_id": "543dca66a449d9d5",
+            "fight_url": "http://ufcstats.com/fight-details/543dca66a449d9d5"
+        },
+        {
+            "fight_id": "ce9e10ad39976287",
+            "fight_url": "http://ufcstats.com/fight-details/ce9e10ad39976287"
+        }
+    ]
+}

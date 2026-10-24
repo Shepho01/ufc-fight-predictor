@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b13e3620949300c5",
+        "event_id": "d1152823307d7e7c",
+        "event_name": "UFC 125: Resolution",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "77 of 148",
+            "Sig. str. %": "52%",
+            "Total str.": "106 of 181",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "7:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 148",
+            "Sig. str. %": "52%",
+            "Head": "55 of 120",
+            "Body": "11 of 16",
+            "Leg": "11 of 12",
+            "Distance": "29 of 54",
+            "Clinch": "41 of 82",
+            "Ground": "7 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "60ba33c3f555a7a3",
+        "name": "Josh Grispi",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 43",
+            "Sig. str. %": "37%",
+            "Total str.": "35 of 63",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "2:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 43",
+            "Sig. str. %": "37%",
+            "Head": "7 of 27",
+            "Body": "5 of 10",
+            "Leg": "4 of 6",
+            "Distance": "11 of 30",
+            "Clinch": "4 of 11",
+            "Ground": "1 of 2"
+        }
+    }
+}

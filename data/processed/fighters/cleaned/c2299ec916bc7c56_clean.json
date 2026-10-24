@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c2299ec916bc7c56",
+    "name": "Benoit Saint Denis",
+    "wins": 17,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Southpaw",
+    "dob_day": 18,
+    "dob_month": 12,
+    "dob_year": 1995,
+    "sig_strikes_landed_per_min": 5.58,
+    "sig_striking_accuracy": 0.58,
+    "sig_strikes_absorbed_per_min": 4.09,
+    "sig_strike_defense": 0.41,
+    "takedowns_landed_per_15_min": 4.15,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.72,
+    "submission_attempts_per_15_min": 1.7
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "18968f97ad34f15c",
+    "name": "Jeremy Stephens",
+    "wins": 29,
+    "losses": 23,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 25,
+    "dob_month": 5,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 3.13,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.25,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 1.1,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 0.4
+}

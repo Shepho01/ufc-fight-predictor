@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "243e5e9b6678f303",
+        "event_id": "a58114c6dd0add64",
+        "event_name": "UFC 188: Velasquez vs Werdum",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 100",
+            "Sig. str. %": "56%",
+            "Total str.": "97 of 149",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "2",
+            "Rev.": "2",
+            "Ctrl": "0:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 100",
+            "Sig. str. %": "56%",
+            "Head": "33 of 74",
+            "Body": "10 of 12",
+            "Leg": "13 of 14",
+            "Distance": "39 of 79",
+            "Clinch": "4 of 4",
+            "Ground": "13 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "40093d1d2d78394e",
+        "name": "Charles Rosa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "39 of 79",
+            "Sig. str. %": "49%",
+            "Total str.": "67 of 117",
+            "Td": "5 of 14",
+            "Td %": "35%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "39 of 79",
+            "Sig. str. %": "49%",
+            "Head": "30 of 67",
+            "Body": "3 of 5",
+            "Leg": "6 of 7",
+            "Distance": "23 of 51",
+            "Clinch": "0 of 1",
+            "Ground": "16 of 27"
+        }
+    }
+}

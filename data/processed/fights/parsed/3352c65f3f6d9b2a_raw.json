@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3352c65f3f6d9b2a",
+        "event_id": "c9885b1b7c7055a0",
+        "event_name": "UFC Fight Night: Holm vs. Bueno Silva",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "83 of 137",
+            "Sig. str. %": "60%",
+            "Total str.": "149 of 212",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "83 of 137",
+            "Sig. str. %": "60%",
+            "Head": "55 of 104",
+            "Body": "27 of 32",
+            "Leg": "1 of 1",
+            "Distance": "68 of 119",
+            "Clinch": "14 of 17",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f4d92416da98804b",
+        "name": "Bassil Hafez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 124",
+            "Sig. str. %": "25%",
+            "Total str.": "48 of 141",
+            "Td": "3 of 20",
+            "Td %": "15%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "6:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 124",
+            "Sig. str. %": "25%",
+            "Head": "29 of 117",
+            "Body": "2 of 6",
+            "Leg": "1 of 1",
+            "Distance": "28 of 118",
+            "Clinch": "4 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

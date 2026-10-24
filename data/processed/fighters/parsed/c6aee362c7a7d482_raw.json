@@ -1,0 +1,112 @@
+{
+    "fighter_id": "c6aee362c7a7d482",
+    "name": "Randy Brown",
+    "record": "20-8-0",
+    "height": "6' 3\"",
+    "weight": "170 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jul 08, 1990",
+    "sig_strikes_landed_per_min": "4.39",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "3.35",
+    "sig_strike_defense": "53%",
+    "takedowns_landed_per_15_min": "0.71",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "74%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "c7ecec486f611555",
+            "fight_url": "http://ufcstats.com/fight-details/c7ecec486f611555"
+        },
+        {
+            "fight_id": "b4e16fb13153efdc",
+            "fight_url": "http://ufcstats.com/fight-details/b4e16fb13153efdc"
+        },
+        {
+            "fight_id": "4e224ebb6394611d",
+            "fight_url": "http://ufcstats.com/fight-details/4e224ebb6394611d"
+        },
+        {
+            "fight_id": "fbf83609dc96f32e",
+            "fight_url": "http://ufcstats.com/fight-details/fbf83609dc96f32e"
+        },
+        {
+            "fight_id": "7c0d0a28a8fba102",
+            "fight_url": "http://ufcstats.com/fight-details/7c0d0a28a8fba102"
+        },
+        {
+            "fight_id": "fd2d814a8a23798f",
+            "fight_url": "http://ufcstats.com/fight-details/fd2d814a8a23798f"
+        },
+        {
+            "fight_id": "af6d56860ba4d259",
+            "fight_url": "http://ufcstats.com/fight-details/af6d56860ba4d259"
+        },
+        {
+            "fight_id": "42922bab8a3e1828",
+            "fight_url": "http://ufcstats.com/fight-details/42922bab8a3e1828"
+        },
+        {
+            "fight_id": "4f672dd40867d8c6",
+            "fight_url": "http://ufcstats.com/fight-details/4f672dd40867d8c6"
+        },
+        {
+            "fight_id": "7d0d2cecab358ba1",
+            "fight_url": "http://ufcstats.com/fight-details/7d0d2cecab358ba1"
+        },
+        {
+            "fight_id": "8390441d93736719",
+            "fight_url": "http://ufcstats.com/fight-details/8390441d93736719"
+        },
+        {
+            "fight_id": "d5ffdb5388ffabc6",
+            "fight_url": "http://ufcstats.com/fight-details/d5ffdb5388ffabc6"
+        },
+        {
+            "fight_id": "512af32553d9bd70",
+            "fight_url": "http://ufcstats.com/fight-details/512af32553d9bd70"
+        },
+        {
+            "fight_id": "2fb1abeb337e0ccc",
+            "fight_url": "http://ufcstats.com/fight-details/2fb1abeb337e0ccc"
+        },
+        {
+            "fight_id": "e6a0f19af995c432",
+            "fight_url": "http://ufcstats.com/fight-details/e6a0f19af995c432"
+        },
+        {
+            "fight_id": "4096b302747d47b3",
+            "fight_url": "http://ufcstats.com/fight-details/4096b302747d47b3"
+        },
+        {
+            "fight_id": "a3dd2249d046cf9d",
+            "fight_url": "http://ufcstats.com/fight-details/a3dd2249d046cf9d"
+        },
+        {
+            "fight_id": "e686df21c24c6c03",
+            "fight_url": "http://ufcstats.com/fight-details/e686df21c24c6c03"
+        },
+        {
+            "fight_id": "f680e6ebe3bdfe3e",
+            "fight_url": "http://ufcstats.com/fight-details/f680e6ebe3bdfe3e"
+        },
+        {
+            "fight_id": "02e3699be1d8daa2",
+            "fight_url": "http://ufcstats.com/fight-details/02e3699be1d8daa2"
+        },
+        {
+            "fight_id": "30b33d032605c885",
+            "fight_url": "http://ufcstats.com/fight-details/30b33d032605c885"
+        },
+        {
+            "fight_id": "8d9c71e110196262",
+            "fight_url": "http://ufcstats.com/fight-details/8d9c71e110196262"
+        },
+        {
+            "fight_id": "15f48dd8cf8ae455",
+            "fight_url": "http://ufcstats.com/fight-details/15f48dd8cf8ae455"
+        }
+    ]
+}

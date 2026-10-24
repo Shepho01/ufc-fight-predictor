@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "297a3fe0edd6f1c5",
+        "event_id": "96d173b7f92aa520",
+        "event_name": "UFC 153: Silva vs Bonnar",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "36 of 63",
+            "Sig. str. %": "57%",
+            "Total str.": "96 of 134",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "6:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "36 of 63",
+            "Sig. str. %": "57%",
+            "Head": "26 of 52",
+            "Body": "6 of 7",
+            "Leg": "4 of 4",
+            "Distance": "13 of 34",
+            "Clinch": "17 of 20",
+            "Ground": "6 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "a8283a4f415e1eb9",
+        "name": "Francisco Trinaldo",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "45 of 97",
+            "Sig. str. %": "46%",
+            "Total str.": "70 of 129",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "4:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 97",
+            "Sig. str. %": "46%",
+            "Head": "27 of 77",
+            "Body": "14 of 16",
+            "Leg": "4 of 4",
+            "Distance": "19 of 58",
+            "Clinch": "15 of 18",
+            "Ground": "11 of 21"
+        }
+    }
+}

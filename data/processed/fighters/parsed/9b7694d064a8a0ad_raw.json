@@ -1,0 +1,72 @@
+{
+    "fighter_id": "9b7694d064a8a0ad",
+    "name": "Rustam Khabilov",
+    "record": "24-4-0",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Nov 04, 1986",
+    "sig_strikes_landed_per_min": "1.98",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "2.16",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "3.95",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "c8dfcbee63266273",
+            "fight_url": "http://ufcstats.com/fight-details/c8dfcbee63266273"
+        },
+        {
+            "fight_id": "9af62d6e404c1002",
+            "fight_url": "http://ufcstats.com/fight-details/9af62d6e404c1002"
+        },
+        {
+            "fight_id": "ba33d0868b25483b",
+            "fight_url": "http://ufcstats.com/fight-details/ba33d0868b25483b"
+        },
+        {
+            "fight_id": "605c2ad801f594b3",
+            "fight_url": "http://ufcstats.com/fight-details/605c2ad801f594b3"
+        },
+        {
+            "fight_id": "8b983e834df0c6c4",
+            "fight_url": "http://ufcstats.com/fight-details/8b983e834df0c6c4"
+        },
+        {
+            "fight_id": "c5c1deb1607f69b4",
+            "fight_url": "http://ufcstats.com/fight-details/c5c1deb1607f69b4"
+        },
+        {
+            "fight_id": "97e895b7c2cb9db4",
+            "fight_url": "http://ufcstats.com/fight-details/97e895b7c2cb9db4"
+        },
+        {
+            "fight_id": "b29d4e0117776bb3",
+            "fight_url": "http://ufcstats.com/fight-details/b29d4e0117776bb3"
+        },
+        {
+            "fight_id": "4228886e94a25a63",
+            "fight_url": "http://ufcstats.com/fight-details/4228886e94a25a63"
+        },
+        {
+            "fight_id": "753004dcc9c53eb6",
+            "fight_url": "http://ufcstats.com/fight-details/753004dcc9c53eb6"
+        },
+        {
+            "fight_id": "dbc3afd71525c83d",
+            "fight_url": "http://ufcstats.com/fight-details/dbc3afd71525c83d"
+        },
+        {
+            "fight_id": "59ad5b88804afbf5",
+            "fight_url": "http://ufcstats.com/fight-details/59ad5b88804afbf5"
+        },
+        {
+            "fight_id": "12d17a837caeae63",
+            "fight_url": "http://ufcstats.com/fight-details/12d17a837caeae63"
+        }
+    ]
+}

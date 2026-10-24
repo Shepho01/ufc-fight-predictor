@@ -1,0 +1,28 @@
+{
+    "fighter_id": "443f60bec7c3c3d5",
+    "name": "Michael McBride",
+    "record": "8-3-0",
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Mar 09, 1986",
+    "sig_strikes_landed_per_min": "4.08",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "5.85",
+    "sig_strike_defense": "40%",
+    "takedowns_landed_per_15_min": "1.85",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "30%",
+    "submission_attempts_per_15_min": "1.2",
+    "fight_history": [
+        {
+            "fight_id": "cf18911df2052826",
+            "fight_url": "http://ufcstats.com/fight-details/cf18911df2052826"
+        },
+        {
+            "fight_id": "9b1386a28b81bcd5",
+            "fight_url": "http://ufcstats.com/fight-details/9b1386a28b81bcd5"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a117805ab030b194",
+        "event_id": "0ec821423baa26bd",
+        "event_name": "UFC 139: Shogun vs Henderson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason McCoy",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 128",
+            "Sig. str. %": "43%",
+            "Total str.": "64 of 136",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 128",
+            "Sig. str. %": "43%",
+            "Head": "45 of 117",
+            "Body": "10 of 10",
+            "Leg": "1 of 1",
+            "Distance": "53 of 123",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6a2f7c151031653d",
+        "name": "Rafael Dos Anjos",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 96",
+            "Sig. str. %": "26%",
+            "Total str.": "39 of 110",
+            "Td": "0 of 8",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 96",
+            "Sig. str. %": "26%",
+            "Head": "13 of 77",
+            "Body": "6 of 9",
+            "Leg": "6 of 10",
+            "Distance": "18 of 85",
+            "Clinch": "7 of 11",
+            "Ground": "0 of 0"
+        }
+    }
+}

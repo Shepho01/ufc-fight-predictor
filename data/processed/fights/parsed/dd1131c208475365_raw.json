@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "dd1131c208475365",
+        "event_id": "e5c38954c006f15c",
+        "event_name": "UFC Fight Night: Condit vs Kampmann 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "48 of 144",
+            "Sig. str. %": "33%",
+            "Total str.": "100 of 205",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "48 of 144",
+            "Sig. str. %": "33%",
+            "Head": "36 of 120",
+            "Body": "12 of 24",
+            "Leg": "0 of 0",
+            "Distance": "25 of 103",
+            "Clinch": "6 of 12",
+            "Ground": "17 of 29"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "ef7fa30364cbe7f2",
+        "name": "Hatsu Hioki",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 69",
+            "Sig. str. %": "44%",
+            "Total str.": "73 of 114",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "1:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 69",
+            "Sig. str. %": "44%",
+            "Head": "14 of 39",
+            "Body": "16 of 29",
+            "Leg": "1 of 1",
+            "Distance": "27 of 65",
+            "Clinch": "2 of 2",
+            "Ground": "2 of 2"
+        }
+    }
+}

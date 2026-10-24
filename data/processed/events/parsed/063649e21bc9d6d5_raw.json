@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "063649e21bc9d6d5",
+        "event_name": "UFC Fight Night: Henderson vs Dos Anjos",
+        "event_date": "August 23, 2014",
+        "location": "Tulsa, Oklahoma, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "351532f2fe6804d1",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Benson Henderson",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:31",
+            "fight_url": "http://ufcstats.com/fight-details/351532f2fe6804d1"
+        },
+        {
+            "fight_id": "c7765a3255701267",
+            "fighter_a": "Jordan Mein",
+            "fighter_b": "Mike Pyle",
+            "winner": "Jordan Mein",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:12",
+            "fight_url": "http://ufcstats.com/fight-details/c7765a3255701267"
+        },
+        {
+            "fight_id": "735ed861dee80d25",
+            "fighter_a": "Thales Leites",
+            "fighter_b": "Francis Carmont",
+            "winner": "Thales Leites",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:20",
+            "fight_url": "http://ufcstats.com/fight-details/735ed861dee80d25"
+        },
+        {
+            "fight_id": "56fbc2a376569c13",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Clay Collard",
+            "winner": "Max Holloway",
+            "weight_class": "Catch Weight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "3:47",
+            "fight_url": "http://ufcstats.com/fight-details/56fbc2a376569c13"
+        },
+        {
+            "fight_id": "20f0129fc4861674",
+            "fighter_a": "James Vick",
+            "fighter_b": "Valmir Lazaro",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/20f0129fc4861674"
+        },
+        {
+            "fight_id": "e8f6232d12d52b58",
+            "fighter_a": "Chas Skelly",
+            "fighter_b": "Tom Niinimaki",
+            "winner": "Chas Skelly",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:35",
+            "fight_url": "http://ufcstats.com/fight-details/e8f6232d12d52b58"
+        },
+        {
+            "fight_id": "954362efa4564d60",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Alex Garcia",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/954362efa4564d60"
+        },
+        {
+            "fight_id": "53fe9da9fb8d4f88",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Anthony Rocco Martin",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:38",
+            "fight_url": "http://ufcstats.com/fight-details/53fe9da9fb8d4f88"
+        },
+        {
+            "fight_id": "b2867869d4eb98ce",
+            "fighter_a": "Matt Hobar",
+            "fighter_b": "Aaron Phillips",
+            "winner": "Matt Hobar",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b2867869d4eb98ce"
+        },
+        {
+            "fight_id": "bb9c60bc6924f373",
+            "fighter_a": "Ben Saunders",
+            "fighter_b": "Chris Heatherly",
+            "winner": "Ben Saunders",
+            "weight_class": "Welterweight",
+            "method": "SUB Omoplata",
+            "round": "1",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/bb9c60bc6924f373"
+        },
+        {
+            "fight_id": "01be9ab42f1fd8e6",
+            "fighter_a": "Wilson Reis",
+            "fighter_b": "Joby Sanchez",
+            "winner": "Wilson Reis",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/01be9ab42f1fd8e6"
+        }
+    ]
+}

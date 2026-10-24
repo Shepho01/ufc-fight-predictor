@@ -1,0 +1,40 @@
+{
+    "fighter_id": "873626e5547b5235",
+    "name": "Kyle Prepolec",
+    "record": "18-11-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Aug 30, 1989",
+    "sig_strikes_landed_per_min": "3.01",
+    "sig_striking_accuracy": "33%",
+    "sig_strikes_absorbed_per_min": "6.59",
+    "sig_strike_defense": "45%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "41%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "5425c577ed4f50b3",
+            "fight_url": "http://ufcstats.com/fight-details/5425c577ed4f50b3"
+        },
+        {
+            "fight_id": "ecdbb3a5216b815e",
+            "fight_url": "http://ufcstats.com/fight-details/ecdbb3a5216b815e"
+        },
+        {
+            "fight_id": "c7190cd03e53fb61",
+            "fight_url": "http://ufcstats.com/fight-details/c7190cd03e53fb61"
+        },
+        {
+            "fight_id": "acf658afda38d8af",
+            "fight_url": "http://ufcstats.com/fight-details/acf658afda38d8af"
+        },
+        {
+            "fight_id": "003c84fc7c3fa028",
+            "fight_url": "http://ufcstats.com/fight-details/003c84fc7c3fa028"
+        }
+    ]
+}

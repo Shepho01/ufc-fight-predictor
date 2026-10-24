@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "ad3fdba28a7540cf",
+        "event_name": "UFC 332: Silva vs. Wang",
+        "event_date": "October 03, 2026",
+        "location": "Salt Lake City, Utah, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3f804eec9183e597",
+            "fighter_a": "Natalia Silva",
+            "fighter_b": "Wang Cong",
+            "winner": "Natalia Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3f804eec9183e597"
+        },
+        {
+            "fight_id": "514366f770553cc9",
+            "fighter_a": "Payton Talbott",
+            "fighter_b": "Deiveson Figueiredo",
+            "winner": "Payton Talbott",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:09",
+            "fight_url": "http://ufcstats.com/fight-details/514366f770553cc9"
+        },
+        {
+            "fight_id": "c93d7f60674df307",
+            "fighter_a": "Esteban Ribovics",
+            "fighter_b": "King Green",
+            "winner": "Esteban Ribovics",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:08",
+            "fight_url": "http://ufcstats.com/fight-details/c93d7f60674df307"
+        },
+        {
+            "fight_id": "a7c8722ad85eee5f",
+            "fighter_a": "Roberto Soldic",
+            "fighter_b": "Khaos Williams",
+            "winner": "Roberto Soldic",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7c8722ad85eee5f"
+        },
+        {
+            "fight_id": "ec45db01699c4b05",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Ateba Gautier",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:12",
+            "fight_url": "http://ufcstats.com/fight-details/ec45db01699c4b05"
+        },
+        {
+            "fight_id": "54bbe6d1eb248128",
+            "fighter_a": "Imanol Rodriguez",
+            "fighter_b": "Alden Coria",
+            "winner": "Imanol Rodriguez",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/54bbe6d1eb248128"
+        },
+        {
+            "fight_id": "31b85cd63fb291ed",
+            "fighter_a": "Damian Pinas",
+            "fighter_b": "Andrey Pulyaev",
+            "winner": "Damian Pinas",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/31b85cd63fb291ed"
+        },
+        {
+            "fight_id": "041f9b7dd3542fa6",
+            "fighter_a": "Marcus McGhee",
+            "fighter_b": "Anthony Romero",
+            "winner": "Marcus McGhee",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:58",
+            "fight_url": "http://ufcstats.com/fight-details/041f9b7dd3542fa6"
+        },
+        {
+            "fight_id": "bd673bf80b95d350",
+            "fighter_a": "Anthony Wint",
+            "fighter_b": "Lucas Armand",
+            "winner": "Anthony Wint",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:23",
+            "fight_url": "http://ufcstats.com/fight-details/bd673bf80b95d350"
+        },
+        {
+            "fight_id": "e92092a37dc1cfc8",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Mick Parkin",
+            "winner": "Johnny Walker",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "3:35",
+            "fight_url": "http://ufcstats.com/fight-details/e92092a37dc1cfc8"
+        },
+        {
+            "fight_id": "bc35fb29afba68b9",
+            "fighter_a": "Jacobe Smith",
+            "fighter_b": "Bruce Whitehead",
+            "winner": "Jacobe Smith",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/bc35fb29afba68b9"
+        },
+        {
+            "fight_id": "d0d2339f56681707",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "3:12",
+            "fight_url": "http://ufcstats.com/fight-details/d0d2339f56681707"
+        },
+        {
+            "fight_id": "bf93e735845cb960",
+            "fighter_a": "Ismail Naurdiev",
+            "fighter_b": "Marvin Vettori",
+            "winner": "Ismail Naurdiev",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bf93e735845cb960"
+        },
+        {
+            "fight_id": "e87db876810cbc3c",
+            "fighter_a": "Eric Nolan",
+            "fighter_b": "Court McGee",
+            "winner": "Eric Nolan",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/e87db876810cbc3c"
+        }
+    ]
+}

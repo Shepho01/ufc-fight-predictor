@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "81a18de517a3336a",
+        "event_id": "b0a6124751a56bc4",
+        "event_name": "UFC 277: Pena vs. Nunes 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "1:30",
+        "referee": "Mike Beltran",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "62 of 151",
+            "Sig. str. %": "41%",
+            "Total str.": "62 of 151",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 151",
+            "Sig. str. %": "41%",
+            "Head": "38 of 121",
+            "Body": "20 of 24",
+            "Leg": "4 of 6",
+            "Distance": "60 of 149",
+            "Clinch": "0 of 0",
+            "Ground": "2 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029afd138865d20a",
+        "name": "Rafael Alves",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 68",
+            "Sig. str. %": "54%",
+            "Total str.": "46 of 80",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 68",
+            "Sig. str. %": "54%",
+            "Head": "24 of 55",
+            "Body": "8 of 8",
+            "Leg": "5 of 5",
+            "Distance": "31 of 60",
+            "Clinch": "1 of 1",
+            "Ground": "5 of 7"
+        }
+    }
+}

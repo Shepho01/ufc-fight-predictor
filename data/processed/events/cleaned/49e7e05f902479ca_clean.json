@@ -1,0 +1,111 @@
+{
+    "event": {
+        "event_id": "49e7e05f902479ca",
+        "event_name": "UFC 223: Khabib vs. Iaquinta",
+        "event_day": 7,
+        "event_month": 4,
+        "event_year": 2018,
+        "location": "Brooklyn, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "eab7b76e177e1903",
+            "fighter_a": "Khabib Nurmagomedov",
+            "fighter_b": "Al Iaquinta",
+            "winner": "Khabib Nurmagomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/eab7b76e177e1903"
+        },
+        {
+            "fight_id": "829b3ee4145a1ae6",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Joanna Jedrzejczyk",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/829b3ee4145a1ae6"
+        },
+        {
+            "fight_id": "95edc0b6438f2592",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Calvin Kattar",
+            "winner": "Renato Moicano",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/95edc0b6438f2592"
+        },
+        {
+            "fight_id": "6c5f7f98ec0b6f17",
+            "fighter_a": "Zabit Magomedsharipov",
+            "fighter_b": "Kyle Bochniak",
+            "winner": "Zabit Magomedsharipov",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6c5f7f98ec0b6f17"
+        },
+        {
+            "fight_id": "bab65d16fa74fc5b",
+            "fighter_a": "Chris Gruetzemacher",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Chris Gruetzemacher",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bab65d16fa74fc5b"
+        },
+        {
+            "fight_id": "5315bd4542b21c4b",
+            "fighter_a": "Karolina Kowalkiewicz",
+            "fighter_b": "Felice Herrig",
+            "winner": "Karolina Kowalkiewicz",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5315bd4542b21c4b"
+        },
+        {
+            "fight_id": "8803935990adafc1",
+            "fighter_a": "Olivier Aubin-Mercier",
+            "fighter_b": "Evan Dunham",
+            "winner": "Olivier Aubin-Mercier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knees",
+            "round": 1,
+            "time_seconds": 53,
+            "fight_url": "http://ufcstats.com/fight-details/8803935990adafc1"
+        },
+        {
+            "fight_id": "28f7ba820350e3a3",
+            "fighter_a": "Ashlee Evans-Smith",
+            "fighter_b": "Bec Rawlings",
+            "winner": "Ashlee Evans-Smith",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/28f7ba820350e3a3"
+        },
+        {
+            "fight_id": "12563423bf15e75d",
+            "fighter_a": "Devin Clark",
+            "fighter_b": "Mike Rodriguez",
+            "winner": "Devin Clark",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/12563423bf15e75d"
+        }
+    ]
+}

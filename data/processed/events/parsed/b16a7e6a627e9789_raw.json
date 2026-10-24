@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "b16a7e6a627e9789",
+        "event_name": "UFC Fight Night: Moicano vs. The Korean Zombie",
+        "event_date": "June 22, 2019",
+        "location": "Greenville, South Carolina, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "aec1339028f3416c",
+            "fighter_a": "Chan Sung Jung",
+            "fighter_b": "Renato Moicano",
+            "winner": "Chan Sung Jung",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:58",
+            "fight_url": "http://ufcstats.com/fight-details/aec1339028f3416c"
+        },
+        {
+            "fight_id": "4096b302747d47b3",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Bryan Barberena",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/4096b302747d47b3"
+        },
+        {
+            "fight_id": "8f1b727757a60c07",
+            "fighter_a": "Andre Ewell",
+            "fighter_b": "Anderson Dos Santos",
+            "winner": "Andre Ewell",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8f1b727757a60c07"
+        },
+        {
+            "fight_id": "13129c1f044fdd47",
+            "fighter_a": "Andrea Lee",
+            "fighter_b": "Montana De La Rosa",
+            "winner": "Andrea Lee",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/13129c1f044fdd47"
+        },
+        {
+            "fight_id": "b1da312483a974b3",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Alessio Di Chirico",
+            "winner": "Kevin Holland",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b1da312483a974b3"
+        },
+        {
+            "fight_id": "f047e3605f8852d8",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Kevin Aguilar",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f047e3605f8852d8"
+        },
+        {
+            "fight_id": "6e9cf53cd87e1b7e",
+            "fighter_a": "Ashley Yoder",
+            "fighter_b": "Syuri Kondo",
+            "winner": "Ashley Yoder",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6e9cf53cd87e1b7e"
+        },
+        {
+            "fight_id": "ab4862ea4cbd0750",
+            "fighter_a": "Luis Pena",
+            "fighter_b": "Matt Wiman",
+            "winner": "Luis Pena",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:14",
+            "fight_url": "http://ufcstats.com/fight-details/ab4862ea4cbd0750"
+        },
+        {
+            "fight_id": "e4559c3cce6edec1",
+            "fighter_a": "Jairzinho Rozenstruik",
+            "fighter_b": "Allen Crowder",
+            "winner": "Jairzinho Rozenstruik",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:09",
+            "fight_url": "http://ufcstats.com/fight-details/e4559c3cce6edec1"
+        },
+        {
+            "fight_id": "fa98e2b8dceca9bb",
+            "fighter_a": "Molly McCann",
+            "fighter_b": "Ariane da Silva",
+            "winner": "Molly McCann",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fa98e2b8dceca9bb"
+        },
+        {
+            "fight_id": "f81f8cfe30e0a1e9",
+            "fighter_a": "Deron Winn",
+            "fighter_b": "Eric Spicely",
+            "winner": "Deron Winn",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f81f8cfe30e0a1e9"
+        }
+    ]
+}

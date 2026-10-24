@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "53278852bcd91e11",
+        "event_name": "UFC Fight Night: Lee vs. Oliveira",
+        "event_day": 14,
+        "event_month": 3,
+        "event_year": 2020,
+        "location": "Brasilia, Distrito Federal, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "e0b323dae5bf4c90",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Kevin Lee",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 28,
+            "fight_url": "http://ufcstats.com/fight-details/e0b323dae5bf4c90"
+        },
+        {
+            "fight_id": "5cee1d8f1e43d6f5",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Demian Maia",
+            "winner": "Gilbert Burns",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 154,
+            "fight_url": "http://ufcstats.com/fight-details/5cee1d8f1e43d6f5"
+        },
+        {
+            "fight_id": "c26a3f4c08333886",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Damir Hadzovic",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/c26a3f4c08333886"
+        },
+        {
+            "fight_id": "5bba49d88db7430f",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Johnny Walker",
+            "winner": "Nikita Krylov",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5bba49d88db7430f"
+        },
+        {
+            "fight_id": "dc45c8d70e256749",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "John Makdessi",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dc45c8d70e256749"
+        },
+        {
+            "fight_id": "b3c74554c871fbf8",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Jussier Formiga",
+            "winner": "Brandon Moreno",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b3c74554c871fbf8"
+        },
+        {
+            "fight_id": "ea303a8e6e31f264",
+            "fighter_a": "Amanda Ribas",
+            "fighter_b": "Randa Markos",
+            "winner": "Amanda Ribas",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ea303a8e6e31f264"
+        },
+        {
+            "fight_id": "9fc6aba53508dc48",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Aleksei Kunchenko",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9fc6aba53508dc48"
+        },
+        {
+            "fight_id": "e2503ed6a1f9257d",
+            "fighter_a": "Rani Yahya",
+            "fighter_b": "Enrique Barzola",
+            "winner": null,
+            "weight_class": "Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e2503ed6a1f9257d"
+        },
+        {
+            "fight_id": "2a1826612a7d739c",
+            "fighter_a": "Maryna Moroz",
+            "fighter_b": "Mayra Bueno Silva",
+            "winner": "Maryna Moroz",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2a1826612a7d739c"
+        },
+        {
+            "fight_id": "1a2d13834696c4ab",
+            "fighter_a": "David Dvorak",
+            "fighter_b": "Bruno Silva",
+            "winner": "David Dvorak",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1a2d13834696c4ab"
+        },
+        {
+            "fight_id": "ef526567c4dcf371",
+            "fighter_a": "Bea Malecki",
+            "fighter_b": "Veronica Hardy",
+            "winner": "Bea Malecki",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ef526567c4dcf371"
+        }
+    ]
+}

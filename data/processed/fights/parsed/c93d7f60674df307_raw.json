@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c93d7f60674df307",
+        "event_id": "ad3fdba28a7540cf",
+        "event_name": "UFC 332: Silva vs. Wang",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:08",
+        "referee": "Herb Dean",
+        "winner_id": "323d4ca260dfa0ba"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 49",
+            "Sig. str. %": "55%",
+            "Total str.": "29 of 51",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 49",
+            "Sig. str. %": "55%",
+            "Head": "11 of 23",
+            "Body": "11 of 18",
+            "Leg": "5 of 8",
+            "Distance": "24 of 46",
+            "Clinch": "3 of 3",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "323d4ca260dfa0ba",
+        "name": "Esteban Ribovics",
+        "result": "W",
+        "totals": {
+            "KD": "3",
+            "Sig. str.": "35 of 71",
+            "Sig. str. %": "49%",
+            "Total str.": "41 of 79",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 71",
+            "Sig. str. %": "49%",
+            "Head": "25 of 56",
+            "Body": "4 of 6",
+            "Leg": "6 of 9",
+            "Distance": "28 of 56",
+            "Clinch": "0 of 2",
+            "Ground": "7 of 13"
+        }
+    }
+}

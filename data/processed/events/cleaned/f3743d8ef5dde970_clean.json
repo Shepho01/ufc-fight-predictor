@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "f3743d8ef5dde970",
+        "event_name": "UFC 303: Pereira vs. Prochazka 2",
+        "event_day": 29,
+        "event_month": 6,
+        "event_year": 2024,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bca5d01f8775f852",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Jiri Prochazka",
+            "winner": "Alex Pereira",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 13,
+            "fight_url": "http://ufcstats.com/fight-details/bca5d01f8775f852"
+        },
+        {
+            "fight_id": "fc8ad0c7fc70dde7",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Dan Ige",
+            "winner": "Diego Lopes",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fc8ad0c7fc70dde7"
+        },
+        {
+            "fight_id": "bf878c083a6b30ad",
+            "fighter_a": "Roman Dolidze",
+            "fighter_b": "Anthony Smith",
+            "winner": "Roman Dolidze",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bf878c083a6b30ad"
+        },
+        {
+            "fight_id": "a571c622ab89b3d9",
+            "fighter_a": "Macy Chiasson",
+            "fighter_b": "Mayra Bueno Silva",
+            "winner": "Macy Chiasson",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 118,
+            "fight_url": "http://ufcstats.com/fight-details/a571c622ab89b3d9"
+        },
+        {
+            "fight_id": "fbf77262d8da342b",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Michael Page",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fbf77262d8da342b"
+        },
+        {
+            "fight_id": "daa6b47be304ec86",
+            "fighter_a": "Joe Pyfer",
+            "fighter_b": "Marc-Andre Barriault",
+            "winner": "Joe Pyfer",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 85,
+            "fight_url": "http://ufcstats.com/fight-details/daa6b47be304ec86"
+        },
+        {
+            "fight_id": "08489fdfb56ee19c",
+            "fighter_a": "Andre Fili",
+            "fighter_b": "Cub Swanson",
+            "winner": "Andre Fili",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/08489fdfb56ee19c"
+        },
+        {
+            "fight_id": "2b7883b304b3df1c",
+            "fighter_a": "Jean Silva",
+            "fighter_b": "Charles Jourdain",
+            "winner": "Jean Silva",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 82,
+            "fight_url": "http://ufcstats.com/fight-details/2b7883b304b3df1c"
+        },
+        {
+            "fight_id": "5f8a92f10e5451ce",
+            "fighter_a": "Payton Talbott",
+            "fighter_b": "Yanis Ghemmouri",
+            "winner": "Payton Talbott",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 19,
+            "fight_url": "http://ufcstats.com/fight-details/5f8a92f10e5451ce"
+        },
+        {
+            "fight_id": "2517029ff9c1a1a2",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Michelle Waterson-Gomez",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2517029ff9c1a1a2"
+        },
+        {
+            "fight_id": "3bbc222130d9dac7",
+            "fighter_a": "Martin Buday",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Martin Buday",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3bbc222130d9dac7"
+        },
+        {
+            "fight_id": "7856621db043423d",
+            "fighter_a": "Rei Tsuruya",
+            "fighter_b": "Carlos Hernandez",
+            "winner": "Rei Tsuruya",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7856621db043423d"
+        },
+        {
+            "fight_id": "bbe3d8a37a276511",
+            "fighter_a": "Vinicius Oliveira",
+            "fighter_b": "Ricky Simon",
+            "winner": "Vinicius Oliveira",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bbe3d8a37a276511"
+        }
+    ]
+}

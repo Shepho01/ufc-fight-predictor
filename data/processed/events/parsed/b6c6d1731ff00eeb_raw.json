@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "b6c6d1731ff00eeb",
+        "event_name": "UFC 289: Nunes vs. Aldana",
+        "event_date": "June 10, 2023",
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "69bc7ca8ce831731",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Irene Aldana",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/69bc7ca8ce831731"
+        },
+        {
+            "fight_id": "40e8bf8ce508c436",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/40e8bf8ce508c436"
+        },
+        {
+            "fight_id": "e9d5ffcacf7d8757",
+            "fighter_a": "Mike Malott",
+            "fighter_b": "Adam Fugitt",
+            "winner": "Mike Malott",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:06",
+            "fight_url": "http://ufcstats.com/fight-details/e9d5ffcacf7d8757"
+        },
+        {
+            "fight_id": "46c67efd68a0b15d",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Nate Landwehr",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/46c67efd68a0b15d"
+        },
+        {
+            "fight_id": "5311298f79414125",
+            "fighter_a": "Marc-Andre Barriault",
+            "fighter_b": "Eryk Anders",
+            "winner": "Marc-Andre Barriault",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5311298f79414125"
+        },
+        {
+            "fight_id": "96eaf07b34538b8b",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Chris Curtis",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/96eaf07b34538b8b"
+        },
+        {
+            "fight_id": "47a5d4bb68352055",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Miranda Maverick",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47a5d4bb68352055"
+        },
+        {
+            "fight_id": "e24b65cd8721349a",
+            "fighter_a": "Aiemann Zahabi",
+            "fighter_b": "Aoriqileng",
+            "winner": "Aiemann Zahabi",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:04",
+            "fight_url": "http://ufcstats.com/fight-details/e24b65cd8721349a"
+        },
+        {
+            "fight_id": "7ee8b91d7f80f8a7",
+            "fighter_a": "Kyle Nelson",
+            "fighter_b": "Blake Bilder",
+            "winner": "Kyle Nelson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ee8b91d7f80f8a7"
+        },
+        {
+            "fight_id": "947ea1122c04ba18",
+            "fighter_a": "Steve Erceg",
+            "fighter_b": "David Dvorak",
+            "winner": "Steve Erceg",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/947ea1122c04ba18"
+        },
+        {
+            "fight_id": "1676c64a94be0557",
+            "fighter_a": "Diana Belbita",
+            "fighter_b": "Maria Oliveira",
+            "winner": "Diana Belbita",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1676c64a94be0557"
+        }
+    ]
+}

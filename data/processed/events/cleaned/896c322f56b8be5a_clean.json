@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "896c322f56b8be5a",
+        "event_name": "UFC 103: Franklin vs Belfort",
+        "event_day": 19,
+        "event_month": 9,
+        "event_year": 2009,
+        "location": "Dallas, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "ec271393bc31ab72",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Rich Franklin",
+            "winner": "Vitor Belfort",
+            "weight_class": "Catch Weight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 182,
+            "fight_url": "http://ufcstats.com/fight-details/ec271393bc31ab72"
+        },
+        {
+            "fight_id": "2ff09ddaa2b78cc4",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Mirko Filipovic",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 120,
+            "fight_url": "http://ufcstats.com/fight-details/2ff09ddaa2b78cc4"
+        },
+        {
+            "fight_id": "acfa3a3c0d09bb57",
+            "fighter_a": "Paul Daley",
+            "fighter_b": "Martin Kampmann",
+            "winner": "Paul Daley",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 151,
+            "fight_url": "http://ufcstats.com/fight-details/acfa3a3c0d09bb57"
+        },
+        {
+            "fight_id": "fd61b04ee64f7f20",
+            "fighter_a": "Josh Koscheck",
+            "fighter_b": "Frank Trigg",
+            "winner": "Josh Koscheck",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 85,
+            "fight_url": "http://ufcstats.com/fight-details/fd61b04ee64f7f20"
+        },
+        {
+            "fight_id": "b272e9a4ed7a1b23",
+            "fighter_a": "Tyson Griffin",
+            "fighter_b": "Hermes Franca",
+            "winner": "Tyson Griffin",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 206,
+            "fight_url": "http://ufcstats.com/fight-details/b272e9a4ed7a1b23"
+        },
+        {
+            "fight_id": "656e1040e6e007b2",
+            "fighter_a": "Efrain Escudero",
+            "fighter_b": "Cole Miller",
+            "winner": "Efrain Escudero",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 216,
+            "fight_url": "http://ufcstats.com/fight-details/656e1040e6e007b2"
+        },
+        {
+            "fight_id": "a2da03d9c25b49e5",
+            "fighter_a": "Tomasz Drwal",
+            "fighter_b": "Drew McFedries",
+            "winner": "Tomasz Drwal",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 63,
+            "fight_url": "http://ufcstats.com/fight-details/a2da03d9c25b49e5"
+        },
+        {
+            "fight_id": "42a7d576dc207e63",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Steve Lopez",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/42a7d576dc207e63"
+        },
+        {
+            "fight_id": "92ea4999f99f55fd",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Rafaello Oliveira",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/92ea4999f99f55fd"
+        },
+        {
+            "fight_id": "7b06e7f2b34d24b8",
+            "fighter_a": "Rick Story",
+            "fighter_b": "Brian Foster",
+            "winner": "Rick Story",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/7b06e7f2b34d24b8"
+        },
+        {
+            "fight_id": "d359fe8a99250f64",
+            "fighter_a": "Eliot Marshall",
+            "fighter_b": "Jason Brilz",
+            "winner": "Eliot Marshall",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d359fe8a99250f64"
+        },
+        {
+            "fight_id": "e314474cb6a7a65c",
+            "fighter_a": "Vladimir Matyushenko",
+            "fighter_b": "Igor Pokrajac",
+            "winner": "Vladimir Matyushenko",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e314474cb6a7a65c"
+        },
+        {
+            "fight_id": "329a097e0b53daac",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Rob Emerson",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/329a097e0b53daac"
+        }
+    ]
+}

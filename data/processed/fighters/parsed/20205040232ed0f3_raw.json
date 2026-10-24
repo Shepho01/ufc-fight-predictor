@@ -1,0 +1,80 @@
+{
+    "fighter_id": "20205040232ed0f3",
+    "name": "Tyson Griffin",
+    "record": "16-8-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Apr 20, 1984",
+    "sig_strikes_landed_per_min": "3.71",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "2.30",
+    "sig_strike_defense": "65%",
+    "takedowns_landed_per_15_min": "1.87",
+    "takedown_accuracy": "46%",
+    "takedown_defense": "59%",
+    "submission_attempts_per_15_min": "0.9",
+    "fight_history": [
+        {
+            "fight_id": "8aefe4de7a490de6",
+            "fight_url": "http://ufcstats.com/fight-details/8aefe4de7a490de6"
+        },
+        {
+            "fight_id": "70ddd13934e6c0e9",
+            "fight_url": "http://ufcstats.com/fight-details/70ddd13934e6c0e9"
+        },
+        {
+            "fight_id": "83ea3c36a6f91cb8",
+            "fight_url": "http://ufcstats.com/fight-details/83ea3c36a6f91cb8"
+        },
+        {
+            "fight_id": "a01524699dfa3526",
+            "fight_url": "http://ufcstats.com/fight-details/a01524699dfa3526"
+        },
+        {
+            "fight_id": "72d69e969eda8679",
+            "fight_url": "http://ufcstats.com/fight-details/72d69e969eda8679"
+        },
+        {
+            "fight_id": "b272e9a4ed7a1b23",
+            "fight_url": "http://ufcstats.com/fight-details/b272e9a4ed7a1b23"
+        },
+        {
+            "fight_id": "f1100f1bc6cbb351",
+            "fight_url": "http://ufcstats.com/fight-details/f1100f1bc6cbb351"
+        },
+        {
+            "fight_id": "d5a0e8c67ed8abe0",
+            "fight_url": "http://ufcstats.com/fight-details/d5a0e8c67ed8abe0"
+        },
+        {
+            "fight_id": "61f0ceb980c1ae81",
+            "fight_url": "http://ufcstats.com/fight-details/61f0ceb980c1ae81"
+        },
+        {
+            "fight_id": "dd47c3359dc1b7d0",
+            "fight_url": "http://ufcstats.com/fight-details/dd47c3359dc1b7d0"
+        },
+        {
+            "fight_id": "669e3927b38a36fb",
+            "fight_url": "http://ufcstats.com/fight-details/669e3927b38a36fb"
+        },
+        {
+            "fight_id": "071d716229f5ae7f",
+            "fight_url": "http://ufcstats.com/fight-details/071d716229f5ae7f"
+        },
+        {
+            "fight_id": "063599b1d4107289",
+            "fight_url": "http://ufcstats.com/fight-details/063599b1d4107289"
+        },
+        {
+            "fight_id": "16dcd55681f990c0",
+            "fight_url": "http://ufcstats.com/fight-details/16dcd55681f990c0"
+        },
+        {
+            "fight_id": "6a3b6402a72cd57a",
+            "fight_url": "http://ufcstats.com/fight-details/6a3b6402a72cd57a"
+        }
+    ]
+}

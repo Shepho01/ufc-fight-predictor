@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1aa4c2fa5ffaff00",
+        "event_id": "c8a49ff2acb6f3c5",
+        "event_name": "UFC Fight Night: Dawson vs. Green",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:33",
+        "referee": "Keith Peterson",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "99bd51917728c25d",
+        "name": "Grant Dawson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 6",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 6",
+            "Sig. str. %": "0%",
+            "Head": "0 of 6",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "7 of 11",
+            "Sig. str. %": "63%",
+            "Total str.": "7 of 11",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 11",
+            "Sig. str. %": "63%",
+            "Head": "7 of 10",
+            "Body": "0 of 0",
+            "Leg": "0 of 1",
+            "Distance": "1 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "6 of 7"
+        }
+    }
+}

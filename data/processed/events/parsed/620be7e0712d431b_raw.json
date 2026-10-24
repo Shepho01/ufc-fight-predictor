@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "620be7e0712d431b",
+        "event_name": "UFC Fight Night: Poirier vs. Gaethje",
+        "event_date": "April 14, 2018",
+        "location": "Glendale, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "bfae2fb50efbdb0f",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Justin Gaethje",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "4",
+            "time": "0:33",
+            "fight_url": "http://ufcstats.com/fight-details/bfae2fb50efbdb0f"
+        },
+        {
+            "fight_id": "e18a8b333529cc09",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "Carlos Condit",
+            "winner": "Alex Oliveira",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "3:17",
+            "fight_url": "http://ufcstats.com/fight-details/e18a8b333529cc09"
+        },
+        {
+            "fight_id": "b8b9a8e504d51ba5",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Marvin Vettori",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b8b9a8e504d51ba5"
+        },
+        {
+            "fight_id": "57d05d28e3fbee4f",
+            "fighter_a": "Michelle Waterson-Gomez",
+            "fighter_b": "Cortney Casey",
+            "winner": "Michelle Waterson-Gomez",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/57d05d28e3fbee4f"
+        },
+        {
+            "fight_id": "5164f1c4103616fd",
+            "fighter_a": "Antonio Carlos Junior",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Antonio Carlos Junior",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:28",
+            "fight_url": "http://ufcstats.com/fight-details/5164f1c4103616fd"
+        },
+        {
+            "fight_id": "17c53d93d549cb03",
+            "fighter_a": "Muslim Salikhov",
+            "fighter_b": "Ricky Rainey",
+            "winner": "Muslim Salikhov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:12",
+            "fight_url": "http://ufcstats.com/fight-details/17c53d93d549cb03"
+        },
+        {
+            "fight_id": "15aee8ad5d9e9d58",
+            "fighter_a": "John Moraga",
+            "fighter_b": "Wilson Reis",
+            "winner": "John Moraga",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/15aee8ad5d9e9d58"
+        },
+        {
+            "fight_id": "01c9acf719298187",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Krzysztof Jotko",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "2:16",
+            "fight_url": "http://ufcstats.com/fight-details/01c9acf719298187"
+        },
+        {
+            "fight_id": "59363451049c929d",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Dan Moret",
+            "winner": "Gilbert Burns",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:59",
+            "fight_url": "http://ufcstats.com/fight-details/59363451049c929d"
+        },
+        {
+            "fight_id": "85060e6e71ed14e4",
+            "fighter_a": "Lauren Mueller",
+            "fighter_b": "Shana Dobson",
+            "winner": "Lauren Mueller",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/85060e6e71ed14e4"
+        },
+        {
+            "fight_id": "418a7100e490e791",
+            "fighter_a": "Yushin Okami",
+            "fighter_b": "Dhiego Lima",
+            "winner": "Yushin Okami",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/418a7100e490e791"
+        },
+        {
+            "fight_id": "47fc0736929125bd",
+            "fighter_a": "Adam Wieczorek",
+            "fighter_b": "Arjan Bhullar",
+            "winner": "Adam Wieczorek",
+            "weight_class": "Heavyweight",
+            "method": "SUB Omoplata",
+            "round": "2",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/47fc0736929125bd"
+        },
+        {
+            "fight_id": "bd1e01de1f24962b",
+            "fighter_a": "Alejandro Perez",
+            "fighter_b": "Matthew Lopez",
+            "winner": "Alejandro Perez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:42",
+            "fight_url": "http://ufcstats.com/fight-details/bd1e01de1f24962b"
+        },
+        {
+            "fight_id": "4210f9b11debf1fc",
+            "fighter_a": "Luke Sanders",
+            "fighter_b": "Patrick Williams",
+            "winner": "Luke Sanders",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4210f9b11debf1fc"
+        }
+    ]
+}

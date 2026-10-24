@@ -1,0 +1,23 @@
+{
+    "fighter_id": "040a74bb0a465c54",
+    "name": "Arnold Allen",
+    "wins": 21,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Southpaw",
+    "dob_day": 22,
+    "dob_month": 1,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 3.52,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 3.15,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 1.24,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.73,
+    "submission_attempts_per_15_min": 0.3
+}

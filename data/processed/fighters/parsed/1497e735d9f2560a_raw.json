@@ -1,0 +1,48 @@
+{
+    "fighter_id": "1497e735d9f2560a",
+    "name": "Ange Loosa",
+    "record": "10-5-0 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Mar 18, 1993",
+    "sig_strikes_landed_per_min": "5.46",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "6.59",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "2.53",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "83%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "2ae7404681deb3b3",
+            "fight_url": "http://ufcstats.com/fight-details/2ae7404681deb3b3"
+        },
+        {
+            "fight_id": "dad759ec50508147",
+            "fight_url": "http://ufcstats.com/fight-details/dad759ec50508147"
+        },
+        {
+            "fight_id": "a7fd9da657bbce8e",
+            "fight_url": "http://ufcstats.com/fight-details/a7fd9da657bbce8e"
+        },
+        {
+            "fight_id": "1be27d95bba03f17",
+            "fight_url": "http://ufcstats.com/fight-details/1be27d95bba03f17"
+        },
+        {
+            "fight_id": "4dac5258f22be059",
+            "fight_url": "http://ufcstats.com/fight-details/4dac5258f22be059"
+        },
+        {
+            "fight_id": "559031e51ced0b53",
+            "fight_url": "http://ufcstats.com/fight-details/559031e51ced0b53"
+        },
+        {
+            "fight_id": "e717df080b2f4843",
+            "fight_url": "http://ufcstats.com/fight-details/e717df080b2f4843"
+        }
+    ]
+}

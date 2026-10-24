@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4a1329cc8eb0928a",
+    "name": "Maximo Blanco",
+    "wins": 12,
+    "losses": 8,
+    "draws": 1,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 16,
+    "dob_month": 10,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 4.11,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 3.19,
+    "sig_strike_defense": 0.66,
+    "takedowns_landed_per_15_min": 1.85,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.3
+}

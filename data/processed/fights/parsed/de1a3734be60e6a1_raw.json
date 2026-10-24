@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "de1a3734be60e6a1",
+        "event_id": "5efaaf313b652dd7",
+        "event_name": "Noche UFC: Lopes vs. Silva",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:48",
+        "referee": "Mike Beltran",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "74 of 135",
+            "Sig. str. %": "54%",
+            "Total str.": "86 of 154",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:40"
+        },
+        "significant_strikes": {
+            "Sig. str": "74 of 135",
+            "Sig. str. %": "54%",
+            "Head": "63 of 118",
+            "Body": "1 of 1",
+            "Leg": "10 of 16",
+            "Distance": "31 of 65",
+            "Clinch": "1 of 2",
+            "Ground": "42 of 68"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "52ef95b5860fb28c",
+        "name": "Jean Silva",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "43 of 91",
+            "Sig. str. %": "47%",
+            "Total str.": "43 of 91",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 91",
+            "Sig. str. %": "47%",
+            "Head": "26 of 67",
+            "Body": "10 of 17",
+            "Leg": "7 of 7",
+            "Distance": "42 of 90",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "aa03a3ca00ac6827",
+        "event_name": "WEC 47: Bowles vs. Cruz",
+        "event_date": "March 06, 2010",
+        "location": "Columbus, Ohio, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b4524a197c3be378",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Brian Bowles",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b4524a197c3be378"
+        },
+        {
+            "fight_id": "43cc040a91145fa7",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Miguel Torres",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:57",
+            "fight_url": "http://ufcstats.com/fight-details/43cc040a91145fa7"
+        },
+        {
+            "fight_id": "9ada499a8b14bc94",
+            "fighter_a": "Javier Vazquez",
+            "fighter_b": "Jens Pulver",
+            "winner": "Javier Vazquez",
+            "weight_class": "Featherweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "3:41",
+            "fight_url": "http://ufcstats.com/fight-details/9ada499a8b14bc94"
+        },
+        {
+            "fight_id": "659a7d4a34820efe",
+            "fighter_a": "LC Davis",
+            "fighter_b": "Deividas Taurosevicius",
+            "winner": "LC Davis",
+            "weight_class": "Featherweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/659a7d4a34820efe"
+        },
+        {
+            "fight_id": "f8c685c49f910f61",
+            "fighter_a": "Bart Palaszewski",
+            "fighter_b": "Karen Darabedyan",
+            "winner": "Bart Palaszewski",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "4:40",
+            "fight_url": "http://ufcstats.com/fight-details/f8c685c49f910f61"
+        },
+        {
+            "fight_id": "75098d531205a293",
+            "fighter_a": "Scott Jorgensen",
+            "fighter_b": "Chad George",
+            "winner": "Scott Jorgensen",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:31",
+            "fight_url": "http://ufcstats.com/fight-details/75098d531205a293"
+        },
+        {
+            "fight_id": "1646f952dfb2cb66",
+            "fighter_a": "Chad Mendes",
+            "fighter_b": "Erik Koch",
+            "winner": "Chad Mendes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1646f952dfb2cb66"
+        },
+        {
+            "fight_id": "15bb241ded012e00",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Danny Castillo",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "2:17",
+            "fight_url": "http://ufcstats.com/fight-details/15bb241ded012e00"
+        },
+        {
+            "fight_id": "745b1395a2698762",
+            "fighter_a": "George Roop",
+            "fighter_b": "Leonard Garcia",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/745b1395a2698762"
+        },
+        {
+            "fight_id": "30491a7e9e7a9af7",
+            "fighter_a": "Fredson Paixao",
+            "fighter_b": "Courtney Buck",
+            "winner": "Fredson Paixao",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:39",
+            "fight_url": "http://ufcstats.com/fight-details/30491a7e9e7a9af7"
+        },
+        {
+            "fight_id": "7e66baaed59c4f14",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Bendy Casimir",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "1",
+            "time": "3:43",
+            "fight_url": "http://ufcstats.com/fight-details/7e66baaed59c4f14"
+        }
+    ]
+}

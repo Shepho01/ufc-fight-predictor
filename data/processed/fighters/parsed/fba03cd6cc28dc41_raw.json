@@ -1,0 +1,88 @@
+{
+    "fighter_id": "fba03cd6cc28dc41",
+    "name": "Josh Emmett",
+    "record": "19-7-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Mar 04, 1985",
+    "sig_strikes_landed_per_min": "3.67",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "4.52",
+    "sig_strike_defense": "59%",
+    "takedowns_landed_per_15_min": "1.07",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "43%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "f594fc5c2bc6237e",
+            "fight_url": "http://ufcstats.com/fight-details/f594fc5c2bc6237e"
+        },
+        {
+            "fight_id": "84ebd144d5e79c88",
+            "fight_url": "http://ufcstats.com/fight-details/84ebd144d5e79c88"
+        },
+        {
+            "fight_id": "86a1be10255eea4e",
+            "fight_url": "http://ufcstats.com/fight-details/86a1be10255eea4e"
+        },
+        {
+            "fight_id": "3b21a9f48bac4a44",
+            "fight_url": "http://ufcstats.com/fight-details/3b21a9f48bac4a44"
+        },
+        {
+            "fight_id": "c3ef3cb03edde8bb",
+            "fight_url": "http://ufcstats.com/fight-details/c3ef3cb03edde8bb"
+        },
+        {
+            "fight_id": "2208b9f471a201d9",
+            "fight_url": "http://ufcstats.com/fight-details/2208b9f471a201d9"
+        },
+        {
+            "fight_id": "6e559181bfbc77e1",
+            "fight_url": "http://ufcstats.com/fight-details/6e559181bfbc77e1"
+        },
+        {
+            "fight_id": "6537a32e7af905b0",
+            "fight_url": "http://ufcstats.com/fight-details/6537a32e7af905b0"
+        },
+        {
+            "fight_id": "4f99b4a39925cb47",
+            "fight_url": "http://ufcstats.com/fight-details/4f99b4a39925cb47"
+        },
+        {
+            "fight_id": "138cb102906573f2",
+            "fight_url": "http://ufcstats.com/fight-details/138cb102906573f2"
+        },
+        {
+            "fight_id": "5c70b175f08ca141",
+            "fight_url": "http://ufcstats.com/fight-details/5c70b175f08ca141"
+        },
+        {
+            "fight_id": "519dcb290e6db845",
+            "fight_url": "http://ufcstats.com/fight-details/519dcb290e6db845"
+        },
+        {
+            "fight_id": "6f350d91fb07a819",
+            "fight_url": "http://ufcstats.com/fight-details/6f350d91fb07a819"
+        },
+        {
+            "fight_id": "8b10419db5bffe28",
+            "fight_url": "http://ufcstats.com/fight-details/8b10419db5bffe28"
+        },
+        {
+            "fight_id": "97b7638c592a95a9",
+            "fight_url": "http://ufcstats.com/fight-details/97b7638c592a95a9"
+        },
+        {
+            "fight_id": "7979888b1fb5eb39",
+            "fight_url": "http://ufcstats.com/fight-details/7979888b1fb5eb39"
+        },
+        {
+            "fight_id": "7786b5fafee61c36",
+            "fight_url": "http://ufcstats.com/fight-details/7786b5fafee61c36"
+        }
+    ]
+}

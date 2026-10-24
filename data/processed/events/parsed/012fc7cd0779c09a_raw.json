@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "012fc7cd0779c09a",
+        "event_name": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+        "event_date": "November 19, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c33257dd0605c7de",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Ion Cutelaba",
+            "winner": "Kennedy Nzechukwu",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "2",
+            "time": "1:02",
+            "fight_url": "http://ufcstats.com/fight-details/c33257dd0605c7de"
+        },
+        {
+            "fight_id": "110f539523a4b571",
+            "fighter_a": "Waldo Cortes Acosta",
+            "fighter_b": "Chase Sherman",
+            "winner": "Waldo Cortes Acosta",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/110f539523a4b571"
+        },
+        {
+            "fight_id": "c317f85a8266313e",
+            "fighter_a": "Muslim Salikhov",
+            "fighter_b": "Andre Fialho",
+            "winner": "Muslim Salikhov",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "1:03",
+            "fight_url": "http://ufcstats.com/fight-details/c317f85a8266313e"
+        },
+        {
+            "fight_id": "d0c01840c72429c6",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Danny Roberts",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:24",
+            "fight_url": "http://ufcstats.com/fight-details/d0c01840c72429c6"
+        },
+        {
+            "fight_id": "b4cfb34e8224fd77",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Zhalgas Zhumagulov",
+            "winner": "Charles Johnson",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b4cfb34e8224fd77"
+        },
+        {
+            "fight_id": "144443d4dbf43990",
+            "fighter_a": "Jennifer Maia",
+            "fighter_b": "Maryna Moroz",
+            "winner": "Jennifer Maia",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/144443d4dbf43990"
+        },
+        {
+            "fight_id": "594435375d641f63",
+            "fighter_a": "Miles Johns",
+            "fighter_b": "Vince Morales",
+            "winner": "Miles Johns",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/594435375d641f63"
+        },
+        {
+            "fight_id": "0f2983fe7753403f",
+            "fighter_a": "Ricky Turcios",
+            "fighter_b": "Kevin Natividad",
+            "winner": "Ricky Turcios",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f2983fe7753403f"
+        },
+        {
+            "fight_id": "bd064deb3494b41a",
+            "fighter_a": "Vanessa Demopoulos",
+            "fighter_b": "Maria Oliveira",
+            "winner": "Vanessa Demopoulos",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bd064deb3494b41a"
+        },
+        {
+            "fight_id": "a3696c847ef6c7f9",
+            "fighter_a": "Brady Hiestand",
+            "fighter_b": "Fernie Garcia",
+            "winner": "Brady Hiestand",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a3696c847ef6c7f9"
+        },
+        {
+            "fight_id": "33719a2d9c69ed17",
+            "fighter_a": "Natalia Silva",
+            "fighter_b": "Tereza Bleda",
+            "winner": "Natalia Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": "3",
+            "time": "1:27",
+            "fight_url": "http://ufcstats.com/fight-details/33719a2d9c69ed17"
+        }
+    ]
+}

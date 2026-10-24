@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "83d0de122f2f9664",
+        "event_name": "UFC 168: Weidman vs Silva 2",
+        "event_day": 28,
+        "event_month": 12,
+        "event_year": 2013,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2a17686c6b5f334e",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Anderson Silva",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 76,
+            "fight_url": "http://ufcstats.com/fight-details/2a17686c6b5f334e"
+        },
+        {
+            "fight_id": "315968a74789600a",
+            "fighter_a": "Ronda Rousey",
+            "fighter_b": "Miesha Tate",
+            "winner": "Ronda Rousey",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 58,
+            "fight_url": "http://ufcstats.com/fight-details/315968a74789600a"
+        },
+        {
+            "fight_id": "a060b6b0dfe275b7",
+            "fighter_a": "Travis Browne",
+            "fighter_b": "Josh Barnett",
+            "winner": "Travis Browne",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/a060b6b0dfe275b7"
+        },
+        {
+            "fight_id": "39be68189f2d5074",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Fabricio Camoes",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 222,
+            "fight_url": "http://ufcstats.com/fight-details/39be68189f2d5074"
+        },
+        {
+            "fight_id": "5e4f358e0bcc2f15",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Diego Brandao",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/5e4f358e0bcc2f15"
+        },
+        {
+            "fight_id": "11706648d34ff3e8",
+            "fighter_a": "Uriah Hall",
+            "fighter_b": "Chris Leben",
+            "winner": "Uriah Hall",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/11706648d34ff3e8"
+        },
+        {
+            "fight_id": "b1fd21231f0604e1",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 92,
+            "fight_url": "http://ufcstats.com/fight-details/b1fd21231f0604e1"
+        },
+        {
+            "fight_id": "f1a9c3187855155c",
+            "fighter_a": "Dennis Siver",
+            "fighter_b": "Manvel Gamburyan",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f1a9c3187855155c"
+        },
+        {
+            "fight_id": "a6e494c82d136172",
+            "fighter_a": "John Howard",
+            "fighter_b": "Siyar Bahadurzada",
+            "winner": "John Howard",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a6e494c82d136172"
+        },
+        {
+            "fight_id": "49c0071ae52fc83a",
+            "fighter_a": "William Macario",
+            "fighter_b": "Bobby Voelker",
+            "winner": "William Macario",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/49c0071ae52fc83a"
+        },
+        {
+            "fight_id": "27635cc4d9fcac98",
+            "fighter_a": "Robert Peralta",
+            "fighter_b": "Estevan Payan",
+            "winner": "Robert Peralta",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 12,
+            "fight_url": "http://ufcstats.com/fight-details/27635cc4d9fcac98"
+        }
+    ]
+}

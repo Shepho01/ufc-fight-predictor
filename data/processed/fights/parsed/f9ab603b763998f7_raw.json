@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f9ab603b763998f7",
+        "event_id": "aa3153a9941b4d44",
+        "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:09",
+        "referee": "Keith Peterson",
+        "winner_id": "3974fa35c917af1d"
+    },
+    "fighter_a": {
+        "fighter_id": "3974fa35c917af1d",
+        "name": "Ricardo Lamas",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "70 of 123",
+            "Sig. str. %": "56%",
+            "Total str.": "80 of 134",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "2:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 123",
+            "Sig. str. %": "56%",
+            "Head": "39 of 88",
+            "Body": "14 of 15",
+            "Leg": "17 of 20",
+            "Distance": "43 of 93",
+            "Clinch": "10 of 12",
+            "Ground": "17 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 174",
+            "Sig. str. %": "35%",
+            "Total str.": "81 of 196",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 174",
+            "Sig. str. %": "35%",
+            "Head": "50 of 151",
+            "Body": "10 of 21",
+            "Leg": "2 of 2",
+            "Distance": "48 of 151",
+            "Clinch": "13 of 21",
+            "Ground": "1 of 2"
+        }
+    }
+}

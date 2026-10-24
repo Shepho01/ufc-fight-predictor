@@ -1,0 +1,92 @@
+{
+    "fighter_id": "8a59d346dc976a10",
+    "name": "Thiago Tavares",
+    "record": "21-7-1",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 08, 1984",
+    "sig_strikes_landed_per_min": "2.00",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "2.31",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "3.83",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "62%",
+    "submission_attempts_per_15_min": "1.5",
+    "fight_history": [
+        {
+            "fight_id": "febbd4eb209b4579",
+            "fight_url": "http://ufcstats.com/fight-details/febbd4eb209b4579"
+        },
+        {
+            "fight_id": "b21e4b6c4126c782",
+            "fight_url": "http://ufcstats.com/fight-details/b21e4b6c4126c782"
+        },
+        {
+            "fight_id": "29c7cb102ddd7ec4",
+            "fight_url": "http://ufcstats.com/fight-details/29c7cb102ddd7ec4"
+        },
+        {
+            "fight_id": "6989466d287b4a57",
+            "fight_url": "http://ufcstats.com/fight-details/6989466d287b4a57"
+        },
+        {
+            "fight_id": "ee4d086121100177",
+            "fight_url": "http://ufcstats.com/fight-details/ee4d086121100177"
+        },
+        {
+            "fight_id": "7651b2e09ea2c420",
+            "fight_url": "http://ufcstats.com/fight-details/7651b2e09ea2c420"
+        },
+        {
+            "fight_id": "977e37adadd1b8ad",
+            "fight_url": "http://ufcstats.com/fight-details/977e37adadd1b8ad"
+        },
+        {
+            "fight_id": "6265ffd51a18ff21",
+            "fight_url": "http://ufcstats.com/fight-details/6265ffd51a18ff21"
+        },
+        {
+            "fight_id": "16b0e962beb6d15e",
+            "fight_url": "http://ufcstats.com/fight-details/16b0e962beb6d15e"
+        },
+        {
+            "fight_id": "c22d25f1febd8d09",
+            "fight_url": "http://ufcstats.com/fight-details/c22d25f1febd8d09"
+        },
+        {
+            "fight_id": "bad1f36202e2c7d7",
+            "fight_url": "http://ufcstats.com/fight-details/bad1f36202e2c7d7"
+        },
+        {
+            "fight_id": "e6dd15ef9fd7927e",
+            "fight_url": "http://ufcstats.com/fight-details/e6dd15ef9fd7927e"
+        },
+        {
+            "fight_id": "976f7f5e7537c62b",
+            "fight_url": "http://ufcstats.com/fight-details/976f7f5e7537c62b"
+        },
+        {
+            "fight_id": "94f880f25dd011cd",
+            "fight_url": "http://ufcstats.com/fight-details/94f880f25dd011cd"
+        },
+        {
+            "fight_id": "b5bef60f79b38e69",
+            "fight_url": "http://ufcstats.com/fight-details/b5bef60f79b38e69"
+        },
+        {
+            "fight_id": "669e3927b38a36fb",
+            "fight_url": "http://ufcstats.com/fight-details/669e3927b38a36fb"
+        },
+        {
+            "fight_id": "a6edcccdfccb9132",
+            "fight_url": "http://ufcstats.com/fight-details/a6edcccdfccb9132"
+        },
+        {
+            "fight_id": "e89db3b111f92587",
+            "fight_url": "http://ufcstats.com/fight-details/e89db3b111f92587"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "9f3d6ddef3d3cccc",
+        "event_name": "UFC Fight Night: Weidman vs. Gastelum",
+        "event_date": "July 22, 2017",
+        "location": "Uniondale, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5be97c1fa222093d",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Kelvin Gastelum",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": "3",
+            "time": "3:45",
+            "fight_url": "http://ufcstats.com/fight-details/5be97c1fa222093d"
+        },
+        {
+            "fight_id": "8028d5de087755dc",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Dennis Bermudez",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8028d5de087755dc"
+        },
+        {
+            "fight_id": "76d6789779d3721c",
+            "fighter_a": "Patrick Cummins",
+            "fighter_b": "Gian Villante",
+            "winner": "Patrick Cummins",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/76d6789779d3721c"
+        },
+        {
+            "fight_id": "7c23770c639dcd22",
+            "fighter_a": "Jimmie Rivera",
+            "fighter_b": "Thomas Almeida",
+            "winner": "Jimmie Rivera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7c23770c639dcd22"
+        },
+        {
+            "fight_id": "657fd7ab7bdf9f15",
+            "fighter_a": "Elizeu Zaleski dos Santos",
+            "fighter_b": "Lyman Good",
+            "winner": "Elizeu Zaleski dos Santos",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/657fd7ab7bdf9f15"
+        },
+        {
+            "fight_id": "7e2bc09d866b3bd7",
+            "fighter_a": "Eryk Anders",
+            "fighter_b": "Rafael Natal",
+            "winner": "Eryk Anders",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/7e2bc09d866b3bd7"
+        },
+        {
+            "fight_id": "d0e5487f55c57ad2",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "Ryan LaFlare",
+            "winner": "Alex Oliveira",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/d0e5487f55c57ad2"
+        },
+        {
+            "fight_id": "4f07c6724682cd00",
+            "fighter_a": "Chase Sherman",
+            "fighter_b": "Damian Grabowski",
+            "winner": "Chase Sherman",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4f07c6724682cd00"
+        },
+        {
+            "fight_id": "bcf842992f9accdc",
+            "fighter_a": "Jeremy Kennedy",
+            "fighter_b": "Kyle Bochniak",
+            "winner": "Jeremy Kennedy",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bcf842992f9accdc"
+        },
+        {
+            "fight_id": "573908b71b361312",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Brian Kelleher",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/573908b71b361312"
+        },
+        {
+            "fight_id": "d83ae4a2e117b775",
+            "fighter_a": "Junior Albini",
+            "fighter_b": "Timothy Johnson",
+            "winner": "Junior Albini",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:51",
+            "fight_url": "http://ufcstats.com/fight-details/d83ae4a2e117b775"
+        },
+        {
+            "fight_id": "9f114a219523bf7d",
+            "fighter_a": "Shane Burgos",
+            "fighter_b": "Godofredo Pepey",
+            "winner": "Shane Burgos",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f114a219523bf7d"
+        },
+        {
+            "fight_id": "b2297232b9310ba5",
+            "fighter_a": "Chris Wade",
+            "fighter_b": "Frankie Perez",
+            "winner": "Chris Wade",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b2297232b9310ba5"
+        }
+    ]
+}

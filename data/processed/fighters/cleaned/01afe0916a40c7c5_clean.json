@@ -1,0 +1,23 @@
+{
+    "fighter_id": "01afe0916a40c7c5",
+    "name": "Shavkat Rakhmonov",
+    "wins": 19,
+    "losses": 0,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 170,
+    "reach_cm": 195.58,
+    "stance": "Orthodox",
+    "dob_day": 23,
+    "dob_month": 10,
+    "dob_year": 1994,
+    "sig_strikes_landed_per_min": 3.25,
+    "sig_striking_accuracy": 0.6,
+    "sig_strikes_absorbed_per_min": 2.17,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 1.4,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.85,
+    "submission_attempts_per_15_min": 1.2
+}

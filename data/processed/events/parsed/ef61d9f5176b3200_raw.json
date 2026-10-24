@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "ef61d9f5176b3200",
+        "event_name": "UFC Fight Night: Gane vs. Spivac",
+        "event_date": "September 02, 2023",
+        "location": "Paris, Ile-de-France, France"
+    },
+    "fights": [
+        {
+            "fight_id": "ea006bae605e2a6b",
+            "fighter_a": "Ciryl Gane",
+            "fighter_b": "Serghei Spivac",
+            "winner": "Ciryl Gane",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:44",
+            "fight_url": "http://ufcstats.com/fight-details/ea006bae605e2a6b"
+        },
+        {
+            "fight_id": "4eaf54ad3c82b6fa",
+            "fighter_a": "Manon Fiorot",
+            "fighter_b": "Rose Namajunas",
+            "winner": "Manon Fiorot",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4eaf54ad3c82b6fa"
+        },
+        {
+            "fight_id": "dfa8fd0b82b37fa1",
+            "fighter_a": "Benoit Saint Denis",
+            "fighter_b": "Thiago Moises",
+            "winner": "Benoit Saint Denis",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:44",
+            "fight_url": "http://ufcstats.com/fight-details/dfa8fd0b82b37fa1"
+        },
+        {
+            "fight_id": "5098d052525da54f",
+            "fighter_a": "Volkan Oezdemir",
+            "fighter_b": "Bogdan Guskov",
+            "winner": "Volkan Oezdemir",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:46",
+            "fight_url": "http://ufcstats.com/fight-details/5098d052525da54f"
+        },
+        {
+            "fight_id": "1c29c53ff032c5c1",
+            "fighter_a": "William Gomis",
+            "fighter_b": "Yanis Ghemmouri",
+            "winner": "William Gomis",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "2:20",
+            "fight_url": "http://ufcstats.com/fight-details/1c29c53ff032c5c1"
+        },
+        {
+            "fight_id": "0d41a3fa5efef91b",
+            "fighter_a": "Morgan Charriere",
+            "fighter_b": "Manolo Zecchini",
+            "winner": "Morgan Charriere",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kicks",
+            "round": "1",
+            "time": "3:51",
+            "fight_url": "http://ufcstats.com/fight-details/0d41a3fa5efef91b"
+        },
+        {
+            "fight_id": "1b9a127f9dadaad9",
+            "fighter_a": "Taylor Lapilus",
+            "fighter_b": "Caolan Loughran",
+            "winner": "Taylor Lapilus",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1b9a127f9dadaad9"
+        },
+        {
+            "fight_id": "1be27d95bba03f17",
+            "fighter_a": "Ange Loosa",
+            "fighter_b": "Rhys McKee",
+            "winner": "Ange Loosa",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1be27d95bba03f17"
+        },
+        {
+            "fight_id": "e3a5a7ede88a2555",
+            "fighter_a": "Nora Cornolle",
+            "fighter_b": "Joselyne Edwards",
+            "winner": "Nora Cornolle",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e3a5a7ede88a2555"
+        },
+        {
+            "fight_id": "ac73c6888ee9322c",
+            "fighter_a": "Farid Basharat",
+            "fighter_b": "Kleydson Rodrigues",
+            "winner": "Farid Basharat",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/ac73c6888ee9322c"
+        },
+        {
+            "fight_id": "2a48d0a98c21e736",
+            "fighter_a": "Jacqueline Cavalcanti",
+            "fighter_b": "Zarah Fairn",
+            "winner": "Jacqueline Cavalcanti",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2a48d0a98c21e736"
+        }
+    ]
+}

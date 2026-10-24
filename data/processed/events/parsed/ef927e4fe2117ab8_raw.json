@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "ef927e4fe2117ab8",
+        "event_name": "UFC 269: Oliveira vs. Poirier",
+        "event_date": "December 11, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b22eab3aa1522f40",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "1:02",
+            "fight_url": "http://ufcstats.com/fight-details/b22eab3aa1522f40"
+        },
+        {
+            "fight_id": "0b633295d9e017a3",
+            "fighter_a": "Julianna Pena",
+            "fighter_b": "Amanda Nunes",
+            "winner": "Julianna Pena",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/0b633295d9e017a3"
+        },
+        {
+            "fight_id": "2d0d13dfc6c37ba8",
+            "fighter_a": "Geoff Neal",
+            "fighter_b": "Santiago Ponzinibbio",
+            "winner": "Geoff Neal",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2d0d13dfc6c37ba8"
+        },
+        {
+            "fight_id": "795aa42785a46643",
+            "fighter_a": "Kai Kara-France",
+            "fighter_b": "Cody Garbrandt",
+            "winner": "Kai Kara-France",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:21",
+            "fight_url": "http://ufcstats.com/fight-details/795aa42785a46643"
+        },
+        {
+            "fight_id": "8c01b7dccc4d0926",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Raulian Paiva",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/8c01b7dccc4d0926"
+        },
+        {
+            "fight_id": "6537a32e7af905b0",
+            "fighter_a": "Josh Emmett",
+            "fighter_b": "Dan Ige",
+            "winner": "Josh Emmett",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6537a32e7af905b0"
+        },
+        {
+            "fight_id": "abb8c6c0a057184e",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/abb8c6c0a057184e"
+        },
+        {
+            "fight_id": "50f2539c73b98eec",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Augusto Sakai",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:26",
+            "fight_url": "http://ufcstats.com/fight-details/50f2539c73b98eec"
+        },
+        {
+            "fight_id": "9039762cb9f4abdb",
+            "fighter_a": "Bruno Silva",
+            "fighter_b": "Jordan Wright",
+            "winner": "Bruno Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/9039762cb9f4abdb"
+        },
+        {
+            "fight_id": "16243b1470887cb6",
+            "fighter_a": "Andre Muniz",
+            "fighter_b": "Eryk Anders",
+            "winner": "Andre Muniz",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "3:13",
+            "fight_url": "http://ufcstats.com/fight-details/16243b1470887cb6"
+        },
+        {
+            "fight_id": "fc2a30bfb760bdf8",
+            "fighter_a": "Erin Blanchfield",
+            "fighter_b": "Miranda Maverick",
+            "winner": "Erin Blanchfield",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fc2a30bfb760bdf8"
+        },
+        {
+            "fight_id": "537a5aa4c248830e",
+            "fighter_a": "Ryan Hall",
+            "fighter_b": "Darrick Minner",
+            "winner": "Ryan Hall",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/537a5aa4c248830e"
+        },
+        {
+            "fight_id": "8bcdcfb0f93f1409",
+            "fighter_a": "Tony Kelley",
+            "fighter_b": "Randy Costa",
+            "winner": "Tony Kelley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/8bcdcfb0f93f1409"
+        },
+        {
+            "fight_id": "505397f405e40206",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Priscila Cachoeira",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:59",
+            "fight_url": "http://ufcstats.com/fight-details/505397f405e40206"
+        }
+    ]
+}

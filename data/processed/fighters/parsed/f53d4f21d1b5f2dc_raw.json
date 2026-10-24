@@ -1,0 +1,92 @@
+{
+    "fighter_id": "f53d4f21d1b5f2dc",
+    "name": "Diego Ferreira",
+    "record": "20-7-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Jan 18, 1985",
+    "sig_strikes_landed_per_min": "4.95",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.58",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "1.08",
+    "takedown_accuracy": "33%",
+    "takedown_defense": "58%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "d5245f5b96b8afdf",
+            "fight_url": "http://ufcstats.com/fight-details/d5245f5b96b8afdf"
+        },
+        {
+            "fight_id": "202c47db69768356",
+            "fight_url": "http://ufcstats.com/fight-details/202c47db69768356"
+        },
+        {
+            "fight_id": "aa3fca085d476636",
+            "fight_url": "http://ufcstats.com/fight-details/aa3fca085d476636"
+        },
+        {
+            "fight_id": "6c67aa7063717a0c",
+            "fight_url": "http://ufcstats.com/fight-details/6c67aa7063717a0c"
+        },
+        {
+            "fight_id": "12683e06369d1a83",
+            "fight_url": "http://ufcstats.com/fight-details/12683e06369d1a83"
+        },
+        {
+            "fight_id": "730f14ccff80f3b0",
+            "fight_url": "http://ufcstats.com/fight-details/730f14ccff80f3b0"
+        },
+        {
+            "fight_id": "295a0bf12a7373c0",
+            "fight_url": "http://ufcstats.com/fight-details/295a0bf12a7373c0"
+        },
+        {
+            "fight_id": "bbade63ca780668f",
+            "fight_url": "http://ufcstats.com/fight-details/bbade63ca780668f"
+        },
+        {
+            "fight_id": "32a8f38bd1d46e3e",
+            "fight_url": "http://ufcstats.com/fight-details/32a8f38bd1d46e3e"
+        },
+        {
+            "fight_id": "8accd04438b91262",
+            "fight_url": "http://ufcstats.com/fight-details/8accd04438b91262"
+        },
+        {
+            "fight_id": "9af62d6e404c1002",
+            "fight_url": "http://ufcstats.com/fight-details/9af62d6e404c1002"
+        },
+        {
+            "fight_id": "fdc97f9b88bdef7d",
+            "fight_url": "http://ufcstats.com/fight-details/fdc97f9b88bdef7d"
+        },
+        {
+            "fight_id": "07f234a488661125",
+            "fight_url": "http://ufcstats.com/fight-details/07f234a488661125"
+        },
+        {
+            "fight_id": "b810951e39a0af1b",
+            "fight_url": "http://ufcstats.com/fight-details/b810951e39a0af1b"
+        },
+        {
+            "fight_id": "12c600dc64edb403",
+            "fight_url": "http://ufcstats.com/fight-details/12c600dc64edb403"
+        },
+        {
+            "fight_id": "852223ee1a2d0a74",
+            "fight_url": "http://ufcstats.com/fight-details/852223ee1a2d0a74"
+        },
+        {
+            "fight_id": "1748b2b5aabe23a5",
+            "fight_url": "http://ufcstats.com/fight-details/1748b2b5aabe23a5"
+        },
+        {
+            "fight_id": "cbf36e02c68e7719",
+            "fight_url": "http://ufcstats.com/fight-details/cbf36e02c68e7719"
+        }
+    ]
+}

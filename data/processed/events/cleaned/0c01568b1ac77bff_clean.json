@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "0c01568b1ac77bff",
+        "event_name": "UFC 306: Riyadh Season Noche UFC",
+        "event_day": 14,
+        "event_month": 9,
+        "event_year": 2024,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3146e5a47a922976",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Sean O'Malley",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3146e5a47a922976"
+        },
+        {
+            "fight_id": "6f83cfae0c800ef8",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Alexa Grasso",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6f83cfae0c800ef8"
+        },
+        {
+            "fight_id": "2335e75ce63805b6",
+            "fighter_a": "Diego Lopes",
+            "fighter_b": "Brian Ortega",
+            "winner": "Diego Lopes",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2335e75ce63805b6"
+        },
+        {
+            "fight_id": "27d98a8ee6608e27",
+            "fighter_a": "Esteban Ribovics",
+            "fighter_b": "Daniel Zellhuber",
+            "winner": "Esteban Ribovics",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/27d98a8ee6608e27"
+        },
+        {
+            "fight_id": "78b506e5092a27fd",
+            "fighter_a": "Ronaldo Rodriguez",
+            "fighter_b": "Ode Osbourne",
+            "winner": "Ronaldo Rodriguez",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/78b506e5092a27fd"
+        },
+        {
+            "fight_id": "2397e2a92710705a",
+            "fighter_a": "Norma Dumont",
+            "fighter_b": "Irene Aldana",
+            "winner": "Norma Dumont",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2397e2a92710705a"
+        },
+        {
+            "fight_id": "3733d100f7bd5590",
+            "fighter_a": "Ignacio Bahamondes",
+            "fighter_b": "Manuel Torres",
+            "winner": "Ignacio Bahamondes",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 242,
+            "fight_url": "http://ufcstats.com/fight-details/3733d100f7bd5590"
+        },
+        {
+            "fight_id": "c60a317c7767abb7",
+            "fighter_a": "Ketlen Souza",
+            "fighter_b": "Yazmin Jauregui",
+            "winner": "Ketlen Souza",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 182,
+            "fight_url": "http://ufcstats.com/fight-details/c60a317c7767abb7"
+        },
+        {
+            "fight_id": "dae8ad2e03aa4a9a",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Edgar Chairez",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dae8ad2e03aa4a9a"
+        },
+        {
+            "fight_id": "3cdc6fea724be133",
+            "fighter_a": "Raul Rosas Jr.",
+            "fighter_b": "Aoriqileng",
+            "winner": "Raul Rosas Jr.",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3cdc6fea724be133"
+        }
+    ]
+}

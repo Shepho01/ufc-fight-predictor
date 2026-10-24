@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e88c59ad88e9dc27",
+        "event_id": "c6da1c24fe473418",
+        "event_name": "The Ultimate Fighter: Team Carwin vs. Team Nelson Finale",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:15",
+        "referee": "Herb Dean",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 73",
+            "Sig. str. %": "47%",
+            "Total str.": "38 of 76",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 73",
+            "Sig. str. %": "47%",
+            "Head": "28 of 65",
+            "Body": "4 of 5",
+            "Leg": "3 of 3",
+            "Distance": "13 of 34",
+            "Clinch": "22 of 39",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b0a6124751a56bc4",
+        "name": "Jonathan Brookins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "26 of 54",
+            "Sig. str. %": "48%",
+            "Total str.": "26 of 54",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 54",
+            "Sig. str. %": "48%",
+            "Head": "20 of 46",
+            "Body": "6 of 7",
+            "Leg": "0 of 1",
+            "Distance": "12 of 26",
+            "Clinch": "14 of 28",
+            "Ground": "0 of 0"
+        }
+    }
+}

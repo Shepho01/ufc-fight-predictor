@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "18ba44e67d5c5f38",
+        "event_id": "222d6b547de2e035",
+        "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "18968f97ad34f15c",
+        "name": "Jeremy Stephens",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "48 of 79",
+            "Sig. str. %": "60%",
+            "Total str.": "55 of 88",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "48 of 79",
+            "Sig. str. %": "60%",
+            "Head": "34 of 59",
+            "Body": "8 of 11",
+            "Leg": "6 of 9",
+            "Distance": "25 of 47",
+            "Clinch": "6 of 6",
+            "Ground": "17 of 26"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "43 of 67",
+            "Sig. str. %": "64%",
+            "Total str.": "74 of 100",
+            "Td": "2 of 7",
+            "Td %": "28%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "5:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "43 of 67",
+            "Sig. str. %": "64%",
+            "Head": "25 of 46",
+            "Body": "12 of 15",
+            "Leg": "6 of 6",
+            "Distance": "20 of 39",
+            "Clinch": "15 of 17",
+            "Ground": "8 of 11"
+        }
+    }
+}

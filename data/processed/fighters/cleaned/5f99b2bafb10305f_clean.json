@@ -1,0 +1,23 @@
+{
+    "fighter_id": "5f99b2bafb10305f",
+    "name": "Daron Cruickshank",
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Switch",
+    "dob_day": 11,
+    "dob_month": 6,
+    "dob_year": 1985,
+    "sig_strikes_landed_per_min": 2.88,
+    "sig_striking_accuracy": 0.38,
+    "sig_strikes_absorbed_per_min": 2.98,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 2.04,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 0.2
+}

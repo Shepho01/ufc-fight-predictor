@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "3c6976f8182d9527",
+        "event_name": "UFC 288: Sterling vs. Cejudo",
+        "event_day": 6,
+        "event_month": 5,
+        "event_year": 2023,
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e3aad51099a23ba4",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Henry Cejudo",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e3aad51099a23ba4"
+        },
+        {
+            "fight_id": "ed707998b13d0101",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Gilbert Burns",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ed707998b13d0101"
+        },
+        {
+            "fight_id": "11a5a852313d1f5b",
+            "fighter_a": "Yan Xiaonan",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Yan Xiaonan",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 140,
+            "fight_url": "http://ufcstats.com/fight-details/11a5a852313d1f5b"
+        },
+        {
+            "fight_id": "069ab7e7b8b5d262",
+            "fighter_a": "Movsar Evloev",
+            "fighter_b": "Diego Lopes",
+            "winner": "Movsar Evloev",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/069ab7e7b8b5d262"
+        },
+        {
+            "fight_id": "0c6e3c1f03cd4061",
+            "fighter_a": "Charles Jourdain",
+            "fighter_b": "Kron Gracie",
+            "winner": "Charles Jourdain",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0c6e3c1f03cd4061"
+        },
+        {
+            "fight_id": "3f8b4aeb3baf4724",
+            "fighter_a": "Matt Frevola",
+            "fighter_b": "Drew Dober",
+            "winner": "Matt Frevola",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 248,
+            "fight_url": "http://ufcstats.com/fight-details/3f8b4aeb3baf4724"
+        },
+        {
+            "fight_id": "c3ca708aaf4262a7",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Devin Clark",
+            "winner": "Kennedy Nzechukwu",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 148,
+            "fight_url": "http://ufcstats.com/fight-details/c3ca708aaf4262a7"
+        },
+        {
+            "fight_id": "4c9bbd9758be1168",
+            "fighter_a": "Khaos Williams",
+            "fighter_b": "Rolando Bedoya",
+            "winner": "Khaos Williams",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4c9bbd9758be1168"
+        },
+        {
+            "fight_id": "5f44d6d9e6bbecff",
+            "fighter_a": "Virna Jandiroba",
+            "fighter_b": "Marina Rodriguez",
+            "winner": "Virna Jandiroba",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f44d6d9e6bbecff"
+        },
+        {
+            "fight_id": "2372578d3f554c65",
+            "fighter_a": "Parker Porter",
+            "fighter_b": "Braxton Smith",
+            "winner": "Parker Porter",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/2372578d3f554c65"
+        },
+        {
+            "fight_id": "d22de60b7a3d908c",
+            "fighter_a": "Ikram Aliskerov",
+            "fighter_b": "Phil Hawes",
+            "winner": "Ikram Aliskerov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/d22de60b7a3d908c"
+        },
+        {
+            "fight_id": "93fb6c7e590487f9",
+            "fighter_a": "Claudio Ribeiro",
+            "fighter_b": "Joseph Holmes",
+            "winner": "Claudio Ribeiro",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 201,
+            "fight_url": "http://ufcstats.com/fight-details/93fb6c7e590487f9"
+        }
+    ]
+}

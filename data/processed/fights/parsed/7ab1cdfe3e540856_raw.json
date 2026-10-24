@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7ab1cdfe3e540856",
+        "event_id": "119ebea97e914dcf",
+        "event_name": "UFC 192: Cormier vs Gustafsson",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kerry Hatley",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "52 of 104",
+            "Sig. str. %": "50%",
+            "Total str.": "67 of 123",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "52 of 104",
+            "Sig. str. %": "50%",
+            "Head": "27 of 72",
+            "Body": "15 of 19",
+            "Leg": "10 of 13",
+            "Distance": "38 of 80",
+            "Clinch": "6 of 14",
+            "Ground": "8 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "19 of 79",
+            "Sig. str. %": "24%",
+            "Total str.": "85 of 162",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "19 of 79",
+            "Sig. str. %": "24%",
+            "Head": "14 of 62",
+            "Body": "5 of 8",
+            "Leg": "0 of 9",
+            "Distance": "9 of 56",
+            "Clinch": "6 of 15",
+            "Ground": "4 of 8"
+        }
+    }
+}

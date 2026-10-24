@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "fc1868f56d3036eb",
+        "event_name": "UFC Fight Night: Stephens vs. Choi",
+        "event_day": 14,
+        "event_month": 1,
+        "event_year": 2018,
+        "location": "St. Louis, Missouri, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "51e684bfce8d94aa",
+            "fighter_a": "Jeremy Stephens",
+            "fighter_b": "Dooho Choi",
+            "winner": "Jeremy Stephens",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 156,
+            "fight_url": "http://ufcstats.com/fight-details/51e684bfce8d94aa"
+        },
+        {
+            "fight_id": "0820a29a03d58282",
+            "fighter_a": "Jessica-Rose Clark",
+            "fighter_b": "Paige VanZant",
+            "winner": "Jessica-Rose Clark",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0820a29a03d58282"
+        },
+        {
+            "fight_id": "f767243bb48ab9d7",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Emil Meek",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f767243bb48ab9d7"
+        },
+        {
+            "fight_id": "d85c76a61a820be9",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Michael Johnson",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 142,
+            "fight_url": "http://ufcstats.com/fight-details/d85c76a61a820be9"
+        },
+        {
+            "fight_id": "3b1453df439a5024",
+            "fighter_a": "James Krause",
+            "fighter_b": "Alex White",
+            "winner": "James Krause",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3b1453df439a5024"
+        },
+        {
+            "fight_id": "4843f369dc8b5de5",
+            "fighter_a": "Marco Polo Reyes",
+            "fighter_b": "Matt Frevola",
+            "winner": "Marco Polo Reyes",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/4843f369dc8b5de5"
+        },
+        {
+            "fight_id": "738e0ccad2c9224b",
+            "fighter_a": "Irene Aldana",
+            "fighter_b": "Talita Bernardo",
+            "winner": "Irene Aldana",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/738e0ccad2c9224b"
+        },
+        {
+            "fight_id": "1bf1a6fc9c9acc26",
+            "fighter_a": "Kyung Ho Kang",
+            "fighter_b": "Guido Cannetti",
+            "winner": "Kyung Ho Kang",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 293,
+            "fight_url": "http://ufcstats.com/fight-details/1bf1a6fc9c9acc26"
+        },
+        {
+            "fight_id": "f8bb0aed83bd8638",
+            "fighter_a": "Jessica Eye",
+            "fighter_b": "Kalindra Faria",
+            "winner": "Jessica Eye",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f8bb0aed83bd8638"
+        },
+        {
+            "fight_id": "9f10afab94cafc45",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Danielle Taylor",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9f10afab94cafc45"
+        },
+        {
+            "fight_id": "c4ecf4b894ccbced",
+            "fighter_a": "Mads Burnell",
+            "fighter_b": "Mike Santiago",
+            "winner": "Mads Burnell",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4ecf4b894ccbced"
+        }
+    ]
+}

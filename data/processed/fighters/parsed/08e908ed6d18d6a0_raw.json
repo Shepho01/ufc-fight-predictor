@@ -1,0 +1,68 @@
+{
+    "fighter_id": "08e908ed6d18d6a0",
+    "name": "Myles Jury",
+    "record": "17-4-0",
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Oct 31, 1988",
+    "sig_strikes_landed_per_min": "2.94",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "2.16",
+    "sig_strike_defense": "66%",
+    "takedowns_landed_per_15_min": "2.16",
+    "takedown_accuracy": "55%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "0a4247ba4ae1cca5",
+            "fight_url": "http://ufcstats.com/fight-details/0a4247ba4ae1cca5"
+        },
+        {
+            "fight_id": "c3939438ae7934df",
+            "fight_url": "http://ufcstats.com/fight-details/c3939438ae7934df"
+        },
+        {
+            "fight_id": "147d2ab0230af48d",
+            "fight_url": "http://ufcstats.com/fight-details/147d2ab0230af48d"
+        },
+        {
+            "fight_id": "23ba0218f9f65e33",
+            "fight_url": "http://ufcstats.com/fight-details/23ba0218f9f65e33"
+        },
+        {
+            "fight_id": "164f56eb25d6a9b4",
+            "fight_url": "http://ufcstats.com/fight-details/164f56eb25d6a9b4"
+        },
+        {
+            "fight_id": "f4d91498ca3f0a1f",
+            "fight_url": "http://ufcstats.com/fight-details/f4d91498ca3f0a1f"
+        },
+        {
+            "fight_id": "5ff0c4c6006f0873",
+            "fight_url": "http://ufcstats.com/fight-details/5ff0c4c6006f0873"
+        },
+        {
+            "fight_id": "d4d4aded862ace46",
+            "fight_url": "http://ufcstats.com/fight-details/d4d4aded862ace46"
+        },
+        {
+            "fight_id": "b3bb90f5a2aa0d7c",
+            "fight_url": "http://ufcstats.com/fight-details/b3bb90f5a2aa0d7c"
+        },
+        {
+            "fight_id": "704adfae22d0dfb8",
+            "fight_url": "http://ufcstats.com/fight-details/704adfae22d0dfb8"
+        },
+        {
+            "fight_id": "85f67de8e9dc5689",
+            "fight_url": "http://ufcstats.com/fight-details/85f67de8e9dc5689"
+        },
+        {
+            "fight_id": "2a7cf1a89de3709e",
+            "fight_url": "http://ufcstats.com/fight-details/2a7cf1a89de3709e"
+        }
+    ]
+}

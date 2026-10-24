@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "5eedbf1e9601be35",
+        "event_name": "WEC 41: Brown vs. Faber 2",
+        "event_day": 7,
+        "event_month": 6,
+        "event_year": 2009,
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7c292e1fe5e5b682",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Urijah Faber",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7c292e1fe5e5b682"
+        },
+        {
+            "fight_id": "556055969b2f0bd7",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Cub Swanson",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Flying Knee",
+            "round": 1,
+            "time_seconds": 8,
+            "fight_url": "http://ufcstats.com/fight-details/556055969b2f0bd7"
+        },
+        {
+            "fight_id": "f5db1c0ea15c523a",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "James Krause",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 278,
+            "fight_url": "http://ufcstats.com/fight-details/f5db1c0ea15c523a"
+        },
+        {
+            "fight_id": "61f89bde8ce388a4",
+            "fighter_a": "Josh Grispi",
+            "fighter_b": "Jens Pulver",
+            "winner": "Josh Grispi",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 33,
+            "fight_url": "http://ufcstats.com/fight-details/61f89bde8ce388a4"
+        },
+        {
+            "fight_id": "197f68e2fb3ec585",
+            "fighter_a": "Manvel Gamburyan",
+            "fighter_b": "John Franchi",
+            "winner": "Manvel Gamburyan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/197f68e2fb3ec585"
+        },
+        {
+            "fight_id": "2941af61e71ba5c0",
+            "fighter_a": "Rafael Rebello",
+            "fighter_b": "Kyle Dietz",
+            "winner": "Rafael Rebello",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 115,
+            "fight_url": "http://ufcstats.com/fight-details/2941af61e71ba5c0"
+        },
+        {
+            "fight_id": "c22cfceb046f920a",
+            "fighter_a": "Anthony Pettis",
+            "fighter_b": "Mike Campbell",
+            "winner": "Anthony Pettis",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 109,
+            "fight_url": "http://ufcstats.com/fight-details/c22cfceb046f920a"
+        },
+        {
+            "fight_id": "288e8bd0c680a1f0",
+            "fighter_a": "Antonio Banuelos",
+            "fighter_b": "Scott Jorgensen",
+            "winner": "Antonio Banuelos",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/288e8bd0c680a1f0"
+        },
+        {
+            "fight_id": "a01fdc44178da964",
+            "fighter_a": "Frank Gomez",
+            "fighter_b": "Noah Thomas",
+            "winner": "Frank Gomez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": 2,
+            "time_seconds": 192,
+            "fight_url": "http://ufcstats.com/fight-details/a01fdc44178da964"
+        },
+        {
+            "fight_id": "23feb95726bb6fe4",
+            "fighter_a": "Seth Dikun",
+            "fighter_b": "Rolando Perez",
+            "winner": "Seth Dikun",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": 1,
+            "time_seconds": 150,
+            "fight_url": "http://ufcstats.com/fight-details/23feb95726bb6fe4"
+        }
+    ]
+}

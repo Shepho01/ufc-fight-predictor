@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "221b2a3070c7ce3e",
+        "event_name": "UFC 308: Topuria vs. Holloway",
+        "event_day": 26,
+        "event_month": 10,
+        "event_year": 2024,
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "ebf7cea27b83c432",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Max Holloway",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 94,
+            "fight_url": "http://ufcstats.com/fight-details/ebf7cea27b83c432"
+        },
+        {
+            "fight_id": "b8bf186f884678ea",
+            "fighter_a": "Khamzat Chimaev",
+            "fighter_b": "Robert Whittaker",
+            "winner": "Khamzat Chimaev",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 214,
+            "fight_url": "http://ufcstats.com/fight-details/b8bf186f884678ea"
+        },
+        {
+            "fight_id": "b09f54654b0f95f5",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Aleksandar Rakic",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b09f54654b0f95f5"
+        },
+        {
+            "fight_id": "cc11a0762f246fa4",
+            "fighter_a": "Lerone Murphy",
+            "fighter_b": "Dan Ige",
+            "winner": "Lerone Murphy",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cc11a0762f246fa4"
+        },
+        {
+            "fight_id": "108434acbbd75d26",
+            "fighter_a": "Shara Magomedov",
+            "fighter_b": "Armen Petrosyan",
+            "winner": "Shara Magomedov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": 2,
+            "time_seconds": 292,
+            "fight_url": "http://ufcstats.com/fight-details/108434acbbd75d26"
+        },
+        {
+            "fight_id": "781a2ea50f5ae68f",
+            "fighter_a": "Ibo Aslan",
+            "fighter_b": "Rafael Cerqueira",
+            "winner": "Ibo Aslan",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 51,
+            "fight_url": "http://ufcstats.com/fight-details/781a2ea50f5ae68f"
+        },
+        {
+            "fight_id": "1d65c141776949d6",
+            "fighter_a": "Geoff Neal",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Geoff Neal",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 90,
+            "fight_url": "http://ufcstats.com/fight-details/1d65c141776949d6"
+        },
+        {
+            "fight_id": "919e3c5cc6999cb3",
+            "fighter_a": "Mateusz Rebecki",
+            "fighter_b": "Myktybek Orolbai",
+            "winner": "Mateusz Rebecki",
+            "weight_class": "Catch Weight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/919e3c5cc6999cb3"
+        },
+        {
+            "fight_id": "af6eeea1cfe33240",
+            "fighter_a": "Abus Magomedov",
+            "fighter_b": "Brunno Ferreira",
+            "winner": "Abus Magomedov",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 194,
+            "fight_url": "http://ufcstats.com/fight-details/af6eeea1cfe33240"
+        },
+        {
+            "fight_id": "df7928de73fc2fe8",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Chris Barnett",
+            "winner": "Kennedy Nzechukwu",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/df7928de73fc2fe8"
+        },
+        {
+            "fight_id": "5c783cd188425783",
+            "fighter_a": "Farid Basharat",
+            "fighter_b": "Victor Hugo",
+            "winner": "Farid Basharat",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5c783cd188425783"
+        },
+        {
+            "fight_id": "bde635a4f345bc3e",
+            "fighter_a": "Ismail Naurdiev",
+            "fighter_b": "Bruno Silva",
+            "winner": "Ismail Naurdiev",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bde635a4f345bc3e"
+        },
+        {
+            "fight_id": "6114076c689e8457",
+            "fighter_a": "Rinat Fakhretdinov",
+            "fighter_b": "Carlos Leal",
+            "winner": "Rinat Fakhretdinov",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6114076c689e8457"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "dfa8fd0b82b37fa1",
+        "event_id": "ef61d9f5176b3200",
+        "event_name": "UFC Fight Night: Gane vs. Spivac",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:44",
+        "referee": "Lukasz Bosacki",
+        "winner_id": "c2299ec916bc7c56"
+    },
+    "fighter_a": {
+        "fighter_id": "c2299ec916bc7c56",
+        "name": "Benoit Saint Denis",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "101 of 182",
+            "Sig. str. %": "55%",
+            "Total str.": "123 of 210",
+            "Td": "5 of 9",
+            "Td %": "55%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "101 of 182",
+            "Sig. str. %": "55%",
+            "Head": "49 of 123",
+            "Body": "28 of 34",
+            "Leg": "24 of 25",
+            "Distance": "42 of 71",
+            "Clinch": "10 of 14",
+            "Ground": "49 of 97"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 62",
+            "Sig. str. %": "38%",
+            "Total str.": "27 of 67",
+            "Td": "1 of 3",
+            "Td %": "33%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 62",
+            "Sig. str. %": "38%",
+            "Head": "12 of 46",
+            "Body": "10 of 14",
+            "Leg": "2 of 2",
+            "Distance": "23 of 59",
+            "Clinch": "1 of 3",
+            "Ground": "0 of 0"
+        }
+    }
+}

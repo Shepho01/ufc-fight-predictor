@@ -1,0 +1,64 @@
+{
+    "fighter_id": "3a24769a4855040a",
+    "name": "Diego Nunes",
+    "record": "19-7-0",
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Nov 30, 1982",
+    "sig_strikes_landed_per_min": "2.72",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "2.59",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "1.18",
+    "takedown_accuracy": "44%",
+    "takedown_defense": "65%",
+    "submission_attempts_per_15_min": "0.6",
+    "fight_history": [
+        {
+            "fight_id": "302ce74d8b0d12a6",
+            "fight_url": "http://ufcstats.com/fight-details/302ce74d8b0d12a6"
+        },
+        {
+            "fight_id": "a6548a1e188c53fb",
+            "fight_url": "http://ufcstats.com/fight-details/a6548a1e188c53fb"
+        },
+        {
+            "fight_id": "2dc181c1473eb269",
+            "fight_url": "http://ufcstats.com/fight-details/2dc181c1473eb269"
+        },
+        {
+            "fight_id": "2f715933d0626544",
+            "fight_url": "http://ufcstats.com/fight-details/2f715933d0626544"
+        },
+        {
+            "fight_id": "c1039954c3457fe7",
+            "fight_url": "http://ufcstats.com/fight-details/c1039954c3457fe7"
+        },
+        {
+            "fight_id": "965989097794b22b",
+            "fight_url": "http://ufcstats.com/fight-details/965989097794b22b"
+        },
+        {
+            "fight_id": "dbbdfdfed9194b17",
+            "fight_url": "http://ufcstats.com/fight-details/dbbdfdfed9194b17"
+        },
+        {
+            "fight_id": "e87222fdbc228f33",
+            "fight_url": "http://ufcstats.com/fight-details/e87222fdbc228f33"
+        },
+        {
+            "fight_id": "62e029072ce23b60",
+            "fight_url": "http://ufcstats.com/fight-details/62e029072ce23b60"
+        },
+        {
+            "fight_id": "215b623ca9c8bbd8",
+            "fight_url": "http://ufcstats.com/fight-details/215b623ca9c8bbd8"
+        },
+        {
+            "fight_id": "d9ddbee8aac151bb",
+            "fight_url": "http://ufcstats.com/fight-details/d9ddbee8aac151bb"
+        }
+    ]
+}

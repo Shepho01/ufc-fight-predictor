@@ -1,0 +1,64 @@
+{
+    "fighter_id": "76e2870ffafbe38f",
+    "name": "Movsar Evloev",
+    "record": "20-0-0",
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1994",
+    "sig_strikes_landed_per_min": "3.91",
+    "sig_striking_accuracy": "47%",
+    "sig_strikes_absorbed_per_min": "2.80",
+    "sig_strike_defense": "61%",
+    "takedowns_landed_per_15_min": "4.78",
+    "takedown_accuracy": "52%",
+    "takedown_defense": "61%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "ce1388d6c7651d2e",
+            "fight_url": "http://ufcstats.com/fight-details/ce1388d6c7651d2e"
+        },
+        {
+            "fight_id": "346e3897c2ead99a",
+            "fight_url": "http://ufcstats.com/fight-details/346e3897c2ead99a"
+        },
+        {
+            "fight_id": "df30514e0674d598",
+            "fight_url": "http://ufcstats.com/fight-details/df30514e0674d598"
+        },
+        {
+            "fight_id": "1a7cd191f0cf160c",
+            "fight_url": "http://ufcstats.com/fight-details/1a7cd191f0cf160c"
+        },
+        {
+            "fight_id": "069ab7e7b8b5d262",
+            "fight_url": "http://ufcstats.com/fight-details/069ab7e7b8b5d262"
+        },
+        {
+            "fight_id": "aacb47949a572f25",
+            "fight_url": "http://ufcstats.com/fight-details/aacb47949a572f25"
+        },
+        {
+            "fight_id": "d66164d2c770da68",
+            "fight_url": "http://ufcstats.com/fight-details/d66164d2c770da68"
+        },
+        {
+            "fight_id": "f3ccbfd7036f3cf3",
+            "fight_url": "http://ufcstats.com/fight-details/f3ccbfd7036f3cf3"
+        },
+        {
+            "fight_id": "32b0e450b11b32fe",
+            "fight_url": "http://ufcstats.com/fight-details/32b0e450b11b32fe"
+        },
+        {
+            "fight_id": "a4527094aa107b55",
+            "fight_url": "http://ufcstats.com/fight-details/a4527094aa107b55"
+        },
+        {
+            "fight_id": "1b4374c9d7e5139c",
+            "fight_url": "http://ufcstats.com/fight-details/1b4374c9d7e5139c"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "87126427cfcaee52",
+        "event_id": "b0550072e5f0afa7",
+        "event_name": "UFC 236: Holloway vs. Poirier 2",
+        "weight_class": "Interim Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Blake Grice",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "181 of 446",
+            "Sig. str. %": "40%",
+            "Total str.": "208 of 473",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "181 of 446",
+            "Sig. str. %": "40%",
+            "Head": "141 of 394",
+            "Body": "39 of 50",
+            "Leg": "1 of 2",
+            "Distance": "167 of 425",
+            "Clinch": "14 of 21",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "178 of 381",
+            "Sig. str. %": "46%",
+            "Total str.": "180 of 383",
+            "Td": "1 of 8",
+            "Td %": "12%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "178 of 381",
+            "Sig. str. %": "46%",
+            "Head": "153 of 349",
+            "Body": "18 of 24",
+            "Leg": "7 of 8",
+            "Distance": "165 of 365",
+            "Clinch": "13 of 16",
+            "Ground": "0 of 0"
+        }
+    }
+}

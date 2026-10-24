@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5e4f358e0bcc2f15",
+        "event_id": "83d0de122f2f9664",
+        "event_name": "UFC 168: Weidman vs Silva 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:54",
+        "referee": "Mario Yamasaki",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "44 of 87",
+            "Sig. str. %": "50%",
+            "Total str.": "48 of 94",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 87",
+            "Sig. str. %": "50%",
+            "Head": "27 of 65",
+            "Body": "7 of 10",
+            "Leg": "10 of 12",
+            "Distance": "23 of 54",
+            "Clinch": "15 of 23",
+            "Ground": "6 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c2e3e67b5911bfb7",
+        "name": "Diego Brandao",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "16 of 48",
+            "Sig. str. %": "33%",
+            "Total str.": "17 of 49",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 48",
+            "Sig. str. %": "33%",
+            "Head": "10 of 36",
+            "Body": "4 of 10",
+            "Leg": "2 of 2",
+            "Distance": "14 of 43",
+            "Clinch": "1 of 4",
+            "Ground": "1 of 1"
+        }
+    }
+}

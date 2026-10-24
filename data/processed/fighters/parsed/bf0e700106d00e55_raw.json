@@ -1,0 +1,40 @@
+{
+    "fighter_id": "bf0e700106d00e55",
+    "name": "Austin Arnett",
+    "record": "16-6-0",
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Oct 22, 1991",
+    "sig_strikes_landed_per_min": "4.52",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "6.38",
+    "sig_strike_defense": "62%",
+    "takedowns_landed_per_15_min": "0.44",
+    "takedown_accuracy": "18%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "49f7186e1e3cf6c8",
+            "fight_url": "http://ufcstats.com/fight-details/49f7186e1e3cf6c8"
+        },
+        {
+            "fight_id": "85f85003fadf7a7b",
+            "fight_url": "http://ufcstats.com/fight-details/85f85003fadf7a7b"
+        },
+        {
+            "fight_id": "11c851a73ffb55ba",
+            "fight_url": "http://ufcstats.com/fight-details/11c851a73ffb55ba"
+        },
+        {
+            "fight_id": "fa7cde1e2d3ae338",
+            "fight_url": "http://ufcstats.com/fight-details/fa7cde1e2d3ae338"
+        },
+        {
+            "fight_id": "47f4b5bf0609e401",
+            "fight_url": "http://ufcstats.com/fight-details/47f4b5bf0609e401"
+        }
+    ]
+}

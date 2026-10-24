@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "71499934c065fecb",
+        "event_id": "380e8b023290d091",
+        "event_name": "UFC 195: Lawler vs Condit",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "1:37",
+        "referee": "John McCarthy",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "c2e3e67b5911bfb7",
+        "name": "Diego Brandao",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 108",
+            "Sig. str. %": "51%",
+            "Total str.": "61 of 116",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 108",
+            "Sig. str. %": "51%",
+            "Head": "38 of 87",
+            "Body": "10 of 11",
+            "Leg": "8 of 10",
+            "Distance": "51 of 99",
+            "Clinch": "0 of 0",
+            "Ground": "5 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "29 of 110",
+            "Sig. str. %": "26%",
+            "Total str.": "33 of 114",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "29 of 110",
+            "Sig. str. %": "26%",
+            "Head": "18 of 91",
+            "Body": "11 of 19",
+            "Leg": "0 of 0",
+            "Distance": "28 of 109",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "8a0be41c0380188d",
+        "event_name": "UFC 264: Poirier vs. McGregor 3",
+        "event_date": "July 10, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7d0ce28ce8a77eb1",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Conor McGregor",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7d0ce28ce8a77eb1"
+        },
+        {
+            "fight_id": "8245791a3d3403c6",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Stephen Thompson",
+            "winner": "Gilbert Burns",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8245791a3d3403c6"
+        },
+        {
+            "fight_id": "53b480b44b0b51f1",
+            "fighter_a": "Tai Tuivasa",
+            "fighter_b": "Greg Hardy",
+            "winner": "Tai Tuivasa",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/53b480b44b0b51f1"
+        },
+        {
+            "fight_id": "3740c8033e31c90d",
+            "fighter_a": "Irene Aldana",
+            "fighter_b": "Yana Santos",
+            "winner": "Irene Aldana",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:35",
+            "fight_url": "http://ufcstats.com/fight-details/3740c8033e31c90d"
+        },
+        {
+            "fight_id": "dbcc5b5d568efa8b",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Kris Moutinho",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "4:33",
+            "fight_url": "http://ufcstats.com/fight-details/dbcc5b5d568efa8b"
+        },
+        {
+            "fight_id": "7070abfa26c079b8",
+            "fighter_a": "Max Griffin",
+            "fighter_b": "Carlos Condit",
+            "winner": "Max Griffin",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7070abfa26c079b8"
+        },
+        {
+            "fight_id": "96bbb6c573dac27a",
+            "fighter_a": "Michel Pereira",
+            "fighter_b": "Niko Price",
+            "winner": "Michel Pereira",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/96bbb6c573dac27a"
+        },
+        {
+            "fight_id": "07468b6347ac5e3d",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Ryan Hall",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:47",
+            "fight_url": "http://ufcstats.com/fight-details/07468b6347ac5e3d"
+        },
+        {
+            "fight_id": "858feabaf429a963",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Trevin Giles",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:41",
+            "fight_url": "http://ufcstats.com/fight-details/858feabaf429a963"
+        },
+        {
+            "fight_id": "5d5bf07dbfada0e3",
+            "fighter_a": "Jennifer Maia",
+            "fighter_b": "Jessica Eye",
+            "winner": "Jennifer Maia",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5d5bf07dbfada0e3"
+        },
+        {
+            "fight_id": "1aba46988c9b58f9",
+            "fighter_a": "Brad Tavares",
+            "fighter_b": "Omari Akhmedov",
+            "winner": "Brad Tavares",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1aba46988c9b58f9"
+        },
+        {
+            "fight_id": "ac0a1d87e9ff4085",
+            "fighter_a": "Zhalgas Zhumagulov",
+            "fighter_b": "Jerome Rivera",
+            "winner": "Zhalgas Zhumagulov",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:02",
+            "fight_url": "http://ufcstats.com/fight-details/ac0a1d87e9ff4085"
+        }
+    ]
+}

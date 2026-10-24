@@ -1,0 +1,100 @@
+{
+    "fighter_id": "7d96bc577e5178b2",
+    "name": "Gray Maynard",
+    "record": "13-7-1 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "May 09, 1979",
+    "sig_strikes_landed_per_min": "1.92",
+    "sig_striking_accuracy": "32%",
+    "sig_strikes_absorbed_per_min": "2.64",
+    "sig_strike_defense": "66%",
+    "takedowns_landed_per_15_min": "2.91",
+    "takedown_accuracy": "47%",
+    "takedown_defense": "81%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "9bc042a700d9a531",
+            "fight_url": "http://ufcstats.com/fight-details/9bc042a700d9a531"
+        },
+        {
+            "fight_id": "88c2da7b33cca8d4",
+            "fight_url": "http://ufcstats.com/fight-details/88c2da7b33cca8d4"
+        },
+        {
+            "fight_id": "019983faebec6d64",
+            "fight_url": "http://ufcstats.com/fight-details/019983faebec6d64"
+        },
+        {
+            "fight_id": "36388dce4a8cc18f",
+            "fight_url": "http://ufcstats.com/fight-details/36388dce4a8cc18f"
+        },
+        {
+            "fight_id": "85dcf9425d3c4e56",
+            "fight_url": "http://ufcstats.com/fight-details/85dcf9425d3c4e56"
+        },
+        {
+            "fight_id": "efa3f3c8945cad0a",
+            "fight_url": "http://ufcstats.com/fight-details/efa3f3c8945cad0a"
+        },
+        {
+            "fight_id": "f0815638f558968d",
+            "fight_url": "http://ufcstats.com/fight-details/f0815638f558968d"
+        },
+        {
+            "fight_id": "9dd931fd20d6c886",
+            "fight_url": "http://ufcstats.com/fight-details/9dd931fd20d6c886"
+        },
+        {
+            "fight_id": "18efcec3c51750e9",
+            "fight_url": "http://ufcstats.com/fight-details/18efcec3c51750e9"
+        },
+        {
+            "fight_id": "8a660069ae42edc2",
+            "fight_url": "http://ufcstats.com/fight-details/8a660069ae42edc2"
+        },
+        {
+            "fight_id": "91bb64656e13a1d4",
+            "fight_url": "http://ufcstats.com/fight-details/91bb64656e13a1d4"
+        },
+        {
+            "fight_id": "f484290346cfcf73",
+            "fight_url": "http://ufcstats.com/fight-details/f484290346cfcf73"
+        },
+        {
+            "fight_id": "5355fd4a2598f679",
+            "fight_url": "http://ufcstats.com/fight-details/5355fd4a2598f679"
+        },
+        {
+            "fight_id": "b4a81d7eb4e42c1c",
+            "fight_url": "http://ufcstats.com/fight-details/b4a81d7eb4e42c1c"
+        },
+        {
+            "fight_id": "789a8911fcd6de13",
+            "fight_url": "http://ufcstats.com/fight-details/789a8911fcd6de13"
+        },
+        {
+            "fight_id": "27868eac1d141498",
+            "fight_url": "http://ufcstats.com/fight-details/27868eac1d141498"
+        },
+        {
+            "fight_id": "190c61d5a67018b5",
+            "fight_url": "http://ufcstats.com/fight-details/190c61d5a67018b5"
+        },
+        {
+            "fight_id": "804eff79a58ad250",
+            "fight_url": "http://ufcstats.com/fight-details/804eff79a58ad250"
+        },
+        {
+            "fight_id": "c86702c01c4cfee2",
+            "fight_url": "http://ufcstats.com/fight-details/c86702c01c4cfee2"
+        },
+        {
+            "fight_id": "53343bd123bcf651",
+            "fight_url": "http://ufcstats.com/fight-details/53343bd123bcf651"
+        }
+    ]
+}

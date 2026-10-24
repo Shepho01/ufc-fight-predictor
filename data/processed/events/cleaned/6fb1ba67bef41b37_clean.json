@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "6fb1ba67bef41b37",
+        "event_name": "UFC Fight Night: Pavlovich vs. Blaydes",
+        "event_day": 22,
+        "event_month": 4,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "856468ba24a37fcc",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Curtis Blaydes",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 188,
+            "fight_url": "http://ufcstats.com/fight-details/856468ba24a37fcc"
+        },
+        {
+            "fight_id": "d00d5ef4ae0ac01b",
+            "fighter_a": "Bruno Silva",
+            "fighter_b": "Brad Tavares",
+            "winner": "Bruno Silva",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 215,
+            "fight_url": "http://ufcstats.com/fight-details/d00d5ef4ae0ac01b"
+        },
+        {
+            "fight_id": "640d52630f4f8a61",
+            "fighter_a": "King Green",
+            "fighter_b": "Jared Gordon",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "CNC",
+            "round": 1,
+            "time_seconds": 275,
+            "fight_url": "http://ufcstats.com/fight-details/640d52630f4f8a61"
+        },
+        {
+            "fight_id": "20c0f50c11509301",
+            "fighter_a": "Iasmin Lucindo",
+            "fighter_b": "Brogan Walker",
+            "winner": "Iasmin Lucindo",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/20c0f50c11509301"
+        },
+        {
+            "fight_id": "06d9fb9c995f1e4f",
+            "fighter_a": "Jeremiah Wells",
+            "fighter_b": "Matthew Semelsberger",
+            "winner": "Jeremiah Wells",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/06d9fb9c995f1e4f"
+        },
+        {
+            "fight_id": "16628e25a043043a",
+            "fighter_a": "Christos Giagos",
+            "fighter_b": "Ricky Glenn",
+            "winner": "Christos Giagos",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 95,
+            "fight_url": "http://ufcstats.com/fight-details/16628e25a043043a"
+        },
+        {
+            "fight_id": "034cbbec91f67852",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Rani Yahya",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 222,
+            "fight_url": "http://ufcstats.com/fight-details/034cbbec91f67852"
+        },
+        {
+            "fight_id": "01aa5949ac6851f3",
+            "fighter_a": "Norma Dumont",
+            "fighter_b": "Karol Rosa",
+            "winner": "Norma Dumont",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/01aa5949ac6851f3"
+        },
+        {
+            "fight_id": "8beab5f941dae8e0",
+            "fighter_a": "Mohammed Usman",
+            "fighter_b": "Junior Tafa",
+            "winner": "Mohammed Usman",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8beab5f941dae8e0"
+        },
+        {
+            "fight_id": "a941c4e25ddddfff",
+            "fighter_a": "William Gomis",
+            "fighter_b": "Francis Marshall",
+            "winner": "William Gomis",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a941c4e25ddddfff"
+        },
+        {
+            "fight_id": "277233ca9ea25674",
+            "fighter_a": "Brady Hiestand",
+            "fighter_b": "Batgerel Danaa",
+            "winner": "Brady Hiestand",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/277233ca9ea25674"
+        }
+    ]
+}

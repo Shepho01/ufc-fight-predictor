@@ -1,0 +1,80 @@
+{
+    "fighter_id": "d1a1314976c50bef",
+    "name": "Josh Neer",
+    "record": "36-16-1",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Mar 24, 1983",
+    "sig_strikes_landed_per_min": "3.29",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "3.63",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "1.09",
+    "takedown_accuracy": "34%",
+    "takedown_defense": "46%",
+    "submission_attempts_per_15_min": "1.3",
+    "fight_history": [
+        {
+            "fight_id": "db43605f10bd67b4",
+            "fight_url": "http://ufcstats.com/fight-details/db43605f10bd67b4"
+        },
+        {
+            "fight_id": "b56d1822b9f9a35f",
+            "fight_url": "http://ufcstats.com/fight-details/b56d1822b9f9a35f"
+        },
+        {
+            "fight_id": "be6024894ebcb360",
+            "fight_url": "http://ufcstats.com/fight-details/be6024894ebcb360"
+        },
+        {
+            "fight_id": "d391ca8154bcf507",
+            "fight_url": "http://ufcstats.com/fight-details/d391ca8154bcf507"
+        },
+        {
+            "fight_id": "425e856cac6f521b",
+            "fight_url": "http://ufcstats.com/fight-details/425e856cac6f521b"
+        },
+        {
+            "fight_id": "92975b516e6463b6",
+            "fight_url": "http://ufcstats.com/fight-details/92975b516e6463b6"
+        },
+        {
+            "fight_id": "b71f07f052d0a48b",
+            "fight_url": "http://ufcstats.com/fight-details/b71f07f052d0a48b"
+        },
+        {
+            "fight_id": "df7f3c60c523ca55",
+            "fight_url": "http://ufcstats.com/fight-details/df7f3c60c523ca55"
+        },
+        {
+            "fight_id": "9fc232c3829a1ef0",
+            "fight_url": "http://ufcstats.com/fight-details/9fc232c3829a1ef0"
+        },
+        {
+            "fight_id": "9103686732816d77",
+            "fight_url": "http://ufcstats.com/fight-details/9103686732816d77"
+        },
+        {
+            "fight_id": "cd6070783f11619b",
+            "fight_url": "http://ufcstats.com/fight-details/cd6070783f11619b"
+        },
+        {
+            "fight_id": "000da3152b7b5ab1",
+            "fight_url": "http://ufcstats.com/fight-details/000da3152b7b5ab1"
+        },
+        {
+            "fight_id": "d066287b31c871a6",
+            "fight_url": "http://ufcstats.com/fight-details/d066287b31c871a6"
+        },
+        {
+            "fight_id": "e55b69543aa74907",
+            "fight_url": "http://ufcstats.com/fight-details/e55b69543aa74907"
+        },
+        {
+            "fight_id": "7acca0910edd7023",
+            "fight_url": "http://ufcstats.com/fight-details/7acca0910edd7023"
+        }
+    ]
+}

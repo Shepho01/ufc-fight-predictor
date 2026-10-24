@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "dd47c3359dc1b7d0",
+        "event_id": "597db668b01c442c",
+        "event_name": "UFC 81: Breaking Point",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Steve Mazzagatti",
+        "winner_id": "20205040232ed0f3"
+    },
+    "fighter_a": {
+        "fighter_id": "20205040232ed0f3",
+        "name": "Tyson Griffin",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "60 of 119",
+            "Sig. str. %": "50%",
+            "Total str.": "82 of 142",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "60 of 119",
+            "Sig. str. %": "50%",
+            "Head": "26 of 78",
+            "Body": "21 of 24",
+            "Leg": "13 of 17",
+            "Distance": "51 of 110",
+            "Clinch": "9 of 9",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 93",
+            "Sig. str. %": "24%",
+            "Total str.": "47 of 117",
+            "Td": "6 of 8",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:29"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 93",
+            "Sig. str. %": "24%",
+            "Head": "19 of 88",
+            "Body": "4 of 5",
+            "Leg": "0 of 0",
+            "Distance": "14 of 84",
+            "Clinch": "3 of 3",
+            "Ground": "6 of 6"
+        }
+    }
+}

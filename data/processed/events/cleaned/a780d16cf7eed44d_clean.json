@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "a780d16cf7eed44d",
+        "event_name": "UFC Fight Night: Emmett vs. Topuria",
+        "event_day": 24,
+        "event_month": 6,
+        "event_year": 2023,
+        "location": "Jacksonville, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c3ef3cb03edde8bb",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Josh Emmett",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c3ef3cb03edde8bb"
+        },
+        {
+            "fight_id": "07cb64236ae7aaea",
+            "fighter_a": "Maycee Barber",
+            "fighter_b": "Amanda Ribas",
+            "winner": "Maycee Barber",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 222,
+            "fight_url": "http://ufcstats.com/fight-details/07cb64236ae7aaea"
+        },
+        {
+            "fight_id": "2874ea5d2f783e23",
+            "fighter_a": "Austen Lane",
+            "fighter_b": "Justin Tafa",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "CNC",
+            "round": 1,
+            "time_seconds": 29,
+            "fight_url": "http://ufcstats.com/fight-details/2874ea5d2f783e23"
+        },
+        {
+            "fight_id": "582806c33ce6dcf6",
+            "fighter_a": "David Onama",
+            "fighter_b": "Gabriel Santos",
+            "winner": "David Onama",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/582806c33ce6dcf6"
+        },
+        {
+            "fight_id": "9124740fe7816d70",
+            "fighter_a": "Brendan Allen",
+            "fighter_b": "Bruno Silva",
+            "winner": "Brendan Allen",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 279,
+            "fight_url": "http://ufcstats.com/fight-details/9124740fe7816d70"
+        },
+        {
+            "fight_id": "ced01368259428f5",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Phil Rowe",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ced01368259428f5"
+        },
+        {
+            "fight_id": "42922bab8a3e1828",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Wellington Turman",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/42922bab8a3e1828"
+        },
+        {
+            "fight_id": "8b296724a6844865",
+            "fighter_a": "Mateusz Rebecki",
+            "fighter_b": "Loik Radzhabov",
+            "winner": "Mateusz Rebecki",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 156,
+            "fight_url": "http://ufcstats.com/fight-details/8b296724a6844865"
+        },
+        {
+            "fight_id": "c22de92b9d9030dc",
+            "fighter_a": "Tabatha Ricci",
+            "fighter_b": "Gillian Robertson",
+            "winner": "Tabatha Ricci",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c22de92b9d9030dc"
+        },
+        {
+            "fight_id": "c2cdeb207cce5ceb",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Zhalgas Zhumagulov",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c2cdeb207cce5ceb"
+        },
+        {
+            "fight_id": "f18d44292036d5de",
+            "fighter_a": "Chepe Mariscal",
+            "fighter_b": "Trevor Peek",
+            "winner": "Chepe Mariscal",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f18d44292036d5de"
+        },
+        {
+            "fight_id": "fcc1191761e365f9",
+            "fighter_a": "Jack Jenkins",
+            "fighter_b": "Jamall Emmers",
+            "winner": "Jack Jenkins",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fcc1191761e365f9"
+        },
+        {
+            "fight_id": "7b909acede0a26eb",
+            "fighter_a": "Sedriques Dumas",
+            "fighter_b": "Cody Brundage",
+            "winner": "Sedriques Dumas",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7b909acede0a26eb"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "75e0d3cc2262b732",
+        "event_name": "UFC 272: Covington vs. Masvidal",
+        "event_date": "March 05, 2022",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "d03d0abf331df751",
+            "fighter_a": "Colby Covington",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Colby Covington",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d03d0abf331df751"
+        },
+        {
+            "fight_id": "838bb84a5a976a9c",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Renato Moicano",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/838bb84a5a976a9c"
+        },
+        {
+            "fight_id": "abd45edc07a8d9e3",
+            "fighter_a": "Bryce Mitchell",
+            "fighter_b": "Edson Barboza",
+            "winner": "Bryce Mitchell",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/abd45edc07a8d9e3"
+        },
+        {
+            "fight_id": "43b43c5d439b2f98",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Alex Oliveira",
+            "winner": "Kevin Holland",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "0:38",
+            "fight_url": "http://ufcstats.com/fight-details/43b43c5d439b2f98"
+        },
+        {
+            "fight_id": "cda06ff86cfe4f5f",
+            "fighter_a": "Serghei Spivac",
+            "fighter_b": "Greg Hardy",
+            "winner": "Serghei Spivac",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:16",
+            "fight_url": "http://ufcstats.com/fight-details/cda06ff86cfe4f5f"
+        },
+        {
+            "fight_id": "fce6ab43b7d09aa4",
+            "fighter_a": "Jalin Turner",
+            "fighter_b": "Jamie Mullarkey",
+            "winner": "Jalin Turner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:46",
+            "fight_url": "http://ufcstats.com/fight-details/fce6ab43b7d09aa4"
+        },
+        {
+            "fight_id": "9321b3c90ea5ca6c",
+            "fighter_a": "Marina Rodriguez",
+            "fighter_b": "Yan Xiaonan",
+            "winner": "Marina Rodriguez",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9321b3c90ea5ca6c"
+        },
+        {
+            "fight_id": "ee278a5a25744cac",
+            "fighter_a": "Nicolae Negumereanu",
+            "fighter_b": "Kennedy Nzechukwu",
+            "winner": "Nicolae Negumereanu",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ee278a5a25744cac"
+        },
+        {
+            "fight_id": "c6fc43c351b08bda",
+            "fighter_a": "Maryna Moroz",
+            "fighter_b": "Mariya Agapova",
+            "winner": "Maryna Moroz",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:27",
+            "fight_url": "http://ufcstats.com/fight-details/c6fc43c351b08bda"
+        },
+        {
+            "fight_id": "59d44b6888885500",
+            "fighter_a": "Umar Nurmagomedov",
+            "fighter_b": "Brian Kelleher",
+            "winner": "Umar Nurmagomedov",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/59d44b6888885500"
+        },
+        {
+            "fight_id": "c420c376cc1d149c",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Tagir Ulanbekov",
+            "winner": "Tim Elliott",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c420c376cc1d149c"
+        },
+        {
+            "fight_id": "36d9337a27b71ba9",
+            "fighter_a": "Ludovit Klein",
+            "fighter_b": "Devonte Smith",
+            "winner": "Ludovit Klein",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/36d9337a27b71ba9"
+        },
+        {
+            "fight_id": "d5323490163dde0e",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "Michal Oleksiejczuk",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d5323490163dde0e"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "cba3a2dfbc06ce79",
+        "event_name": "UFC Fight Night: Cannonier vs. Imavov",
+        "event_date": "June 08, 2024",
+        "location": "Louisville, Kentucky, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "052f53e006b28132",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Jared Cannonier",
+            "winner": "Nassourdine Imavov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "4",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/052f53e006b28132"
+        },
+        {
+            "fight_id": "2d12ae4683bbf433",
+            "fighter_a": "Dominick Reyes",
+            "fighter_b": "Dustin Jacoby",
+            "winner": "Dominick Reyes",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:00",
+            "fight_url": "http://ufcstats.com/fight-details/2d12ae4683bbf433"
+        },
+        {
+            "fight_id": "b34abcfe4c2e8a57",
+            "fighter_a": "Raul Rosas Jr.",
+            "fighter_b": "Ricky Turcios",
+            "winner": "Raul Rosas Jr.",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:22",
+            "fight_url": "http://ufcstats.com/fight-details/b34abcfe4c2e8a57"
+        },
+        {
+            "fight_id": "dcc0c53100fa1dd2",
+            "fighter_a": "Brunno Ferreira",
+            "fighter_b": "Dustin Stoltzfus",
+            "winner": "Brunno Ferreira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Spinning Back Elbow",
+            "round": "1",
+            "time": "4:51",
+            "fight_url": "http://ufcstats.com/fight-details/dcc0c53100fa1dd2"
+        },
+        {
+            "fight_id": "3b12094dd48c2dc5",
+            "fighter_a": "Zach Reese",
+            "fighter_b": "Julian Marquez",
+            "winner": "Zach Reese",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:20",
+            "fight_url": "http://ufcstats.com/fight-details/3b12094dd48c2dc5"
+        },
+        {
+            "fight_id": "393f9bc7b51791a6",
+            "fighter_a": "Punahele Soriano",
+            "fighter_b": "Miguel Baeza",
+            "winner": "Punahele Soriano",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/393f9bc7b51791a6"
+        },
+        {
+            "fight_id": "251983e1bdae20fe",
+            "fighter_a": "Ludovit Klein",
+            "fighter_b": "Thiago Moises",
+            "winner": "Ludovit Klein",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/251983e1bdae20fe"
+        },
+        {
+            "fight_id": "8afe89f5c451b372",
+            "fighter_a": "Carlos Prates",
+            "fighter_b": "Charles Radtke",
+            "winner": "Carlos Prates",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "4:47",
+            "fight_url": "http://ufcstats.com/fight-details/8afe89f5c451b372"
+        },
+        {
+            "fight_id": "4c0adccb34c1d995",
+            "fighter_a": "Brad Katona",
+            "fighter_b": "Jesse Butler",
+            "winner": "Brad Katona",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4c0adccb34c1d995"
+        },
+        {
+            "fight_id": "a91fdb21a7ff52e5",
+            "fighter_a": "Montana De La Rosa",
+            "fighter_b": "Andrea Lee",
+            "winner": "Montana De La Rosa",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a91fdb21a7ff52e5"
+        },
+        {
+            "fight_id": "e976815e397c40e1",
+            "fighter_a": "Daniel Marcos",
+            "fighter_b": "John Castaneda",
+            "winner": "Daniel Marcos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e976815e397c40e1"
+        },
+        {
+            "fight_id": "790a8cd528233e50",
+            "fighter_a": "Denise Gomes",
+            "fighter_b": "Eduarda Moura",
+            "winner": "Denise Gomes",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/790a8cd528233e50"
+        },
+        {
+            "fight_id": "753735b48b1c20b9",
+            "fighter_a": "Taylor Lapilus",
+            "fighter_b": "Cody Stamann",
+            "winner": "Taylor Lapilus",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/753735b48b1c20b9"
+        },
+        {
+            "fight_id": "b20640f9b2634de1",
+            "fighter_a": "Puja Tomar",
+            "fighter_b": "Rayanne dos Santos",
+            "winner": "Puja Tomar",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b20640f9b2634de1"
+        }
+    ]
+}

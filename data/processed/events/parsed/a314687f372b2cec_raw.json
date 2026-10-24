@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "a314687f372b2cec",
+        "event_name": "UFC Fight Night: Overeem vs Arlovski",
+        "event_date": "May 08, 2016",
+        "location": "Rotterdam, Zuid-Holland, Netherlands"
+    },
+    "fights": [
+        {
+            "fight_id": "5838305c25a54ea1",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Andrei Arlovski",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:12",
+            "fight_url": "http://ufcstats.com/fight-details/5838305c25a54ea1"
+        },
+        {
+            "fight_id": "d480d01418ae0143",
+            "fighter_a": "Stefan Struve",
+            "fighter_b": "Antonio Silva",
+            "winner": "Stefan Struve",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:16",
+            "fight_url": "http://ufcstats.com/fight-details/d480d01418ae0143"
+        },
+        {
+            "fight_id": "03b9922d777e430c",
+            "fighter_a": "Gunnar Nelson",
+            "fighter_b": "Albert Tumenov",
+            "winner": "Gunnar Nelson",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:15",
+            "fight_url": "http://ufcstats.com/fight-details/03b9922d777e430c"
+        },
+        {
+            "fight_id": "692ceb2ac5fa4427",
+            "fighter_a": "Germaine de Randamie",
+            "fighter_b": "Anna Elmose",
+            "winner": "Germaine de Randamie",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "3:46",
+            "fight_url": "http://ufcstats.com/fight-details/692ceb2ac5fa4427"
+        },
+        {
+            "fight_id": "61f80a1732d37288",
+            "fighter_a": "Nikita Krylov",
+            "fighter_b": "Francimar Barroso",
+            "winner": "Nikita Krylov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/61f80a1732d37288"
+        },
+        {
+            "fight_id": "c5990f9767b16c48",
+            "fighter_a": "Karolina Kowalkiewicz",
+            "fighter_b": "Heather Clark",
+            "winner": "Karolina Kowalkiewicz",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c5990f9767b16c48"
+        },
+        {
+            "fight_id": "97e895b7c2cb9db4",
+            "fighter_a": "Rustam Khabilov",
+            "fighter_b": "Chris Wade",
+            "winner": "Rustam Khabilov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/97e895b7c2cb9db4"
+        },
+        {
+            "fight_id": "6d47170d069df8bb",
+            "fighter_a": "Magnus Cedenblad",
+            "fighter_b": "Garreth McLellan",
+            "winner": "Magnus Cedenblad",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "0:47",
+            "fight_url": "http://ufcstats.com/fight-details/6d47170d069df8bb"
+        },
+        {
+            "fight_id": "7786b5fafee61c36",
+            "fighter_a": "Josh Emmett",
+            "fighter_b": "Jon Tuck",
+            "winner": "Josh Emmett",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7786b5fafee61c36"
+        },
+        {
+            "fight_id": "711fcf95370fa90b",
+            "fighter_a": "Reza Madadi",
+            "fighter_b": "Yan Cabral",
+            "winner": "Reza Madadi",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "1:56",
+            "fight_url": "http://ufcstats.com/fight-details/711fcf95370fa90b"
+        },
+        {
+            "fight_id": "d37ed975c2b70fd2",
+            "fighter_a": "Kyoji Horiguchi",
+            "fighter_b": "Neil Seery",
+            "winner": "Kyoji Horiguchi",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d37ed975c2b70fd2"
+        },
+        {
+            "fight_id": "6ccf478dca83757e",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Dominic Waters",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6ccf478dca83757e"
+        },
+        {
+            "fight_id": "5a9804cad2335272",
+            "fighter_a": "Yuta Sasaki",
+            "fighter_b": "Willie Gates",
+            "winner": "Yuta Sasaki",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:30",
+            "fight_url": "http://ufcstats.com/fight-details/5a9804cad2335272"
+        }
+    ]
+}

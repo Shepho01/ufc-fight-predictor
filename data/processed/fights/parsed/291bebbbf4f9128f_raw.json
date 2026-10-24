@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "291bebbbf4f9128f",
+        "event_id": "7865707fd684d77b",
+        "event_name": "UFC on FUEL TV: Nogueira vs. Werdum",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "a20d7dfaba74c067"
+    },
+    "fighter_a": {
+        "fighter_id": "a20d7dfaba74c067",
+        "name": "Rodrigo Damm",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "76 of 162",
+            "Sig. str. %": "46%",
+            "Total str.": "77 of 163",
+            "Td": "2 of 7",
+            "Td %": "28%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:43"
+        },
+        "significant_strikes": {
+            "Sig. str": "76 of 162",
+            "Sig. str. %": "46%",
+            "Head": "51 of 128",
+            "Body": "12 of 17",
+            "Leg": "13 of 17",
+            "Distance": "75 of 161",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "35faad160d346839",
+        "name": "Mizuto Hirota",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "102 of 199",
+            "Sig. str. %": "51%",
+            "Total str.": "113 of 212",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "102 of 199",
+            "Sig. str. %": "51%",
+            "Head": "60 of 153",
+            "Body": "32 of 35",
+            "Leg": "10 of 11",
+            "Distance": "100 of 197",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4c88a1db5a46c6a4",
+    "name": "Jai Herbert",
+    "wins": 15,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 155,
+    "reach_cm": 195.58,
+    "stance": "Orthodox",
+    "dob_day": 13,
+    "dob_month": 5,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 3.24,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.29,
+    "sig_strike_defense": 0.52,
+    "takedowns_landed_per_15_min": 0.37,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.0
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "692241119228cc82",
+        "event_id": "d6455cb4bee503ce",
+        "event_name": "UFC Fight Night: Poirier vs. Johnson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:35",
+        "referee": "Dan Miragliotta",
+        "winner_id": "511e82663651438d"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 12",
+            "Sig. str. %": "50%",
+            "Total str.": "6 of 12",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 12",
+            "Sig. str. %": "50%",
+            "Head": "4 of 9",
+            "Body": "0 of 0",
+            "Leg": "2 of 3",
+            "Distance": "6 of 12",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "511e82663651438d",
+        "name": "Michael Johnson",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "14 of 37",
+            "Sig. str. %": "37%",
+            "Total str.": "14 of 37",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 37",
+            "Sig. str. %": "37%",
+            "Head": "10 of 26",
+            "Body": "1 of 6",
+            "Leg": "3 of 5",
+            "Distance": "10 of 32",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 5"
+        }
+    }
+}

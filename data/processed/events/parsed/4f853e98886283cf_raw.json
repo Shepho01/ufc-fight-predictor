@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "4f853e98886283cf",
+        "event_name": "UFC 278: Usman vs. Edwards",
+        "event_date": "August 20, 2022",
+        "location": "Salt Lake City, Utah, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f70c817388602681",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Kamaru Usman",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Kick",
+            "round": "5",
+            "time": "4:04",
+            "fight_url": "http://ufcstats.com/fight-details/f70c817388602681"
+        },
+        {
+            "fight_id": "2de6652160cc7b9f",
+            "fighter_a": "Paulo Costa",
+            "fighter_b": "Luke Rockhold",
+            "winner": "Paulo Costa",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2de6652160cc7b9f"
+        },
+        {
+            "fight_id": "2ac3ce1f62b3c4b9",
+            "fighter_a": "Merab Dvalishvili",
+            "fighter_b": "Jose Aldo",
+            "winner": "Merab Dvalishvili",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2ac3ce1f62b3c4b9"
+        },
+        {
+            "fight_id": "2cd9e3796be57a79",
+            "fighter_a": "Lucie Pudilova",
+            "fighter_b": "Wu Yanan",
+            "winner": "Lucie Pudilova",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "4:04",
+            "fight_url": "http://ufcstats.com/fight-details/2cd9e3796be57a79"
+        },
+        {
+            "fight_id": "5abcf9f282983acc",
+            "fighter_a": "Tyson Pedro",
+            "fighter_b": "Harry Hunsucker",
+            "winner": "Tyson Pedro",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:05",
+            "fight_url": "http://ufcstats.com/fight-details/5abcf9f282983acc"
+        },
+        {
+            "fight_id": "e0b98f3cf4a7cc3b",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Alexandr Romanov",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e0b98f3cf4a7cc3b"
+        },
+        {
+            "fight_id": "0cf7a4593fd44e59",
+            "fighter_a": "Jared Gordon",
+            "fighter_b": "Leonardo Santos",
+            "winner": "Jared Gordon",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0cf7a4593fd44e59"
+        },
+        {
+            "fight_id": "2ac9b3ccb43422d8",
+            "fighter_a": "Sean Woodson",
+            "fighter_b": "Luis Saldana",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2ac9b3ccb43422d8"
+        },
+        {
+            "fight_id": "4dac5258f22be059",
+            "fighter_a": "Ange Loosa",
+            "fighter_b": "AJ Fletcher",
+            "winner": "Ange Loosa",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4dac5258f22be059"
+        },
+        {
+            "fight_id": "6b9f82291930bfec",
+            "fighter_a": "Amir Albazi",
+            "fighter_b": "Francisco Figueiredo",
+            "winner": "Amir Albazi",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:34",
+            "fight_url": "http://ufcstats.com/fight-details/6b9f82291930bfec"
+        },
+        {
+            "fight_id": "d497d74a0df9e35e",
+            "fighter_a": "Aoriqileng",
+            "fighter_b": "Jay Perrin",
+            "winner": "Aoriqileng",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d497d74a0df9e35e"
+        },
+        {
+            "fight_id": "06d6cde7479711ee",
+            "fighter_a": "Victor Altamirano",
+            "fighter_b": "Daniel Lacerda",
+            "winner": "Victor Altamirano",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:39",
+            "fight_url": "http://ufcstats.com/fight-details/06d6cde7479711ee"
+        }
+    ]
+}

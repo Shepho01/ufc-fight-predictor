@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "697efaf0d162e877",
+        "event_id": "8fa2b06572365321",
+        "event_name": "Noche UFC: Grasso vs. Shevchenko 2",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "3a46b268013afede",
+        "name": "Kevin Holland",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "127 of 356",
+            "Sig. str. %": "35%",
+            "Total str.": "127 of 356",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "127 of 356",
+            "Sig. str. %": "35%",
+            "Head": "59 of 258",
+            "Body": "33 of 55",
+            "Leg": "35 of 43",
+            "Distance": "119 of 346",
+            "Clinch": "8 of 10",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "105 of 190",
+            "Sig. str. %": "55%",
+            "Total str.": "105 of 190",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "105 of 190",
+            "Sig. str. %": "55%",
+            "Head": "46 of 115",
+            "Body": "36 of 49",
+            "Leg": "23 of 26",
+            "Distance": "94 of 175",
+            "Clinch": "11 of 15",
+            "Ground": "0 of 0"
+        }
+    }
+}

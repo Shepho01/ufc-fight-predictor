@@ -1,0 +1,44 @@
+{
+    "fighter_id": "3f52ce18fb98008f",
+    "name": "Akira Corassani",
+    "record": "12-6-0 (1 NC)",
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Aug 27, 1982",
+    "sig_strikes_landed_per_min": "3.25",
+    "sig_striking_accuracy": "45%",
+    "sig_strikes_absorbed_per_min": "4.91",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.70",
+    "takedown_accuracy": "28%",
+    "takedown_defense": "86%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "eb0775cf8ee7a4e6",
+            "fight_url": "http://ufcstats.com/fight-details/eb0775cf8ee7a4e6"
+        },
+        {
+            "fight_id": "ca16e203eb2bde60",
+            "fight_url": "http://ufcstats.com/fight-details/ca16e203eb2bde60"
+        },
+        {
+            "fight_id": "3e6b5cb3c37bef3b",
+            "fight_url": "http://ufcstats.com/fight-details/3e6b5cb3c37bef3b"
+        },
+        {
+            "fight_id": "b186f4778257ca6d",
+            "fight_url": "http://ufcstats.com/fight-details/b186f4778257ca6d"
+        },
+        {
+            "fight_id": "53467e6296c2e5e6",
+            "fight_url": "http://ufcstats.com/fight-details/53467e6296c2e5e6"
+        },
+        {
+            "fight_id": "cc6934588298958e",
+            "fight_url": "http://ufcstats.com/fight-details/cc6934588298958e"
+        }
+    ]
+}

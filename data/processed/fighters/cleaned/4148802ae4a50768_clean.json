@@ -1,0 +1,23 @@
+{
+    "fighter_id": "4148802ae4a50768",
+    "name": "Daniel Zellhuber",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 155,
+    "reach_cm": 195.58,
+    "stance": "Switch",
+    "dob_day": 7,
+    "dob_month": 7,
+    "dob_year": 1999,
+    "sig_strikes_landed_per_min": 5.45,
+    "sig_striking_accuracy": 0.38,
+    "sig_strikes_absorbed_per_min": 6.17,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.14,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.81,
+    "submission_attempts_per_15_min": 0.3
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f903967fd320da38",
+    "name": "Chris Mickle",
+    "wins": 30,
+    "losses": 21,
+    "draws": 2,
+    "no_conests": 1,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 10,
+    "dob_month": 7,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 3.03,
+    "sig_striking_accuracy": 0.27,
+    "sig_strikes_absorbed_per_min": 9.7,
+    "sig_strike_defense": 0.48,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "b2e3aca4cd363477",
+        "event_name": "UFC Fight Night: Machado Garry vs. Prates",
+        "event_date": "April 26, 2025",
+        "location": "Kansas City, Missouri, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "633f4b5ec767769d",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Carlos Prates",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/633f4b5ec767769d"
+        },
+        {
+            "fight_id": "a526a72ade275f46",
+            "fighter_a": "Zhang Mingyang",
+            "fighter_b": "Anthony Smith",
+            "winner": "Zhang Mingyang",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "4:03",
+            "fight_url": "http://ufcstats.com/fight-details/a526a72ade275f46"
+        },
+        {
+            "fight_id": "4072abf0b0c179f2",
+            "fighter_a": "David Onama",
+            "fighter_b": "Giga Chikadze",
+            "winner": "David Onama",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4072abf0b0c179f2"
+        },
+        {
+            "fight_id": "9bbd45774fb4a6eb",
+            "fighter_a": "Abus Magomedov",
+            "fighter_b": "Michel Pereira",
+            "winner": "Abus Magomedov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9bbd45774fb4a6eb"
+        },
+        {
+            "fight_id": "fbf83609dc96f32e",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Nicolas Dalby",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:39",
+            "fight_url": "http://ufcstats.com/fight-details/fbf83609dc96f32e"
+        },
+        {
+            "fight_id": "62fbdd4f0bcd3c2a",
+            "fighter_a": "Ikram Aliskerov",
+            "fighter_b": "Andre Muniz",
+            "winner": "Ikram Aliskerov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:54",
+            "fight_url": "http://ufcstats.com/fight-details/62fbdd4f0bcd3c2a"
+        },
+        {
+            "fight_id": "d8d22dcc1f6912e7",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Jimmy Flick",
+            "winner": "Matt Schnell",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d8d22dcc1f6912e7"
+        },
+        {
+            "fight_id": "97770b38df67b276",
+            "fighter_a": "Evan Elder",
+            "fighter_b": "Gauge Young",
+            "winner": "Evan Elder",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/97770b38df67b276"
+        },
+        {
+            "fight_id": "6f3cb7ce84185dd3",
+            "fighter_a": "Chris Gutierrez",
+            "fighter_b": "John Castaneda",
+            "winner": "Chris Gutierrez",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6f3cb7ce84185dd3"
+        },
+        {
+            "fight_id": "7d51649373d42571",
+            "fighter_a": "Da'Mon Blackshear",
+            "fighter_b": "Alatengheili",
+            "winner": "Da'Mon Blackshear",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7d51649373d42571"
+        },
+        {
+            "fight_id": "c2c20a04a78d9143",
+            "fighter_a": "Malcolm Wellmaker",
+            "fighter_b": "Cameron Saaiman",
+            "winner": "Malcolm Wellmaker",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/c2c20a04a78d9143"
+        },
+        {
+            "fight_id": "e7b3ca036835b7c2",
+            "fighter_a": "Jaqueline Amorim",
+            "fighter_b": "Polyana Viana",
+            "winner": "Jaqueline Amorim",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/e7b3ca036835b7c2"
+        },
+        {
+            "fight_id": "23201d09a78d446d",
+            "fighter_a": "Timmy Cuamba",
+            "fighter_b": "Roberto Romero",
+            "winner": "Timmy Cuamba",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "2",
+            "time": "3:55",
+            "fight_url": "http://ufcstats.com/fight-details/23201d09a78d446d"
+        },
+        {
+            "fight_id": "7fd6770fe2d4f258",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Chelsea Chandler",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:31",
+            "fight_url": "http://ufcstats.com/fight-details/7fd6770fe2d4f258"
+        }
+    ]
+}

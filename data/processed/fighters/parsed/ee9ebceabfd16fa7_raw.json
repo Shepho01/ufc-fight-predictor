@@ -1,0 +1,96 @@
+{
+    "fighter_id": "ee9ebceabfd16fa7",
+    "name": "Kevin Lee",
+    "record": "18-8-0",
+    "height": "5' 9\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Sep 04, 1992",
+    "sig_strikes_landed_per_min": "3.88",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "3.60",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "3.18",
+    "takedown_accuracy": "43%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.8",
+    "fight_history": [
+        {
+            "fight_id": "962e74250884e4c1",
+            "fight_url": "http://ufcstats.com/fight-details/962e74250884e4c1"
+        },
+        {
+            "fight_id": "089a17e450cc98aa",
+            "fight_url": "http://ufcstats.com/fight-details/089a17e450cc98aa"
+        },
+        {
+            "fight_id": "e0b323dae5bf4c90",
+            "fight_url": "http://ufcstats.com/fight-details/e0b323dae5bf4c90"
+        },
+        {
+            "fight_id": "d5955b81c26230ff",
+            "fight_url": "http://ufcstats.com/fight-details/d5955b81c26230ff"
+        },
+        {
+            "fight_id": "d401522de73b7bee",
+            "fight_url": "http://ufcstats.com/fight-details/d401522de73b7bee"
+        },
+        {
+            "fight_id": "b9c82dfde8b66e37",
+            "fight_url": "http://ufcstats.com/fight-details/b9c82dfde8b66e37"
+        },
+        {
+            "fight_id": "dbb0ca0198ac514a",
+            "fight_url": "http://ufcstats.com/fight-details/dbb0ca0198ac514a"
+        },
+        {
+            "fight_id": "03aec9073946907f",
+            "fight_url": "http://ufcstats.com/fight-details/03aec9073946907f"
+        },
+        {
+            "fight_id": "7013a95ea4014606",
+            "fight_url": "http://ufcstats.com/fight-details/7013a95ea4014606"
+        },
+        {
+            "fight_id": "76602c3658d70273",
+            "fight_url": "http://ufcstats.com/fight-details/76602c3658d70273"
+        },
+        {
+            "fight_id": "dad034faf3d62cb9",
+            "fight_url": "http://ufcstats.com/fight-details/dad034faf3d62cb9"
+        },
+        {
+            "fight_id": "b319a24919106555",
+            "fight_url": "http://ufcstats.com/fight-details/b319a24919106555"
+        },
+        {
+            "fight_id": "083a0283b7bc503b",
+            "fight_url": "http://ufcstats.com/fight-details/083a0283b7bc503b"
+        },
+        {
+            "fight_id": "fa2e2a035b36b9d6",
+            "fight_url": "http://ufcstats.com/fight-details/fa2e2a035b36b9d6"
+        },
+        {
+            "fight_id": "b8019af428c064ef",
+            "fight_url": "http://ufcstats.com/fight-details/b8019af428c064ef"
+        },
+        {
+            "fight_id": "dcee56e0cbfacb45",
+            "fight_url": "http://ufcstats.com/fight-details/dcee56e0cbfacb45"
+        },
+        {
+            "fight_id": "9c0721bd410e7a0e",
+            "fight_url": "http://ufcstats.com/fight-details/9c0721bd410e7a0e"
+        },
+        {
+            "fight_id": "94371d1af8aab471",
+            "fight_url": "http://ufcstats.com/fight-details/94371d1af8aab471"
+        },
+        {
+            "fight_id": "b51163f358495b41",
+            "fight_url": "http://ufcstats.com/fight-details/b51163f358495b41"
+        }
+    ]
+}

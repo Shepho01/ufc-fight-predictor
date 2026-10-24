@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "9eedac48b497de5a",
+        "event_name": "UFC 328: Chimaev vs. Strickland",
+        "event_date": "May 09, 2026",
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "70f1621080b3435c",
+            "fighter_a": "Sean Strickland",
+            "fighter_b": "Khamzat Chimaev",
+            "winner": "Sean Strickland",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/70f1621080b3435c"
+        },
+        {
+            "fight_id": "c85b530861145935",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Tatsuro Taira",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "5",
+            "time": "1:32",
+            "fight_url": "http://ufcstats.com/fight-details/c85b530861145935"
+        },
+        {
+            "fight_id": "22ba4f1b0aafbf82",
+            "fighter_a": "Alexander Volkov",
+            "fighter_b": "Waldo Cortes Acosta",
+            "winner": "Alexander Volkov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/22ba4f1b0aafbf82"
+        },
+        {
+            "fight_id": "845b8653f9cf839c",
+            "fighter_a": "Sean Brady",
+            "fighter_b": "Joaquin Buckley",
+            "winner": "Sean Brady",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/845b8653f9cf839c"
+        },
+        {
+            "fight_id": "1158a27a1a04b971",
+            "fighter_a": "King Green",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:20",
+            "fight_url": "http://ufcstats.com/fight-details/1158a27a1a04b971"
+        },
+        {
+            "fight_id": "770c5302e32916ea",
+            "fighter_a": "Ateba Gautier",
+            "fighter_b": "Ozzy Diaz",
+            "winner": "Ateba Gautier",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/770c5302e32916ea"
+        },
+        {
+            "fight_id": "f88dc6e0c29cff1d",
+            "fighter_a": "Yaroslav Amosov",
+            "fighter_b": "Joel Alvarez",
+            "winner": "Yaroslav Amosov",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "1:13",
+            "fight_url": "http://ufcstats.com/fight-details/f88dc6e0c29cff1d"
+        },
+        {
+            "fight_id": "ffcb47e17eebe6a6",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Mateusz Rebecki",
+            "winner": "Grant Dawson",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:42",
+            "fight_url": "http://ufcstats.com/fight-details/ffcb47e17eebe6a6"
+        },
+        {
+            "fight_id": "e50857173607d631",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Jared Gordon",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "3:29",
+            "fight_url": "http://ufcstats.com/fight-details/e50857173607d631"
+        },
+        {
+            "fight_id": "9d35723a53749931",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Marco Tulio",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9d35723a53749931"
+        },
+        {
+            "fight_id": "303018d7459323b4",
+            "fighter_a": "Pat Sabatini",
+            "fighter_b": "William Gomis",
+            "winner": "Pat Sabatini",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/303018d7459323b4"
+        },
+        {
+            "fight_id": "1f5d0b106385b2ac",
+            "fighter_a": "Baisangur Susurkaev",
+            "fighter_b": "Djorden Santos",
+            "winner": "Baisangur Susurkaev",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:12",
+            "fight_url": "http://ufcstats.com/fight-details/1f5d0b106385b2ac"
+        },
+        {
+            "fight_id": "e92d89cb2d69235e",
+            "fighter_a": "Jose Ochoa",
+            "fighter_b": "Clayton Carpenter",
+            "winner": "Jose Ochoa",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e92d89cb2d69235e"
+        }
+    ]
+}

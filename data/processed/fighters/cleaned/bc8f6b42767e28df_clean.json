@@ -1,0 +1,23 @@
+{
+    "fighter_id": "bc8f6b42767e28df",
+    "name": "Naoyuki Kotani",
+    "wins": 34,
+    "losses": 14,
+    "draws": 7,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 167.64000000000001,
+    "stance": "Southpaw",
+    "dob_day": 8,
+    "dob_month": 12,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 1.02,
+    "sig_striking_accuracy": 0.31,
+    "sig_strikes_absorbed_per_min": 2.89,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 0.83,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.46,
+    "submission_attempts_per_15_min": 0.8
+}

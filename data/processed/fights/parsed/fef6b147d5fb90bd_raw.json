@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fef6b147d5fb90bd",
+        "event_id": "980b4e712489098e",
+        "event_name": "UFC 164: Henderson vs Pettis 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "0:30",
+        "referee": "Yves Lavigne",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "32 of 66",
+            "Sig. str. %": "48%",
+            "Total str.": "40 of 74",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "3:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 66",
+            "Sig. str. %": "48%",
+            "Head": "24 of 57",
+            "Body": "4 of 5",
+            "Leg": "4 of 4",
+            "Distance": "15 of 47",
+            "Clinch": "4 of 4",
+            "Ground": "13 of 15"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c47df9303d318c67",
+        "name": "Clay Guida",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 99",
+            "Sig. str. %": "17%",
+            "Total str.": "19 of 101",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 99",
+            "Sig. str. %": "17%",
+            "Head": "11 of 90",
+            "Body": "1 of 1",
+            "Leg": "5 of 8",
+            "Distance": "16 of 98",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

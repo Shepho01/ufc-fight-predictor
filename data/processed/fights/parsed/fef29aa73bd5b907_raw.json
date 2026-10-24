@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fef29aa73bd5b907",
+        "event_id": "744f50016c39c26c",
+        "event_name": "UFC 262: Oliveira vs. Chandler",
+        "weight_class": "Lightweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "0:19",
+        "referee": "Dan Miragliotta",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "24 of 32",
+            "Sig. str. %": "75%",
+            "Total str.": "32 of 41",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:42"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 32",
+            "Sig. str. %": "75%",
+            "Head": "20 of 26",
+            "Body": "1 of 3",
+            "Leg": "3 of 3",
+            "Distance": "13 of 20",
+            "Clinch": "3 of 3",
+            "Ground": "8 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4b93a88f3b1de35b",
+        "name": "Michael Chandler",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "30 of 55",
+            "Sig. str. %": "54%",
+            "Total str.": "36 of 61",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "2:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 55",
+            "Sig. str. %": "54%",
+            "Head": "22 of 42",
+            "Body": "6 of 10",
+            "Leg": "2 of 3",
+            "Distance": "13 of 26",
+            "Clinch": "0 of 0",
+            "Ground": "17 of 29"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ca8e482388e7ac82",
+        "event_id": "a8d521d913df4e31",
+        "event_name": "UFC on FOX: Henderson vs Thomson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:40",
+        "referee": "John McCarthy",
+        "winner_id": "1d00756835ca67c9"
+    },
+    "fighter_a": {
+        "fighter_id": "1d00756835ca67c9",
+        "name": "Donald Cerrone",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "16 of 37",
+            "Sig. str. %": "43%",
+            "Total str.": "16 of 37",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 37",
+            "Sig. str. %": "43%",
+            "Head": "2 of 14",
+            "Body": "6 of 15",
+            "Leg": "8 of 8",
+            "Distance": "16 of 37",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7dcf06c1967801c1",
+        "name": "Adriano Martins",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 29",
+            "Sig. str. %": "44%",
+            "Total str.": "13 of 29",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 29",
+            "Sig. str. %": "44%",
+            "Head": "11 of 26",
+            "Body": "0 of 1",
+            "Leg": "2 of 2",
+            "Distance": "13 of 28",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "32490e80ddab1e5a",
+    "name": "Song Kenan",
+    "wins": 22,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 170,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 10,
+    "dob_month": 3,
+    "dob_year": 1990,
+    "sig_strikes_landed_per_min": 4.49,
+    "sig_striking_accuracy": 0.46,
+    "sig_strikes_absorbed_per_min": 5.82,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 0.42,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.73,
+    "submission_attempts_per_15_min": 0.0
+}

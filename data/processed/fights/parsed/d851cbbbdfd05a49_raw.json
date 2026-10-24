@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d851cbbbdfd05a49",
+        "event_id": "2eab7a6c8b0ed8cc",
+        "event_name": "UFC Fight Night: Blaydes vs. Volkov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "c47df9303d318c67",
+        "name": "Clay Guida",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 65",
+            "Sig. str. %": "35%",
+            "Total str.": "27 of 69",
+            "Td": "3 of 12",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:32"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 65",
+            "Sig. str. %": "35%",
+            "Head": "10 of 46",
+            "Body": "1 of 5",
+            "Leg": "12 of 14",
+            "Distance": "23 of 64",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "85 of 150",
+            "Sig. str. %": "56%",
+            "Total str.": "90 of 158",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "1:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "85 of 150",
+            "Sig. str. %": "56%",
+            "Head": "38 of 95",
+            "Body": "36 of 44",
+            "Leg": "11 of 11",
+            "Distance": "55 of 119",
+            "Clinch": "16 of 17",
+            "Ground": "14 of 14"
+        }
+    }
+}

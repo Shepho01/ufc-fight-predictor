@@ -1,0 +1,60 @@
+{
+    "fighter_id": "323d4ca260dfa0ba",
+    "name": "Esteban Ribovics",
+    "record": "17-3-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Apr 27, 1996",
+    "sig_strikes_landed_per_min": "7.48",
+    "sig_striking_accuracy": "43%",
+    "sig_strikes_absorbed_per_min": "5.78",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.31",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "c93d7f60674df307",
+            "fight_url": "http://ufcstats.com/fight-details/c93d7f60674df307"
+        },
+        {
+            "fight_id": "8e482cead0c7eb15",
+            "fight_url": "http://ufcstats.com/fight-details/8e482cead0c7eb15"
+        },
+        {
+            "fight_id": "62b5ce408c150fa8",
+            "fight_url": "http://ufcstats.com/fight-details/62b5ce408c150fa8"
+        },
+        {
+            "fight_id": "878941394f9e3538",
+            "fight_url": "http://ufcstats.com/fight-details/878941394f9e3538"
+        },
+        {
+            "fight_id": "061990783b9bdb36",
+            "fight_url": "http://ufcstats.com/fight-details/061990783b9bdb36"
+        },
+        {
+            "fight_id": "27d98a8ee6608e27",
+            "fight_url": "http://ufcstats.com/fight-details/27d98a8ee6608e27"
+        },
+        {
+            "fight_id": "8d9bcbb48888a5a3",
+            "fight_url": "http://ufcstats.com/fight-details/8d9bcbb48888a5a3"
+        },
+        {
+            "fight_id": "5b71958ee063a6e8",
+            "fight_url": "http://ufcstats.com/fight-details/5b71958ee063a6e8"
+        },
+        {
+            "fight_id": "ee2354d638c078fd",
+            "fight_url": "http://ufcstats.com/fight-details/ee2354d638c078fd"
+        },
+        {
+            "fight_id": "54d176f7879eb8e7",
+            "fight_url": "http://ufcstats.com/fight-details/54d176f7879eb8e7"
+        }
+    ]
+}

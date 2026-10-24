@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4af9088a165c7751",
+        "event_id": "3c48019bc387b80c",
+        "event_name": "UFC 150: Henderson vs Edgar II",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:45",
+        "referee": "Tim Mills",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 37",
+            "Sig. str. %": "89%",
+            "Total str.": "59 of 67",
+            "Td": "4 of 4",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 37",
+            "Sig. str. %": "89%",
+            "Head": "22 of 26",
+            "Body": "4 of 4",
+            "Leg": "7 of 7",
+            "Distance": "3 of 6",
+            "Clinch": "12 of 13",
+            "Ground": "18 of 18"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "2b4faacc16d66898",
+        "name": "Eiji Mitsuoka",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 10",
+            "Sig. str. %": "50%",
+            "Total str.": "6 of 11",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 10",
+            "Sig. str. %": "50%",
+            "Head": "4 of 9",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "4 of 8",
+            "Clinch": "0 of 1",
+            "Ground": "1 of 1"
+        }
+    }
+}

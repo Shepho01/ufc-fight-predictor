@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "a58114c6dd0add64",
+        "event_name": "UFC 188: Velasquez vs Werdum",
+        "event_day": 13,
+        "event_month": 6,
+        "event_year": 2015,
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "93f1b09aa792405e",
+            "fighter_a": "Fabricio Werdum",
+            "fighter_b": "Cain Velasquez",
+            "winner": "Fabricio Werdum",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 133,
+            "fight_url": "http://ufcstats.com/fight-details/93f1b09aa792405e"
+        },
+        {
+            "fight_id": "fd776d7b554a85d0",
+            "fighter_a": "Eddie Alvarez",
+            "fighter_b": "Gilbert Melendez",
+            "winner": "Eddie Alvarez",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fd776d7b554a85d0"
+        },
+        {
+            "fight_id": "dc93921bd9342341",
+            "fighter_a": "Kelvin Gastelum",
+            "fighter_b": "Nate Marquardt",
+            "winner": "Kelvin Gastelum",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dc93921bd9342341"
+        },
+        {
+            "fight_id": "243e5e9b6678f303",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Charles Rosa",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/243e5e9b6678f303"
+        },
+        {
+            "fight_id": "3b6dfd089301d16e",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Angela Hill",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3b6dfd089301d16e"
+        },
+        {
+            "fight_id": "28c33e9353dac666",
+            "fighter_a": "Henry Cejudo",
+            "fighter_b": "Chico Camus",
+            "winner": "Henry Cejudo",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/28c33e9353dac666"
+        },
+        {
+            "fight_id": "47e8726b301f3f32",
+            "fighter_a": "Efrain Escudero",
+            "fighter_b": "Drew Dober",
+            "winner": "Efrain Escudero",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 54,
+            "fight_url": "http://ufcstats.com/fight-details/47e8726b301f3f32"
+        },
+        {
+            "fight_id": "c7bc785e99d3ee2a",
+            "fighter_a": "Patrick Williams",
+            "fighter_b": "Alejandro Perez",
+            "winner": "Patrick Williams",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 23,
+            "fight_url": "http://ufcstats.com/fight-details/c7bc785e99d3ee2a"
+        },
+        {
+            "fight_id": "b2b6cf87cde17136",
+            "fighter_a": "Johnny Case",
+            "fighter_b": "Francisco Trevino",
+            "winner": "Johnny Case",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b2b6cf87cde17136"
+        },
+        {
+            "fight_id": "ac2887a0855a3266",
+            "fighter_a": "Cathal Pendred",
+            "fighter_b": "Augusto Montano",
+            "winner": "Cathal Pendred",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ac2887a0855a3266"
+        },
+        {
+            "fight_id": "0452dd001f4adb6e",
+            "fighter_a": "Gabriel Benitez",
+            "fighter_b": "Clay Collard",
+            "winner": "Gabriel Benitez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0452dd001f4adb6e"
+        }
+    ]
+}

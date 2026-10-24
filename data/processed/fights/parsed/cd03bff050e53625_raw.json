@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "cd03bff050e53625",
+        "event_id": "601cf40c09090853",
+        "event_name": "UFC 156: Aldo vs Edgar",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "4:25",
+        "referee": "Kim Winslow",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "6f81b6de2557739a",
+        "name": "Jacob Volkmann",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "6 of 51",
+            "Sig. str. %": "11%",
+            "Total str.": "11 of 60",
+            "Td": "4 of 12",
+            "Td %": "33%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "6 of 51",
+            "Sig. str. %": "11%",
+            "Head": "4 of 37",
+            "Body": "1 of 6",
+            "Leg": "1 of 8",
+            "Distance": "3 of 44",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 90",
+            "Sig. str. %": "60%",
+            "Total str.": "69 of 106",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "2",
+            "Ctrl": "4:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 90",
+            "Sig. str. %": "60%",
+            "Head": "34 of 64",
+            "Body": "14 of 19",
+            "Leg": "6 of 7",
+            "Distance": "17 of 44",
+            "Clinch": "9 of 9",
+            "Ground": "28 of 37"
+        }
+    }
+}

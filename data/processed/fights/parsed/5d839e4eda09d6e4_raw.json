@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5d839e4eda09d6e4",
+        "event_id": "cf1a88371c8cb690",
+        "event_name": "UFC Fight Night: Shogun vs Sonnen",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "f4c49976c75c5ab2"
+    },
+    "fighter_a": {
+        "fighter_id": "f4c49976c75c5ab2",
+        "name": "Conor McGregor",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "53 of 153",
+            "Sig. str. %": "34%",
+            "Total str.": "71 of 173",
+            "Td": "4 of 5",
+            "Td %": "80%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "53 of 153",
+            "Sig. str. %": "34%",
+            "Head": "34 of 113",
+            "Body": "4 of 17",
+            "Leg": "15 of 23",
+            "Distance": "42 of 135",
+            "Clinch": "2 of 2",
+            "Ground": "9 of 16"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 93",
+            "Sig. str. %": "24%",
+            "Total str.": "32 of 104",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 93",
+            "Sig. str. %": "24%",
+            "Head": "10 of 71",
+            "Body": "1 of 4",
+            "Leg": "12 of 18",
+            "Distance": "22 of 92",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

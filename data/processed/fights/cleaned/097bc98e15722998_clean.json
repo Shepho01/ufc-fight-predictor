@@ -9,6 +9,7 @@
         "method": "Decision - Unanimous",
         "finish_round": 3,
         "finish_time_seconds": 300,
+        "duration_seconds": 900,
         "referee": "John Sharp",
         "winner_id": "e1248941344b3288"
     },

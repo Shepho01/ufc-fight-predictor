@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "c3c23c99477c041b",
+        "event_name": "UFC on FOX: Evans vs Davis",
+        "event_day": 28,
+        "event_month": 1,
+        "event_year": 2012,
+        "location": "Chicago, Illinois, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e0df5f84686586a1",
+            "fighter_a": "Rashad Evans",
+            "fighter_b": "Phil Davis",
+            "winner": "Rashad Evans",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e0df5f84686586a1"
+        },
+        {
+            "fight_id": "81c5c897717a1ef6",
+            "fighter_a": "Chael Sonnen",
+            "fighter_b": "Michael Bisping",
+            "winner": "Chael Sonnen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/81c5c897717a1ef6"
+        },
+        {
+            "fight_id": "ba75be28158d424c",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Demian Maia",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ba75be28158d424c"
+        },
+        {
+            "fight_id": "e7861d4e2b29193f",
+            "fighter_a": "Evan Dunham",
+            "fighter_b": "Nik Lentz",
+            "winner": "Evan Dunham",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e7861d4e2b29193f"
+        },
+        {
+            "fight_id": "c63a050af0692daf",
+            "fighter_a": "Mike Russow",
+            "fighter_b": "Jon Olav Einemo",
+            "winner": "Mike Russow",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c63a050af0692daf"
+        },
+        {
+            "fight_id": "ca263e46051261e2",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "George Roop",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 142,
+            "fight_url": "http://ufcstats.com/fight-details/ca263e46051261e2"
+        },
+        {
+            "fight_id": "7a4e5bcd7336d203",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Eric Wisely",
+            "winner": "Charles Oliveira",
+            "weight_class": "Featherweight",
+            "method": "SUB Calf Slicer",
+            "round": 1,
+            "time_seconds": 103,
+            "fight_url": "http://ufcstats.com/fight-details/7a4e5bcd7336d203"
+        },
+        {
+            "fight_id": "e8a167bb84082832",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Shane Roller",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e8a167bb84082832"
+        },
+        {
+            "fight_id": "fd230ba169b3f2b6",
+            "fighter_a": "Lavar Johnson",
+            "fighter_b": "Joey Beltran",
+            "winner": "Lavar Johnson",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 264,
+            "fight_url": "http://ufcstats.com/fight-details/fd230ba169b3f2b6"
+        },
+        {
+            "fight_id": "7a37fd92b26d15c8",
+            "fighter_a": "Chris Camozzi",
+            "fighter_b": "Dustin Jacoby",
+            "winner": "Chris Camozzi",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 68,
+            "fight_url": "http://ufcstats.com/fight-details/7a37fd92b26d15c8"
+        }
+    ]
+}

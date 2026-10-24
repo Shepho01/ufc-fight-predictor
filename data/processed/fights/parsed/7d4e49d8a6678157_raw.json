@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7d4e49d8a6678157",
+        "event_id": "253d3f9e97ca149a",
+        "event_name": "UFC 274: Oliveira vs. Gaethje",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "3:22",
+        "referee": "Marc Goddard",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "30 of 47",
+            "Sig. str. %": "63%",
+            "Total str.": "33 of 52",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "30 of 47",
+            "Sig. str. %": "63%",
+            "Head": "18 of 32",
+            "Body": "11 of 13",
+            "Leg": "1 of 2",
+            "Distance": "20 of 34",
+            "Clinch": "8 of 10",
+            "Ground": "2 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9e8f6c728eb01124",
+        "name": "Justin Gaethje",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "21 of 33",
+            "Sig. str. %": "63%",
+            "Total str.": "21 of 33",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 33",
+            "Sig. str. %": "63%",
+            "Head": "13 of 22",
+            "Body": "3 of 3",
+            "Leg": "5 of 8",
+            "Distance": "15 of 26",
+            "Clinch": "6 of 7",
+            "Ground": "0 of 0"
+        }
+    }
+}

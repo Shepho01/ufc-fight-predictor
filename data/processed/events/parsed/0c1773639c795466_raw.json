@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "0c1773639c795466",
+        "event_name": "UFC 246: McGregor vs. Cowboy",
+        "event_date": "January 18, 2020",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "eed6c9aff2234b7a",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Conor McGregor",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:40",
+            "fight_url": "http://ufcstats.com/fight-details/eed6c9aff2234b7a"
+        },
+        {
+            "fight_id": "36032308b7e86fd0",
+            "fighter_a": "Holly Holm",
+            "fighter_b": "Raquel Pennington",
+            "winner": "Holly Holm",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/36032308b7e86fd0"
+        },
+        {
+            "fight_id": "702759500d47a059",
+            "fighter_a": "Aleksei Oleinik",
+            "fighter_b": "Maurice Greene",
+            "winner": "Aleksei Oleinik",
+            "weight_class": "Heavyweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "4:38",
+            "fight_url": "http://ufcstats.com/fight-details/702759500d47a059"
+        },
+        {
+            "fight_id": "4eff0432bd364a23",
+            "fighter_a": "Brian Kelleher",
+            "fighter_b": "Ode Osbourne",
+            "winner": "Brian Kelleher",
+            "weight_class": "Bantamweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:49",
+            "fight_url": "http://ufcstats.com/fight-details/4eff0432bd364a23"
+        },
+        {
+            "fight_id": "32a8f38bd1d46e3e",
+            "fighter_a": "Diego Ferreira",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Diego Ferreira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:46",
+            "fight_url": "http://ufcstats.com/fight-details/32a8f38bd1d46e3e"
+        },
+        {
+            "fight_id": "760b5b16b4931a77",
+            "fighter_a": "Roxanne Modafferi",
+            "fighter_b": "Maycee Barber",
+            "winner": "Roxanne Modafferi",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/760b5b16b4931a77"
+        },
+        {
+            "fight_id": "5868c154789648f0",
+            "fighter_a": "Sodiq Yusuff",
+            "fighter_b": "Andre Fili",
+            "winner": "Sodiq Yusuff",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5868c154789648f0"
+        },
+        {
+            "fight_id": "ff467a5f06a91a0f",
+            "fighter_a": "Askar Askarov",
+            "fighter_b": "Tim Elliott",
+            "winner": "Askar Askarov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ff467a5f06a91a0f"
+        },
+        {
+            "fight_id": "63dd38f0dcc2ee88",
+            "fighter_a": "Drew Dober",
+            "fighter_b": "Nasrat Haqparast",
+            "winner": "Drew Dober",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:10",
+            "fight_url": "http://ufcstats.com/fight-details/63dd38f0dcc2ee88"
+        },
+        {
+            "fight_id": "6087c50c5f95a677",
+            "fighter_a": "Aleksa Camur",
+            "fighter_b": "Justin Ledet",
+            "winner": "Aleksa Camur",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6087c50c5f95a677"
+        },
+        {
+            "fight_id": "96fe84d051847591",
+            "fighter_a": "Sabina Mazo",
+            "fighter_b": "JJ Aldrich",
+            "winner": "Sabina Mazo",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/96fe84d051847591"
+        }
+    ]
+}

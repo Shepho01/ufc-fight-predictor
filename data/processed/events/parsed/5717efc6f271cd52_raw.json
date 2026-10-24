@@ -1,0 +1,175 @@
+{
+    "event": {
+        "event_id": "5717efc6f271cd52",
+        "event_name": "UFC 283: Teixeira vs. Hill",
+        "event_date": "January 21, 2023",
+        "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "dde7d29cc443e263",
+            "fighter_a": "Jamahal Hill",
+            "fighter_b": "Glover Teixeira",
+            "winner": "Jamahal Hill",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dde7d29cc443e263"
+        },
+        {
+            "fight_id": "0462bcc27498f7c4",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Deiveson Figueiredo",
+            "winner": "Brandon Moreno",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0462bcc27498f7c4"
+        },
+        {
+            "fight_id": "1c51f405e5c46572",
+            "fighter_a": "Gilbert Burns",
+            "fighter_b": "Neil Magny",
+            "winner": "Gilbert Burns",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "4:15",
+            "fight_url": "http://ufcstats.com/fight-details/1c51f405e5c46572"
+        },
+        {
+            "fight_id": "0221982930283140",
+            "fighter_a": "Jessica Andrade",
+            "fighter_b": "Lauren Murphy",
+            "winner": "Jessica Andrade",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0221982930283140"
+        },
+        {
+            "fight_id": "2d1ac675e6c1e6ea",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Paul Craig",
+            "winner": "Johnny Walker",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:16",
+            "fight_url": "http://ufcstats.com/fight-details/2d1ac675e6c1e6ea"
+        },
+        {
+            "fight_id": "a3ef3d05ddd80a94",
+            "fighter_a": "Ihor Potieria",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Ihor Potieria",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:05",
+            "fight_url": "http://ufcstats.com/fight-details/a3ef3d05ddd80a94"
+        },
+        {
+            "fight_id": "5ad8aa57c8d69680",
+            "fighter_a": "Brunno Ferreira",
+            "fighter_b": "Gregory Rodrigues",
+            "winner": "Brunno Ferreira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:13",
+            "fight_url": "http://ufcstats.com/fight-details/5ad8aa57c8d69680"
+        },
+        {
+            "fight_id": "8cdcdfb76d1670dd",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Melquizael Costa",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:05",
+            "fight_url": "http://ufcstats.com/fight-details/8cdcdfb76d1670dd"
+        },
+        {
+            "fight_id": "7ed9e8f3258446c7",
+            "fighter_a": "Gabriel Bonfim",
+            "fighter_b": "Mounir Lazzez",
+            "winner": "Gabriel Bonfim",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:49",
+            "fight_url": "http://ufcstats.com/fight-details/7ed9e8f3258446c7"
+        },
+        {
+            "fight_id": "fffdc57255274be1",
+            "fighter_a": "Jailton Almeida",
+            "fighter_b": "Shamil Abdurakhimov",
+            "winner": "Jailton Almeida",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:56",
+            "fight_url": "http://ufcstats.com/fight-details/fffdc57255274be1"
+        },
+        {
+            "fight_id": "354dc211166a3982",
+            "fighter_a": "Cody Stamann",
+            "fighter_b": "Luan Lacerda",
+            "winner": "Cody Stamann",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/354dc211166a3982"
+        },
+        {
+            "fight_id": "911b73db91738da6",
+            "fighter_a": "Ismael Bonfim",
+            "fighter_b": "Terrance McKinney",
+            "winner": "Ismael Bonfim",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "2",
+            "time": "2:17",
+            "fight_url": "http://ufcstats.com/fight-details/911b73db91738da6"
+        },
+        {
+            "fight_id": "f09c3d8a26806761",
+            "fighter_a": "Nicolas Dalby",
+            "fighter_b": "Warlley Alves",
+            "winner": "Nicolas Dalby",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f09c3d8a26806761"
+        },
+        {
+            "fight_id": "fcf385ae75191b57",
+            "fighter_a": "Josiane Nunes",
+            "fighter_b": "Zarah Fairn",
+            "winner": "Josiane Nunes",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fcf385ae75191b57"
+        },
+        {
+            "fight_id": "1d35e4c0941d1397",
+            "fighter_a": "Daniel Marcos",
+            "fighter_b": "Saimon Oliveira",
+            "winner": "Daniel Marcos",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Knees",
+            "round": "2",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/1d35e4c0941d1397"
+        }
+    ]
+}

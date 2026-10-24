@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a200b5dcbdd2506e",
+        "event_id": "1d00756835ca67c9",
+        "event_name": "UFC Fight Night: Volkov vs. Aspinall",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:07",
+        "referee": "Marc Goddard",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "4c88a1db5a46c6a4",
+        "name": "Jai Herbert",
+        "result": "L",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "22 of 63",
+            "Sig. str. %": "34%",
+            "Total str.": "50 of 94",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 63",
+            "Sig. str. %": "34%",
+            "Head": "20 of 60",
+            "Body": "1 of 2",
+            "Leg": "1 of 1",
+            "Distance": "19 of 59",
+            "Clinch": "1 of 1",
+            "Ground": "2 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "20 of 41",
+            "Sig. str. %": "48%",
+            "Total str.": "31 of 55",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:41"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 41",
+            "Sig. str. %": "48%",
+            "Head": "17 of 37",
+            "Body": "3 of 4",
+            "Leg": "0 of 0",
+            "Distance": "14 of 35",
+            "Clinch": "2 of 2",
+            "Ground": "4 of 4"
+        }
+    }
+}

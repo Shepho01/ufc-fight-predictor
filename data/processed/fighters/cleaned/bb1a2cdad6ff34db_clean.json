@@ -1,0 +1,23 @@
+{
+    "fighter_id": "bb1a2cdad6ff34db",
+    "name": "Jason Knight",
+    "wins": 20,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 7,
+    "dob_year": 1992,
+    "sig_strikes_landed_per_min": 2.95,
+    "sig_striking_accuracy": 0.33,
+    "sig_strikes_absorbed_per_min": 3.02,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 1.31,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.47,
+    "submission_attempts_per_15_min": 1.7
+}

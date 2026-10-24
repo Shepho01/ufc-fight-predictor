@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "20fbff570c678e1c",
+        "event_name": "The Ultimate Fighter: Team McGregor vs. Team Faber Finale",
+        "event_date": "December 11, 2015",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "18292c8eb20ae045",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Chad Mendes",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:28",
+            "fight_url": "http://ufcstats.com/fight-details/18292c8eb20ae045"
+        },
+        {
+            "fight_id": "1123fceef316106e",
+            "fighter_a": "Ryan Hall",
+            "fighter_b": "Artem Lobov",
+            "winner": "Ryan Hall",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1123fceef316106e"
+        },
+        {
+            "fight_id": "c64c2ca5d4d2c7b8",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Edson Barboza",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": "2",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/c64c2ca5d4d2c7b8"
+        },
+        {
+            "fight_id": "991680cd8d0b7900",
+            "fighter_a": "Evan Dunham",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Evan Dunham",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/991680cd8d0b7900"
+        },
+        {
+            "fight_id": "ce82f34bc14f7af0",
+            "fighter_a": "Tatsuya Kawajiri",
+            "fighter_b": "Jason Knight",
+            "winner": "Tatsuya Kawajiri",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ce82f34bc14f7af0"
+        },
+        {
+            "fight_id": "1362ccc16713d404",
+            "fighter_a": "Julian Erosa",
+            "fighter_b": "Marcin Wrzosek",
+            "winner": "Julian Erosa",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1362ccc16713d404"
+        },
+        {
+            "fight_id": "a99c3328e25c51c7",
+            "fighter_a": "Gabriel Gonzaga",
+            "fighter_b": "Konstantin Erokhin",
+            "winner": "Gabriel Gonzaga",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a99c3328e25c51c7"
+        },
+        {
+            "fight_id": "465707233fa9cf7c",
+            "fighter_a": "Ryan LaFlare",
+            "fighter_b": "Mike Pierce",
+            "winner": "Ryan LaFlare",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/465707233fa9cf7c"
+        },
+        {
+            "fight_id": "c5ce4f39269c842c",
+            "fighter_a": "Geane Herrera",
+            "fighter_b": "Joby Sanchez",
+            "winner": "Geane Herrera",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:28",
+            "fight_url": "http://ufcstats.com/fight-details/c5ce4f39269c842c"
+        },
+        {
+            "fight_id": "b22dbe21c21060b9",
+            "fighter_a": "Chris Gruetzemacher",
+            "fighter_b": "Abner Lloveras",
+            "winner": "Chris Gruetzemacher",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b22dbe21c21060b9"
+        }
+    ]
+}

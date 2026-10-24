@@ -1,0 +1,23 @@
+{
+    "fighter_id": "c814b4c899793af6",
+    "name": "Rafael Fiziev",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 180.34,
+    "stance": "Switch",
+    "dob_day": 5,
+    "dob_month": 3,
+    "dob_year": 1993,
+    "sig_strikes_landed_per_min": 4.71,
+    "sig_striking_accuracy": 0.52,
+    "sig_strikes_absorbed_per_min": 4.81,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 1.0,
+    "takedown_accuracy": 0.71,
+    "takedown_defense": 0.9,
+    "submission_attempts_per_15_min": 0.0
+}

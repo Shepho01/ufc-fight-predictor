@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "7929be8290289a47",
+        "event_name": "UFC 222: Cyborg vs. Kunitskaya",
+        "event_date": "March 03, 2018",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4960379abe6ed525",
+            "fighter_a": "Cristiane Justino",
+            "fighter_b": "Yana Santos",
+            "winner": "Cristiane Justino",
+            "weight_class": "Women's Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:25",
+            "fight_url": "http://ufcstats.com/fight-details/4960379abe6ed525"
+        },
+        {
+            "fight_id": "2361b51aa72e5551",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:44",
+            "fight_url": "http://ufcstats.com/fight-details/2361b51aa72e5551"
+        },
+        {
+            "fight_id": "efe055854f19a1d7",
+            "fighter_a": "Sean O'Malley",
+            "fighter_b": "Andre Soukhamthath",
+            "winner": "Sean O'Malley",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/efe055854f19a1d7"
+        },
+        {
+            "fight_id": "bfb7d17161aec938",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Stefan Struve",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bfb7d17161aec938"
+        },
+        {
+            "fight_id": "1f52e665587dc645",
+            "fighter_a": "Ketlen Vieira",
+            "fighter_b": "Cat Zingano",
+            "winner": "Ketlen Vieira",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1f52e665587dc645"
+        },
+        {
+            "fight_id": "ead2ca0d2afb46be",
+            "fighter_a": "Mackenzie Dern",
+            "fighter_b": "Ashley Yoder",
+            "winner": "Mackenzie Dern",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ead2ca0d2afb46be"
+        },
+        {
+            "fight_id": "9e21a8dea9663e26",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:42",
+            "fight_url": "http://ufcstats.com/fight-details/9e21a8dea9663e26"
+        },
+        {
+            "fight_id": "c73b81e7c1c1cccc",
+            "fighter_a": "John Dodson",
+            "fighter_b": "Pedro Munhoz",
+            "winner": "John Dodson",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c73b81e7c1c1cccc"
+        },
+        {
+            "fight_id": "6c2f05c47f494e15",
+            "fighter_a": "CB Dollaway",
+            "fighter_b": "Hector Lombard",
+            "winner": "CB Dollaway",
+            "weight_class": "Middleweight",
+            "method": "DQ",
+            "round": "1",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6c2f05c47f494e15"
+        },
+        {
+            "fight_id": "c6c975ca66a7f91a",
+            "fighter_a": "Zak Ottow",
+            "fighter_b": "Mike Pyle",
+            "winner": "Zak Ottow",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:34",
+            "fight_url": "http://ufcstats.com/fight-details/c6c975ca66a7f91a"
+        },
+        {
+            "fight_id": "12a64dfb8147566b",
+            "fighter_a": "Cody Stamann",
+            "fighter_b": "Bryan Caraway",
+            "winner": "Cody Stamann",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/12a64dfb8147566b"
+        },
+        {
+            "fight_id": "84f236d6c57d7cfb",
+            "fighter_a": "Jordan Johnson",
+            "fighter_b": "Adam Milstead",
+            "winner": "Jordan Johnson",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/84f236d6c57d7cfb"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e516a0e035fd57f7",
+        "event_id": "f1f9e48a0d150757",
+        "event_name": "UFC 133: Evans vs Ortiz 2",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Keith Peterson",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "35 of 72",
+            "Sig. str. %": "48%",
+            "Total str.": "46 of 83",
+            "Td": "5 of 5",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "35 of 72",
+            "Sig. str. %": "48%",
+            "Head": "20 of 42",
+            "Body": "3 of 5",
+            "Leg": "12 of 25",
+            "Distance": "24 of 59",
+            "Clinch": "1 of 1",
+            "Ground": "10 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "94527830000ab715",
+        "name": "Rani Yahya",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 87",
+            "Sig. str. %": "17%",
+            "Total str.": "43 of 115",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 87",
+            "Sig. str. %": "17%",
+            "Head": "8 of 70",
+            "Body": "3 of 6",
+            "Leg": "4 of 11",
+            "Distance": "15 of 85",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

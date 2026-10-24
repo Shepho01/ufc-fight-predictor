@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "226c6a86f4f81122",
+        "event_id": "c6becb722706c7d8",
+        "event_name": "UFC Fight Night: Dillashaw vs Cruz",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "4:30",
+        "referee": "Gary Forman",
+        "winner_id": "c8097968da5e5f13"
+    },
+    "fighter_a": {
+        "fighter_id": "c8097968da5e5f13",
+        "name": "Chris Wade",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 13",
+            "Sig. str. %": "38%",
+            "Total str.": "40 of 58",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "4:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 13",
+            "Sig. str. %": "38%",
+            "Head": "4 of 12",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "1 of 3",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e4d2564ea0e34e2b",
+        "name": "Mehdi Baghdad",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 5",
+            "Sig. str. %": "20%",
+            "Total str.": "2 of 6",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 5",
+            "Sig. str. %": "20%",
+            "Head": "1 of 5",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 4",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

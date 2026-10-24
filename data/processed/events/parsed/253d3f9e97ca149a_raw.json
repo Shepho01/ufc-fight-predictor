@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "253d3f9e97ca149a",
+        "event_name": "UFC 274: Oliveira vs. Gaethje",
+        "event_date": "May 07, 2022",
+        "location": "Phoenix, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7d4e49d8a6678157",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Justin Gaethje",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:22",
+            "fight_url": "http://ufcstats.com/fight-details/7d4e49d8a6678157"
+        },
+        {
+            "fight_id": "9d61012a6020516e",
+            "fighter_a": "Carla Esparza",
+            "fighter_b": "Rose Namajunas",
+            "winner": "Carla Esparza",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9d61012a6020516e"
+        },
+        {
+            "fight_id": "a2ebb5f86eb64f22",
+            "fighter_a": "Michael Chandler",
+            "fighter_b": "Tony Ferguson",
+            "winner": "Michael Chandler",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "0:17",
+            "fight_url": "http://ufcstats.com/fight-details/a2ebb5f86eb64f22"
+        },
+        {
+            "fight_id": "c020ccbd7cdefb6e",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c020ccbd7cdefb6e"
+        },
+        {
+            "fight_id": "8390441d93736719",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Khaos Williams",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8390441d93736719"
+        },
+        {
+            "fight_id": "6a902b97ac98c283",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Danny Roberts",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6a902b97ac98c283"
+        },
+        {
+            "fight_id": "fc4939b3c9071e66",
+            "fighter_a": "Macy Chiasson",
+            "fighter_b": "Norma Dumont",
+            "winner": "Macy Chiasson",
+            "weight_class": "Women's Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fc4939b3c9071e66"
+        },
+        {
+            "fight_id": "80ac36a9dbc4b1a1",
+            "fighter_a": "Brandon Royval",
+            "fighter_b": "Matt Schnell",
+            "winner": "Brandon Royval",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "2:14",
+            "fight_url": "http://ufcstats.com/fight-details/80ac36a9dbc4b1a1"
+        },
+        {
+            "fight_id": "ff6c8dab41efcc09",
+            "fighter_a": "Blagoy Ivanov",
+            "fighter_b": "Marcos Rogerio de Lima",
+            "winner": "Blagoy Ivanov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ff6c8dab41efcc09"
+        },
+        {
+            "fight_id": "397dd9a8694ef413",
+            "fighter_a": "Andre Fialho",
+            "fighter_b": "Cameron VanCamp",
+            "winner": "Andre Fialho",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:35",
+            "fight_url": "http://ufcstats.com/fight-details/397dd9a8694ef413"
+        },
+        {
+            "fight_id": "60d9d50b763adc62",
+            "fighter_a": "Tracy Cortez",
+            "fighter_b": "Melissa Gatto",
+            "winner": "Tracy Cortez",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/60d9d50b763adc62"
+        },
+        {
+            "fight_id": "8289033e03b4d9a3",
+            "fighter_a": "CJ Vergara",
+            "fighter_b": "Kleydson Rodrigues",
+            "winner": "CJ Vergara",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8289033e03b4d9a3"
+        },
+        {
+            "fight_id": "88455c967a7ef6fc",
+            "fighter_a": "Loopy Godinez",
+            "fighter_b": "Ariane Carnelossi",
+            "winner": "Loopy Godinez",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/88455c967a7ef6fc"
+        },
+        {
+            "fight_id": "430309e0f8a315d5",
+            "fighter_a": "Journey Newson",
+            "fighter_b": "Fernie Garcia",
+            "winner": "Journey Newson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/430309e0f8a315d5"
+        }
+    ]
+}

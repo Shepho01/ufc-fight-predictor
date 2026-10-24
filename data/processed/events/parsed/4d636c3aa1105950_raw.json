@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "4d636c3aa1105950",
+        "event_name": "UFC Fight Night: Henderson vs Masvidal",
+        "event_date": "November 28, 2015",
+        "location": "Seoul, South Korea"
+    },
+    "fights": [
+        {
+            "fight_id": "982f4f96b6d0f346",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Benson Henderson",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/982f4f96b6d0f346"
+        },
+        {
+            "fight_id": "6ec62f8822843edf",
+            "fighter_a": "Dong Hyun Kim",
+            "fighter_b": "Dominic Waters",
+            "winner": "Dong Hyun Kim",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:11",
+            "fight_url": "http://ufcstats.com/fight-details/6ec62f8822843edf"
+        },
+        {
+            "fight_id": "caef4f8801f39345",
+            "fighter_a": "Alberto Mina",
+            "fighter_b": "Yoshihiro Akiyama",
+            "winner": "Alberto Mina",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/caef4f8801f39345"
+        },
+        {
+            "fight_id": "a09bfdaa83d99efb",
+            "fighter_a": "Dooho Choi",
+            "fighter_b": "Sam Sicilia",
+            "winner": "Dooho Choi",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:33",
+            "fight_url": "http://ufcstats.com/fight-details/a09bfdaa83d99efb"
+        },
+        {
+            "fight_id": "3266f569a6246d90",
+            "fighter_a": "Dongi Yang",
+            "fighter_b": "Jake Collier",
+            "winner": "Dongi Yang",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/3266f569a6246d90"
+        },
+        {
+            "fight_id": "85168b8d99f7ce42",
+            "fighter_a": "Mike de la Torre",
+            "fighter_b": "Yui Chul Nam",
+            "winner": "Mike de la Torre",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/85168b8d99f7ce42"
+        },
+        {
+            "fight_id": "e8d3768f293a699b",
+            "fighter_a": "Tae Hyun Bang",
+            "fighter_b": "Leo Kuntz",
+            "winner": "Tae Hyun Bang",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e8d3768f293a699b"
+        },
+        {
+            "fight_id": "0f641756e99605ad",
+            "fighter_a": "Seo Hee Ham",
+            "fighter_b": "Cortney Casey",
+            "winner": "Seo Hee Ham",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f641756e99605ad"
+        },
+        {
+            "fight_id": "3a932a4cacacc939",
+            "fighter_a": "Fredy Serrano",
+            "fighter_b": "Yao Zhikui",
+            "winner": "Fredy Serrano",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "0:44",
+            "fight_url": "http://ufcstats.com/fight-details/3a932a4cacacc939"
+        },
+        {
+            "fight_id": "7ac1c2f87b795742",
+            "fighter_a": "Marco Beltran",
+            "fighter_b": "Guangyou Ning",
+            "winner": "Marco Beltran",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ac1c2f87b795742"
+        },
+        {
+            "fight_id": "5a79d4b9a8f8352f",
+            "fighter_a": "Dominique Steele",
+            "fighter_b": "Dong Hyun Ma",
+            "winner": "Dominique Steele",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Slam",
+            "round": "3",
+            "time": "0:27",
+            "fight_url": "http://ufcstats.com/fight-details/5a79d4b9a8f8352f"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "21f7fc538ea646e8",
+        "event_id": "9e30f69cc0869301",
+        "event_name": "UFC 218: Holloway vs. Aldo 2",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:51",
+        "referee": "Herb Dean",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "174 of 397",
+            "Sig. str. %": "43%",
+            "Total str.": "181 of 406",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "174 of 397",
+            "Sig. str. %": "43%",
+            "Head": "135 of 349",
+            "Body": "36 of 45",
+            "Leg": "3 of 3",
+            "Distance": "144 of 356",
+            "Clinch": "16 of 18",
+            "Ground": "14 of 23"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "87 of 163",
+            "Sig. str. %": "53%",
+            "Total str.": "89 of 165",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "87 of 163",
+            "Sig. str. %": "53%",
+            "Head": "65 of 133",
+            "Body": "13 of 21",
+            "Leg": "9 of 9",
+            "Distance": "84 of 159",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

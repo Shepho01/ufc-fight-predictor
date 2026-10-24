@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ae3ab5d1892153ef",
+        "event_id": "65ddc8a9ac4e8531",
+        "event_name": "UFC 126: Silva vs Belfort",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "b5b684eac99ae0a3"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 123",
+            "Sig. str. %": "45%",
+            "Total str.": "67 of 139",
+            "Td": "4 of 10",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:16"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 123",
+            "Sig. str. %": "45%",
+            "Head": "39 of 102",
+            "Body": "4 of 7",
+            "Leg": "13 of 14",
+            "Distance": "38 of 96",
+            "Clinch": "1 of 1",
+            "Ground": "17 of 26"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9f842be1a5337be6",
+        "name": "Michihiro Omigawa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 92",
+            "Sig. str. %": "19%",
+            "Total str.": "59 of 141",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 92",
+            "Sig. str. %": "19%",
+            "Head": "15 of 88",
+            "Body": "2 of 3",
+            "Leg": "1 of 1",
+            "Distance": "15 of 88",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

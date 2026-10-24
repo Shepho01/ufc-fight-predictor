@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a5a5e24f4dd40fbf",
+        "event_id": "4908c5ee68a50ee5",
+        "event_name": "The Ultimate Fighter: United States vs. United Kingdom Finale",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Josh Rosenthal",
+        "winner_id": "ccd1299e0345e0ce"
+    },
+    "fighter_a": {
+        "fighter_id": "ccd1299e0345e0ce",
+        "name": "Melvin Guillard",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 50",
+            "Sig. str. %": "26%",
+            "Total str.": "19 of 56",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 50",
+            "Sig. str. %": "26%",
+            "Head": "4 of 39",
+            "Body": "4 of 6",
+            "Leg": "5 of 5",
+            "Distance": "9 of 45",
+            "Clinch": "4 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 50",
+            "Sig. str. %": "28%",
+            "Total str.": "72 of 115",
+            "Td": "6 of 14",
+            "Td %": "42%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "8:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 50",
+            "Sig. str. %": "28%",
+            "Head": "8 of 41",
+            "Body": "3 of 6",
+            "Leg": "3 of 3",
+            "Distance": "5 of 31",
+            "Clinch": "5 of 8",
+            "Ground": "4 of 11"
+        }
+    }
+}

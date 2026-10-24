@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7d21de9c6d7c98b2",
+    "name": "Rich Clementi",
+    "wins": 45,
+    "losses": 23,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Southpaw",
+    "dob_day": 31,
+    "dob_month": 3,
+    "dob_year": 1976,
+    "sig_strikes_landed_per_min": 1.43,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 2.29,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 1.72,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.25,
+    "submission_attempts_per_15_min": 1.1
+}

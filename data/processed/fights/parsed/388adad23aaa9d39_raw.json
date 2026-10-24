@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "388adad23aaa9d39",
+        "event_id": "cbb682f5fcc44bfc",
+        "event_name": "UFC 271: Adesanya vs. Whittaker 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mike Beltran",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "188 of 355",
+            "Sig. str. %": "52%",
+            "Total str.": "188 of 355",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "188 of 355",
+            "Sig. str. %": "52%",
+            "Head": "152 of 313",
+            "Body": "26 of 32",
+            "Leg": "10 of 10",
+            "Distance": "188 of 355",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b7b84ccd221be298",
+        "name": "Nasrat Haqparast",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "76 of 193",
+            "Sig. str. %": "39%",
+            "Total str.": "76 of 193",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "76 of 193",
+            "Sig. str. %": "39%",
+            "Head": "48 of 150",
+            "Body": "21 of 30",
+            "Leg": "7 of 13",
+            "Distance": "76 of 193",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

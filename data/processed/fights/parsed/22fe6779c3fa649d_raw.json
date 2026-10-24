@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "22fe6779c3fa649d",
+        "event_id": "fd4578cac86d75ca",
+        "event_name": "UFC Fight Night: Moraes vs. Sandhagen",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin Sataki",
+        "winner_id": "54f64b5e283b0ce7"
+    },
+    "fighter_a": {
+        "fighter_id": "52c2ae6d2f2d2613",
+        "name": "Youssef Zalal",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 53",
+            "Sig. str. %": "32%",
+            "Total str.": "40 of 85",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "3",
+            "Ctrl": "2:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 53",
+            "Sig. str. %": "32%",
+            "Head": "10 of 43",
+            "Body": "4 of 7",
+            "Leg": "3 of 3",
+            "Distance": "15 of 50",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "54f64b5e283b0ce7",
+        "name": "Ilia Topuria",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "13 of 33",
+            "Sig. str. %": "39%",
+            "Total str.": "30 of 62",
+            "Td": "5 of 9",
+            "Td %": "55%",
+            "Sub. att": "5",
+            "Rev.": "0",
+            "Ctrl": "8:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "13 of 33",
+            "Sig. str. %": "39%",
+            "Head": "7 of 23",
+            "Body": "6 of 10",
+            "Leg": "0 of 0",
+            "Distance": "12 of 30",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 1"
+        }
+    }
+}

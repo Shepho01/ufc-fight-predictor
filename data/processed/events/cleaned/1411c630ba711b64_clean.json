@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "1411c630ba711b64",
+        "event_name": "UFC 128: Shogun vs Jones",
+        "event_day": 19,
+        "event_month": 3,
+        "event_year": 2011,
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "dc2a3aeac1441991",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Jon Jones",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 157,
+            "fight_url": "http://ufcstats.com/fight-details/dc2a3aeac1441991"
+        },
+        {
+            "fight_id": "dd3ea525fe1898f1",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Eddie Wineland",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dd3ea525fe1898f1"
+        },
+        {
+            "fight_id": "2a28ce0035468735",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Kamal Shalorus",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/2a28ce0035468735"
+        },
+        {
+            "fight_id": "376beb49aadb06d6",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "Dan Miller",
+            "winner": "Nate Marquardt",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/376beb49aadb06d6"
+        },
+        {
+            "fight_id": "077667e3aaf314db",
+            "fighter_a": "Brendan Schaub",
+            "fighter_b": "Mirko Filipovic",
+            "winner": "Brendan Schaub",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 224,
+            "fight_url": "http://ufcstats.com/fight-details/077667e3aaf314db"
+        },
+        {
+            "fight_id": "e1563825c36aad26",
+            "fighter_a": "Luiz Cane",
+            "fighter_b": "Eliot Marshall",
+            "winner": "Luiz Cane",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/e1563825c36aad26"
+        },
+        {
+            "fight_id": "42e7cc48c31d8f29",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Anthony Njokuani",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/42e7cc48c31d8f29"
+        },
+        {
+            "fight_id": "a8cf22bc7d05c0a1",
+            "fighter_a": "Mike Pyle",
+            "fighter_b": "Ricardo Almeida",
+            "winner": "Mike Pyle",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a8cf22bc7d05c0a1"
+        },
+        {
+            "fight_id": "e595cb4bfc26193b",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Kurt Pellegrino",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e595cb4bfc26193b"
+        },
+        {
+            "fight_id": "04193f1fff93ddb1",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Ian Loveland",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/04193f1fff93ddb1"
+        },
+        {
+            "fight_id": "560cec2acc9b0a13",
+            "fighter_a": "Nick Catone",
+            "fighter_b": "Constantinos Philippou",
+            "winner": "Nick Catone",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/560cec2acc9b0a13"
+        },
+        {
+            "fight_id": "18b31990d1808419",
+            "fighter_a": "Erik Koch",
+            "fighter_b": "Raphael Assuncao",
+            "winner": "Erik Koch",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 152,
+            "fight_url": "http://ufcstats.com/fight-details/18b31990d1808419"
+        }
+    ]
+}

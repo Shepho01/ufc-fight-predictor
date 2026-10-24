@@ -1,0 +1,23 @@
+{
+    "fighter_id": "85d0fafb8b75d634",
+    "name": "Juan Manuel Puig",
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 23,
+    "dob_month": 4,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 4.91,
+    "sig_striking_accuracy": 0.23,
+    "sig_strikes_absorbed_per_min": 7.17,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 0.0
+}

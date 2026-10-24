@@ -1,0 +1,52 @@
+{
+    "fighter_id": "ed209f6618c82e41",
+    "name": "Hacran Dias",
+    "record": "23-6-1",
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jun 16, 1984",
+    "sig_strikes_landed_per_min": "2.08",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "3.31",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "2.50",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "76%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "f9e07282f3444d09",
+            "fight_url": "http://ufcstats.com/fight-details/f9e07282f3444d09"
+        },
+        {
+            "fight_id": "11b369120409d2aa",
+            "fight_url": "http://ufcstats.com/fight-details/11b369120409d2aa"
+        },
+        {
+            "fight_id": "43e416795dbd10e9",
+            "fight_url": "http://ufcstats.com/fight-details/43e416795dbd10e9"
+        },
+        {
+            "fight_id": "72d6996a60856b5f",
+            "fight_url": "http://ufcstats.com/fight-details/72d6996a60856b5f"
+        },
+        {
+            "fight_id": "9f5c84d05107f42b",
+            "fight_url": "http://ufcstats.com/fight-details/9f5c84d05107f42b"
+        },
+        {
+            "fight_id": "2c8d1f5bb73a812b",
+            "fight_url": "http://ufcstats.com/fight-details/2c8d1f5bb73a812b"
+        },
+        {
+            "fight_id": "cf5f9da861c5e63f",
+            "fight_url": "http://ufcstats.com/fight-details/cf5f9da861c5e63f"
+        },
+        {
+            "fight_id": "f638f176dd1834c0",
+            "fight_url": "http://ufcstats.com/fight-details/f638f176dd1834c0"
+        }
+    ]
+}

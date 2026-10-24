@@ -1,0 +1,23 @@
+{
+    "fighter_id": "94527830000ab715",
+    "name": "Rani Yahya",
+    "wins": 28,
+    "losses": 12,
+    "draws": 1,
+    "no_conests": 1,
+    "height_cm": 167.64,
+    "weight_lbs": 135,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 12,
+    "dob_month": 9,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 1.71,
+    "sig_striking_accuracy": 0.38,
+    "sig_strikes_absorbed_per_min": 2.08,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 2.73,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.29,
+    "submission_attempts_per_15_min": 1.8
+}

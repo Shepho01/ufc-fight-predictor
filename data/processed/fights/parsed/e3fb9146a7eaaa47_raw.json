@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e3fb9146a7eaaa47",
+        "event_id": "e60201cfab7d656d",
+        "event_name": "UFC Fight Night: Hunt vs Mir",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "1:24",
+        "referee": "Greg Kleynjans",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 9",
+            "Sig. str. %": "55%",
+            "Total str.": "6 of 10",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 9",
+            "Sig. str. %": "55%",
+            "Head": "2 of 5",
+            "Body": "2 of 2",
+            "Leg": "1 of 2",
+            "Distance": "4 of 8",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "40ff198adda94b9f",
+        "name": "Mark Eddiva",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 8",
+            "Sig. str. %": "50%",
+            "Total str.": "7 of 12",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 8",
+            "Sig. str. %": "50%",
+            "Head": "1 of 4",
+            "Body": "2 of 3",
+            "Leg": "1 of 1",
+            "Distance": "4 of 8",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

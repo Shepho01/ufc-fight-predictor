@@ -1,0 +1,52 @@
+{
+    "fighter_id": "764342d39cdaa54a",
+    "name": "Frank Camacho",
+    "record": "22-10-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "May 18, 1989",
+    "sig_strikes_landed_per_min": "6.56",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "7.44",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "1.11",
+    "takedown_accuracy": "31%",
+    "takedown_defense": "73%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "e240d6f77747ec46",
+            "fight_url": "http://ufcstats.com/fight-details/e240d6f77747ec46"
+        },
+        {
+            "fight_id": "7f0175f71481b63d",
+            "fight_url": "http://ufcstats.com/fight-details/7f0175f71481b63d"
+        },
+        {
+            "fight_id": "b2d05ae88f820421",
+            "fight_url": "http://ufcstats.com/fight-details/b2d05ae88f820421"
+        },
+        {
+            "fight_id": "fedb6a1b15b05694",
+            "fight_url": "http://ufcstats.com/fight-details/fedb6a1b15b05694"
+        },
+        {
+            "fight_id": "6caf9ebf42ddae2e",
+            "fight_url": "http://ufcstats.com/fight-details/6caf9ebf42ddae2e"
+        },
+        {
+            "fight_id": "f23e2bed86b62462",
+            "fight_url": "http://ufcstats.com/fight-details/f23e2bed86b62462"
+        },
+        {
+            "fight_id": "823797bc6d532b52",
+            "fight_url": "http://ufcstats.com/fight-details/823797bc6d532b52"
+        },
+        {
+            "fight_id": "8984ab656cb1818d",
+            "fight_url": "http://ufcstats.com/fight-details/8984ab656cb1818d"
+        }
+    ]
+}

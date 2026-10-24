@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "7a703c565ccaa18f",
+        "event_name": "UFC Fight Night: Lee vs. Iaquinta",
+        "event_day": 15,
+        "event_month": 12,
+        "event_year": 2018,
+        "location": "Milwaukee, Wisconsin, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b9c82dfde8b66e37",
+            "fighter_a": "Al Iaquinta",
+            "fighter_b": "Kevin Lee",
+            "winner": "Al Iaquinta",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b9c82dfde8b66e37"
+        },
+        {
+            "fight_id": "920b6f739a36e721",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Dan Hooker",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 139,
+            "fight_url": "http://ufcstats.com/fight-details/920b6f739a36e721"
+        },
+        {
+            "fight_id": "4da4c5ef6a4ffc5b",
+            "fighter_a": "Rob Font",
+            "fighter_b": "Sergio Pettis",
+            "winner": "Rob Font",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4da4c5ef6a4ffc5b"
+        },
+        {
+            "fight_id": "f3e289f1423c0e6f",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Jim Miller",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 75,
+            "fight_url": "http://ufcstats.com/fight-details/f3e289f1423c0e6f"
+        },
+        {
+            "fight_id": "c0ab927864bb6e98",
+            "fighter_a": "Zak Ottow",
+            "fighter_b": "Dwight Grant",
+            "winner": "Zak Ottow",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c0ab927864bb6e98"
+        },
+        {
+            "fight_id": "b69d3d55c84f5dd6",
+            "fighter_a": "Drakkar Klose",
+            "fighter_b": "King Green",
+            "winner": "Drakkar Klose",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b69d3d55c84f5dd6"
+        },
+        {
+            "fight_id": "92fd2127f46b0cb7",
+            "fighter_a": "Joaquim Silva",
+            "fighter_b": "Jared Gordon",
+            "winner": "Joaquim Silva",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/92fd2127f46b0cb7"
+        },
+        {
+            "fight_id": "986f0b480389ad25",
+            "fighter_a": "Jack Hermansson",
+            "fighter_b": "Gerald Meerschaert",
+            "winner": "Jack Hermansson",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 265,
+            "fight_url": "http://ufcstats.com/fight-details/986f0b480389ad25"
+        },
+        {
+            "fight_id": "bf41783b9446891e",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Trevor Smith",
+            "winner": "Zak Cummings",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bf41783b9446891e"
+        },
+        {
+            "fight_id": "1b6e5363eb81c409",
+            "fighter_a": "Dan Ige",
+            "fighter_b": "Jordan Griffin",
+            "winner": "Dan Ige",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1b6e5363eb81c409"
+        },
+        {
+            "fight_id": "05f1e8ff81dbe05b",
+            "fighter_a": "Mike Rodriguez",
+            "fighter_b": "Adam Milstead",
+            "winner": "Mike Rodriguez",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 179,
+            "fight_url": "http://ufcstats.com/fight-details/05f1e8ff81dbe05b"
+        },
+        {
+            "fight_id": "c4f443509308dec6",
+            "fighter_a": "Juan Adams",
+            "fighter_b": "Chris de la Rocha",
+            "winner": "Juan Adams",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 58,
+            "fight_url": "http://ufcstats.com/fight-details/c4f443509308dec6"
+        }
+    ]
+}

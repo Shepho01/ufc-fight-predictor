@@ -1,0 +1,109 @@
+{
+    "event": {
+        "event_id": "597db668b01c442c",
+        "event_name": "UFC 81: Breaking Point",
+        "event_date": "February 02, 2008",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "fc6d1396755692b4",
+            "fighter_a": "Antonio Rodrigo Nogueira",
+            "fighter_b": "Tim Sylvia",
+            "winner": "Antonio Rodrigo Nogueira",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "1:28",
+            "fight_url": "http://ufcstats.com/fight-details/fc6d1396755692b4"
+        },
+        {
+            "fight_id": "f0b42c9e55025ad3",
+            "fighter_a": "Frank Mir",
+            "fighter_b": "Brock Lesnar",
+            "winner": "Frank Mir",
+            "weight_class": "Heavyweight",
+            "method": "SUB Kneebar",
+            "round": "1",
+            "time": "1:30",
+            "fight_url": "http://ufcstats.com/fight-details/f0b42c9e55025ad3"
+        },
+        {
+            "fight_id": "8f560a1fa19c122a",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "Jeremy Horn",
+            "winner": "Nate Marquardt",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:37",
+            "fight_url": "http://ufcstats.com/fight-details/8f560a1fa19c122a"
+        },
+        {
+            "fight_id": "96828ec042f211bf",
+            "fighter_a": "Ricardo Almeida",
+            "fighter_b": "Rob Yundt",
+            "winner": "Ricardo Almeida",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:08",
+            "fight_url": "http://ufcstats.com/fight-details/96828ec042f211bf"
+        },
+        {
+            "fight_id": "dd47c3359dc1b7d0",
+            "fighter_a": "Tyson Griffin",
+            "fighter_b": "Gleison Tibau",
+            "winner": "Tyson Griffin",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dd47c3359dc1b7d0"
+        },
+        {
+            "fight_id": "bb6eacc986791dcd",
+            "fighter_a": "Chris Lytle",
+            "fighter_b": "Kyle Bradley",
+            "winner": "Chris Lytle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:33",
+            "fight_url": "http://ufcstats.com/fight-details/bb6eacc986791dcd"
+        },
+        {
+            "fight_id": "d9a8d19107d2bd9e",
+            "fighter_a": "Tim Boetsch",
+            "fighter_b": "David Heath",
+            "winner": "Tim Boetsch",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:52",
+            "fight_url": "http://ufcstats.com/fight-details/d9a8d19107d2bd9e"
+        },
+        {
+            "fight_id": "7929542a0003799f",
+            "fighter_a": "Marvin Eastman",
+            "fighter_b": "Terry Martin",
+            "winner": "Marvin Eastman",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7929542a0003799f"
+        },
+        {
+            "fight_id": "c5f56797c68ecbeb",
+            "fighter_a": "Rob Emerson",
+            "fighter_b": "Keita Nakamura",
+            "winner": "Rob Emerson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c5f56797c68ecbeb"
+        }
+    ]
+}

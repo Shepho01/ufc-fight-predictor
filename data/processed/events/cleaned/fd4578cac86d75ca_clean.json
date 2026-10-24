@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "fd4578cac86d75ca",
+        "event_name": "UFC Fight Night: Moraes vs. Sandhagen",
+        "event_day": 10,
+        "event_month": 10,
+        "event_year": 2020,
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "727ecd251325b6a8",
+            "fighter_a": "Cory Sandhagen",
+            "fighter_b": "Marlon Moraes",
+            "winner": "Cory Sandhagen",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 63,
+            "fight_url": "http://ufcstats.com/fight-details/727ecd251325b6a8"
+        },
+        {
+            "fight_id": "db5802643b9fd7d4",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Makwan Amirkhani",
+            "winner": "Edson Barboza",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/db5802643b9fd7d4"
+        },
+        {
+            "fight_id": "1720a97a2fa261f8",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1720a97a2fa261f8"
+        },
+        {
+            "fight_id": "e64075c104471ff0",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Markus Perez",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 202,
+            "fight_url": "http://ufcstats.com/fight-details/e64075c104471ff0"
+        },
+        {
+            "fight_id": "e4d831dc318e4e98",
+            "fighter_a": "Tom Aspinall",
+            "fighter_b": "Alan Baudot",
+            "winner": "Tom Aspinall",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 95,
+            "fight_url": "http://ufcstats.com/fight-details/e4d831dc318e4e98"
+        },
+        {
+            "fight_id": "22fe6779c3fa649d",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Youssef Zalal",
+            "winner": "Ilia Topuria",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/22fe6779c3fa649d"
+        },
+        {
+            "fight_id": "7c4eb0b4845eb0ed",
+            "fighter_a": "Tom Breese",
+            "fighter_b": "KB Bhullar",
+            "winner": "Tom Breese",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 102,
+            "fight_url": "http://ufcstats.com/fight-details/7c4eb0b4845eb0ed"
+        },
+        {
+            "fight_id": "1e525f9857019a2e",
+            "fighter_a": "Chris Daukaus",
+            "fighter_b": "Rodrigo Nascimento",
+            "winner": "Chris Daukaus",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 45,
+            "fight_url": "http://ufcstats.com/fight-details/1e525f9857019a2e"
+        },
+        {
+            "fight_id": "ee57cbd0b68c689d",
+            "fighter_a": "Joaquin Buckley",
+            "fighter_b": "Impa Kasanganay",
+            "winner": "Joaquin Buckley",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": 2,
+            "time_seconds": 123,
+            "fight_url": "http://ufcstats.com/fight-details/ee57cbd0b68c689d"
+        },
+        {
+            "fight_id": "dfb856d4c80bbf04",
+            "fighter_a": "Tony Kelley",
+            "fighter_b": "Ali AlQaisi",
+            "winner": "Tony Kelley",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dfb856d4c80bbf04"
+        },
+        {
+            "fight_id": "89dd4c256ca5d317",
+            "fighter_a": "Giga Chikadze",
+            "fighter_b": "Omar Morales",
+            "winner": "Giga Chikadze",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/89dd4c256ca5d317"
+        },
+        {
+            "fight_id": "849cc2c331e9b24f",
+            "fighter_a": "Tracy Cortez",
+            "fighter_b": "Stephanie Egger",
+            "winner": "Tracy Cortez",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/849cc2c331e9b24f"
+        },
+        {
+            "fight_id": "dbb5d682a2d7f584",
+            "fighter_a": "Tagir Ulanbekov",
+            "fighter_b": "Bruno Silva",
+            "winner": "Tagir Ulanbekov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dbb5d682a2d7f584"
+        }
+    ]
+}

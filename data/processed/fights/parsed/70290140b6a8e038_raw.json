@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "70290140b6a8e038",
+        "event_id": "3be081c29bf734d9",
+        "event_name": "UFC 189: Mendes vs McGregor",
+        "weight_class": "Interim Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:57",
+        "referee": "Herb Dean",
+        "winner_id": "f4c49976c75c5ab2"
+    },
+    "fighter_a": {
+        "fighter_id": "b5b684eac99ae0a3",
+        "name": "Chad Mendes",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "31 of 48",
+            "Sig. str. %": "64%",
+            "Total str.": "36 of 53",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "31 of 48",
+            "Sig. str. %": "64%",
+            "Head": "28 of 45",
+            "Body": "1 of 1",
+            "Leg": "2 of 2",
+            "Distance": "14 of 25",
+            "Clinch": "1 of 3",
+            "Ground": "16 of 20"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f4c49976c75c5ab2",
+        "name": "Conor McGregor",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "46 of 92",
+            "Sig. str. %": "50%",
+            "Total str.": "74 of 120",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 92",
+            "Sig. str. %": "50%",
+            "Head": "31 of 62",
+            "Body": "15 of 30",
+            "Leg": "0 of 0",
+            "Distance": "39 of 84",
+            "Clinch": "0 of 0",
+            "Ground": "7 of 8"
+        }
+    }
+}

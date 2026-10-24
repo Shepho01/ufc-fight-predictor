@@ -1,0 +1,80 @@
+{
+    "fighter_id": "f2477cf43c4975cc",
+    "name": "Jonathan Martinez",
+    "record": "19-6-0",
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Apr 20, 1994",
+    "sig_strikes_landed_per_min": "4.44",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "4.09",
+    "sig_strike_defense": "56%",
+    "takedowns_landed_per_15_min": "0.38",
+    "takedown_accuracy": "35%",
+    "takedown_defense": "68%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "2a930e2d7e1f87a9",
+            "fight_url": "http://ufcstats.com/fight-details/2a930e2d7e1f87a9"
+        },
+        {
+            "fight_id": "b3d88eaea611a4a8",
+            "fight_url": "http://ufcstats.com/fight-details/b3d88eaea611a4a8"
+        },
+        {
+            "fight_id": "0d6d212fcdf47f2e",
+            "fight_url": "http://ufcstats.com/fight-details/0d6d212fcdf47f2e"
+        },
+        {
+            "fight_id": "b9539d5e379b3edc",
+            "fight_url": "http://ufcstats.com/fight-details/b9539d5e379b3edc"
+        },
+        {
+            "fight_id": "1af23e7aa71a1d17",
+            "fight_url": "http://ufcstats.com/fight-details/1af23e7aa71a1d17"
+        },
+        {
+            "fight_id": "3542f9f30926f364",
+            "fight_url": "http://ufcstats.com/fight-details/3542f9f30926f364"
+        },
+        {
+            "fight_id": "901e62b7af57f559",
+            "fight_url": "http://ufcstats.com/fight-details/901e62b7af57f559"
+        },
+        {
+            "fight_id": "7151ae256e6c181b",
+            "fight_url": "http://ufcstats.com/fight-details/7151ae256e6c181b"
+        },
+        {
+            "fight_id": "70aa6b8f863e6861",
+            "fight_url": "http://ufcstats.com/fight-details/70aa6b8f863e6861"
+        },
+        {
+            "fight_id": "e4d0be5ae320c4ae",
+            "fight_url": "http://ufcstats.com/fight-details/e4d0be5ae320c4ae"
+        },
+        {
+            "fight_id": "94b48b98d0292720",
+            "fight_url": "http://ufcstats.com/fight-details/94b48b98d0292720"
+        },
+        {
+            "fight_id": "326b843cb2b7fd94",
+            "fight_url": "http://ufcstats.com/fight-details/326b843cb2b7fd94"
+        },
+        {
+            "fight_id": "ad63c30e22e63344",
+            "fight_url": "http://ufcstats.com/fight-details/ad63c30e22e63344"
+        },
+        {
+            "fight_id": "8e43d61ca6f2d904",
+            "fight_url": "http://ufcstats.com/fight-details/8e43d61ca6f2d904"
+        },
+        {
+            "fight_id": "e1eeb61d0669ce45",
+            "fight_url": "http://ufcstats.com/fight-details/e1eeb61d0669ce45"
+        }
+    ]
+}

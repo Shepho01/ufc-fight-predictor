@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "8dc4f34c1f50d00d",
+        "event_name": "UFC Fight Night: Nelson vs Story",
+        "event_day": 4,
+        "event_month": 10,
+        "event_year": 2014,
+        "location": "Stockholm, Sweden"
+    },
+    "fights": [
+        {
+            "fight_id": "da26301ae3e7a9b1",
+            "fighter_a": "Rick Story",
+            "fighter_b": "Gunnar Nelson",
+            "winner": "Rick Story",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/da26301ae3e7a9b1"
+        },
+        {
+            "fight_id": "ca16e203eb2bde60",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Akira Corassani",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 191,
+            "fight_url": "http://ufcstats.com/fight-details/ca16e203eb2bde60"
+        },
+        {
+            "fight_id": "699a70c8fb3c0273",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Ilir Latifi",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 118,
+            "fight_url": "http://ufcstats.com/fight-details/699a70c8fb3c0273"
+        },
+        {
+            "fight_id": "5ed0027812582ad9",
+            "fighter_a": "Mike Wilkinson",
+            "fighter_b": "Niklas Backstrom",
+            "winner": "Mike Wilkinson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 79,
+            "fight_url": "http://ufcstats.com/fight-details/5ed0027812582ad9"
+        },
+        {
+            "fight_id": "5563d6de0b4c4d65",
+            "fighter_a": "Magnus Cedenblad",
+            "fighter_b": "Scott Askham",
+            "winner": "Magnus Cedenblad",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5563d6de0b4c4d65"
+        },
+        {
+            "fight_id": "562d3261ca7bdf01",
+            "fighter_a": "Nicholas Musoke",
+            "fighter_b": "Alexander Yakovlev",
+            "winner": "Nicholas Musoke",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/562d3261ca7bdf01"
+        },
+        {
+            "fight_id": "24ac3d1bee1610ef",
+            "fighter_a": "Dennis Siver",
+            "fighter_b": "Charles Rosa",
+            "winner": "Dennis Siver",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/24ac3d1bee1610ef"
+        },
+        {
+            "fight_id": "63e21ff20866b8fb",
+            "fighter_a": "Cathal Pendred",
+            "fighter_b": "Gasan Umalatov",
+            "winner": "Cathal Pendred",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/63e21ff20866b8fb"
+        },
+        {
+            "fight_id": "6c62796d9b7e94a0",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Tor Troeng",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6c62796d9b7e94a0"
+        },
+        {
+            "fight_id": "23692b9936363da3",
+            "fighter_a": "Mairbek Taisumov",
+            "fighter_b": "Marcin Bandel",
+            "winner": "Mairbek Taisumov",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/23692b9936363da3"
+        },
+        {
+            "fight_id": "75a88258eb967e0c",
+            "fighter_a": "Zubaira Tukhugov",
+            "fighter_b": "Ernest Chavez",
+            "winner": "Zubaira Tukhugov",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/75a88258eb967e0c"
+        }
+    ]
+}

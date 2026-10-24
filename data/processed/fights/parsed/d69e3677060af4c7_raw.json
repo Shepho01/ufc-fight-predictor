@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d69e3677060af4c7",
+        "event_id": "48e093ea1f43a053",
+        "event_name": "UFC 268: Usman vs. Covington 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:25",
+        "referee": "Marc Goddard",
+        "winner_id": "887961364be5ceb3"
+    },
+    "fighter_a": {
+        "fighter_id": "59279a7c978f7da0",
+        "name": "Al Iaquinta",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 30",
+            "Sig. str. %": "33%",
+            "Total str.": "10 of 30",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 30",
+            "Sig. str. %": "33%",
+            "Head": "5 of 21",
+            "Body": "3 of 6",
+            "Leg": "2 of 3",
+            "Distance": "10 of 30",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "28 of 40",
+            "Sig. str. %": "70%",
+            "Total str.": "29 of 41",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 40",
+            "Sig. str. %": "70%",
+            "Head": "23 of 35",
+            "Body": "2 of 2",
+            "Leg": "3 of 3",
+            "Distance": "16 of 26",
+            "Clinch": "0 of 0",
+            "Ground": "12 of 14"
+        }
+    }
+}

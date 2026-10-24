@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cb696ebfb6598724",
+    "name": "Aljamain Sterling",
+    "wins": 26,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 145,
+    "reach_cm": 180.34,
+    "stance": "Orthodox",
+    "dob_day": 31,
+    "dob_month": 7,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 4.26,
+    "sig_striking_accuracy": 0.52,
+    "sig_strikes_absorbed_per_min": 2.15,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 2.54,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 0.44,
+    "submission_attempts_per_15_min": 0.6
+}

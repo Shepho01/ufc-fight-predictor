@@ -1,0 +1,23 @@
+{
+    "fighter_id": "40ff198adda94b9f",
+    "name": "Mark Eddiva",
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 145,
+    "reach_cm": 172.72,
+    "stance": "Orthodox",
+    "dob_day": 16,
+    "dob_month": 2,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 3.37,
+    "sig_striking_accuracy": 0.45,
+    "sig_strikes_absorbed_per_min": 2.98,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 1.45,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.63,
+    "submission_attempts_per_15_min": 0.0
+}

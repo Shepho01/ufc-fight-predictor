@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "5df10509264586e5",
+        "event_name": "UFC 211: Miocic vs. Dos Santos",
+        "event_day": 13,
+        "event_month": 5,
+        "event_year": 2017,
+        "location": "Dallas, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "16a0352f3e19b931",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Junior Dos Santos",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 142,
+            "fight_url": "http://ufcstats.com/fight-details/16a0352f3e19b931"
+        },
+        {
+            "fight_id": "0fd8214ac276728e",
+            "fighter_a": "Joanna Jedrzejczyk",
+            "fighter_b": "Jessica Andrade",
+            "winner": "Joanna Jedrzejczyk",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0fd8214ac276728e"
+        },
+        {
+            "fight_id": "6e3139f066149a81",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6e3139f066149a81"
+        },
+        {
+            "fight_id": "39f746cee66e8771",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Yair Rodriguez",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/39f746cee66e8771"
+        },
+        {
+            "fight_id": "362a5b3cd4a70330",
+            "fighter_a": "David Branch",
+            "fighter_b": "Krzysztof Jotko",
+            "winner": "David Branch",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/362a5b3cd4a70330"
+        },
+        {
+            "fight_id": "6fe9729cee57c680",
+            "fighter_a": "Eddie Alvarez",
+            "fighter_b": "Dustin Poirier",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "CNC",
+            "round": 2,
+            "time_seconds": 242,
+            "fight_url": "http://ufcstats.com/fight-details/6fe9729cee57c680"
+        },
+        {
+            "fight_id": "9882c1dac77c0367",
+            "fighter_a": "Jason Knight",
+            "fighter_b": "Chas Skelly",
+            "winner": "Jason Knight",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 39,
+            "fight_url": "http://ufcstats.com/fight-details/9882c1dac77c0367"
+        },
+        {
+            "fight_id": "f26657d5018ee428",
+            "fighter_a": "Chase Sherman",
+            "fighter_b": "Rashad Coulter",
+            "winner": "Chase Sherman",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": 2,
+            "time_seconds": 216,
+            "fight_url": "http://ufcstats.com/fight-details/f26657d5018ee428"
+        },
+        {
+            "fight_id": "567cefcaba821205",
+            "fighter_a": "James Vick",
+            "fighter_b": "Marco Polo Reyes",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/567cefcaba821205"
+        },
+        {
+            "fight_id": "af2ef75664656957",
+            "fighter_a": "Cortney Casey",
+            "fighter_b": "Jessica Aguilar",
+            "winner": "Cortney Casey",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/af2ef75664656957"
+        },
+        {
+            "fight_id": "7188621a628e718d",
+            "fighter_a": "Enrique Barzola",
+            "fighter_b": "Gabriel Benitez",
+            "winner": "Enrique Barzola",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7188621a628e718d"
+        },
+        {
+            "fight_id": "14dbcdbe8e7251bf",
+            "fighter_a": "Gadzhimurad Antigulov",
+            "fighter_b": "Joachim Christensen",
+            "winner": "Gadzhimurad Antigulov",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 141,
+            "fight_url": "http://ufcstats.com/fight-details/14dbcdbe8e7251bf"
+        }
+    ]
+}

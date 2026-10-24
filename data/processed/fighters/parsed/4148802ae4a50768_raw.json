@@ -1,0 +1,52 @@
+{
+    "fighter_id": "4148802ae4a50768",
+    "name": "Daniel Zellhuber",
+    "record": "15-4-0",
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Switch",
+    "dob": "Jul 07, 1999",
+    "sig_strikes_landed_per_min": "5.45",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "6.17",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.14",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "81%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "81f3d28d30d17378",
+            "fight_url": "http://ufcstats.com/fight-details/81f3d28d30d17378"
+        },
+        {
+            "fight_id": "a95b03e9b5a91e47",
+            "fight_url": "http://ufcstats.com/fight-details/a95b03e9b5a91e47"
+        },
+        {
+            "fight_id": "27d98a8ee6608e27",
+            "fight_url": "http://ufcstats.com/fight-details/27d98a8ee6608e27"
+        },
+        {
+            "fight_id": "ecbece0cbd60029e",
+            "fight_url": "http://ufcstats.com/fight-details/ecbece0cbd60029e"
+        },
+        {
+            "fight_id": "2e1435c160bfe8b2",
+            "fight_url": "http://ufcstats.com/fight-details/2e1435c160bfe8b2"
+        },
+        {
+            "fight_id": "cef255a992ba7af3",
+            "fight_url": "http://ufcstats.com/fight-details/cef255a992ba7af3"
+        },
+        {
+            "fight_id": "35d06627d91b840d",
+            "fight_url": "http://ufcstats.com/fight-details/35d06627d91b840d"
+        },
+        {
+            "fight_id": "7e3c1bd6b13b12de",
+            "fight_url": "http://ufcstats.com/fight-details/7e3c1bd6b13b12de"
+        }
+    ]
+}

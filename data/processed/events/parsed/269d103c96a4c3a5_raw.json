@@ -1,0 +1,98 @@
+{
+    "event": {
+        "event_id": "269d103c96a4c3a5",
+        "event_name": "UFC 177: Dillashaw vs Soto",
+        "event_date": "August 30, 2014",
+        "location": "Sacramento, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e8c16b26a4bfe163",
+            "fighter_a": "TJ Dillashaw",
+            "fighter_b": "Joe Soto",
+            "winner": "TJ Dillashaw",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Kick",
+            "round": "5",
+            "time": "2:20",
+            "fight_url": "http://ufcstats.com/fight-details/e8c16b26a4bfe163"
+        },
+        {
+            "fight_id": "ae0b5ab5bc4bb6a7",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Danny Castillo",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ae0b5ab5bc4bb6a7"
+        },
+        {
+            "fight_id": "8452ff5ae6316931",
+            "fighter_a": "Bethe Correia",
+            "fighter_b": "Shayna Baszler",
+            "winner": "Bethe Correia",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:56",
+            "fight_url": "http://ufcstats.com/fight-details/8452ff5ae6316931"
+        },
+        {
+            "fight_id": "1748b2b5aabe23a5",
+            "fighter_a": "Diego Ferreira",
+            "fighter_b": "Ramsey Nijem",
+            "winner": "Diego Ferreira",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/1748b2b5aabe23a5"
+        },
+        {
+            "fight_id": "7cfb05c08ec91525",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "Damon Jackson",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Lightweight",
+            "method": "SUB Bulldog Choke",
+            "round": "2",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/7cfb05c08ec91525"
+        },
+        {
+            "fight_id": "bd83e4a6f216230f",
+            "fighter_a": "Derek Brunson",
+            "fighter_b": "Lorenz Larkin",
+            "winner": "Derek Brunson",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bd83e4a6f216230f"
+        },
+        {
+            "fight_id": "c303b8a07d0d06d2",
+            "fighter_a": "Anthony Hamilton",
+            "fighter_b": "Ruan Potts",
+            "winner": "Anthony Hamilton",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:17",
+            "fight_url": "http://ufcstats.com/fight-details/c303b8a07d0d06d2"
+        },
+        {
+            "fight_id": "788c4bbf925cdf40",
+            "fighter_a": "Chris Wade",
+            "fighter_b": "Cain Carrizosa",
+            "winner": "Chris Wade",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:12",
+            "fight_url": "http://ufcstats.com/fight-details/788c4bbf925cdf40"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "a4dd5c9a75763295",
+        "event_name": "UFC Fight Night: Barnett vs Nelson",
+        "event_date": "September 26, 2015",
+        "location": "Saitama, Japan"
+    },
+    "fights": [
+        {
+            "fight_id": "34fd6ac116645ae6",
+            "fighter_a": "Josh Barnett",
+            "fighter_b": "Roy Nelson",
+            "winner": "Josh Barnett",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/34fd6ac116645ae6"
+        },
+        {
+            "fight_id": "6712440cd01dffdb",
+            "fighter_a": "Uriah Hall",
+            "fighter_b": "Gegard Mousasi",
+            "winner": "Uriah Hall",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": "2",
+            "time": "0:25",
+            "fight_url": "http://ufcstats.com/fight-details/6712440cd01dffdb"
+        },
+        {
+            "fight_id": "26ac85fc4bee63a6",
+            "fighter_a": "Kyoji Horiguchi",
+            "fighter_b": "Chico Camus",
+            "winner": "Kyoji Horiguchi",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/26ac85fc4bee63a6"
+        },
+        {
+            "fight_id": "e7e244a0bf244e61",
+            "fighter_a": "Takeya Mizugaki",
+            "fighter_b": "George Roop",
+            "winner": "Takeya Mizugaki",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e7e244a0bf244e61"
+        },
+        {
+            "fight_id": "1c5bed46920ab3e1",
+            "fighter_a": "Diego Brandao",
+            "fighter_b": "Katsunori Kikuno",
+            "winner": "Diego Brandao",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:28",
+            "fight_url": "http://ufcstats.com/fight-details/1c5bed46920ab3e1"
+        },
+        {
+            "fight_id": "2ab47d509ee7dc6d",
+            "fighter_a": "Mizuto Hirota",
+            "fighter_b": "Teruto Ishihara",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2ab47d509ee7dc6d"
+        },
+        {
+            "fight_id": "85e1b21ea88fe7e3",
+            "fighter_a": "Keita Nakamura",
+            "fighter_b": "Li Jingliang",
+            "winner": "Keita Nakamura",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:17",
+            "fight_url": "http://ufcstats.com/fight-details/85e1b21ea88fe7e3"
+        },
+        {
+            "fight_id": "374508c76108d7fe",
+            "fighter_a": "Nick Hein",
+            "fighter_b": "Yusuke Kasuya",
+            "winner": "Nick Hein",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/374508c76108d7fe"
+        },
+        {
+            "fight_id": "b82b243982fcb2ac",
+            "fighter_a": "Kajan Johnson",
+            "fighter_b": "Naoyuki Kotani",
+            "winner": "Kajan Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b82b243982fcb2ac"
+        },
+        {
+            "fight_id": "74e86c7782cafe27",
+            "fighter_a": "Shinsho Anzai",
+            "fighter_b": "Roger Zapata",
+            "winner": "Shinsho Anzai",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": "3",
+            "time": "0:47",
+            "fight_url": "http://ufcstats.com/fight-details/74e86c7782cafe27"
+        }
+    ]
+}

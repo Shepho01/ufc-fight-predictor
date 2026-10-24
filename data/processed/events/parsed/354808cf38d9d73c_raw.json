@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "354808cf38d9d73c",
+        "event_name": "UFC 194: Aldo vs McGregor",
+        "event_date": "December 12, 2015",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b302e12550278ffd",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Jose Aldo",
+            "winner": "Conor McGregor",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:13",
+            "fight_url": "http://ufcstats.com/fight-details/b302e12550278ffd"
+        },
+        {
+            "fight_id": "ff389a4326fc9255",
+            "fighter_a": "Luke Rockhold",
+            "fighter_b": "Chris Weidman",
+            "winner": "Luke Rockhold",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "4",
+            "time": "3:12",
+            "fight_url": "http://ufcstats.com/fight-details/ff389a4326fc9255"
+        },
+        {
+            "fight_id": "f83c6bdd553b5851",
+            "fighter_a": "Yoel Romero",
+            "fighter_b": "Jacare Souza",
+            "winner": "Yoel Romero",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f83c6bdd553b5851"
+        },
+        {
+            "fight_id": "8fe1859721e95ce3",
+            "fighter_a": "Demian Maia",
+            "fighter_b": "Gunnar Nelson",
+            "winner": "Demian Maia",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8fe1859721e95ce3"
+        },
+        {
+            "fight_id": "3b321550c8b4aae6",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3b321550c8b4aae6"
+        },
+        {
+            "fight_id": "c4fd59db24f978ec",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Frankie Saenz",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c4fd59db24f978ec"
+        },
+        {
+            "fight_id": "0eab2845f901f8b6",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Jocelyn Jones-Lybarger",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0eab2845f901f8b6"
+        },
+        {
+            "fight_id": "01924e35b149b28f",
+            "fighter_a": "Warlley Alves",
+            "fighter_b": "Colby Covington",
+            "winner": "Warlley Alves",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/01924e35b149b28f"
+        },
+        {
+            "fight_id": "fa2e2a035b36b9d6",
+            "fighter_a": "Leonardo Santos",
+            "fighter_b": "Kevin Lee",
+            "winner": "Leonardo Santos",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:26",
+            "fight_url": "http://ufcstats.com/fight-details/fa2e2a035b36b9d6"
+        },
+        {
+            "fight_id": "5edfc539cc58a28d",
+            "fighter_a": "Magomed Mustafaev",
+            "fighter_b": "Joe Proctor",
+            "winner": "Magomed Mustafaev",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/5edfc539cc58a28d"
+        },
+        {
+            "fight_id": "064404b0aaf6f95d",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "John Makdessi",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/064404b0aaf6f95d"
+        },
+        {
+            "fight_id": "d48f938269b8ed0b",
+            "fighter_a": "Court McGee",
+            "fighter_b": "Marcio Alexandre Junior",
+            "winner": "Court McGee",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d48f938269b8ed0b"
+        }
+    ]
+}

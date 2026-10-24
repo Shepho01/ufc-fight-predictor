@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "abcf7e55a0a9ed89",
+        "event_name": "UFC 240: Holloway vs. Edgar",
+        "event_date": "July 27, 2019",
+        "location": "Edmonton, Alberta, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "c4704eab5e2f51b8",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c4704eab5e2f51b8"
+        },
+        {
+            "fight_id": "240e9389cca3bd18",
+            "fighter_a": "Cristiane Justino",
+            "fighter_b": "Felicia Spencer",
+            "winner": "Cristiane Justino",
+            "weight_class": "Women's Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/240e9389cca3bd18"
+        },
+        {
+            "fight_id": "e186bd5e556f1b5e",
+            "fighter_a": "Geoff Neal",
+            "fighter_b": "Niko Price",
+            "winner": "Geoff Neal",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:39",
+            "fight_url": "http://ufcstats.com/fight-details/e186bd5e556f1b5e"
+        },
+        {
+            "fight_id": "7ed98f8d1ffae082",
+            "fighter_a": "Arman Tsarukyan",
+            "fighter_b": "Olivier Aubin-Mercier",
+            "winner": "Arman Tsarukyan",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7ed98f8d1ffae082"
+        },
+        {
+            "fight_id": "dbca9f6bb7290c0d",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Marc-Andre Barriault",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dbca9f6bb7290c0d"
+        },
+        {
+            "fight_id": "dfa2fda311df08cf",
+            "fighter_a": "Viviane Araujo",
+            "fighter_b": "Alexis Davis",
+            "winner": "Viviane Araujo",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dfa2fda311df08cf"
+        },
+        {
+            "fight_id": "10b31e991c2d0d4e",
+            "fighter_a": "Hakeem Dawodu",
+            "fighter_b": "Yoshinori Horie",
+            "winner": "Hakeem Dawodu",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "4:09",
+            "fight_url": "http://ufcstats.com/fight-details/10b31e991c2d0d4e"
+        },
+        {
+            "fight_id": "25c4013fc187762a",
+            "fighter_a": "Gavin Tucker",
+            "fighter_b": "SeungWoo Choi",
+            "winner": "Gavin Tucker",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:17",
+            "fight_url": "http://ufcstats.com/fight-details/25c4013fc187762a"
+        },
+        {
+            "fight_id": "bc1787883f9328be",
+            "fighter_a": "Deiveson Figueiredo",
+            "fighter_b": "Alexandre Pantoja",
+            "winner": "Deiveson Figueiredo",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc1787883f9328be"
+        },
+        {
+            "fight_id": "68c77a11b2d308dd",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Sarah Frota",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "4:13",
+            "fight_url": "http://ufcstats.com/fight-details/68c77a11b2d308dd"
+        },
+        {
+            "fight_id": "d47fd8fc3886f86c",
+            "fighter_a": "Erik Koch",
+            "fighter_b": "Kyle Stewart",
+            "winner": "Erik Koch",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d47fd8fc3886f86c"
+        }
+    ]
+}

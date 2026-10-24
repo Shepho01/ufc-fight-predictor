@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "7ed98f8d1ffae082",
+        "event_id": "abcf7e55a0a9ed89",
+        "event_name": "UFC 240: Holloway vs. Edgar",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "eae48ff31db420c2"
+    },
+    "fighter_a": {
+        "fighter_id": "55ee431411ccf07a",
+        "name": "Olivier Aubin-Mercier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 48",
+            "Sig. str. %": "47%",
+            "Total str.": "36 of 61",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 48",
+            "Sig. str. %": "47%",
+            "Head": "14 of 34",
+            "Body": "8 of 12",
+            "Leg": "1 of 2",
+            "Distance": "17 of 41",
+            "Clinch": "1 of 1",
+            "Ground": "5 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 105",
+            "Sig. str. %": "44%",
+            "Total str.": "110 of 174",
+            "Td": "2 of 11",
+            "Td %": "18%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "7:51"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 105",
+            "Sig. str. %": "44%",
+            "Head": "28 of 77",
+            "Body": "11 of 18",
+            "Leg": "8 of 10",
+            "Distance": "20 of 68",
+            "Clinch": "5 of 8",
+            "Ground": "22 of 29"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "5b5307450405abf0",
+        "event_name": "UFC 174: Johnson vs Bagautinov",
+        "event_day": 14,
+        "event_month": 6,
+        "event_year": 2014,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "933660cfab154f1a",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Ali Bagautinov",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/933660cfab154f1a"
+        },
+        {
+            "fight_id": "de65739f00350c58",
+            "fighter_a": "Rory MacDonald",
+            "fighter_b": "Tyron Woodley",
+            "winner": "Rory MacDonald",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/de65739f00350c58"
+        },
+        {
+            "fight_id": "b72c19b80fb47ba4",
+            "fighter_a": "Ryan Bader",
+            "fighter_b": "Rafael Cavalcante",
+            "winner": "Ryan Bader",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b72c19b80fb47ba4"
+        },
+        {
+            "fight_id": "f3ebce624bb154ae",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Brendan Schaub",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f3ebce624bb154ae"
+        },
+        {
+            "fight_id": "db747a157e1f264b",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Ryan Jimmo",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/db747a157e1f264b"
+        },
+        {
+            "fight_id": "7767149280471f2a",
+            "fighter_a": "Kiichi Kunimoto",
+            "fighter_b": "Daniel Sarafian",
+            "winner": "Kiichi Kunimoto",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 172,
+            "fight_url": "http://ufcstats.com/fight-details/7767149280471f2a"
+        },
+        {
+            "fight_id": "594ce25b9e16c7ba",
+            "fighter_a": "Valerie Letourneau",
+            "fighter_b": "Elizabeth Phillips",
+            "winner": "Valerie Letourneau",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/594ce25b9e16c7ba"
+        },
+        {
+            "fight_id": "5fe5c8cb69d8825e",
+            "fighter_a": "Yves Jabouin",
+            "fighter_b": "Mike Easton",
+            "winner": "Yves Jabouin",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5fe5c8cb69d8825e"
+        },
+        {
+            "fight_id": "a84d032d7d217427",
+            "fighter_a": "Tae Hyun Bang",
+            "fighter_b": "Kajan Johnson",
+            "winner": "Tae Hyun Bang",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 121,
+            "fight_url": "http://ufcstats.com/fight-details/a84d032d7d217427"
+        },
+        {
+            "fight_id": "2d7ead5ad0952423",
+            "fighter_a": "Michinori Tanaka",
+            "fighter_b": "Roland Delorme",
+            "winner": "Michinori Tanaka",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d7ead5ad0952423"
+        },
+        {
+            "fight_id": "357ba2f1da89031b",
+            "fighter_a": "Jason Saggo",
+            "fighter_b": "Josh Shockley",
+            "winner": "Jason Saggo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 297,
+            "fight_url": "http://ufcstats.com/fight-details/357ba2f1da89031b"
+        }
+    ]
+}

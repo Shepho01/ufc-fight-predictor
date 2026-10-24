@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "12c600dc64edb403",
+        "event_id": "16d09e800ad7ec79",
+        "event_name": "UFC Fight Night: Mendes vs Lamas",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:45",
+        "referee": "Todd McGovern",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "24 of 50",
+            "Sig. str. %": "48%",
+            "Total str.": "29 of 56",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 50",
+            "Sig. str. %": "48%",
+            "Head": "20 of 45",
+            "Body": "1 of 2",
+            "Leg": "3 of 3",
+            "Distance": "20 of 41",
+            "Clinch": "1 of 2",
+            "Ground": "3 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f53d4f21d1b5f2dc",
+        "name": "Diego Ferreira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 56",
+            "Sig. str. %": "35%",
+            "Total str.": "20 of 56",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 56",
+            "Sig. str. %": "35%",
+            "Head": "12 of 46",
+            "Body": "5 of 7",
+            "Leg": "3 of 3",
+            "Distance": "16 of 52",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "aec1339028f3416c",
+        "event_id": "b16a7e6a627e9789",
+        "event_name": "UFC Fight Night: Moicano vs. The Korean Zombie",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "0:58",
+        "referee": "Blake Grice",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 3",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 3",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 3",
+            "Sig. str. %": "0%",
+            "Head": "0 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 3",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "16 of 24",
+            "Sig. str. %": "66%",
+            "Total str.": "18 of 26",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "16 of 24",
+            "Sig. str. %": "66%",
+            "Head": "15 of 23",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "3 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "13 of 18"
+        }
+    }
+}

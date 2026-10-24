@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "8a1b4330c7957961",
+        "event_name": "UFC Fight Night: Miocic vs Hunt",
+        "event_day": 9,
+        "event_month": 5,
+        "event_year": 2015,
+        "location": "Adelaide, South Australia, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "57b986d06bde71c2",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Mark Hunt",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 5,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/57b986d06bde71c2"
+        },
+        {
+            "fight_id": "7ec24848cac6c5a1",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Brad Tavares",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 44,
+            "fight_url": "http://ufcstats.com/fight-details/7ec24848cac6c5a1"
+        },
+        {
+            "fight_id": "0fa31c9f7495810b",
+            "fighter_a": "Sean O'Connell",
+            "fighter_b": "Anthony Perosh",
+            "winner": "Sean O'Connell",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 56,
+            "fight_url": "http://ufcstats.com/fight-details/0fa31c9f7495810b"
+        },
+        {
+            "fight_id": "418b6f692abe9e35",
+            "fighter_a": "James Vick",
+            "fighter_b": "Jake Matthews",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 293,
+            "fight_url": "http://ufcstats.com/fight-details/418b6f692abe9e35"
+        },
+        {
+            "fight_id": "4f722e80eadb6d2f",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Hatsu Hioki",
+            "winner": "Dan Hooker",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/4f722e80eadb6d2f"
+        },
+        {
+            "fight_id": "43baf5b905686ebf",
+            "fighter_a": "Kyle Noke",
+            "fighter_b": "Jonavin Webb",
+            "winner": "Kyle Noke",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/43baf5b905686ebf"
+        },
+        {
+            "fight_id": "f208b79b0d78045b",
+            "fighter_a": "Sam Alvey",
+            "fighter_b": "Daniel Kelly",
+            "winner": "Sam Alvey",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 49,
+            "fight_url": "http://ufcstats.com/fight-details/f208b79b0d78045b"
+        },
+        {
+            "fight_id": "e4549c57faca7a64",
+            "fighter_a": "Bec Rawlings",
+            "fighter_b": "Lisa Ellis",
+            "winner": "Bec Rawlings",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 249,
+            "fight_url": "http://ufcstats.com/fight-details/e4549c57faca7a64"
+        },
+        {
+            "fight_id": "8a39075a9ffaa971",
+            "fighter_a": "Brad Scott",
+            "fighter_b": "Dylan Andrews",
+            "winner": "Brad Scott",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/8a39075a9ffaa971"
+        },
+        {
+            "fight_id": "d1c4c06780cbd36e",
+            "fighter_a": "Alex Chambers",
+            "fighter_b": "Kailin Curran",
+            "winner": "Alex Chambers",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 195,
+            "fight_url": "http://ufcstats.com/fight-details/d1c4c06780cbd36e"
+        },
+        {
+            "fight_id": "979269d4ab5784af",
+            "fighter_a": "Brendan O'Reilly",
+            "fighter_b": "Vik Grujic",
+            "winner": "Brendan O'Reilly",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/979269d4ab5784af"
+        },
+        {
+            "fight_id": "398f4857f9692204",
+            "fighter_a": "Ben Nguyen",
+            "fighter_b": "Alptekin Ozkilic",
+            "winner": "Ben Nguyen",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/398f4857f9692204"
+        }
+    ]
+}

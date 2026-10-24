@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2f93de8b39ec4625",
+        "event_id": "155a02a8b4311057",
+        "event_name": "UFC Fight Night: Edgar vs Swanson",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "64a50dad704d1d49"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 123",
+            "Sig. str. %": "40%",
+            "Total str.": "50 of 123",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 123",
+            "Sig. str. %": "40%",
+            "Head": "27 of 86",
+            "Body": "10 of 19",
+            "Leg": "13 of 18",
+            "Distance": "50 of 123",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "64a50dad704d1d49",
+        "name": "Edson Barboza",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 133",
+            "Sig. str. %": "40%",
+            "Total str.": "54 of 133",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 133",
+            "Sig. str. %": "40%",
+            "Head": "25 of 87",
+            "Body": "10 of 21",
+            "Leg": "19 of 25",
+            "Distance": "52 of 129",
+            "Clinch": "0 of 2",
+            "Ground": "2 of 2"
+        }
+    }
+}

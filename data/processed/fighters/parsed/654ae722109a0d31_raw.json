@@ -1,0 +1,52 @@
+{
+    "fighter_id": "654ae722109a0d31",
+    "name": "Joe Duffy",
+    "record": "16-5-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Feb 18, 1988",
+    "sig_strikes_landed_per_min": "2.68",
+    "sig_striking_accuracy": "34%",
+    "sig_strikes_absorbed_per_min": "3.78",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.96",
+    "takedown_accuracy": "66%",
+    "takedown_defense": "64%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "b76c0b0ed2926737",
+            "fight_url": "http://ufcstats.com/fight-details/b76c0b0ed2926737"
+        },
+        {
+            "fight_id": "44ab00737c3fb890",
+            "fight_url": "http://ufcstats.com/fight-details/44ab00737c3fb890"
+        },
+        {
+            "fight_id": "13635ba71963ad0c",
+            "fight_url": "http://ufcstats.com/fight-details/13635ba71963ad0c"
+        },
+        {
+            "fight_id": "55f727e00553035d",
+            "fight_url": "http://ufcstats.com/fight-details/55f727e00553035d"
+        },
+        {
+            "fight_id": "d39010c3511fb972",
+            "fight_url": "http://ufcstats.com/fight-details/d39010c3511fb972"
+        },
+        {
+            "fight_id": "4fa02674b920ff0a",
+            "fight_url": "http://ufcstats.com/fight-details/4fa02674b920ff0a"
+        },
+        {
+            "fight_id": "c7780ac294530c0d",
+            "fight_url": "http://ufcstats.com/fight-details/c7780ac294530c0d"
+        },
+        {
+            "fight_id": "d4d6c5ff6bef93ce",
+            "fight_url": "http://ufcstats.com/fight-details/d4d6c5ff6bef93ce"
+        }
+    ]
+}

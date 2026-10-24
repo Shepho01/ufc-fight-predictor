@@ -1,0 +1,52 @@
+{
+    "fighter_id": "a0e6753c42698f13",
+    "name": "Omar Morales",
+    "record": "11-4-0",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Oct 17, 1985",
+    "sig_strikes_landed_per_min": "3.42",
+    "sig_striking_accuracy": "40%",
+    "sig_strikes_absorbed_per_min": "3.18",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "0.46",
+    "takedown_accuracy": "100%",
+    "takedown_defense": "63%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "cdaf65287d9a0ecb",
+            "fight_url": "http://ufcstats.com/fight-details/cdaf65287d9a0ecb"
+        },
+        {
+            "fight_id": "534c07488396e124",
+            "fight_url": "http://ufcstats.com/fight-details/534c07488396e124"
+        },
+        {
+            "fight_id": "7484298ad57099be",
+            "fight_url": "http://ufcstats.com/fight-details/7484298ad57099be"
+        },
+        {
+            "fight_id": "2220b73ece1730c3",
+            "fight_url": "http://ufcstats.com/fight-details/2220b73ece1730c3"
+        },
+        {
+            "fight_id": "89dd4c256ca5d317",
+            "fight_url": "http://ufcstats.com/fight-details/89dd4c256ca5d317"
+        },
+        {
+            "fight_id": "918103d82ecbed75",
+            "fight_url": "http://ufcstats.com/fight-details/918103d82ecbed75"
+        },
+        {
+            "fight_id": "9140e6fdeaa7cd3f",
+            "fight_url": "http://ufcstats.com/fight-details/9140e6fdeaa7cd3f"
+        },
+        {
+            "fight_id": "41cca7934bf8737a",
+            "fight_url": "http://ufcstats.com/fight-details/41cca7934bf8737a"
+        }
+    ]
+}

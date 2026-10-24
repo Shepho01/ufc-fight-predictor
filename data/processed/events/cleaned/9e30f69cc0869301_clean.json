@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "9e30f69cc0869301",
+        "event_name": "UFC 218: Holloway vs. Aldo 2",
+        "event_day": 2,
+        "event_month": 12,
+        "event_year": 2017,
+        "location": "Detroit, Michigan, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "21f7fc538ea646e8",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Jose Aldo",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 291,
+            "fight_url": "http://ufcstats.com/fight-details/21f7fc538ea646e8"
+        },
+        {
+            "fight_id": "4712708adb1507aa",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Alistair Overeem",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 102,
+            "fight_url": "http://ufcstats.com/fight-details/4712708adb1507aa"
+        },
+        {
+            "fight_id": "cc2809e10315a6b5",
+            "fighter_a": "Henry Cejudo",
+            "fighter_b": "Sergio Pettis",
+            "winner": "Henry Cejudo",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cc2809e10315a6b5"
+        },
+        {
+            "fight_id": "23e5acd1549b538a",
+            "fighter_a": "Eddie Alvarez",
+            "fighter_b": "Justin Gaethje",
+            "winner": "Eddie Alvarez",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Knee",
+            "round": 3,
+            "time_seconds": 239,
+            "fight_url": "http://ufcstats.com/fight-details/23e5acd1549b538a"
+        },
+        {
+            "fight_id": "ea674e0285fb77f5",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Michelle Waterson-Gomez",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ea674e0285fb77f5"
+        },
+        {
+            "fight_id": "c83487136636e9bf",
+            "fighter_a": "Paul Felder",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Paul Felder",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 246,
+            "fight_url": "http://ufcstats.com/fight-details/c83487136636e9bf"
+        },
+        {
+            "fight_id": "54c5284c1b792912",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "Alex Oliveira",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 122,
+            "fight_url": "http://ufcstats.com/fight-details/54c5284c1b792912"
+        },
+        {
+            "fight_id": "676320a61f800f10",
+            "fighter_a": "David Teymur",
+            "fighter_b": "Drakkar Klose",
+            "winner": "David Teymur",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/676320a61f800f10"
+        },
+        {
+            "fight_id": "1a502852b706f674",
+            "fighter_a": "Felice Herrig",
+            "fighter_b": "Cortney Casey",
+            "winner": "Felice Herrig",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1a502852b706f674"
+        },
+        {
+            "fight_id": "6c25f8fd66f16d7e",
+            "fighter_a": "Amanda Cooper",
+            "fighter_b": "Angela Magana",
+            "winner": "Amanda Cooper",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/6c25f8fd66f16d7e"
+        },
+        {
+            "fight_id": "6aea6d3e6944999c",
+            "fighter_a": "Abdul Razak Alhassan",
+            "fighter_b": "Sabah Homasi",
+            "winner": "Abdul Razak Alhassan",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/6aea6d3e6944999c"
+        },
+        {
+            "fight_id": "a3b7cbdb6d2607f4",
+            "fighter_a": "Dominick Reyes",
+            "fighter_b": "Jeremy Kimball",
+            "winner": "Dominick Reyes",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 219,
+            "fight_url": "http://ufcstats.com/fight-details/a3b7cbdb6d2607f4"
+        },
+        {
+            "fight_id": "40d9b5b47acf260b",
+            "fighter_a": "Justin Willis",
+            "fighter_b": "Allen Crowder",
+            "winner": "Justin Willis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 153,
+            "fight_url": "http://ufcstats.com/fight-details/40d9b5b47acf260b"
+        }
+    ]
+}

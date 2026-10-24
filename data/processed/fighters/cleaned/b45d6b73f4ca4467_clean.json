@@ -1,0 +1,23 @@
+{
+    "fighter_id": "b45d6b73f4ca4467",
+    "name": "Andre Winner",
+    "wins": 21,
+    "losses": 11,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 9,
+    "dob_month": 11,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 2.52,
+    "sig_striking_accuracy": 0.33,
+    "sig_strikes_absorbed_per_min": 4.57,
+    "sig_strike_defense": 0.51,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.74,
+    "submission_attempts_per_15_min": 0.0
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4f722e80eadb6d2f",
+        "event_id": "8a1b4330c7957961",
+        "event_name": "UFC Fight Night: Miocic vs Hunt",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "4:13",
+        "referee": "John Sharp",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "ef7fa30364cbe7f2",
+        "name": "Hatsu Hioki",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 92",
+            "Sig. str. %": "34%",
+            "Total str.": "38 of 98",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 92",
+            "Sig. str. %": "34%",
+            "Head": "23 of 70",
+            "Body": "8 of 21",
+            "Leg": "1 of 1",
+            "Distance": "32 of 92",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "21 of 61",
+            "Sig. str. %": "34%",
+            "Total str.": "34 of 74",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 61",
+            "Sig. str. %": "34%",
+            "Head": "18 of 49",
+            "Body": "1 of 4",
+            "Leg": "2 of 8",
+            "Distance": "17 of 55",
+            "Clinch": "2 of 3",
+            "Ground": "2 of 3"
+        }
+    }
+}

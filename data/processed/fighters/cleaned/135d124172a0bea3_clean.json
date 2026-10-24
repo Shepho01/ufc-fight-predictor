@@ -1,0 +1,23 @@
+{
+    "fighter_id": "135d124172a0bea3",
+    "name": "Damir Ismagulov",
+    "wins": 24,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 3,
+    "dob_month": 2,
+    "dob_year": 1991,
+    "sig_strikes_landed_per_min": 3.36,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 2.44,
+    "sig_strike_defense": 0.61,
+    "takedowns_landed_per_15_min": 1.0,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.7,
+    "submission_attempts_per_15_min": 0.0
+}

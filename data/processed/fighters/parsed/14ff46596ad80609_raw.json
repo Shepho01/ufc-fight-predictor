@@ -1,0 +1,56 @@
+{
+    "fighter_id": "14ff46596ad80609",
+    "name": "Norman Parke",
+    "record": "23-6-1",
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Dec 22, 1986",
+    "sig_strikes_landed_per_min": "3.06",
+    "sig_striking_accuracy": "35%",
+    "sig_strikes_absorbed_per_min": "2.88",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "1.98",
+    "takedown_accuracy": "26%",
+    "takedown_defense": "77%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "b29d4e0117776bb3",
+            "fight_url": "http://ufcstats.com/fight-details/b29d4e0117776bb3"
+        },
+        {
+            "fight_id": "5ae114b3fdef6d2f",
+            "fight_url": "http://ufcstats.com/fight-details/5ae114b3fdef6d2f"
+        },
+        {
+            "fight_id": "d4a309663a4da799",
+            "fight_url": "http://ufcstats.com/fight-details/d4a309663a4da799"
+        },
+        {
+            "fight_id": "293919e355b362b1",
+            "fight_url": "http://ufcstats.com/fight-details/293919e355b362b1"
+        },
+        {
+            "fight_id": "611ccad0fc46ba51",
+            "fight_url": "http://ufcstats.com/fight-details/611ccad0fc46ba51"
+        },
+        {
+            "fight_id": "671048cd1933855a",
+            "fight_url": "http://ufcstats.com/fight-details/671048cd1933855a"
+        },
+        {
+            "fight_id": "a34dc365302238e8",
+            "fight_url": "http://ufcstats.com/fight-details/a34dc365302238e8"
+        },
+        {
+            "fight_id": "86bbe429ae27d913",
+            "fight_url": "http://ufcstats.com/fight-details/86bbe429ae27d913"
+        },
+        {
+            "fight_id": "ddf2eff896475431",
+            "fight_url": "http://ufcstats.com/fight-details/ddf2eff896475431"
+        }
+    ]
+}

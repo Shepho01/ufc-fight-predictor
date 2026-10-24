@@ -1,0 +1,23 @@
+{
+    "fighter_id": "343d57cde1a14338",
+    "name": "Matt Ricehouse",
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": null,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "",
+    "dob_day": 11,
+    "dob_month": 3,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 3.7,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 4.8,
+    "sig_strike_defense": 0.47,
+    "takedowns_landed_per_15_min": 1.0,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.81,
+    "submission_attempts_per_15_min": 0.0
+}

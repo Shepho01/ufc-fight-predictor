@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f115a91066a77ee7",
+        "event_id": "3a24769a4855040a",
+        "event_name": "UFC 275: Teixeira vs. Prochazka",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:32",
+        "referee": "John Sharp",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "18 of 36",
+            "Sig. str. %": "50%",
+            "Total str.": "18 of 36",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 36",
+            "Sig. str. %": "50%",
+            "Head": "11 of 26",
+            "Body": "7 of 10",
+            "Leg": "0 of 0",
+            "Distance": "11 of 29",
+            "Clinch": "3 of 3",
+            "Ground": "4 of 4"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "abd5fb12437eda21",
+        "name": "Ramazan Emeev",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 24",
+            "Sig. str. %": "29%",
+            "Total str.": "7 of 24",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:25"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 24",
+            "Sig. str. %": "29%",
+            "Head": "6 of 22",
+            "Body": "1 of 2",
+            "Leg": "0 of 0",
+            "Distance": "7 of 24",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

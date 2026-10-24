@@ -1,0 +1,23 @@
+{
+    "fighter_id": "8a1f3b5c526cd6e6",
+    "name": "Daniel Rodriguez",
+    "wins": 20,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 185.42,
+    "weight_lbs": 170,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 31,
+    "dob_month": 12,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 7.19,
+    "sig_striking_accuracy": 0.49,
+    "sig_strikes_absorbed_per_min": 5.44,
+    "sig_strike_defense": 0.57,
+    "takedowns_landed_per_15_min": 0.51,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.1
+}

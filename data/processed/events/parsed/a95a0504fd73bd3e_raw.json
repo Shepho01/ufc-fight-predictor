@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "a95a0504fd73bd3e",
+        "event_name": "WEC 44: Brown vs. Aldo",
+        "event_date": "November 18, 2009",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "516df95b0c8c3127",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Mike Brown",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:20",
+            "fight_url": "http://ufcstats.com/fight-details/516df95b0c8c3127"
+        },
+        {
+            "fight_id": "5bcde86d5f40cebb",
+            "fighter_a": "Manvel Gamburyan",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Manvel Gamburyan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5bcde86d5f40cebb"
+        },
+        {
+            "fight_id": "22a2257989234747",
+            "fighter_a": "Karen Darabedyan",
+            "fighter_b": "Rob McCullough",
+            "winner": "Karen Darabedyan",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/22a2257989234747"
+        },
+        {
+            "fight_id": "6cf2d02153029a7a",
+            "fighter_a": "Shane Roller",
+            "fighter_b": "Danny Castillo",
+            "winner": "Shane Roller",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:32",
+            "fight_url": "http://ufcstats.com/fight-details/6cf2d02153029a7a"
+        },
+        {
+            "fight_id": "18802deb8da3e5d2",
+            "fighter_a": "Kamal Shalorus",
+            "fighter_b": "Will Kerr",
+            "winner": "Kamal Shalorus",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "1:26",
+            "fight_url": "http://ufcstats.com/fight-details/18802deb8da3e5d2"
+        },
+        {
+            "fight_id": "62e029072ce23b60",
+            "fighter_a": "LC Davis",
+            "fighter_b": "Diego Nunes",
+            "winner": "LC Davis",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/62e029072ce23b60"
+        },
+        {
+            "fight_id": "ed33249f2f247b53",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "John Franchi",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "4:50",
+            "fight_url": "http://ufcstats.com/fight-details/ed33249f2f247b53"
+        },
+        {
+            "fight_id": "579e06e9e88def0b",
+            "fighter_a": "Antonio Banuelos",
+            "fighter_b": "Kenji Osawa",
+            "winner": "Antonio Banuelos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/579e06e9e88def0b"
+        },
+        {
+            "fight_id": "71e8c99c13943254",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "James Krause",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/71e8c99c13943254"
+        },
+        {
+            "fight_id": "176e7df9a1525068",
+            "fighter_a": "Frank Gomez",
+            "fighter_b": "Seth Dikun",
+            "winner": "Frank Gomez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/176e7df9a1525068"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "60ba33c3f555a7a3",
+    "name": "Josh Grispi",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 187.96,
+    "stance": "Orthodox",
+    "dob_day": 14,
+    "dob_month": 10,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 1.44,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 3.71,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 1.97,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.16,
+    "submission_attempts_per_15_min": 2.2
+}

@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "c6da1c24fe473418",
+        "event_name": "The Ultimate Fighter: Team Carwin vs. Team Nelson Finale",
+        "event_day": 15,
+        "event_month": 12,
+        "event_year": 2012,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5bcc7204a43cf34e",
+            "fighter_a": "Roy Nelson",
+            "fighter_b": "Matt Mitrione",
+            "winner": "Roy Nelson",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 178,
+            "fight_url": "http://ufcstats.com/fight-details/5bcc7204a43cf34e"
+        },
+        {
+            "fight_id": "99c12cc04b4261bf",
+            "fighter_a": "Colton Smith",
+            "fighter_b": "Mike Ricci",
+            "winner": "Colton Smith",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/99c12cc04b4261bf"
+        },
+        {
+            "fight_id": "cade8a4e97911e89",
+            "fighter_a": "Pat Barry",
+            "fighter_b": "Shane del Rosario",
+            "winner": "Pat Barry",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 26,
+            "fight_url": "http://ufcstats.com/fight-details/cade8a4e97911e89"
+        },
+        {
+            "fight_id": "e88c59ad88e9dc27",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Jonathan Brookins",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/e88c59ad88e9dc27"
+        },
+        {
+            "fight_id": "1d20bba4aca5f81a",
+            "fighter_a": "Mike Pyle",
+            "fighter_b": "James Head",
+            "winner": "Mike Pyle",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 115,
+            "fight_url": "http://ufcstats.com/fight-details/1d20bba4aca5f81a"
+        },
+        {
+            "fight_id": "452a9728317893d7",
+            "fighter_a": "Johnny Bedford",
+            "fighter_b": "Marcos Vinicius",
+            "winner": "Johnny Bedford",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/452a9728317893d7"
+        },
+        {
+            "fight_id": "12d17a837caeae63",
+            "fighter_a": "Rustam Khabilov",
+            "fighter_b": "Vinc Pichel",
+            "winner": "Rustam Khabilov",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Slam",
+            "round": 1,
+            "time_seconds": 135,
+            "fight_url": "http://ufcstats.com/fight-details/12d17a837caeae63"
+        },
+        {
+            "fight_id": "6b83234360b3ca62",
+            "fighter_a": "TJ Waldburger",
+            "fighter_b": "Nick Catone",
+            "winner": "TJ Waldburger",
+            "weight_class": "Welterweight",
+            "method": "SUB Triangle Choke",
+            "round": 2,
+            "time_seconds": 64,
+            "fight_url": "http://ufcstats.com/fight-details/6b83234360b3ca62"
+        },
+        {
+            "fight_id": "6463a48c9347a9f3",
+            "fighter_a": "Hugo Viana",
+            "fighter_b": "Reuben Duran",
+            "winner": "Hugo Viana",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 245,
+            "fight_url": "http://ufcstats.com/fight-details/6463a48c9347a9f3"
+        },
+        {
+            "fight_id": "8935fc5943a78c20",
+            "fighter_a": "Mike Rio",
+            "fighter_b": "John Cofer",
+            "winner": "Mike Rio",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 251,
+            "fight_url": "http://ufcstats.com/fight-details/8935fc5943a78c20"
+        },
+        {
+            "fight_id": "b43c83505edcd8fa",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Jared Papazian",
+            "winner": "Tim Elliott",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b43c83505edcd8fa"
+        }
+    ]
+}

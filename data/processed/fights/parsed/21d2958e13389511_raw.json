@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "21d2958e13389511",
+        "event_id": "7d5b12de1625984e",
+        "event_name": "UFC 136: Edgar vs Maynard 3",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "51 of 115",
+            "Sig. str. %": "44%",
+            "Total str.": "66 of 131",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:52"
+        },
+        "significant_strikes": {
+            "Sig. str": "51 of 115",
+            "Sig. str. %": "44%",
+            "Head": "38 of 93",
+            "Body": "5 of 10",
+            "Leg": "8 of 12",
+            "Distance": "37 of 97",
+            "Clinch": "8 of 10",
+            "Ground": "6 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cb139171ed1b69fe",
+        "name": "Kenny Florian",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "40 of 128",
+            "Sig. str. %": "31%",
+            "Total str.": "69 of 165",
+            "Td": "1 of 19",
+            "Td %": "5%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "6:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "40 of 128",
+            "Sig. str. %": "31%",
+            "Head": "11 of 78",
+            "Body": "13 of 27",
+            "Leg": "16 of 23",
+            "Distance": "25 of 106",
+            "Clinch": "15 of 22",
+            "Ground": "0 of 0"
+        }
+    }
+}

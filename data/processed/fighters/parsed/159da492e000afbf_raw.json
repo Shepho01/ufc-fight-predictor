@@ -1,0 +1,52 @@
+{
+    "fighter_id": "159da492e000afbf",
+    "name": "Leandro Silva",
+    "record": "20-6-1 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 11, 1985",
+    "sig_strikes_landed_per_min": "2.39",
+    "sig_striking_accuracy": "48%",
+    "sig_strikes_absorbed_per_min": "2.08",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "1.76",
+    "takedown_accuracy": "37%",
+    "takedown_defense": "65%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "c5c1deb1607f69b4",
+            "fight_url": "http://ufcstats.com/fight-details/c5c1deb1607f69b4"
+        },
+        {
+            "fight_id": "2e11087e1a4f066b",
+            "fight_url": "http://ufcstats.com/fight-details/2e11087e1a4f066b"
+        },
+        {
+            "fight_id": "4e3611c9a9e20ff0",
+            "fight_url": "http://ufcstats.com/fight-details/4e3611c9a9e20ff0"
+        },
+        {
+            "fight_id": "babfd62f1d4a43a8",
+            "fight_url": "http://ufcstats.com/fight-details/babfd62f1d4a43a8"
+        },
+        {
+            "fight_id": "b068a4ee6d842606",
+            "fight_url": "http://ufcstats.com/fight-details/b068a4ee6d842606"
+        },
+        {
+            "fight_id": "207f105716df54f9",
+            "fight_url": "http://ufcstats.com/fight-details/207f105716df54f9"
+        },
+        {
+            "fight_id": "e79e3ee088b76d46",
+            "fight_url": "http://ufcstats.com/fight-details/e79e3ee088b76d46"
+        },
+        {
+            "fight_id": "b6d027c60f879e4a",
+            "fight_url": "http://ufcstats.com/fight-details/b6d027c60f879e4a"
+        }
+    ]
+}

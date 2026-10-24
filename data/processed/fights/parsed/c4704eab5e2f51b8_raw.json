@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "c4704eab5e2f51b8",
+        "event_id": "abcf7e55a0a9ed89",
+        "event_name": "UFC 240: Holloway vs. Edgar",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "129 of 328",
+            "Sig. str. %": "39%",
+            "Total str.": "131 of 330",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "129 of 328",
+            "Sig. str. %": "39%",
+            "Head": "109 of 295",
+            "Body": "20 of 33",
+            "Leg": "0 of 0",
+            "Distance": "120 of 319",
+            "Clinch": "8 of 8",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "96 of 264",
+            "Sig. str. %": "36%",
+            "Total str.": "96 of 264",
+            "Td": "1 of 15",
+            "Td %": "6%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "96 of 264",
+            "Sig. str. %": "36%",
+            "Head": "57 of 195",
+            "Body": "21 of 48",
+            "Leg": "18 of 21",
+            "Distance": "93 of 252",
+            "Clinch": "2 of 10",
+            "Ground": "1 of 2"
+        }
+    }
+}

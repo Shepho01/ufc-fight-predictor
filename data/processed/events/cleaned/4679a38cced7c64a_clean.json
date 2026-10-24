@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "4679a38cced7c64a",
+        "event_name": "UFC on FUEL TV: Barao vs McDonald",
+        "event_day": 16,
+        "event_month": 2,
+        "event_year": 2013,
+        "location": "London, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "3dbf17b9946d26db",
+            "fighter_a": "Renan Barao",
+            "fighter_b": "Michael McDonald",
+            "winner": "Renan Barao",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": 4,
+            "time_seconds": 237,
+            "fight_url": "http://ufcstats.com/fight-details/3dbf17b9946d26db"
+        },
+        {
+            "fight_id": "493b7a8e3253b133",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/493b7a8e3253b133"
+        },
+        {
+            "fight_id": "2968840a5f24ce9f",
+            "fighter_a": "Jimi Manuwa",
+            "fighter_b": "Cyrille Diabate",
+            "winner": "Jimi Manuwa",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2968840a5f24ce9f"
+        },
+        {
+            "fight_id": "7549887ba7ae86e6",
+            "fighter_a": "Gunnar Nelson",
+            "fighter_b": "Jorge Santiago",
+            "winner": "Gunnar Nelson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7549887ba7ae86e6"
+        },
+        {
+            "fight_id": "635ef1f12a60e9d7",
+            "fighter_a": "James Te Huna",
+            "fighter_b": "Ryan Jimmo",
+            "winner": "James Te Huna",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/635ef1f12a60e9d7"
+        },
+        {
+            "fight_id": "287c71b9017c5769",
+            "fighter_a": "Che Mills",
+            "fighter_b": "Matthew Riddle",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "Overturned",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/287c71b9017c5769"
+        },
+        {
+            "fight_id": "e27a9b4b4a46f091",
+            "fighter_a": "Renee Forte",
+            "fighter_b": "Terry Etim",
+            "winner": "Renee Forte",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e27a9b4b4a46f091"
+        },
+        {
+            "fight_id": "530558f01ac425af",
+            "fighter_a": "Danny Castillo",
+            "fighter_b": "Paul Sass",
+            "winner": "Danny Castillo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/530558f01ac425af"
+        },
+        {
+            "fight_id": "d607908be8b19273",
+            "fighter_a": "Andy Ogle",
+            "fighter_b": "Josh Grispi",
+            "winner": "Andy Ogle",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d607908be8b19273"
+        },
+        {
+            "fight_id": "22a574162e2ebcf6",
+            "fighter_a": "Tom Watson",
+            "fighter_b": "Stanislav Nedkov",
+            "winner": "Tom Watson",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 282,
+            "fight_url": "http://ufcstats.com/fight-details/22a574162e2ebcf6"
+        },
+        {
+            "fight_id": "f509d5ffcc3f46fe",
+            "fighter_a": "Vaughan Lee",
+            "fighter_b": "Motonobu Tezuka",
+            "winner": "Vaughan Lee",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f509d5ffcc3f46fe"
+        },
+        {
+            "fight_id": "16ba92318ff66d4a",
+            "fighter_a": "Phil Harris",
+            "fighter_b": "Ulysses Gomez",
+            "winner": "Phil Harris",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/16ba92318ff66d4a"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "cb7616f92a9a4e5b",
+        "event_id": "d0d43cb9b14f231c",
+        "event_name": "UFC 256: Figueiredo vs. Moreno",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:05",
+        "referee": "Chris Tognoni",
+        "winner_id": "c814b4c899793af6"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "15 of 37",
+            "Sig. str. %": "40%",
+            "Total str.": "15 of 37",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 37",
+            "Sig. str. %": "40%",
+            "Head": "10 of 32",
+            "Body": "3 of 3",
+            "Leg": "2 of 2",
+            "Distance": "14 of 35",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c814b4c899793af6",
+        "name": "Rafael Fiziev",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "21 of 35",
+            "Sig. str. %": "60%",
+            "Total str.": "21 of 35",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 35",
+            "Sig. str. %": "60%",
+            "Head": "7 of 18",
+            "Body": "7 of 10",
+            "Leg": "7 of 7",
+            "Distance": "20 of 34",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

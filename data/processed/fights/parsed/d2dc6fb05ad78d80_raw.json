@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d2dc6fb05ad78d80",
+        "event_id": "3ae10ac4df3df05c",
+        "event_name": "UFC Fight Night: Reyes vs. Weidman",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin MacDonald",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "96 of 170",
+            "Sig. str. %": "56%",
+            "Total str.": "136 of 213",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "96 of 170",
+            "Sig. str. %": "56%",
+            "Head": "65 of 127",
+            "Body": "14 of 23",
+            "Leg": "17 of 20",
+            "Distance": "54 of 100",
+            "Clinch": "6 of 10",
+            "Ground": "36 of 60"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "18968f97ad34f15c",
+        "name": "Jeremy Stephens",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 95",
+            "Sig. str. %": "52%",
+            "Total str.": "99 of 156",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 95",
+            "Sig. str. %": "52%",
+            "Head": "35 of 76",
+            "Body": "10 of 10",
+            "Leg": "5 of 9",
+            "Distance": "19 of 51",
+            "Clinch": "6 of 11",
+            "Ground": "25 of 33"
+        }
+    }
+}

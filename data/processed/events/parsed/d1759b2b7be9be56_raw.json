@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "d1759b2b7be9be56",
+        "event_name": "UFC Fight Night: Lauzon vs Stephens",
+        "event_date": "February 07, 2009",
+        "location": "Tampa, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "83c5a944258d2332",
+            "fighter_a": "Joe Lauzon",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Joe Lauzon",
+            "weight_class": "Lightweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "4:43",
+            "fight_url": "http://ufcstats.com/fight-details/83c5a944258d2332"
+        },
+        {
+            "fight_id": "2d80f60b67791b97",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Denis Stojnic",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:34",
+            "fight_url": "http://ufcstats.com/fight-details/2d80f60b67791b97"
+        },
+        {
+            "fight_id": "df7f3c60c523ca55",
+            "fighter_a": "Josh Neer",
+            "fighter_b": "Mac Danzig",
+            "winner": "Josh Neer",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "3:36",
+            "fight_url": "http://ufcstats.com/fight-details/df7f3c60c523ca55"
+        },
+        {
+            "fight_id": "868833557ae90877",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Luigi Fioravanti",
+            "winner": "Anthony Johnson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:39",
+            "fight_url": "http://ufcstats.com/fight-details/868833557ae90877"
+        },
+        {
+            "fight_id": "0a1f2e1f9d91bc9a",
+            "fighter_a": "Kurt Pellegrino",
+            "fighter_b": "Rob Emerson",
+            "winner": "Kurt Pellegrino",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/0a1f2e1f9d91bc9a"
+        },
+        {
+            "fight_id": "14c3447726332f2b",
+            "fighter_a": "Dan Miller",
+            "fighter_b": "Jake Rosholt",
+            "winner": "Dan Miller",
+            "weight_class": "Middleweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:03",
+            "fight_url": "http://ufcstats.com/fight-details/14c3447726332f2b"
+        },
+        {
+            "fight_id": "6a663c04dfe5b88e",
+            "fighter_a": "Matt Veach",
+            "fighter_b": "Matt Grice",
+            "winner": "Matt Veach",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:34",
+            "fight_url": "http://ufcstats.com/fight-details/6a663c04dfe5b88e"
+        },
+        {
+            "fight_id": "c9721146eba68c2a",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Rich Clementi",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:35",
+            "fight_url": "http://ufcstats.com/fight-details/c9721146eba68c2a"
+        },
+        {
+            "fight_id": "26888b89fbd860cf",
+            "fighter_a": "Nick Catone",
+            "fighter_b": "Derek Downey",
+            "winner": "Nick Catone",
+            "weight_class": "Middleweight",
+            "method": "SUB Keylock",
+            "round": "2",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/26888b89fbd860cf"
+        },
+        {
+            "fight_id": "e4420b9812501c17",
+            "fighter_a": "Matthew Riddle",
+            "fighter_b": "Steve Bruno",
+            "winner": "Matthew Riddle",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e4420b9812501c17"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f57a8a52ca401ed9",
+    "name": "Nick Diaz",
+    "wins": 26,
+    "losses": 10,
+    "draws": 0,
+    "no_conests": 2,
+    "height_cm": 185.42,
+    "weight_lbs": 170,
+    "reach_cm": 193.04,
+    "stance": "Southpaw",
+    "dob_day": 2,
+    "dob_month": 8,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 5.71,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 3.84,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 1.28,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 0.6,
+    "submission_attempts_per_15_min": 1.0
+}

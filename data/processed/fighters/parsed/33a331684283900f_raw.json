@@ -1,0 +1,72 @@
+{
+    "fighter_id": "33a331684283900f",
+    "name": "Eddie Alvarez",
+    "record": "29-6-0 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jan 11, 1984",
+    "sig_strikes_landed_per_min": "4.32",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "4.39",
+    "sig_strike_defense": "55%",
+    "takedowns_landed_per_15_min": "2.92",
+    "takedown_accuracy": "36%",
+    "takedown_defense": "92%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "bd1fc4ff619f4e61",
+            "fight_url": "http://ufcstats.com/fight-details/bd1fc4ff619f4e61"
+        },
+        {
+            "fight_id": "23e5acd1549b538a",
+            "fight_url": "http://ufcstats.com/fight-details/23e5acd1549b538a"
+        },
+        {
+            "fight_id": "6fe9729cee57c680",
+            "fight_url": "http://ufcstats.com/fight-details/6fe9729cee57c680"
+        },
+        {
+            "fight_id": "1d7015553debd1c8",
+            "fight_url": "http://ufcstats.com/fight-details/1d7015553debd1c8"
+        },
+        {
+            "fight_id": "bb9020ac324fb706",
+            "fight_url": "http://ufcstats.com/fight-details/bb9020ac324fb706"
+        },
+        {
+            "fight_id": "3ce6f9eb59a1e149",
+            "fight_url": "http://ufcstats.com/fight-details/3ce6f9eb59a1e149"
+        },
+        {
+            "fight_id": "fd776d7b554a85d0",
+            "fight_url": "http://ufcstats.com/fight-details/fd776d7b554a85d0"
+        },
+        {
+            "fight_id": "64eb4ae171613218",
+            "fight_url": "http://ufcstats.com/fight-details/64eb4ae171613218"
+        },
+        {
+            "fight_id": "4487ae4c518a6505",
+            "fight_url": "http://ufcstats.com/fight-details/4487ae4c518a6505"
+        },
+        {
+            "fight_id": "037f4c25a87b9234",
+            "fight_url": "http://ufcstats.com/fight-details/037f4c25a87b9234"
+        },
+        {
+            "fight_id": "3e75012dd687a0ab",
+            "fight_url": "http://ufcstats.com/fight-details/3e75012dd687a0ab"
+        },
+        {
+            "fight_id": "6834c4283e93d881",
+            "fight_url": "http://ufcstats.com/fight-details/6834c4283e93d881"
+        },
+        {
+            "fight_id": "ba9c82e9796b5656",
+            "fight_url": "http://ufcstats.com/fight-details/ba9c82e9796b5656"
+        }
+    ]
+}

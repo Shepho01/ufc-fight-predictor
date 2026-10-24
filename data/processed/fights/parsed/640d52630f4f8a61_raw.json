@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "640d52630f4f8a61",
+        "event_id": "6fb1ba67bef41b37",
+        "event_name": "UFC Fight Night: Pavlovich vs. Blaydes",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Could Not Continue",
+        "finish_round": 1,
+        "finish_time": "4:35",
+        "referee": "Keith Peterson",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 69",
+            "Sig. str. %": "33%",
+            "Total str.": "23 of 69",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 69",
+            "Sig. str. %": "33%",
+            "Head": "15 of 56",
+            "Body": "6 of 9",
+            "Leg": "2 of 4",
+            "Distance": "17 of 62",
+            "Clinch": "0 of 1",
+            "Ground": "6 of 6"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "7026eca45f65377b",
+        "name": "Jared Gordon",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 53",
+            "Sig. str. %": "32%",
+            "Total str.": "17 of 53",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 53",
+            "Sig. str. %": "32%",
+            "Head": "9 of 34",
+            "Body": "5 of 11",
+            "Leg": "3 of 8",
+            "Distance": "17 of 53",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

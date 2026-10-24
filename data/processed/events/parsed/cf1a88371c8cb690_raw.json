@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "cf1a88371c8cb690",
+        "event_name": "UFC Fight Night: Shogun vs Sonnen",
+        "event_date": "August 17, 2013",
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1308a39eec6f86cc",
+            "fighter_a": "Chael Sonnen",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Chael Sonnen",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "4:47",
+            "fight_url": "http://ufcstats.com/fight-details/1308a39eec6f86cc"
+        },
+        {
+            "fight_id": "eefc526e320524e6",
+            "fighter_a": "Travis Browne",
+            "fighter_b": "Alistair Overeem",
+            "winner": "Travis Browne",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "4:08",
+            "fight_url": "http://ufcstats.com/fight-details/eefc526e320524e6"
+        },
+        {
+            "fight_id": "751f2796809d2a6f",
+            "fighter_a": "Urijah Faber",
+            "fighter_b": "Iuri Alcantara",
+            "winner": "Urijah Faber",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/751f2796809d2a6f"
+        },
+        {
+            "fight_id": "85ee3b5995874141",
+            "fighter_a": "Matt Brown",
+            "fighter_b": "Mike Pyle",
+            "winner": "Matt Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "0:29",
+            "fight_url": "http://ufcstats.com/fight-details/85ee3b5995874141"
+        },
+        {
+            "fight_id": "47dd6356ceb2eba8",
+            "fighter_a": "John Howard",
+            "fighter_b": "Uriah Hall",
+            "winner": "John Howard",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47dd6356ceb2eba8"
+        },
+        {
+            "fight_id": "320580a92d5c2924",
+            "fighter_a": "Michael Johnson",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Michael Johnson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/320580a92d5c2924"
+        },
+        {
+            "fight_id": "8e41d022b55277ae",
+            "fighter_a": "Michael McDonald",
+            "fighter_b": "Brad Pickett",
+            "winner": "Michael McDonald",
+            "weight_class": "Bantamweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "3:43",
+            "fight_url": "http://ufcstats.com/fight-details/8e41d022b55277ae"
+        },
+        {
+            "fight_id": "5d839e4eda09d6e4",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Max Holloway",
+            "winner": "Conor McGregor",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5d839e4eda09d6e4"
+        },
+        {
+            "fight_id": "05dce98da0acefd8",
+            "fighter_a": "Steven Siler",
+            "fighter_b": "Mike Brown",
+            "winner": "Steven Siler",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:50",
+            "fight_url": "http://ufcstats.com/fight-details/05dce98da0acefd8"
+        },
+        {
+            "fight_id": "a2c0f4142ba4ba75",
+            "fighter_a": "Diego Brandao",
+            "fighter_b": "Daniel Pineda",
+            "winner": "Diego Brandao",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a2c0f4142ba4ba75"
+        },
+        {
+            "fight_id": "0f74449bf6f64616",
+            "fighter_a": "Manvel Gamburyan",
+            "fighter_b": "Cole Miller",
+            "winner": "Manvel Gamburyan",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0f74449bf6f64616"
+        },
+        {
+            "fight_id": "5135e078b807f9a2",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Cody Donovan",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/5135e078b807f9a2"
+        },
+        {
+            "fight_id": "f12126b5c49a318a",
+            "fighter_a": "James Vick",
+            "fighter_b": "Ramsey Nijem",
+            "winner": "James Vick",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:58",
+            "fight_url": "http://ufcstats.com/fight-details/f12126b5c49a318a"
+        }
+    ]
+}

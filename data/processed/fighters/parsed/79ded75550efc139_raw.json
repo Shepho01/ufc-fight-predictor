@@ -1,0 +1,144 @@
+{
+    "fighter_id": "79ded75550efc139",
+    "name": "Shinya Aoki",
+    "record": "39-7-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "154 lbs.",
+    "reach": "--",
+    "stance": "Southpaw",
+    "dob": "May 09, 1983",
+    "sig_strikes_landed_per_min": "0.97",
+    "sig_striking_accuracy": "58%",
+    "sig_strikes_absorbed_per_min": "1.25",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "2.54",
+    "takedown_accuracy": "41%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "4.0",
+    "fight_history": [
+        {
+            "fight_id": "51c354507aa80512",
+            "fight_url": "http://ufcstats.com/fight-details/51c354507aa80512"
+        },
+        {
+            "fight_id": "6cddc822670517ca",
+            "fight_url": "http://ufcstats.com/fight-details/6cddc822670517ca"
+        },
+        {
+            "fight_id": "a0d99312f392f33e",
+            "fight_url": "http://ufcstats.com/fight-details/a0d99312f392f33e"
+        },
+        {
+            "fight_id": "820d44b5dccba9b6",
+            "fight_url": "http://ufcstats.com/fight-details/820d44b5dccba9b6"
+        },
+        {
+            "fight_id": "3e49c868130978e8",
+            "fight_url": "http://ufcstats.com/fight-details/3e49c868130978e8"
+        },
+        {
+            "fight_id": "87a150a16a195e77",
+            "fight_url": "http://ufcstats.com/fight-details/87a150a16a195e77"
+        },
+        {
+            "fight_id": "81bd1c1f7dfccbb7",
+            "fight_url": "http://ufcstats.com/fight-details/81bd1c1f7dfccbb7"
+        },
+        {
+            "fight_id": "57cb1a350540c29e",
+            "fight_url": "http://ufcstats.com/fight-details/57cb1a350540c29e"
+        },
+        {
+            "fight_id": "cfb5a6c998f1954b",
+            "fight_url": "http://ufcstats.com/fight-details/cfb5a6c998f1954b"
+        },
+        {
+            "fight_id": "97addff4a2e5efa6",
+            "fight_url": "http://ufcstats.com/fight-details/97addff4a2e5efa6"
+        },
+        {
+            "fight_id": "63c5c2dc21fb4a27",
+            "fight_url": "http://ufcstats.com/fight-details/63c5c2dc21fb4a27"
+        },
+        {
+            "fight_id": "3a0cb2d68f5c62cf",
+            "fight_url": "http://ufcstats.com/fight-details/3a0cb2d68f5c62cf"
+        },
+        {
+            "fight_id": "695597b78c8f94e3",
+            "fight_url": "http://ufcstats.com/fight-details/695597b78c8f94e3"
+        },
+        {
+            "fight_id": "3ea14584d775efc9",
+            "fight_url": "http://ufcstats.com/fight-details/3ea14584d775efc9"
+        },
+        {
+            "fight_id": "037f4c25a87b9234",
+            "fight_url": "http://ufcstats.com/fight-details/037f4c25a87b9234"
+        },
+        {
+            "fight_id": "ec157232743329de",
+            "fight_url": "http://ufcstats.com/fight-details/ec157232743329de"
+        },
+        {
+            "fight_id": "8e8d429dd63b9c49",
+            "fight_url": "http://ufcstats.com/fight-details/8e8d429dd63b9c49"
+        },
+        {
+            "fight_id": "a89033f7d7e4d52d",
+            "fight_url": "http://ufcstats.com/fight-details/a89033f7d7e4d52d"
+        },
+        {
+            "fight_id": "8d19fbf7f27c1d53",
+            "fight_url": "http://ufcstats.com/fight-details/8d19fbf7f27c1d53"
+        },
+        {
+            "fight_id": "ab0afaa93bbbfbc0",
+            "fight_url": "http://ufcstats.com/fight-details/ab0afaa93bbbfbc0"
+        },
+        {
+            "fight_id": "a33a807420802954",
+            "fight_url": "http://ufcstats.com/fight-details/a33a807420802954"
+        },
+        {
+            "fight_id": "75cb390623071c4f",
+            "fight_url": "http://ufcstats.com/fight-details/75cb390623071c4f"
+        },
+        {
+            "fight_id": "4ebf473fd3a4267d",
+            "fight_url": "http://ufcstats.com/fight-details/4ebf473fd3a4267d"
+        },
+        {
+            "fight_id": "e19d1119ee688a15",
+            "fight_url": "http://ufcstats.com/fight-details/e19d1119ee688a15"
+        },
+        {
+            "fight_id": "fd5832aa1ca446bc",
+            "fight_url": "http://ufcstats.com/fight-details/fd5832aa1ca446bc"
+        },
+        {
+            "fight_id": "6e41cb60eefb5f56",
+            "fight_url": "http://ufcstats.com/fight-details/6e41cb60eefb5f56"
+        },
+        {
+            "fight_id": "26ae2bd6732c8b7a",
+            "fight_url": "http://ufcstats.com/fight-details/26ae2bd6732c8b7a"
+        },
+        {
+            "fight_id": "20ca6639daaa5a4f",
+            "fight_url": "http://ufcstats.com/fight-details/20ca6639daaa5a4f"
+        },
+        {
+            "fight_id": "db737d568ea1fdb2",
+            "fight_url": "http://ufcstats.com/fight-details/db737d568ea1fdb2"
+        },
+        {
+            "fight_id": "9ad1d551dce8e3fd",
+            "fight_url": "http://ufcstats.com/fight-details/9ad1d551dce8e3fd"
+        },
+        {
+            "fight_id": "e08cdb8ed788e4b4",
+            "fight_url": "http://ufcstats.com/fight-details/e08cdb8ed788e4b4"
+        }
+    ]
+}

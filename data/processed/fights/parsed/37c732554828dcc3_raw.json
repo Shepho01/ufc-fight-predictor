@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "37c732554828dcc3",
+        "event_id": "5345f86680378fc1",
+        "event_name": "UFC Fight Night: Belfort vs Henderson 3",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "DQ",
+        "finish_round": 1,
+        "finish_time": "1:45",
+        "referee": "Keith Peterson",
+        "winner_id": "e14b5aa06eea9653"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 5",
+            "Sig. str. %": "60%",
+            "Total str.": "6 of 8",
+            "Td": "2 of 3",
+            "Td %": "66%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 5",
+            "Sig. str. %": "60%",
+            "Head": "3 of 5",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 2",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 3"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "e14b5aa06eea9653",
+        "name": "Abel Trujillo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 0",
+            "Sig. str. %": "---",
+            "Total str.": "5 of 5",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 0",
+            "Sig. str. %": "---",
+            "Head": "0 of 0",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 0",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

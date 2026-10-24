@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2335e75ce63805b6",
+        "event_id": "0c01568b1ac77bff",
+        "event_name": "UFC 306: Riyadh Season Noche UFC",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "f166e93d04a8c274"
+    },
+    "fighter_a": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "63 of 195",
+            "Sig. str. %": "32%",
+            "Total str.": "69 of 201",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "63 of 195",
+            "Sig. str. %": "32%",
+            "Head": "52 of 180",
+            "Body": "4 of 8",
+            "Leg": "7 of 7",
+            "Distance": "61 of 192",
+            "Clinch": "1 of 1",
+            "Ground": "1 of 2"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "f166e93d04a8c274",
+        "name": "Diego Lopes",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "106 of 206",
+            "Sig. str. %": "51%",
+            "Total str.": "113 of 214",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "106 of 206",
+            "Sig. str. %": "51%",
+            "Head": "75 of 172",
+            "Body": "13 of 15",
+            "Leg": "18 of 19",
+            "Distance": "75 of 161",
+            "Clinch": "6 of 7",
+            "Ground": "25 of 38"
+        }
+    }
+}

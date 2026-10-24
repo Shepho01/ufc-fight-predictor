@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8cdcdfb76d1670dd",
+        "event_id": "5717efc6f271cd52",
+        "event_name": "UFC 283: Teixeira vs. Hill",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:05",
+        "referee": "Osiris Maia",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 33",
+            "Sig. str. %": "66%",
+            "Total str.": "45 of 58",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "5:31"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 33",
+            "Sig. str. %": "66%",
+            "Head": "14 of 25",
+            "Body": "7 of 7",
+            "Leg": "1 of 1",
+            "Distance": "11 of 21",
+            "Clinch": "1 of 2",
+            "Ground": "10 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "20bccc9bb4ceb23e",
+        "name": "Melquizael Costa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 50",
+            "Sig. str. %": "46%",
+            "Total str.": "43 of 71",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 50",
+            "Sig. str. %": "46%",
+            "Head": "2 of 19",
+            "Body": "10 of 18",
+            "Leg": "11 of 13",
+            "Distance": "21 of 45",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 0"
+        }
+    }
+}

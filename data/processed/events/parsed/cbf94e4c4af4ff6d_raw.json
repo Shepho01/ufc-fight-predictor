@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "cbf94e4c4af4ff6d",
+        "event_name": "Dynamite!! 2009",
+        "event_date": "December 31, 2009",
+        "location": "Saitama, Japan"
+    },
+    "fights": [
+        {
+            "fight_id": "786af1a8321306a1",
+            "fighter_a": "Hidehiko Yoshida",
+            "fighter_b": "Satoshi Ishii",
+            "winner": "Hidehiko Yoshida",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/786af1a8321306a1"
+        },
+        {
+            "fight_id": "97addff4a2e5efa6",
+            "fighter_a": "Shinya Aoki",
+            "fighter_b": "Mizuto Hirota",
+            "winner": "Shinya Aoki",
+            "weight_class": "Lightweight",
+            "method": "SUB Other - Lock",
+            "round": "1",
+            "time": "1:17",
+            "fight_url": "http://ufcstats.com/fight-details/97addff4a2e5efa6"
+        },
+        {
+            "fight_id": "6297a81500866725",
+            "fighter_a": "Gegard Mousasi",
+            "fighter_b": "Gary Goodridge",
+            "winner": "Gegard Mousasi",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/6297a81500866725"
+        },
+        {
+            "fight_id": "8a71754ec7c6b777",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Kazuyuki Fujita",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "1:15",
+            "fight_url": "http://ufcstats.com/fight-details/8a71754ec7c6b777"
+        },
+        {
+            "fight_id": "34f67640ecd7909e",
+            "fighter_a": "Masanori Kanehara",
+            "fighter_b": "Norifumi Yamamoto",
+            "winner": "Masanori Kanehara",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/34f67640ecd7909e"
+        },
+        {
+            "fight_id": "604ab3034ea76f75",
+            "fighter_a": "Tatsuya Kawajiri",
+            "fighter_b": "Kazunori Yokota",
+            "winner": "Tatsuya Kawajiri",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/604ab3034ea76f75"
+        },
+        {
+            "fight_id": "f18efb662a0e5b9a",
+            "fighter_a": "Hideo Tokoro",
+            "fighter_b": "Jong Man Kim",
+            "winner": "Hideo Tokoro",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f18efb662a0e5b9a"
+        },
+        {
+            "fight_id": "b98d4637f9f22158",
+            "fighter_a": "Melvin Manhoef",
+            "fighter_b": "Kazuo Misaki",
+            "winner": "Melvin Manhoef",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/b98d4637f9f22158"
+        },
+        {
+            "fight_id": "73f38f4c58a00561",
+            "fighter_a": "Akihiro Gono",
+            "fighter_b": "Hayato Sakurai",
+            "winner": "Akihiro Gono",
+            "weight_class": "Welterweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "3:56",
+            "fight_url": "http://ufcstats.com/fight-details/73f38f4c58a00561"
+        },
+        {
+            "fight_id": "6249b19cca44ef17",
+            "fighter_a": "Michihiro Omigawa",
+            "fighter_b": "Hiroyuki Takaya",
+            "winner": "Michihiro Omigawa",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:54",
+            "fight_url": "http://ufcstats.com/fight-details/6249b19cca44ef17"
+        },
+        {
+            "fight_id": "b59964ef8add4d5b",
+            "fighter_a": "Hiroshi Izumi",
+            "fighter_b": "Katsuyori Shibata",
+            "winner": "Hiroshi Izumi",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b59964ef8add4d5b"
+        },
+        {
+            "fight_id": "ebf548d053a2e0be",
+            "fighter_a": "Ikuhisa Minowa",
+            "fighter_b": "Rameau Thierry Sokoudjou",
+            "winner": "Ikuhisa Minowa",
+            "weight_class": "Open Weight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "3:29",
+            "fight_url": "http://ufcstats.com/fight-details/ebf548d053a2e0be"
+        }
+    ]
+}

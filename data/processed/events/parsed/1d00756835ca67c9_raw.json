@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "1d00756835ca67c9",
+        "event_name": "UFC Fight Night: Volkov vs. Aspinall",
+        "event_date": "March 19, 2022",
+        "location": "London, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "06641a8c62e45661",
+            "fighter_a": "Tom Aspinall",
+            "fighter_b": "Alexander Volkov",
+            "winner": "Tom Aspinall",
+            "weight_class": "Heavyweight",
+            "method": "SUB Straight Armbar",
+            "round": "1",
+            "time": "3:45",
+            "fight_url": "http://ufcstats.com/fight-details/06641a8c62e45661"
+        },
+        {
+            "fight_id": "ce3d94186567a684",
+            "fighter_a": "Arnold Allen",
+            "fighter_b": "Dan Hooker",
+            "winner": "Arnold Allen",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:33",
+            "fight_url": "http://ufcstats.com/fight-details/ce3d94186567a684"
+        },
+        {
+            "fight_id": "001441f70c293931",
+            "fighter_a": "Paddy Pimblett",
+            "fighter_b": "Kazula Vargas",
+            "winner": "Paddy Pimblett",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:49",
+            "fight_url": "http://ufcstats.com/fight-details/001441f70c293931"
+        },
+        {
+            "fight_id": "bcd1e1d71a172d53",
+            "fighter_a": "Gunnar Nelson",
+            "fighter_b": "Takashi Sato",
+            "winner": "Gunnar Nelson",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bcd1e1d71a172d53"
+        },
+        {
+            "fight_id": "5a878a6bebc973d7",
+            "fighter_a": "Molly McCann",
+            "fighter_b": "Luana Carolina",
+            "winner": "Molly McCann",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Spinning Back Elbow",
+            "round": "3",
+            "time": "1:52",
+            "fight_url": "http://ufcstats.com/fight-details/5a878a6bebc973d7"
+        },
+        {
+            "fight_id": "a200b5dcbdd2506e",
+            "fighter_a": "Ilia Topuria",
+            "fighter_b": "Jai Herbert",
+            "winner": "Ilia Topuria",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/a200b5dcbdd2506e"
+        },
+        {
+            "fight_id": "6e705b2365bc03fa",
+            "fighter_a": "Makwan Amirkhani",
+            "fighter_b": "Mike Grundy",
+            "winner": "Makwan Amirkhani",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": "1",
+            "time": "0:57",
+            "fight_url": "http://ufcstats.com/fight-details/6e705b2365bc03fa"
+        },
+        {
+            "fight_id": "ae989e21c3839b49",
+            "fighter_a": "Sergei Pavlovich",
+            "fighter_b": "Shamil Abdurakhimov",
+            "winner": "Sergei Pavlovich",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:03",
+            "fight_url": "http://ufcstats.com/fight-details/ae989e21c3839b49"
+        },
+        {
+            "fight_id": "766b4f5e77ab0860",
+            "fighter_a": "Paul Craig",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Paul Craig",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "3:57",
+            "fight_url": "http://ufcstats.com/fight-details/766b4f5e77ab0860"
+        },
+        {
+            "fight_id": "53d0df57a917c6a0",
+            "fighter_a": "Jack Shore",
+            "fighter_b": "Timur Valiev",
+            "winner": "Jack Shore",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/53d0df57a917c6a0"
+        },
+        {
+            "fight_id": "5e378c52f26935d6",
+            "fighter_a": "Elise Reed",
+            "fighter_b": "Cory McKenna",
+            "winner": "Elise Reed",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5e378c52f26935d6"
+        },
+        {
+            "fight_id": "4c7e55061dc3bf89",
+            "fighter_a": "Muhammad Mokaev",
+            "fighter_b": "Cody Durden",
+            "winner": "Muhammad Mokaev",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "0:58",
+            "fight_url": "http://ufcstats.com/fight-details/4c7e55061dc3bf89"
+        }
+    ]
+}

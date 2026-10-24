@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "bc0f994de0521926",
+        "event_name": "UFC Fight Night: Royval vs. Kape",
+        "event_date": "December 13, 2025",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "a5a81a39ccf9b680",
+            "fighter_a": "Manel Kape",
+            "fighter_b": "Brandon Royval",
+            "winner": "Manel Kape",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:18",
+            "fight_url": "http://ufcstats.com/fight-details/a5a81a39ccf9b680"
+        },
+        {
+            "fight_id": "24bb03f0a3415fbe",
+            "fighter_a": "Kevin Vallejos",
+            "fighter_b": "Giga Chikadze",
+            "winner": "Kevin Vallejos",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": "2",
+            "time": "1:29",
+            "fight_url": "http://ufcstats.com/fight-details/24bb03f0a3415fbe"
+        },
+        {
+            "fight_id": "d000cb692343cdcd",
+            "fighter_a": "Cezary Oleksiejczuk",
+            "fighter_b": "Cesar Almeida",
+            "winner": "Cezary Oleksiejczuk",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d000cb692343cdcd"
+        },
+        {
+            "fight_id": "93ca562453f65b8d",
+            "fighter_a": "Melquizael Costa",
+            "fighter_b": "Morgan Charriere",
+            "winner": "Melquizael Costa",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "1:14",
+            "fight_url": "http://ufcstats.com/fight-details/93ca562453f65b8d"
+        },
+        {
+            "fight_id": "47149f3187661509",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Marcus Buchecha",
+            "winner": null,
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/47149f3187661509"
+        },
+        {
+            "fight_id": "fc4ab243d21b795d",
+            "fighter_a": "King Green",
+            "fighter_b": "Lance Gibson Jr.",
+            "winner": "King Green",
+            "weight_class": "Catch Weight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/fc4ab243d21b795d"
+        },
+        {
+            "fight_id": "0fca825e14429c1f",
+            "fighter_a": "Yaroslav Amosov",
+            "fighter_b": "Neil Magny",
+            "winner": "Yaroslav Amosov",
+            "weight_class": "Welterweight",
+            "method": "SUB Anaconda Choke",
+            "round": "1",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/0fca825e14429c1f"
+        },
+        {
+            "fight_id": "225e93ebed9b71b8",
+            "fighter_a": "Joanderson Brito",
+            "fighter_b": "Isaac Thomson",
+            "winner": "Joanderson Brito",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/225e93ebed9b71b8"
+        },
+        {
+            "fight_id": "a2523a8565fe4361",
+            "fighter_a": "Steven Asplund",
+            "fighter_b": "Sean Sharaf",
+            "winner": "Steven Asplund",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "3:49",
+            "fight_url": "http://ufcstats.com/fight-details/a2523a8565fe4361"
+        },
+        {
+            "fight_id": "ceb5b0f1f6daddf6",
+            "fighter_a": "Luana Santos",
+            "fighter_b": "Melissa Croden",
+            "winner": "Luana Santos",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ceb5b0f1f6daddf6"
+        },
+        {
+            "fight_id": "ac56a1052c4c8f63",
+            "fighter_a": "Guilherme Pat",
+            "fighter_b": "Allen Frye Jr.",
+            "winner": "Guilherme Pat",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ac56a1052c4c8f63"
+        },
+        {
+            "fight_id": "71170fb7ade3e1f4",
+            "fighter_a": "Jamey-Lyn Horth",
+            "fighter_b": "Tereza Bleda",
+            "winner": "Jamey-Lyn Horth",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/71170fb7ade3e1f4"
+        }
+    ]
+}

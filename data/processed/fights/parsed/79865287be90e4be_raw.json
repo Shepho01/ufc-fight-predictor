@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "79865287be90e4be",
+        "event_id": "9336e86cfd4ceaa1",
+        "event_name": "UFC Fight Night: Oliveira vs. Gamrot",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "2:48",
+        "referee": "Marc Goddard",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 33",
+            "Sig. str. %": "33%",
+            "Total str.": "18 of 40",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "3:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 33",
+            "Sig. str. %": "33%",
+            "Head": "4 of 21",
+            "Body": "3 of 6",
+            "Leg": "4 of 6",
+            "Distance": "10 of 32",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "72db2a14ffa73ece",
+        "name": "Mateusz Gamrot",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 42",
+            "Sig. str. %": "42%",
+            "Total str.": "18 of 43",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 42",
+            "Sig. str. %": "42%",
+            "Head": "16 of 40",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "18 of 42",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

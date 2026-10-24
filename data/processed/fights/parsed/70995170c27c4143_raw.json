@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "70995170c27c4143",
+        "event_id": "6d7886b094b471ac",
+        "event_name": "UFC 140: Jones vs Machida",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "cf9d24e4bd0cf2ce"
+    },
+    "fighter_a": {
+        "fighter_id": "cf9d24e4bd0cf2ce",
+        "name": "Mark Bocek",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "46 of 85",
+            "Sig. str. %": "54%",
+            "Total str.": "102 of 143",
+            "Td": "5 of 7",
+            "Td %": "71%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "11:39"
+        },
+        "significant_strikes": {
+            "Sig. str": "46 of 85",
+            "Sig. str. %": "54%",
+            "Head": "23 of 59",
+            "Body": "16 of 19",
+            "Leg": "7 of 7",
+            "Distance": "12 of 25",
+            "Clinch": "7 of 7",
+            "Ground": "27 of 53"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "10 of 31",
+            "Sig. str. %": "32%",
+            "Total str.": "123 of 145",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "0:45"
+        },
+        "significant_strikes": {
+            "Sig. str": "10 of 31",
+            "Sig. str. %": "32%",
+            "Head": "9 of 27",
+            "Body": "1 of 3",
+            "Leg": "0 of 1",
+            "Distance": "5 of 26",
+            "Clinch": "4 of 4",
+            "Ground": "1 of 1"
+        }
+    }
+}

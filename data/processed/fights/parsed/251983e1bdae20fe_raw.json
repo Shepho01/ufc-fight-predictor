@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "251983e1bdae20fe",
+        "event_id": "cba3a2dfbc06ce79",
+        "event_name": "UFC Fight Night: Cannonier vs. Imavov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "George Conley",
+        "winner_id": "5b86d491d63890c5"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 60",
+            "Sig. str. %": "40%",
+            "Total str.": "25 of 62",
+            "Td": "0 of 8",
+            "Td %": "0%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:09"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 60",
+            "Sig. str. %": "40%",
+            "Head": "7 of 37",
+            "Body": "3 of 7",
+            "Leg": "14 of 16",
+            "Distance": "22 of 55",
+            "Clinch": "2 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "5b86d491d63890c5",
+        "name": "Ludovit Klein",
+        "result": "W",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "56 of 104",
+            "Sig. str. %": "53%",
+            "Total str.": "86 of 153",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 104",
+            "Sig. str. %": "53%",
+            "Head": "24 of 69",
+            "Body": "20 of 23",
+            "Leg": "12 of 12",
+            "Distance": "45 of 78",
+            "Clinch": "4 of 6",
+            "Ground": "7 of 20"
+        }
+    }
+}

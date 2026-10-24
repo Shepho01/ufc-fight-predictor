@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cf9d24e4bd0cf2ce",
+    "name": "Mark Bocek",
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 190.5,
+    "stance": "Orthodox",
+    "dob_day": 24,
+    "dob_month": 10,
+    "dob_year": 1981,
+    "sig_strikes_landed_per_min": 2.34,
+    "sig_striking_accuracy": 0.43,
+    "sig_strikes_absorbed_per_min": 2.32,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 3.65,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.31,
+    "submission_attempts_per_15_min": 1.3
+}

@@ -1,0 +1,40 @@
+{
+    "fighter_id": "b2a78df161bd67f9",
+    "name": "Gauge Young",
+    "record": "11-4-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jul 14, 2000",
+    "sig_strikes_landed_per_min": "6.88",
+    "sig_striking_accuracy": "52%",
+    "sig_strikes_absorbed_per_min": "5.73",
+    "sig_strike_defense": "52%",
+    "takedowns_landed_per_15_min": "1.20",
+    "takedown_accuracy": "31%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "116dc88b63113f61",
+            "fight_url": "http://ufcstats.com/fight-details/116dc88b63113f61"
+        },
+        {
+            "fight_id": "a661c0bee7c8d5af",
+            "fight_url": "http://ufcstats.com/fight-details/a661c0bee7c8d5af"
+        },
+        {
+            "fight_id": "0b1460c666e66d39",
+            "fight_url": "http://ufcstats.com/fight-details/0b1460c666e66d39"
+        },
+        {
+            "fight_id": "97770b38df67b276",
+            "fight_url": "http://ufcstats.com/fight-details/97770b38df67b276"
+        },
+        {
+            "fight_id": "0cc28c0cd0ae9f47",
+            "fight_url": "http://ufcstats.com/fight-details/0cc28c0cd0ae9f47"
+        }
+    ]
+}

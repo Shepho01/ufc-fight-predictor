@@ -1,0 +1,23 @@
+{
+    "fighter_id": "e14b5aa06eea9653",
+    "name": "Abel Trujillo",
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 172.72,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 18,
+    "dob_month": 9,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.65,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 2.31,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 2.18,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.4,
+    "submission_attempts_per_15_min": 0.4
+}

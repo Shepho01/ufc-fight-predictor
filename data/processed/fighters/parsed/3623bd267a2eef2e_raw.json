@@ -1,0 +1,48 @@
+{
+    "fighter_id": "3623bd267a2eef2e",
+    "name": "Yaotzin Meza",
+    "record": "21-11-0 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Feb 04, 1981",
+    "sig_strikes_landed_per_min": "1.43",
+    "sig_striking_accuracy": "41%",
+    "sig_strikes_absorbed_per_min": "1.62",
+    "sig_strike_defense": "64%",
+    "takedowns_landed_per_15_min": "1.06",
+    "takedown_accuracy": "20%",
+    "takedown_defense": "18%",
+    "submission_attempts_per_15_min": "1.4",
+    "fight_history": [
+        {
+            "fight_id": "c82f9bc365ff1074",
+            "fight_url": "http://ufcstats.com/fight-details/c82f9bc365ff1074"
+        },
+        {
+            "fight_id": "541e5c7a87712fc2",
+            "fight_url": "http://ufcstats.com/fight-details/541e5c7a87712fc2"
+        },
+        {
+            "fight_id": "439905344ee8035e",
+            "fight_url": "http://ufcstats.com/fight-details/439905344ee8035e"
+        },
+        {
+            "fight_id": "6eee347f75f223f0",
+            "fight_url": "http://ufcstats.com/fight-details/6eee347f75f223f0"
+        },
+        {
+            "fight_id": "80cb366cd1e54aec",
+            "fight_url": "http://ufcstats.com/fight-details/80cb366cd1e54aec"
+        },
+        {
+            "fight_id": "9cb8fe20b05d886e",
+            "fight_url": "http://ufcstats.com/fight-details/9cb8fe20b05d886e"
+        },
+        {
+            "fight_id": "a6097fd4e77cb881",
+            "fight_url": "http://ufcstats.com/fight-details/a6097fd4e77cb881"
+        }
+    ]
+}

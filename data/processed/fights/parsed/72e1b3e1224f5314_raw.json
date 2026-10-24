@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "72e1b3e1224f5314",
+        "event_id": "ebc5af72ad5a28cb",
+        "event_name": "UFC 163: Aldo vs Jung",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 4,
+        "finish_time": "2:00",
+        "referee": "Herb Dean",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "32 of 87",
+            "Sig. str. %": "36%",
+            "Total str.": "43 of 99",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "32 of 87",
+            "Sig. str. %": "36%",
+            "Head": "24 of 77",
+            "Body": "7 of 8",
+            "Leg": "1 of 2",
+            "Distance": "28 of 78",
+            "Clinch": "0 of 0",
+            "Ground": "4 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "17 of 117",
+            "Sig. str. %": "14%",
+            "Total str.": "42 of 145",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 117",
+            "Sig. str. %": "14%",
+            "Head": "13 of 106",
+            "Body": "2 of 5",
+            "Leg": "2 of 6",
+            "Distance": "14 of 112",
+            "Clinch": "3 of 4",
+            "Ground": "0 of 1"
+        }
+    }
+}

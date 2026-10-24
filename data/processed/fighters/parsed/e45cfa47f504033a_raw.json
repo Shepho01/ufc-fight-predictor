@@ -1,0 +1,36 @@
+{
+    "fighter_id": "e45cfa47f504033a",
+    "name": "Jason Gonzalez",
+    "record": "11-5-0",
+    "height": "6' 2\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Feb 28, 1990",
+    "sig_strikes_landed_per_min": "3.06",
+    "sig_striking_accuracy": "39%",
+    "sig_strikes_absorbed_per_min": "3.13",
+    "sig_strike_defense": "58%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "30%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "3b6c18a966a2cea4",
+            "fight_url": "http://ufcstats.com/fight-details/3b6c18a966a2cea4"
+        },
+        {
+            "fight_id": "128e818254ebfabe",
+            "fight_url": "http://ufcstats.com/fight-details/128e818254ebfabe"
+        },
+        {
+            "fight_id": "6eb382e2c51fc4f5",
+            "fight_url": "http://ufcstats.com/fight-details/6eb382e2c51fc4f5"
+        },
+        {
+            "fight_id": "5d5abb5dade718de",
+            "fight_url": "http://ufcstats.com/fight-details/5d5abb5dade718de"
+        }
+    ]
+}

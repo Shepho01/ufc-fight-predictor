@@ -1,0 +1,88 @@
+{
+    "fighter_id": "813550bc53b15fb0",
+    "name": "Yancy Medeiros",
+    "record": "15-8-0 (1 NC)",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Sep 07, 1987",
+    "sig_strikes_landed_per_min": "4.36",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "5.67",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "0.33",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "73%",
+    "submission_attempts_per_15_min": "0.7",
+    "fight_history": [
+        {
+            "fight_id": "23c7c6ceee34585f",
+            "fight_url": "http://ufcstats.com/fight-details/23c7c6ceee34585f"
+        },
+        {
+            "fight_id": "eab100e978c730c5",
+            "fight_url": "http://ufcstats.com/fight-details/eab100e978c730c5"
+        },
+        {
+            "fight_id": "0261adcfc6e49150",
+            "fight_url": "http://ufcstats.com/fight-details/0261adcfc6e49150"
+        },
+        {
+            "fight_id": "8f7a73d05387b159",
+            "fight_url": "http://ufcstats.com/fight-details/8f7a73d05387b159"
+        },
+        {
+            "fight_id": "54c5284c1b792912",
+            "fight_url": "http://ufcstats.com/fight-details/54c5284c1b792912"
+        },
+        {
+            "fight_id": "6c9fdcb95393a49c",
+            "fight_url": "http://ufcstats.com/fight-details/6c9fdcb95393a49c"
+        },
+        {
+            "fight_id": "1c85f793ea4f9caa",
+            "fight_url": "http://ufcstats.com/fight-details/1c85f793ea4f9caa"
+        },
+        {
+            "fight_id": "65d777a16fce2be8",
+            "fight_url": "http://ufcstats.com/fight-details/65d777a16fce2be8"
+        },
+        {
+            "fight_id": "064404b0aaf6f95d",
+            "fight_url": "http://ufcstats.com/fight-details/064404b0aaf6f95d"
+        },
+        {
+            "fight_id": "f930743af6564795",
+            "fight_url": "http://ufcstats.com/fight-details/f930743af6564795"
+        },
+        {
+            "fight_id": "d417609ea9670fb3",
+            "fight_url": "http://ufcstats.com/fight-details/d417609ea9670fb3"
+        },
+        {
+            "fight_id": "7cfb05c08ec91525",
+            "fight_url": "http://ufcstats.com/fight-details/7cfb05c08ec91525"
+        },
+        {
+            "fight_id": "484cf23d5110ca04",
+            "fight_url": "http://ufcstats.com/fight-details/484cf23d5110ca04"
+        },
+        {
+            "fight_id": "ab18079c7c0040fb",
+            "fight_url": "http://ufcstats.com/fight-details/ab18079c7c0040fb"
+        },
+        {
+            "fight_id": "59ad5b88804afbf5",
+            "fight_url": "http://ufcstats.com/fight-details/59ad5b88804afbf5"
+        },
+        {
+            "fight_id": "ce32437750074a04",
+            "fight_url": "http://ufcstats.com/fight-details/ce32437750074a04"
+        },
+        {
+            "fight_id": "00afc619bea2f937",
+            "fight_url": "http://ufcstats.com/fight-details/00afc619bea2f937"
+        }
+    ]
+}

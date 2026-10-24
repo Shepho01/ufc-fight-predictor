@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9d6b46a3cf5ec494",
+        "event_id": "9e0f28d1f639ad73",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Edwards",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:33",
+        "referee": "Kerry Hatley",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "6256b2b1562cb8e1",
+        "name": "James Vick",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 23",
+            "Sig. str. %": "30%",
+            "Total str.": "7 of 23",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 23",
+            "Sig. str. %": "30%",
+            "Head": "2 of 16",
+            "Body": "0 of 1",
+            "Leg": "5 of 6",
+            "Distance": "7 of 23",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "22 of 41",
+            "Sig. str. %": "53%",
+            "Total str.": "22 of 41",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 41",
+            "Sig. str. %": "53%",
+            "Head": "13 of 24",
+            "Body": "0 of 3",
+            "Leg": "9 of 14",
+            "Distance": "19 of 38",
+            "Clinch": "0 of 0",
+            "Ground": "3 of 3"
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "event": {
+        "event_id": "7c0847d3854a95f2",
+        "event_name": "UFC 104: Machida vs Shogun",
+        "event_date": "October 24, 2009",
+        "location": "Los Angeles, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "e60e53bdc614a0af",
+            "fighter_a": "Lyoto Machida",
+            "fighter_b": "Mauricio Rua",
+            "winner": "Lyoto Machida",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e60e53bdc614a0af"
+        },
+        {
+            "fight_id": "b4627dd3bb50be2c",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "0:58",
+            "fight_url": "http://ufcstats.com/fight-details/b4627dd3bb50be2c"
+        },
+        {
+            "fight_id": "92975b516e6463b6",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Josh Neer",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/92975b516e6463b6"
+        },
+        {
+            "fight_id": "1238f31a41b78528",
+            "fighter_a": "Joe Stevenson",
+            "fighter_b": "Spencer Fisher",
+            "winner": "Joe Stevenson",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "4:03",
+            "fight_url": "http://ufcstats.com/fight-details/1238f31a41b78528"
+        },
+        {
+            "fight_id": "7a72d7448159fb59",
+            "fighter_a": "Anthony Johnson",
+            "fighter_b": "Yoshiyuki Yoshida",
+            "winner": "Anthony Johnson",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:41",
+            "fight_url": "http://ufcstats.com/fight-details/7a72d7448159fb59"
+        },
+        {
+            "fight_id": "5c612d2cc1f5da21",
+            "fighter_a": "Ryan Bader",
+            "fighter_b": "Eric Schafer",
+            "winner": "Ryan Bader",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5c612d2cc1f5da21"
+        },
+        {
+            "fight_id": "d77a72e3fa8db853",
+            "fighter_a": "Pat Barry",
+            "fighter_b": "Antoni Hardonk",
+            "winner": "Pat Barry",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "2:30",
+            "fight_url": "http://ufcstats.com/fight-details/d77a72e3fa8db853"
+        },
+        {
+            "fight_id": "32ae3f0d43babd86",
+            "fighter_a": "Chael Sonnen",
+            "fighter_b": "Yushin Okami",
+            "winner": "Chael Sonnen",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/32ae3f0d43babd86"
+        },
+        {
+            "fight_id": "5a9ecff594dc6bb9",
+            "fighter_a": "Jorge Rivera",
+            "fighter_b": "Rob Kimmons",
+            "winner": "Jorge Rivera",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/5a9ecff594dc6bb9"
+        },
+        {
+            "fight_id": "03c2cebad8d8c012",
+            "fighter_a": "Kyle Kingsbury",
+            "fighter_b": "Razak Al-Hassan",
+            "winner": "Kyle Kingsbury",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/03c2cebad8d8c012"
+        },
+        {
+            "fight_id": "1298d89922befa8c",
+            "fighter_a": "Stefan Struve",
+            "fighter_b": "Chase Gormley",
+            "winner": "Stefan Struve",
+            "weight_class": "Heavyweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "4:04",
+            "fight_url": "http://ufcstats.com/fight-details/1298d89922befa8c"
+        }
+    ]
+}

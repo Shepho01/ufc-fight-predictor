@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "eed8c9955cad1e30",
+        "event_id": "e69c5ce12f4e762b",
+        "event_name": "UFC 253: Adesanya vs. Costa",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:16",
+        "referee": "Kevin Sataki",
+        "winner_id": "5b86d491d63890c5"
+    },
+    "fighter_a": {
+        "fighter_id": "4cd8b03aee1d0138",
+        "name": "Shane Young",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "4 of 7",
+            "Sig. str. %": "57%",
+            "Total str.": "4 of 7",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "4 of 7",
+            "Sig. str. %": "57%",
+            "Head": "0 of 0",
+            "Body": "1 of 3",
+            "Leg": "3 of 4",
+            "Distance": "4 of 7",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "5b86d491d63890c5",
+        "name": "Ludovit Klein",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "9 of 13",
+            "Sig. str. %": "69%",
+            "Total str.": "9 of 13",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "9 of 13",
+            "Sig. str. %": "69%",
+            "Head": "6 of 10",
+            "Body": "3 of 3",
+            "Leg": "0 of 0",
+            "Distance": "8 of 12",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

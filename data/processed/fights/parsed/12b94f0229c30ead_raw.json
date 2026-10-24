@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "12b94f0229c30ead",
+        "event_id": "2db7fa8db6bc9632",
+        "event_name": "UFC 129: St-Pierre vs Shields",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "John McCarthy",
+        "winner_id": "d0f3959b4a9747e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "94 of 215",
+            "Sig. str. %": "43%",
+            "Total str.": "131 of 258",
+            "Td": "5 of 9",
+            "Td %": "55%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "9:14"
+        },
+        "significant_strikes": {
+            "Sig. str": "94 of 215",
+            "Sig. str. %": "43%",
+            "Head": "72 of 191",
+            "Body": "4 of 5",
+            "Leg": "18 of 19",
+            "Distance": "66 of 166",
+            "Clinch": "0 of 0",
+            "Ground": "28 of 49"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "0a97691039c4bbfb",
+        "name": "Mark Hominick",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "71 of 181",
+            "Sig. str. %": "39%",
+            "Total str.": "147 of 274",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "71 of 181",
+            "Sig. str. %": "39%",
+            "Head": "50 of 148",
+            "Body": "17 of 25",
+            "Leg": "4 of 8",
+            "Distance": "50 of 149",
+            "Clinch": "1 of 1",
+            "Ground": "20 of 31"
+        }
+    }
+}

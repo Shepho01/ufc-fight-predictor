@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "29bf7862fb1c28d6",
+        "event_id": "aac5ac38148f0528",
+        "event_name": "UFC 131: Dos Santos vs Carwin",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin Dornan",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "78 of 288",
+            "Sig. str. %": "27%",
+            "Total str.": "79 of 289",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "78 of 288",
+            "Sig. str. %": "27%",
+            "Head": "70 of 272",
+            "Body": "8 of 16",
+            "Leg": "0 of 0",
+            "Distance": "78 of 287",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "9f842be1a5337be6",
+        "name": "Michihiro Omigawa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "65 of 141",
+            "Sig. str. %": "46%",
+            "Total str.": "77 of 158",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "65 of 141",
+            "Sig. str. %": "46%",
+            "Head": "51 of 127",
+            "Body": "12 of 12",
+            "Leg": "2 of 2",
+            "Distance": "64 of 140",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

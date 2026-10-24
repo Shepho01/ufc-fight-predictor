@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "ccd58ff71e260ed5",
+        "event_name": "UFC 291: Poirier vs. Gaethje 2",
+        "event_day": 29,
+        "event_month": 7,
+        "event_year": 2023,
+        "location": "Salt Lake City, Utah, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c27e33ee8ef53866",
+            "fighter_a": "Justin Gaethje",
+            "fighter_b": "Dustin Poirier",
+            "winner": "Justin Gaethje",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 60,
+            "fight_url": "http://ufcstats.com/fight-details/c27e33ee8ef53866"
+        },
+        {
+            "fight_id": "800a35b3a7e52308",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Jan Blachowicz",
+            "winner": "Alex Pereira",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/800a35b3a7e52308"
+        },
+        {
+            "fight_id": "eff6ec2b2f1fb27b",
+            "fighter_a": "Derrick Lewis",
+            "fighter_b": "Marcos Rogerio de Lima",
+            "winner": "Derrick Lewis",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 33,
+            "fight_url": "http://ufcstats.com/fight-details/eff6ec2b2f1fb27b"
+        },
+        {
+            "fight_id": "f1eca70738ca073e",
+            "fighter_a": "King Green",
+            "fighter_b": "Tony Ferguson",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/f1eca70738ca073e"
+        },
+        {
+            "fight_id": "cbf1e76186a0c8b3",
+            "fighter_a": "Kevin Holland",
+            "fighter_b": "Michael Chiesa",
+            "winner": "Kevin Holland",
+            "weight_class": "Welterweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 159,
+            "fight_url": "http://ufcstats.com/fight-details/cbf1e76186a0c8b3"
+        },
+        {
+            "fight_id": "4327fe98e1b6f222",
+            "fighter_a": "Gabriel Bonfim",
+            "fighter_b": "Trevin Giles",
+            "winner": "Gabriel Bonfim",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 73,
+            "fight_url": "http://ufcstats.com/fight-details/4327fe98e1b6f222"
+        },
+        {
+            "fight_id": "e5ac7343b6d45188",
+            "fighter_a": "CJ Vergara",
+            "fighter_b": "Vinicius Salvador",
+            "winner": "CJ Vergara",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e5ac7343b6d45188"
+        },
+        {
+            "fight_id": "5116f9398bfca446",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Claudio Ribeiro",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 33,
+            "fight_url": "http://ufcstats.com/fight-details/5116f9398bfca446"
+        },
+        {
+            "fight_id": "7a8f218c07347c88",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Darrius Flowers",
+            "winner": "Jake Matthews",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 157,
+            "fight_url": "http://ufcstats.com/fight-details/7a8f218c07347c88"
+        },
+        {
+            "fight_id": "3de326b65aa6245d",
+            "fighter_a": "Uros Medic",
+            "fighter_b": "Matthew Semelsberger",
+            "winner": "Uros Medic",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Spinning Back Elbow",
+            "round": 3,
+            "time_seconds": 156,
+            "fight_url": "http://ufcstats.com/fight-details/3de326b65aa6245d"
+        },
+        {
+            "fight_id": "74fef059e229d217",
+            "fighter_a": "Miranda Maverick",
+            "fighter_b": "Priscila Cachoeira",
+            "winner": "Miranda Maverick",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/74fef059e229d217"
+        }
+    ]
+}

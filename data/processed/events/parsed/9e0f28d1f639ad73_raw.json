@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "9e0f28d1f639ad73",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Edwards",
+        "event_date": "July 20, 2019",
+        "location": "San Antonio, Texas, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "816662e622987a14",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/816662e622987a14"
+        },
+        {
+            "fight_id": "15ce105716441c54",
+            "fighter_a": "Walt Harris",
+            "fighter_b": "Aleksei Oleinik",
+            "winner": "Walt Harris",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:12",
+            "fight_url": "http://ufcstats.com/fight-details/15ce105716441c54"
+        },
+        {
+            "fight_id": "88b1d4f951070f83",
+            "fighter_a": "Greg Hardy",
+            "fighter_b": "Juan Adams",
+            "winner": "Greg Hardy",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "0:45",
+            "fight_url": "http://ufcstats.com/fight-details/88b1d4f951070f83"
+        },
+        {
+            "fight_id": "9d6b46a3cf5ec494",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "James Vick",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:33",
+            "fight_url": "http://ufcstats.com/fight-details/9d6b46a3cf5ec494"
+        },
+        {
+            "fight_id": "c92308bbd6107b11",
+            "fighter_a": "Alexander Hernandez",
+            "fighter_b": "Francisco Trinaldo",
+            "winner": "Alexander Hernandez",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c92308bbd6107b11"
+        },
+        {
+            "fight_id": "f065dc596a08a258",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Ben Rothwell",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f065dc596a08a258"
+        },
+        {
+            "fight_id": "96d33e46267d4eaf",
+            "fighter_a": "Alex Caceres",
+            "fighter_b": "Steven Peterson",
+            "winner": "Alex Caceres",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/96d33e46267d4eaf"
+        },
+        {
+            "fight_id": "017e0b7e864b0aa3",
+            "fighter_a": "Raquel Pennington",
+            "fighter_b": "Irene Aldana",
+            "winner": "Raquel Pennington",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/017e0b7e864b0aa3"
+        },
+        {
+            "fight_id": "f711b3ec6bc3c407",
+            "fighter_a": "Klidson Abreu",
+            "fighter_b": "Sam Alvey",
+            "winner": "Klidson Abreu",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f711b3ec6bc3c407"
+        },
+        {
+            "fight_id": "dd51d1aed9536da6",
+            "fighter_a": "Jennifer Maia",
+            "fighter_b": "Roxanne Modafferi",
+            "winner": "Jennifer Maia",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dd51d1aed9536da6"
+        },
+        {
+            "fight_id": "bc01ce748a5723df",
+            "fighter_a": "Ray Borg",
+            "fighter_b": "Gabriel Silva",
+            "winner": "Ray Borg",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc01ce748a5723df"
+        },
+        {
+            "fight_id": "24bcade0007c2246",
+            "fighter_a": "Mario Bautista",
+            "fighter_b": "Jin Soo Son",
+            "winner": "Mario Bautista",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/24bcade0007c2246"
+        },
+        {
+            "fight_id": "c5259566abc552b1",
+            "fighter_a": "Felipe Colares",
+            "fighter_b": "Domingo Pilarte",
+            "winner": "Felipe Colares",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c5259566abc552b1"
+        }
+    ]
+}

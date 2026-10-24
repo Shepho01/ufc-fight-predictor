@@ -1,0 +1,44 @@
+{
+    "fighter_id": "7ea1f74cef32f906",
+    "name": "Rashid Magomedov",
+    "record": "20-2-0",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 29, 1984",
+    "sig_strikes_landed_per_min": "4.40",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "3.05",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.67",
+    "takedown_accuracy": "57%",
+    "takedown_defense": "89%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "f24c296256faeff2",
+            "fight_url": "http://ufcstats.com/fight-details/f24c296256faeff2"
+        },
+        {
+            "fight_id": "00494c77d2a88f8c",
+            "fight_url": "http://ufcstats.com/fight-details/00494c77d2a88f8c"
+        },
+        {
+            "fight_id": "f0b151cc6c91b259",
+            "fight_url": "http://ufcstats.com/fight-details/f0b151cc6c91b259"
+        },
+        {
+            "fight_id": "8040697ea2f36dbd",
+            "fight_url": "http://ufcstats.com/fight-details/8040697ea2f36dbd"
+        },
+        {
+            "fight_id": "16216dcec4a48768",
+            "fight_url": "http://ufcstats.com/fight-details/16216dcec4a48768"
+        },
+        {
+            "fight_id": "bc9dd73e0a982c08",
+            "fight_url": "http://ufcstats.com/fight-details/bc9dd73e0a982c08"
+        }
+    ]
+}

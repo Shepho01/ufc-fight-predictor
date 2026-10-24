@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5782666ca117fa5b",
+        "event_id": "6b8f28da9a483049",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Lee",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "2:11",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "38 of 59",
+            "Sig. str. %": "64%",
+            "Total str.": "43 of 64",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "1",
+            "Ctrl": "1:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "38 of 59",
+            "Sig. str. %": "64%",
+            "Head": "23 of 38",
+            "Body": "13 of 19",
+            "Leg": "2 of 2",
+            "Distance": "20 of 34",
+            "Clinch": "10 of 17",
+            "Ground": "8 of 8"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 49",
+            "Sig. str. %": "36%",
+            "Total str.": "21 of 53",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:40"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 49",
+            "Sig. str. %": "36%",
+            "Head": "10 of 36",
+            "Body": "5 of 9",
+            "Leg": "3 of 4",
+            "Distance": "10 of 39",
+            "Clinch": "6 of 8",
+            "Ground": "2 of 2"
+        }
+    }
+}

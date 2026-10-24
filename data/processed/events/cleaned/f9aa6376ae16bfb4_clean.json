@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "f9aa6376ae16bfb4",
+        "event_name": "UFC Fight Night: McGregor vs Siver",
+        "event_day": 18,
+        "event_month": 1,
+        "event_year": 2015,
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "3d468536e8904b93",
+            "fighter_a": "Conor McGregor",
+            "fighter_b": "Dennis Siver",
+            "winner": "Conor McGregor",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/3d468536e8904b93"
+        },
+        {
+            "fight_id": "93569f4876c20488",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Benson Henderson",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/93569f4876c20488"
+        },
+        {
+            "fight_id": "837a7a922066b214",
+            "fighter_a": "Uriah Hall",
+            "fighter_b": "Ron Stallings",
+            "winner": "Uriah Hall",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/837a7a922066b214"
+        },
+        {
+            "fight_id": "293919e355b362b1",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "Norman Parke",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/293919e355b362b1"
+        },
+        {
+            "fight_id": "6359bba789ce28ae",
+            "fighter_a": "Cathal Pendred",
+            "fighter_b": "Sean Spencer",
+            "winner": "Cathal Pendred",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6359bba789ce28ae"
+        },
+        {
+            "fight_id": "90e5169190971647",
+            "fighter_a": "Lorenz Larkin",
+            "fighter_b": "John Howard",
+            "winner": "Lorenz Larkin",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 137,
+            "fight_url": "http://ufcstats.com/fight-details/90e5169190971647"
+        },
+        {
+            "fight_id": "cf38ced734978fb8",
+            "fighter_a": "Chris Wade",
+            "fighter_b": "Zhang Lipeng",
+            "winner": "Chris Wade",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf38ced734978fb8"
+        },
+        {
+            "fight_id": "2d24929eaadf0351",
+            "fighter_a": "Paddy Holohan",
+            "fighter_b": "Shane Howell",
+            "winner": "Paddy Holohan",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2d24929eaadf0351"
+        },
+        {
+            "fight_id": "53d2d2de5c4cccf2",
+            "fighter_a": "Johnny Case",
+            "fighter_b": "Frankie Perez",
+            "winner": "Johnny Case",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 114,
+            "fight_url": "http://ufcstats.com/fight-details/53d2d2de5c4cccf2"
+        },
+        {
+            "fight_id": "85e57ad2b3831621",
+            "fighter_a": "Charles Rosa",
+            "fighter_b": "Sean Soriano",
+            "winner": "Charles Rosa",
+            "weight_class": "Featherweight",
+            "method": "SUB D'Arce Choke",
+            "round": 3,
+            "time_seconds": 283,
+            "fight_url": "http://ufcstats.com/fight-details/85e57ad2b3831621"
+        },
+        {
+            "fight_id": "4d3cd5ecf4276c92",
+            "fighter_a": "Sean O'Connell",
+            "fighter_b": "Matt Van Buren",
+            "winner": "Sean O'Connell",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/4d3cd5ecf4276c92"
+        },
+        {
+            "fight_id": "a4a78ec539238a5f",
+            "fighter_a": "Joby Sanchez",
+            "fighter_b": "Tateki Matsuda",
+            "winner": "Joby Sanchez",
+            "weight_class": "Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a4a78ec539238a5f"
+        }
+    ]
+}

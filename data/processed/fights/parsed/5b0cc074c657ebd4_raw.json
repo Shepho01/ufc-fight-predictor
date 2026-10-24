@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5b0cc074c657ebd4",
+        "event_id": "4f2fcbefb668689d",
+        "event_name": "UFC 172: Jones vs Teixeira",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "3:39",
+        "referee": "Kevin Mulhall",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "47 of 149",
+            "Sig. str. %": "31%",
+            "Total str.": "57 of 161",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "47 of 149",
+            "Sig. str. %": "31%",
+            "Head": "31 of 122",
+            "Body": "15 of 24",
+            "Leg": "1 of 3",
+            "Distance": "30 of 121",
+            "Clinch": "17 of 28",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "8fd808923cffff82",
+        "name": "Andre Fili",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "44 of 139",
+            "Sig. str. %": "31%",
+            "Total str.": "46 of 141",
+            "Td": "3 of 12",
+            "Td %": "25%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:13"
+        },
+        "significant_strikes": {
+            "Sig. str": "44 of 139",
+            "Sig. str. %": "31%",
+            "Head": "18 of 99",
+            "Body": "9 of 21",
+            "Leg": "17 of 19",
+            "Distance": "40 of 129",
+            "Clinch": "4 of 10",
+            "Ground": "0 of 0"
+        }
+    }
+}

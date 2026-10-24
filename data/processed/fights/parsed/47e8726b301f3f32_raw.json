@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "47e8726b301f3f32",
+        "event_id": "a58114c6dd0add64",
+        "event_name": "UFC 188: Velasquez vs Werdum",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 1,
+        "finish_time": "0:54",
+        "referee": "Herb Dean",
+        "winner_id": "83fd97284f4bb4a4"
+    },
+    "fighter_a": {
+        "fighter_id": "83fd97284f4bb4a4",
+        "name": "Efrain Escudero",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 1",
+            "Sig. str. %": "100%",
+            "Total str.": "1 of 1",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 1",
+            "Sig. str. %": "100%",
+            "Head": "0 of 0",
+            "Body": "0 of 0",
+            "Leg": "1 of 1",
+            "Distance": "1 of 1",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "0 of 3",
+            "Sig. str. %": "0%",
+            "Total str.": "0 of 3",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "0 of 3",
+            "Sig. str. %": "0%",
+            "Head": "0 of 3",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "0 of 3",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

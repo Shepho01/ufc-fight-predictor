@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0091e56e746971f4",
+        "event_id": "234f3767ff0e5701",
+        "event_name": "WEC 51: Aldo vs. Gamburyan",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 2,
+        "finish_time": "1:30",
+        "referee": "Tom Johnson",
+        "winner_id": "3c0437fbeda06962"
+    },
+    "fighter_a": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "21 of 59",
+            "Sig. str. %": "35%",
+            "Total str.": "23 of 63",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:17"
+        },
+        "significant_strikes": {
+            "Sig. str": "21 of 59",
+            "Sig. str. %": "35%",
+            "Head": "10 of 46",
+            "Body": "3 of 5",
+            "Leg": "8 of 8",
+            "Distance": "20 of 58",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "3c0437fbeda06962",
+        "name": "George Roop",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "45 of 93",
+            "Sig. str. %": "48%",
+            "Total str.": "58 of 110",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "45 of 93",
+            "Sig. str. %": "48%",
+            "Head": "30 of 75",
+            "Body": "9 of 11",
+            "Leg": "6 of 7",
+            "Distance": "45 of 93",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "fighter_id": "f4d92416da98804b",
+    "name": "Bassil Hafez",
+    "record": "9-4-1",
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jan 31, 1992",
+    "sig_strikes_landed_per_min": "3.71",
+    "sig_striking_accuracy": "38%",
+    "sig_strikes_absorbed_per_min": "5.68",
+    "sig_strike_defense": "41%",
+    "takedowns_landed_per_15_min": "2.21",
+    "takedown_accuracy": "24%",
+    "takedown_defense": "50%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "9676a4e9362e4bfd",
+            "fight_url": "http://ufcstats.com/fight-details/9676a4e9362e4bfd"
+        },
+        {
+            "fight_id": "7d9bb6fda0ea1ee0",
+            "fight_url": "http://ufcstats.com/fight-details/7d9bb6fda0ea1ee0"
+        },
+        {
+            "fight_id": "3352c65f3f6d9b2a",
+            "fight_url": "http://ufcstats.com/fight-details/3352c65f3f6d9b2a"
+        }
+    ]
+}

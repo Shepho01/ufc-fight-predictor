@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "f9f07bb5a43535ed",
+        "event_name": "UFC Fight Night: Bisping vs Kennedy",
+        "event_day": 16,
+        "event_month": 4,
+        "event_year": 2014,
+        "location": "Quebec City, Quebec, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "3a5b53d1123d9f7e",
+            "fighter_a": "Tim Kennedy",
+            "fighter_b": "Michael Bisping",
+            "winner": "Tim Kennedy",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3a5b53d1123d9f7e"
+        },
+        {
+            "fight_id": "1a6e7e7c98886198",
+            "fighter_a": "Patrick Cote",
+            "fighter_b": "Kyle Noke",
+            "winner": "Patrick Cote",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1a6e7e7c98886198"
+        },
+        {
+            "fight_id": "273f9520d75f3dac",
+            "fighter_a": "Elias Theodorou",
+            "fighter_b": "Sheldon Westcott",
+            "winner": "Elias Theodorou",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 281,
+            "fight_url": "http://ufcstats.com/fight-details/273f9520d75f3dac"
+        },
+        {
+            "fight_id": "0dd560fbcae2244f",
+            "fighter_a": "Chad Laprise",
+            "fighter_b": "Olivier Aubin-Mercier",
+            "winner": "Chad Laprise",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0dd560fbcae2244f"
+        },
+        {
+            "fight_id": "3e6b5cb3c37bef3b",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Akira Corassani",
+            "winner": "Dustin Poirier",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 42,
+            "fight_url": "http://ufcstats.com/fight-details/3e6b5cb3c37bef3b"
+        },
+        {
+            "fight_id": "3406cf3e28e30d1b",
+            "fighter_a": "KJ Noons",
+            "fighter_b": "Sam Stout",
+            "winner": "KJ Noons",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 30,
+            "fight_url": "http://ufcstats.com/fight-details/3406cf3e28e30d1b"
+        },
+        {
+            "fight_id": "2e8d68b14dde981e",
+            "fighter_a": "Sarah Kaufman",
+            "fighter_b": "Leslie Smith",
+            "winner": "Sarah Kaufman",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2e8d68b14dde981e"
+        },
+        {
+            "fight_id": "f0b117394e52996b",
+            "fighter_a": "Ryan Jimmo",
+            "fighter_b": "Sean O'Connell",
+            "winner": "Ryan Jimmo",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/f0b117394e52996b"
+        },
+        {
+            "fight_id": "3427667c1a265fe5",
+            "fighter_a": "George Roop",
+            "fighter_b": "Dustin Kimura",
+            "winner": "George Roop",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3427667c1a265fe5"
+        },
+        {
+            "fight_id": "a7aac5f6b470ddaa",
+            "fighter_a": "Mark Bocek",
+            "fighter_b": "Mike de la Torre",
+            "winner": "Mark Bocek",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a7aac5f6b470ddaa"
+        },
+        {
+            "fight_id": "01c67a3990800dc3",
+            "fighter_a": "Nordine Taleb",
+            "fighter_b": "Vik Grujic",
+            "winner": "Nordine Taleb",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/01c67a3990800dc3"
+        },
+        {
+            "fight_id": "e532ef88b8cb26d2",
+            "fighter_a": "Richard Walsh",
+            "fighter_b": "Chris Indich",
+            "winner": "Richard Walsh",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e532ef88b8cb26d2"
+        },
+        {
+            "fight_id": "d2519c169f3039ee",
+            "fighter_a": "Mitch Gagnon",
+            "fighter_b": "Tim Gorman",
+            "winner": "Mitch Gagnon",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d2519c169f3039ee"
+        }
+    ]
+}

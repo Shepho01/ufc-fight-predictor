@@ -1,0 +1,24 @@
+{
+    "fighter_id": "f903967fd320da38",
+    "name": "Chris Mickle",
+    "record": "30-21-2 (1 NC)",
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "--",
+    "stance": "Orthodox",
+    "dob": "Jul 10, 1983",
+    "sig_strikes_landed_per_min": "3.03",
+    "sig_striking_accuracy": "27%",
+    "sig_strikes_absorbed_per_min": "9.70",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "0.00",
+    "takedown_accuracy": "0%",
+    "takedown_defense": "0%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "87b267fed23d9680",
+            "fight_url": "http://ufcstats.com/fight-details/87b267fed23d9680"
+        }
+    ]
+}

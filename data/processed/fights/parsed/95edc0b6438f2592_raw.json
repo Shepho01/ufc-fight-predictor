@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "95edc0b6438f2592",
+        "event_id": "49e7e05f902479ca",
+        "event_name": "UFC 223: Khabib vs. Iaquinta",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "116 of 206",
+            "Sig. str. %": "56%",
+            "Total str.": "117 of 207",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "116 of 206",
+            "Sig. str. %": "56%",
+            "Head": "60 of 133",
+            "Body": "18 of 27",
+            "Leg": "38 of 46",
+            "Distance": "115 of 205",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "751de04455cfaac0",
+        "name": "Calvin Kattar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "41 of 140",
+            "Sig. str. %": "29%",
+            "Total str.": "41 of 140",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "41 of 140",
+            "Sig. str. %": "29%",
+            "Head": "35 of 131",
+            "Body": "5 of 8",
+            "Leg": "1 of 1",
+            "Distance": "41 of 140",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

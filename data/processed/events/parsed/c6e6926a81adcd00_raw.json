@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "c6e6926a81adcd00",
+        "event_name": "UFC 155: Dos Santos vs Velasquez II",
+        "event_date": "December 29, 2012",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "02a373f6503b3530",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Junior Dos Santos",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/02a373f6503b3530"
+        },
+        {
+            "fight_id": "5d7a720a2e2f4749",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Joe Lauzon",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5d7a720a2e2f4749"
+        },
+        {
+            "fight_id": "526790a5b3c4b5a2",
+            "fighter_a": "Constantinos Philippou",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Constantinos Philippou",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:11",
+            "fight_url": "http://ufcstats.com/fight-details/526790a5b3c4b5a2"
+        },
+        {
+            "fight_id": "23cdc3ef525ba8e4",
+            "fighter_a": "Yushin Okami",
+            "fighter_b": "Alan Belcher",
+            "winner": "Yushin Okami",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/23cdc3ef525ba8e4"
+        },
+        {
+            "fight_id": "bab948352454f302",
+            "fighter_a": "Derek Brunson",
+            "fighter_b": "Chris Leben",
+            "winner": "Derek Brunson",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bab948352454f302"
+        },
+        {
+            "fight_id": "5a65ffe3842ce2f2",
+            "fighter_a": "Eddie Wineland",
+            "fighter_b": "Brad Pickett",
+            "winner": "Eddie Wineland",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5a65ffe3842ce2f2"
+        },
+        {
+            "fight_id": "ea9059fd076a2f1e",
+            "fighter_a": "Erik Perez",
+            "fighter_b": "Byron Bloodworth",
+            "winner": "Erik Perez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:50",
+            "fight_url": "http://ufcstats.com/fight-details/ea9059fd076a2f1e"
+        },
+        {
+            "fight_id": "0d4927585d0480fc",
+            "fighter_a": "Jamie Varner",
+            "fighter_b": "Melvin Guillard",
+            "winner": "Jamie Varner",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0d4927585d0480fc"
+        },
+        {
+            "fight_id": "85f67de8e9dc5689",
+            "fighter_a": "Myles Jury",
+            "fighter_b": "Michael Johnson",
+            "winner": "Myles Jury",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/85f67de8e9dc5689"
+        },
+        {
+            "fight_id": "84500d5c1aba97a2",
+            "fighter_a": "Todd Duffee",
+            "fighter_b": "Philip De Fries",
+            "winner": "Todd Duffee",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:04",
+            "fight_url": "http://ufcstats.com/fight-details/84500d5c1aba97a2"
+        },
+        {
+            "fight_id": "a551d93167533459",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Leonard Garcia",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a551d93167533459"
+        },
+        {
+            "fight_id": "fc9ec3a01d0129b6",
+            "fighter_a": "John Moraga",
+            "fighter_b": "Chris Cariaso",
+            "winner": "John Moraga",
+            "weight_class": "Flyweight",
+            "method": "SUB Guillotine Choke",
+            "round": "3",
+            "time": "1:11",
+            "fight_url": "http://ufcstats.com/fight-details/fc9ec3a01d0129b6"
+        }
+    ]
+}

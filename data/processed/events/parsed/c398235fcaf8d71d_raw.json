@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "c398235fcaf8d71d",
+        "event_name": "UFC Fight Night: Tuivasa vs. Tybura",
+        "event_date": "March 16, 2024",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "8bc0c220f7dcefa7",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Tai Tuivasa",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:08",
+            "fight_url": "http://ufcstats.com/fight-details/8bc0c220f7dcefa7"
+        },
+        {
+            "fight_id": "a7fd9da657bbce8e",
+            "fighter_a": "Bryan Battle",
+            "fighter_b": "Ange Loosa",
+            "winner": null,
+            "weight_class": "Welterweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "1:00",
+            "fight_url": "http://ufcstats.com/fight-details/a7fd9da657bbce8e"
+        },
+        {
+            "fight_id": "35f9beb94b4ef9e2",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Kennedy Nzechukwu",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/35f9beb94b4ef9e2"
+        },
+        {
+            "fight_id": "acc7392d48cc09a0",
+            "fighter_a": "Christian Rodriguez",
+            "fighter_b": "Isaac Dulgarian",
+            "winner": "Christian Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/acc7392d48cc09a0"
+        },
+        {
+            "fight_id": "2f414494f2b6f426",
+            "fighter_a": "Macy Chiasson",
+            "fighter_b": "Pannie Kianzad",
+            "winner": "Macy Chiasson",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:54",
+            "fight_url": "http://ufcstats.com/fight-details/2f414494f2b6f426"
+        },
+        {
+            "fight_id": "569e0ba18701c305",
+            "fighter_a": "Gerald Meerschaert",
+            "fighter_b": "Bryan Barberena",
+            "winner": "Gerald Meerschaert",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "4:23",
+            "fight_url": "http://ufcstats.com/fight-details/569e0ba18701c305"
+        },
+        {
+            "fight_id": "4f20f3ada1489823",
+            "fighter_a": "Mike Davis",
+            "fighter_b": "Natan Levy",
+            "winner": "Mike Davis",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "1:43",
+            "fight_url": "http://ufcstats.com/fight-details/4f20f3ada1489823"
+        },
+        {
+            "fight_id": "711ec0545552455b",
+            "fighter_a": "Chelsea Chandler",
+            "fighter_b": "Josiane Nunes",
+            "winner": "Chelsea Chandler",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/711ec0545552455b"
+        },
+        {
+            "fight_id": "451df53c13185584",
+            "fighter_a": "Jafel Filho",
+            "fighter_b": "Ode Osbourne",
+            "winner": "Jafel Filho",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:27",
+            "fight_url": "http://ufcstats.com/fight-details/451df53c13185584"
+        },
+        {
+            "fight_id": "c26f27667c230391",
+            "fighter_a": "Danny Silva",
+            "fighter_b": "Josh Culibao",
+            "winner": "Danny Silva",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c26f27667c230391"
+        },
+        {
+            "fight_id": "66873dde4077bd5d",
+            "fighter_a": "Jaqueline Amorim",
+            "fighter_b": "Cory McKenna",
+            "winner": "Jaqueline Amorim",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "1:38",
+            "fight_url": "http://ufcstats.com/fight-details/66873dde4077bd5d"
+        },
+        {
+            "fight_id": "537b3cef39d2d573",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Mitch Ramirez",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "3",
+            "time": "0:15",
+            "fight_url": "http://ufcstats.com/fight-details/537b3cef39d2d573"
+        },
+        {
+            "fight_id": "f1cbd73e7be64d28",
+            "fighter_a": "Chad Anheliger",
+            "fighter_b": "Charalampos Grigoriou",
+            "winner": "Chad Anheliger",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f1cbd73e7be64d28"
+        }
+    ]
+}

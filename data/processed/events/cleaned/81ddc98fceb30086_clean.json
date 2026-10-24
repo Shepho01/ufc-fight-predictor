@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "81ddc98fceb30086",
+        "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+        "event_day": 11,
+        "event_month": 1,
+        "event_year": 2025,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f46308108eb9261a",
+            "fighter_a": "Mackenzie Dern",
+            "fighter_b": "Amanda Ribas",
+            "winner": "Mackenzie Dern",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 296,
+            "fight_url": "http://ufcstats.com/fight-details/f46308108eb9261a"
+        },
+        {
+            "fight_id": "ce4fc800a7456d18",
+            "fighter_a": "Santiago Ponzinibbio",
+            "fighter_b": "Carlston Harris",
+            "winner": "Santiago Ponzinibbio",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 193,
+            "fight_url": "http://ufcstats.com/fight-details/ce4fc800a7456d18"
+        },
+        {
+            "fight_id": "a2a5809ed8a01b45",
+            "fighter_a": "Cesar Almeida",
+            "fighter_b": "Abdul Razak Alhassan",
+            "winner": "Cesar Almeida",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/a2a5809ed8a01b45"
+        },
+        {
+            "fight_id": "aa38e39397dbea72",
+            "fighter_a": "Roman Kopylov",
+            "fighter_b": "Chris Curtis",
+            "winner": "Roman Kopylov",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/aa38e39397dbea72"
+        },
+        {
+            "fight_id": "03c1865919daeaa4",
+            "fighter_a": "Christian Rodriguez",
+            "fighter_b": "Austin Bashi",
+            "winner": "Christian Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/03c1865919daeaa4"
+        },
+        {
+            "fight_id": "32cc31b76b32ade1",
+            "fighter_a": "Punahele Soriano",
+            "fighter_b": "Uros Medic",
+            "winner": "Punahele Soriano",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 31,
+            "fight_url": "http://ufcstats.com/fight-details/32cc31b76b32ade1"
+        },
+        {
+            "fight_id": "8a3281b0d7c168af",
+            "fighter_a": "Felipe Bunes",
+            "fighter_b": "Jose Johnson",
+            "winner": "Felipe Bunes",
+            "weight_class": "Flyweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 124,
+            "fight_url": "http://ufcstats.com/fight-details/8a3281b0d7c168af"
+        },
+        {
+            "fight_id": "8d68863242695224",
+            "fighter_a": "Marco Tulio",
+            "fighter_b": "Ihor Potieria",
+            "winner": "Marco Tulio",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 184,
+            "fight_url": "http://ufcstats.com/fight-details/8d68863242695224"
+        },
+        {
+            "fight_id": "54fa6e32330a8cca",
+            "fighter_a": "Thiago Moises",
+            "fighter_b": "Trey Ogden",
+            "winner": "Thiago Moises",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/54fa6e32330a8cca"
+        },
+        {
+            "fight_id": "58eda5a58a89f739",
+            "fighter_a": "Jacobe Smith",
+            "fighter_b": "Preston Parsons",
+            "winner": "Jacobe Smith",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 73,
+            "fight_url": "http://ufcstats.com/fight-details/58eda5a58a89f739"
+        },
+        {
+            "fight_id": "b33e3a6d15700bb1",
+            "fighter_a": "Ernesta Kareckaite",
+            "fighter_b": "Nicolle Caliari",
+            "winner": "Ernesta Kareckaite",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b33e3a6d15700bb1"
+        },
+        {
+            "fight_id": "817cd15077a9419e",
+            "fighter_a": "Bruno Lopes",
+            "fighter_b": "Magomed Gadzhiyasulov",
+            "winner": "Bruno Lopes",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/817cd15077a9419e"
+        },
+        {
+            "fight_id": "f01851055b8309e0",
+            "fighter_a": "Fatima Kline",
+            "fighter_b": "Viktoriia Dudakova",
+            "winner": "Fatima Kline",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 267,
+            "fight_url": "http://ufcstats.com/fight-details/f01851055b8309e0"
+        },
+        {
+            "fight_id": "192619174bd1ad77",
+            "fighter_a": "Nurullo Aliev",
+            "fighter_b": "Joe Solecki",
+            "winner": "Nurullo Aliev",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/192619174bd1ad77"
+        }
+    ]
+}

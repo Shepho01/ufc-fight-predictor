@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "19fc916df1f0e6ff",
+        "event_id": "d29b5c4f22c6357d",
+        "event_name": "UFC Fight Night: Rivera vs. Moraes",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Dan Miragliotta",
+        "winner_id": "f046d724d2a84ac5"
+    },
+    "fighter_a": {
+        "fighter_id": "f046d724d2a84ac5",
+        "name": "Desmond Green",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "77 of 191",
+            "Sig. str. %": "40%",
+            "Total str.": "77 of 191",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "77 of 191",
+            "Sig. str. %": "40%",
+            "Head": "61 of 160",
+            "Body": "13 of 27",
+            "Leg": "3 of 4",
+            "Distance": "75 of 187",
+            "Clinch": "2 of 4",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "28 of 178",
+            "Sig. str. %": "15%",
+            "Total str.": "29 of 179",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "28 of 178",
+            "Sig. str. %": "15%",
+            "Head": "20 of 159",
+            "Body": "6 of 17",
+            "Leg": "2 of 2",
+            "Distance": "28 of 176",
+            "Clinch": "0 of 2",
+            "Ground": "0 of 0"
+        }
+    }
+}

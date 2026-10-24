@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "5fceb95c29d929bc",
+        "event_id": "33b2f68ef95252e0",
+        "event_name": "UFC Fight Night: Felder vs. Hooker",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Split",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "e5010b1b94ca5755",
+        "name": "Paul Felder",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "110 of 230",
+            "Sig. str. %": "47%",
+            "Total str.": "119 of 243",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "110 of 230",
+            "Sig. str. %": "47%",
+            "Head": "64 of 170",
+            "Body": "19 of 26",
+            "Leg": "27 of 34",
+            "Distance": "105 of 218",
+            "Clinch": "5 of 12",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "122 of 221",
+            "Sig. str. %": "55%",
+            "Total str.": "133 of 234",
+            "Td": "1 of 5",
+            "Td %": "20%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "5:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "122 of 221",
+            "Sig. str. %": "55%",
+            "Head": "72 of 161",
+            "Body": "10 of 13",
+            "Leg": "40 of 47",
+            "Distance": "120 of 217",
+            "Clinch": "2 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "cce79e827569f26e",
+        "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+        "event_day": 3,
+        "event_month": 2,
+        "event_year": 2024,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "767ceb4a0cb43ade",
+            "fighter_a": "Nassourdine Imavov",
+            "fighter_b": "Roman Dolidze",
+            "winner": "Nassourdine Imavov",
+            "weight_class": "Middleweight",
+            "method": "M-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/767ceb4a0cb43ade"
+        },
+        {
+            "fight_id": "733e675fd7c0052a",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Drew Dober",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/733e675fd7c0052a"
+        },
+        {
+            "fight_id": "af6d56860ba4d259",
+            "fighter_a": "Randy Brown",
+            "fighter_b": "Muslim Salikhov",
+            "winner": "Randy Brown",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 197,
+            "fight_url": "http://ufcstats.com/fight-details/af6d56860ba4d259"
+        },
+        {
+            "fight_id": "7b1882dc76786d77",
+            "fighter_a": "Natalia Silva",
+            "fighter_b": "Viviane Araujo",
+            "winner": "Natalia Silva",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7b1882dc76786d77"
+        },
+        {
+            "fight_id": "415ea2520b7ba720",
+            "fighter_a": "Aliaskhab Khizriev",
+            "fighter_b": "Makhmud Muradov",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "CNC",
+            "round": 1,
+            "time_seconds": 11,
+            "fight_url": "http://ufcstats.com/fight-details/415ea2520b7ba720"
+        },
+        {
+            "fight_id": "330d86bfaa4155fe",
+            "fighter_a": "Charles Radtke",
+            "fighter_b": "Gilbert Urbina",
+            "winner": "Charles Radtke",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 287,
+            "fight_url": "http://ufcstats.com/fight-details/330d86bfaa4155fe"
+        },
+        {
+            "fight_id": "d4ace70b3661ee6c",
+            "fighter_a": "Molly McCann",
+            "fighter_b": "Diana Belbita",
+            "winner": "Molly McCann",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/d4ace70b3661ee6c"
+        },
+        {
+            "fight_id": "ca7d61e167d7789c",
+            "fighter_a": "Charles Johnson",
+            "fighter_b": "Azat Maksum",
+            "winner": "Charles Johnson",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ca7d61e167d7789c"
+        },
+        {
+            "fight_id": "4cff9aeef3ac75c1",
+            "fighter_a": "Themba Gorimbo",
+            "fighter_b": "Pete Rodriguez",
+            "winner": "Themba Gorimbo",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 32,
+            "fight_url": "http://ufcstats.com/fight-details/4cff9aeef3ac75c1"
+        },
+        {
+            "fight_id": "e1930496b33fa636",
+            "fighter_a": "JeongYeong Lee",
+            "fighter_b": "Blake Bilder",
+            "winner": "JeongYeong Lee",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e1930496b33fa636"
+        },
+        {
+            "fight_id": "c28d40498150de90",
+            "fighter_a": "Luana Carolina",
+            "fighter_b": "Julija Stoliarenko",
+            "winner": "Luana Carolina",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 292,
+            "fight_url": "http://ufcstats.com/fight-details/c28d40498150de90"
+        },
+        {
+            "fight_id": "e396c509fb47b037",
+            "fighter_a": "MarQuel Mederos",
+            "fighter_b": "Landon Quinones",
+            "winner": "MarQuel Mederos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e396c509fb47b037"
+        },
+        {
+            "fight_id": "df9847839c73a678",
+            "fighter_a": "Jamal Pogues",
+            "fighter_b": "Thomas Petersen",
+            "winner": "Jamal Pogues",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/df9847839c73a678"
+        }
+    ]
+}

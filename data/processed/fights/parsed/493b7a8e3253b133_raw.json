@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "493b7a8e3253b133",
+        "event_id": "4679a38cced7c64a",
+        "event_name": "UFC on FUEL TV: Barao vs McDonald",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Kevin Mulhall",
+        "winner_id": "d247691a6c0e9034"
+    },
+    "fighter_a": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "58 of 126",
+            "Sig. str. %": "46%",
+            "Total str.": "80 of 150",
+            "Td": "2 of 2",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "58 of 126",
+            "Sig. str. %": "46%",
+            "Head": "40 of 100",
+            "Body": "11 of 17",
+            "Leg": "7 of 9",
+            "Distance": "45 of 107",
+            "Clinch": "5 of 7",
+            "Ground": "8 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "58 of 140",
+            "Sig. str. %": "41%",
+            "Total str.": "70 of 158",
+            "Td": "2 of 9",
+            "Td %": "22%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:01"
+        },
+        "significant_strikes": {
+            "Sig. str": "58 of 140",
+            "Sig. str. %": "41%",
+            "Head": "33 of 107",
+            "Body": "3 of 8",
+            "Leg": "22 of 25",
+            "Distance": "52 of 125",
+            "Clinch": "5 of 9",
+            "Ground": "1 of 6"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "fighter_id": "2ebfbe72ed703925",
+    "name": "Tristan Connelly",
+    "record": "14-8-0",
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Dec 12, 1985",
+    "sig_strikes_landed_per_min": "3.31",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.96",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "0.33",
+    "takedown_accuracy": "14%",
+    "takedown_defense": "60%",
+    "submission_attempts_per_15_min": "0.3",
+    "fight_history": [
+        {
+            "fight_id": "760e3f292b834637",
+            "fight_url": "http://ufcstats.com/fight-details/760e3f292b834637"
+        },
+        {
+            "fight_id": "6a7347d1da8a2b87",
+            "fight_url": "http://ufcstats.com/fight-details/6a7347d1da8a2b87"
+        },
+        {
+            "fight_id": "dadaee9624256e07",
+            "fight_url": "http://ufcstats.com/fight-details/dadaee9624256e07"
+        }
+    ]
+}

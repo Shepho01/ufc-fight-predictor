@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "76ece0ee2ef5d240",
+        "event_id": "972197a8c61ac413",
+        "event_name": "UFC 265: Lewis vs. Gane",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jacob Montalvo",
+        "winner_id": "c814b4c899793af6"
+    },
+    "fighter_a": {
+        "fighter_id": "887961364be5ceb3",
+        "name": "King Green",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "143 of 263",
+            "Sig. str. %": "54%",
+            "Total str.": "143 of 263",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "143 of 263",
+            "Sig. str. %": "54%",
+            "Head": "93 of 197",
+            "Body": "34 of 45",
+            "Leg": "16 of 21",
+            "Distance": "138 of 257",
+            "Clinch": "5 of 6",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c814b4c899793af6",
+        "name": "Rafael Fiziev",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "104 of 223",
+            "Sig. str. %": "46%",
+            "Total str.": "104 of 223",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "104 of 223",
+            "Sig. str. %": "46%",
+            "Head": "47 of 132",
+            "Body": "26 of 44",
+            "Leg": "31 of 47",
+            "Distance": "96 of 212",
+            "Clinch": "8 of 11",
+            "Ground": "0 of 0"
+        }
+    }
+}

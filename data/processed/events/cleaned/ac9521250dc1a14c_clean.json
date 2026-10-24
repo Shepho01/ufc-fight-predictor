@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "ac9521250dc1a14c",
+        "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+        "event_day": 28,
+        "event_month": 6,
+        "event_year": 2014,
+        "location": "Auckland, New Zealand"
+    },
+    "fights": [
+        {
+            "fight_id": "bfcabf1ab823942f",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "James Te Huna",
+            "winner": "Nate Marquardt",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/bfcabf1ab823942f"
+        },
+        {
+            "fight_id": "7962611f2adbacc0",
+            "fighter_a": "Jared Rosholt",
+            "fighter_b": "Soa Palelei",
+            "winner": "Jared Rosholt",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/7962611f2adbacc0"
+        },
+        {
+            "fight_id": "a4759c52378f9d1a",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Hatsu Hioki",
+            "winner": "Charles Oliveira",
+            "weight_class": "Featherweight",
+            "method": "SUB Anaconda Choke",
+            "round": 2,
+            "time_seconds": 272,
+            "fight_url": "http://ufcstats.com/fight-details/a4759c52378f9d1a"
+        },
+        {
+            "fight_id": "1f65f03f1225e061",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Mike Rhodes",
+            "winner": "Robert Whittaker",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/1f65f03f1225e061"
+        },
+        {
+            "fight_id": "70e49c90d012de66",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Dashon Johnson",
+            "winner": "Jake Matthews",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": 3,
+            "time_seconds": 196,
+            "fight_url": "http://ufcstats.com/fight-details/70e49c90d012de66"
+        },
+        {
+            "fight_id": "2977a9b5c30d89c1",
+            "fighter_a": "Richie Vaculik",
+            "fighter_b": "Roldan Sangcha'an",
+            "winner": "Richie Vaculik",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2977a9b5c30d89c1"
+        },
+        {
+            "fight_id": "eb13a9d04dca676e",
+            "fighter_a": "Vik Grujic",
+            "fighter_b": "Chris Indich",
+            "winner": "Vik Grujic",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 295,
+            "fight_url": "http://ufcstats.com/fight-details/eb13a9d04dca676e"
+        },
+        {
+            "fight_id": "2bb2a2652fe38809",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Rodrigo de Lima",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 152,
+            "fight_url": "http://ufcstats.com/fight-details/2bb2a2652fe38809"
+        },
+        {
+            "fight_id": "ee532a38a0b93127",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Ian Entwistle",
+            "winner": "Dan Hooker",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 214,
+            "fight_url": "http://ufcstats.com/fight-details/ee532a38a0b93127"
+        },
+        {
+            "fight_id": "25a28456f684503e",
+            "fighter_a": "Gian Villante",
+            "fighter_b": "Sean O'Connell",
+            "winner": "Gian Villante",
+            "weight_class": "Light Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/25a28456f684503e"
+        }
+    ]
+}

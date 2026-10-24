@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f030febede41c661",
+        "event_id": "15ec018d144710db",
+        "event_name": "UFC 326: Holloway vs. Oliveira 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Marc Goddard",
+        "winner_id": "07225ba28ae309b6"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "26 of 45",
+            "Sig. str. %": "57%",
+            "Total str.": "73 of 92",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:36"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 45",
+            "Sig. str. %": "57%",
+            "Head": "18 of 36",
+            "Body": "6 of 7",
+            "Leg": "2 of 2",
+            "Distance": "25 of 44",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "50 of 66",
+            "Sig. str. %": "75%",
+            "Total str.": "110 of 137",
+            "Td": "5 of 13",
+            "Td %": "38%",
+            "Sub. att": "4",
+            "Rev.": "0",
+            "Ctrl": "20:49"
+        },
+        "significant_strikes": {
+            "Sig. str": "50 of 66",
+            "Sig. str. %": "75%",
+            "Head": "37 of 51",
+            "Body": "7 of 9",
+            "Leg": "6 of 6",
+            "Distance": "24 of 37",
+            "Clinch": "2 of 2",
+            "Ground": "24 of 27"
+        }
+    }
+}

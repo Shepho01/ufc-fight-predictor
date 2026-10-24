@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f23e2bed86b62462",
+        "event_id": "602bb270f2bdbf02",
+        "event_name": "UFC Fight Night: Jacare vs. Brunson 2",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Joseph Hawes",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "145 of 322",
+            "Sig. str. %": "45%",
+            "Total str.": "161 of 338",
+            "Td": "0 of 6",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "145 of 322",
+            "Sig. str. %": "45%",
+            "Head": "96 of 262",
+            "Body": "34 of 45",
+            "Leg": "15 of 15",
+            "Distance": "125 of 293",
+            "Clinch": "15 of 19",
+            "Ground": "5 of 10"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "764342d39cdaa54a",
+        "name": "Frank Camacho",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "106 of 223",
+            "Sig. str. %": "47%",
+            "Total str.": "148 of 269",
+            "Td": "3 of 3",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "3:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "106 of 223",
+            "Sig. str. %": "47%",
+            "Head": "80 of 194",
+            "Body": "26 of 29",
+            "Leg": "0 of 0",
+            "Distance": "99 of 209",
+            "Clinch": "6 of 8",
+            "Ground": "1 of 6"
+        }
+    }
+}

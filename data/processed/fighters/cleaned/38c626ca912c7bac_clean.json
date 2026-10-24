@@ -1,0 +1,23 @@
+{
+    "fighter_id": "38c626ca912c7bac",
+    "name": "Damir Hadzovic",
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 8,
+    "dob_month": 8,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 3.34,
+    "sig_striking_accuracy": 0.47,
+    "sig_strikes_absorbed_per_min": 3.74,
+    "sig_strike_defense": 0.59,
+    "takedowns_landed_per_15_min": 0.91,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.34,
+    "submission_attempts_per_15_min": 0.1
+}

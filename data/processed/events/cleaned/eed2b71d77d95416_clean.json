@@ -1,0 +1,122 @@
+{
+    "event": {
+        "event_id": "eed2b71d77d95416",
+        "event_name": "UFC Fight Night: Werdum vs. Volkov",
+        "event_day": 17,
+        "event_month": 3,
+        "event_year": 2018,
+        "location": "London, England, United Kingdom"
+    },
+    "fights": [
+        {
+            "fight_id": "e835e9a4564db497",
+            "fighter_a": "Alexander Volkov",
+            "fighter_b": "Fabricio Werdum",
+            "winner": "Alexander Volkov",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 4,
+            "time_seconds": 98,
+            "fight_url": "http://ufcstats.com/fight-details/e835e9a4564db497"
+        },
+        {
+            "fight_id": "5f19b0135414b454",
+            "fighter_a": "Jan Blachowicz",
+            "fighter_b": "Jimi Manuwa",
+            "winner": "Jan Blachowicz",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5f19b0135414b454"
+        },
+        {
+            "fight_id": "848e7af760788418",
+            "fighter_a": "Tom Duquesnoy",
+            "fighter_b": "Terrion Ware",
+            "winner": "Tom Duquesnoy",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/848e7af760788418"
+        },
+        {
+            "fight_id": "e84fa12d87993ec5",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Peter Sobotta",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/e84fa12d87993ec5"
+        },
+        {
+            "fight_id": "f8ee14dbf966b9e6",
+            "fighter_a": "Charles Byrd",
+            "fighter_b": "John Phillips",
+            "winner": "Charles Byrd",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 238,
+            "fight_url": "http://ufcstats.com/fight-details/f8ee14dbf966b9e6"
+        },
+        {
+            "fight_id": "288c942b0ad152a6",
+            "fighter_a": "Danny Roberts",
+            "fighter_b": "Oliver Enkamp",
+            "winner": "Danny Roberts",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 132,
+            "fight_url": "http://ufcstats.com/fight-details/288c942b0ad152a6"
+        },
+        {
+            "fight_id": "0b4583d204797d19",
+            "fighter_a": "Danny Henry",
+            "fighter_b": "Hakeem Dawodu",
+            "winner": "Danny Henry",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 39,
+            "fight_url": "http://ufcstats.com/fight-details/0b4583d204797d19"
+        },
+        {
+            "fight_id": "714d6fc1eaca9624",
+            "fighter_a": "Paul Craig",
+            "fighter_b": "Magomed Ankalaev",
+            "winner": "Paul Craig",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Triangle Choke",
+            "round": 3,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/714d6fc1eaca9624"
+        },
+        {
+            "fight_id": "fe9ee00fa47dd7b3",
+            "fighter_a": "Kajan Johnson",
+            "fighter_b": "Stevie Ray",
+            "winner": "Kajan Johnson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fe9ee00fa47dd7b3"
+        },
+        {
+            "fight_id": "2fd0c6d914b77205",
+            "fighter_a": "Dmitry Sosnovskiy",
+            "fighter_b": "Mark Godbeer",
+            "winner": "Dmitry Sosnovskiy",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/2fd0c6d914b77205"
+        }
+    ]
+}

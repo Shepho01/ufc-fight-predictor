@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8fc8d66ad0074ab0",
+        "event_id": "0f7210aa8d61af8d",
+        "event_name": "UFC Fight Night: Moreno vs. Erceg",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:45",
+        "referee": "Mike Beltran",
+        "winner_id": "2e7878927067fdca"
+    },
+    "fighter_a": {
+        "fighter_id": "2e7878927067fdca",
+        "name": "Manuel Torres",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "23 of 25",
+            "Sig. str. %": "92%",
+            "Total str.": "23 of 25",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 25",
+            "Sig. str. %": "92%",
+            "Head": "21 of 23",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "7 of 9",
+            "Clinch": "0 of 0",
+            "Ground": "16 of 16"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "3 of 9",
+            "Sig. str. %": "33%",
+            "Total str.": "3 of 9",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "3 of 9",
+            "Sig. str. %": "33%",
+            "Head": "2 of 5",
+            "Body": "0 of 3",
+            "Leg": "1 of 1",
+            "Distance": "3 of 9",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "fighter_id": "bc711b6dd95c1af6",
+    "name": "Mario Bautista",
+    "record": "18-3-0",
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Switch",
+    "dob": "Jul 01, 1993",
+    "sig_strikes_landed_per_min": "5.52",
+    "sig_striking_accuracy": "50%",
+    "sig_strikes_absorbed_per_min": "4.17",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "2.49",
+    "takedown_accuracy": "38%",
+    "takedown_defense": "57%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "c572daedf2012a49",
+            "fight_url": "http://ufcstats.com/fight-details/c572daedf2012a49"
+        },
+        {
+            "fight_id": "fb4b1754d510b0d0",
+            "fight_url": "http://ufcstats.com/fight-details/fb4b1754d510b0d0"
+        },
+        {
+            "fight_id": "e69f9b4b9cae12a4",
+            "fight_url": "http://ufcstats.com/fight-details/e69f9b4b9cae12a4"
+        },
+        {
+            "fight_id": "df5dac45fc585fb0",
+            "fight_url": "http://ufcstats.com/fight-details/df5dac45fc585fb0"
+        },
+        {
+            "fight_id": "3d7d82fff71e395a",
+            "fight_url": "http://ufcstats.com/fight-details/3d7d82fff71e395a"
+        },
+        {
+            "fight_id": "a8239866e1222eae",
+            "fight_url": "http://ufcstats.com/fight-details/a8239866e1222eae"
+        },
+        {
+            "fight_id": "fd4d30036a3f3efb",
+            "fight_url": "http://ufcstats.com/fight-details/fd4d30036a3f3efb"
+        },
+        {
+            "fight_id": "2c58a97f2fe6c985",
+            "fight_url": "http://ufcstats.com/fight-details/2c58a97f2fe6c985"
+        },
+        {
+            "fight_id": "2ab395e21080b10a",
+            "fight_url": "http://ufcstats.com/fight-details/2ab395e21080b10a"
+        },
+        {
+            "fight_id": "24a9fc95a3112f51",
+            "fight_url": "http://ufcstats.com/fight-details/24a9fc95a3112f51"
+        },
+        {
+            "fight_id": "8cd583f6d10692bc",
+            "fight_url": "http://ufcstats.com/fight-details/8cd583f6d10692bc"
+        },
+        {
+            "fight_id": "c096342c57a6f2c4",
+            "fight_url": "http://ufcstats.com/fight-details/c096342c57a6f2c4"
+        },
+        {
+            "fight_id": "d3f44fedc561d2d5",
+            "fight_url": "http://ufcstats.com/fight-details/d3f44fedc561d2d5"
+        },
+        {
+            "fight_id": "24bcade0007c2246",
+            "fight_url": "http://ufcstats.com/fight-details/24bcade0007c2246"
+        },
+        {
+            "fight_id": "efbab76bedbfb65d",
+            "fight_url": "http://ufcstats.com/fight-details/efbab76bedbfb65d"
+        }
+    ]
+}

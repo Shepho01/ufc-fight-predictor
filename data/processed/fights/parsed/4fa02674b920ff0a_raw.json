@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4fa02674b920ff0a",
+        "event_id": "380e8b023290d091",
+        "event_name": "UFC 195: Lawler vs Condit",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Chris Tognoni",
+        "winner_id": "029eaff01e6bb8f0"
+    },
+    "fighter_a": {
+        "fighter_id": "029eaff01e6bb8f0",
+        "name": "Dustin Poirier",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "72 of 137",
+            "Sig. str. %": "52%",
+            "Total str.": "88 of 153",
+            "Td": "4 of 7",
+            "Td %": "57%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "9:22"
+        },
+        "significant_strikes": {
+            "Sig. str": "72 of 137",
+            "Sig. str. %": "52%",
+            "Head": "58 of 121",
+            "Body": "7 of 8",
+            "Leg": "7 of 8",
+            "Distance": "33 of 77",
+            "Clinch": "12 of 20",
+            "Ground": "27 of 40"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "654ae722109a0d31",
+        "name": "Joe Duffy",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "37 of 100",
+            "Sig. str. %": "37%",
+            "Total str.": "60 of 123",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "37 of 100",
+            "Sig. str. %": "37%",
+            "Head": "29 of 92",
+            "Body": "7 of 7",
+            "Leg": "1 of 1",
+            "Distance": "27 of 85",
+            "Clinch": "8 of 13",
+            "Ground": "2 of 2"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "fe9ee00fa47dd7b3",
+        "event_id": "eed2b71d77d95416",
+        "event_name": "UFC Fight Night: Werdum vs. Volkov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Leon Roberts",
+        "winner_id": "633a45d131192ffe"
+    },
+    "fighter_a": {
+        "fighter_id": "31a13532e724ca2b",
+        "name": "Stevie Ray",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "24 of 62",
+            "Sig. str. %": "38%",
+            "Total str.": "37 of 78",
+            "Td": "3 of 4",
+            "Td %": "75%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:40"
+        },
+        "significant_strikes": {
+            "Sig. str": "24 of 62",
+            "Sig. str. %": "38%",
+            "Head": "18 of 52",
+            "Body": "1 of 3",
+            "Leg": "5 of 7",
+            "Distance": "16 of 51",
+            "Clinch": "1 of 2",
+            "Ground": "7 of 9"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "633a45d131192ffe",
+        "name": "Kajan Johnson",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 54",
+            "Sig. str. %": "61%",
+            "Total str.": "37 of 58",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "4:12"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 54",
+            "Sig. str. %": "61%",
+            "Head": "7 of 22",
+            "Body": "13 of 16",
+            "Leg": "13 of 16",
+            "Distance": "24 of 42",
+            "Clinch": "0 of 1",
+            "Ground": "9 of 11"
+        }
+    }
+}

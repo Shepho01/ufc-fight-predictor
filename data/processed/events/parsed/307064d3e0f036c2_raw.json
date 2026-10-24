@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "307064d3e0f036c2",
+        "event_name": "UFC Fight Night: Holloway vs. Kattar",
+        "event_date": "January 16, 2021",
+        "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    },
+    "fights": [
+        {
+            "fight_id": "a4817b7e46028b4a",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Calvin Kattar",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a4817b7e46028b4a"
+        },
+        {
+            "fight_id": "6b0da0b1cda7799f",
+            "fighter_a": "Carlos Condit",
+            "fighter_b": "Matt Brown",
+            "winner": "Carlos Condit",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6b0da0b1cda7799f"
+        },
+        {
+            "fight_id": "aeb7ff8ce6e1beac",
+            "fighter_a": "Li Jingliang",
+            "fighter_b": "Santiago Ponzinibbio",
+            "winner": "Li Jingliang",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:25",
+            "fight_url": "http://ufcstats.com/fight-details/aeb7ff8ce6e1beac"
+        },
+        {
+            "fight_id": "775c1f401815bbd8",
+            "fighter_a": "Alessio Di Chirico",
+            "fighter_b": "Joaquin Buckley",
+            "winner": "Alessio Di Chirico",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "2:12",
+            "fight_url": "http://ufcstats.com/fight-details/775c1f401815bbd8"
+        },
+        {
+            "fight_id": "358f816aff469270",
+            "fighter_a": "Punahele Soriano",
+            "fighter_b": "Dusko Todorovic",
+            "winner": "Punahele Soriano",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:48",
+            "fight_url": "http://ufcstats.com/fight-details/358f816aff469270"
+        },
+        {
+            "fight_id": "97ad63e644757cf4",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Wu Yanan",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/97ad63e644757cf4"
+        },
+        {
+            "fight_id": "0165bd3c26f0c076",
+            "fighter_a": "Carlos Felipe",
+            "fighter_b": "Justin Tafa",
+            "winner": "Carlos Felipe",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0165bd3c26f0c076"
+        },
+        {
+            "fight_id": "3fcd53eb27945231",
+            "fighter_a": "Ramazan Emeev",
+            "fighter_b": "David Zawada",
+            "winner": "Ramazan Emeev",
+            "weight_class": "Welterweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3fcd53eb27945231"
+        },
+        {
+            "fight_id": "97c80f69ac312030",
+            "fighter_a": "Vanessa Melo",
+            "fighter_b": "Sarah Moras",
+            "winner": "Vanessa Melo",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/97c80f69ac312030"
+        },
+        {
+            "fight_id": "3d903bc35023f50a",
+            "fighter_a": "Austin Lingo",
+            "fighter_b": "Jacob Kilburn",
+            "winner": "Austin Lingo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3d903bc35023f50a"
+        }
+    ]
+}

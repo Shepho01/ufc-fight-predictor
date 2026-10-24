@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a25633b1494f1360",
+        "event_id": "d29b5c4f22c6357d",
+        "event_name": "UFC Fight Night: Rivera vs. Moraes",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Todd Ronald Anderson",
+        "winner_id": "2747c60e42d9d75f"
+    },
+    "fighter_a": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "61 of 144",
+            "Sig. str. %": "42%",
+            "Total str.": "63 of 146",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "61 of 144",
+            "Sig. str. %": "42%",
+            "Head": "31 of 107",
+            "Body": "24 of 28",
+            "Leg": "6 of 9",
+            "Distance": "61 of 144",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "2747c60e42d9d75f",
+        "name": "David Teymur",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "67 of 187",
+            "Sig. str. %": "35%",
+            "Total str.": "72 of 192",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "67 of 187",
+            "Sig. str. %": "35%",
+            "Head": "31 of 141",
+            "Body": "12 of 20",
+            "Leg": "24 of 26",
+            "Distance": "67 of 187",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

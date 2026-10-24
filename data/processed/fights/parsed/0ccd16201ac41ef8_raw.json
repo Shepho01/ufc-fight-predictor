@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "0ccd16201ac41ef8",
+        "event_id": "42c96a9c4802e2e1",
+        "event_name": "UFC Fight Night: Korean Zombie vs. Rodriguez",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 5,
+        "finish_time": "4:59",
+        "referee": "Kevin MacDonald",
+        "winner_id": "cbf5e6f231b55443"
+    },
+    "fighter_a": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "126 of 308",
+            "Sig. str. %": "40%",
+            "Total str.": "130 of 312",
+            "Td": "0 of 5",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:58"
+        },
+        "significant_strikes": {
+            "Sig. str": "126 of 308",
+            "Sig. str. %": "40%",
+            "Head": "111 of 285",
+            "Body": "9 of 14",
+            "Leg": "6 of 9",
+            "Distance": "114 of 293",
+            "Clinch": "12 of 15",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cbf5e6f231b55443",
+        "name": "Yair Rodriguez",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "119 of 271",
+            "Sig. str. %": "43%",
+            "Total str.": "129 of 281",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:19"
+        },
+        "significant_strikes": {
+            "Sig. str": "119 of 271",
+            "Sig. str. %": "43%",
+            "Head": "59 of 190",
+            "Body": "24 of 38",
+            "Leg": "36 of 43",
+            "Distance": "113 of 262",
+            "Clinch": "6 of 9",
+            "Ground": "0 of 0"
+        }
+    }
+}

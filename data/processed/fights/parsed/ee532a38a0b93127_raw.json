@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "ee532a38a0b93127",
+        "event_id": "ac9521250dc1a14c",
+        "event_name": "UFC Fight Night: Te Huna vs Marquardt",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:34",
+        "referee": "Steve Perceval",
+        "winner_id": "193b9d1858bc4df3"
+    },
+    "fighter_a": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "12 of 18",
+            "Sig. str. %": "66%",
+            "Total str.": "51 of 67",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:54"
+        },
+        "significant_strikes": {
+            "Sig. str": "12 of 18",
+            "Sig. str. %": "66%",
+            "Head": "11 of 17",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "3 of 5",
+            "Clinch": "1 of 1",
+            "Ground": "8 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "d7adfcfdf7c6c1f8",
+        "name": "Ian Entwistle",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "1 of 9",
+            "Sig. str. %": "11%",
+            "Total str.": "1 of 9",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "0:21"
+        },
+        "significant_strikes": {
+            "Sig. str": "1 of 9",
+            "Sig. str. %": "11%",
+            "Head": "0 of 8",
+            "Body": "1 of 1",
+            "Leg": "0 of 0",
+            "Distance": "0 of 8",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

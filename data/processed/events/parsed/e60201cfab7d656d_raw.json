@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "e60201cfab7d656d",
+        "event_name": "UFC Fight Night: Hunt vs Mir",
+        "event_date": "March 19, 2016",
+        "location": "Brisbane, Queensland, Australia"
+    },
+    "fights": [
+        {
+            "fight_id": "fb98219ce569b384",
+            "fighter_a": "Mark Hunt",
+            "fighter_b": "Frank Mir",
+            "winner": "Mark Hunt",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:01",
+            "fight_url": "http://ufcstats.com/fight-details/fb98219ce569b384"
+        },
+        {
+            "fight_id": "a26db2cee9eab1f9",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Hector Lombard",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "0:46",
+            "fight_url": "http://ufcstats.com/fight-details/a26db2cee9eab1f9"
+        },
+        {
+            "fight_id": "784a57385d0e87ff",
+            "fighter_a": "Jake Matthews",
+            "fighter_b": "Johnny Case",
+            "winner": "Jake Matthews",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "4:45",
+            "fight_url": "http://ufcstats.com/fight-details/784a57385d0e87ff"
+        },
+        {
+            "fight_id": "b33d1e693e3c9958",
+            "fighter_a": "Daniel Kelly",
+            "fighter_b": "Antonio Carlos Junior",
+            "winner": "Daniel Kelly",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "1:36",
+            "fight_url": "http://ufcstats.com/fight-details/b33d1e693e3c9958"
+        },
+        {
+            "fight_id": "cf13dd810b2bd061",
+            "fighter_a": "Steve Bosse",
+            "fighter_b": "James Te Huna",
+            "winner": "Steve Bosse",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:52",
+            "fight_url": "http://ufcstats.com/fight-details/cf13dd810b2bd061"
+        },
+        {
+            "fight_id": "8bf419824ca91470",
+            "fighter_a": "Bec Rawlings",
+            "fighter_b": "Seo Hee Ham",
+            "winner": "Bec Rawlings",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/8bf419824ca91470"
+        },
+        {
+            "fight_id": "ee31f081cf576273",
+            "fighter_a": "Alan Jouban",
+            "fighter_b": "Brendan O'Reilly",
+            "winner": "Alan Jouban",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Elbow",
+            "round": "1",
+            "time": "2:15",
+            "fight_url": "http://ufcstats.com/fight-details/ee31f081cf576273"
+        },
+        {
+            "fight_id": "e3fb9146a7eaaa47",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Mark Eddiva",
+            "winner": "Dan Hooker",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:24",
+            "fight_url": "http://ufcstats.com/fight-details/e3fb9146a7eaaa47"
+        },
+        {
+            "fight_id": "aa92030dfd8b5d40",
+            "fighter_a": "Leslie Smith",
+            "fighter_b": "Rin Nakai",
+            "winner": "Leslie Smith",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/aa92030dfd8b5d40"
+        },
+        {
+            "fight_id": "d2105d00baa3e15e",
+            "fighter_a": "Viscardi Andrade",
+            "fighter_b": "Richard Walsh",
+            "winner": "Viscardi Andrade",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d2105d00baa3e15e"
+        },
+        {
+            "fight_id": "f7c9f7a6edca5299",
+            "fighter_a": "Ross Pearson",
+            "fighter_b": "Chad Laprise",
+            "winner": "Ross Pearson",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f7c9f7a6edca5299"
+        },
+        {
+            "fight_id": "95d46f7a7e72f91c",
+            "fighter_a": "Alan Patrick",
+            "fighter_b": "Damien Brown",
+            "winner": "Alan Patrick",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/95d46f7a7e72f91c"
+        }
+    ]
+}

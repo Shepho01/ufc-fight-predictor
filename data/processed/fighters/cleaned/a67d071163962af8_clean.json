@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a67d071163962af8",
+    "name": "Michael Page",
+    "wins": 26,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 190.5,
+    "weight_lbs": 185,
+    "reach_cm": 200.66,
+    "stance": "Switch",
+    "dob_day": 7,
+    "dob_month": 4,
+    "dob_year": 1987,
+    "sig_strikes_landed_per_min": 2.04,
+    "sig_striking_accuracy": 0.56,
+    "sig_strikes_absorbed_per_min": 1.36,
+    "sig_strike_defense": 0.63,
+    "takedowns_landed_per_15_min": 0.16,
+    "takedown_accuracy": 0.12,
+    "takedown_defense": 0.65,
+    "submission_attempts_per_15_min": 0.2
+}

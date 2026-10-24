@@ -1,0 +1,23 @@
+{
+    "fighter_id": "a36a14985a57a1c6",
+    "name": "Zachary Micklewright",
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 182.88,
+    "weight_lbs": 155,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 21,
+    "dob_month": 8,
+    "dob_year": 1976,
+    "sig_strikes_landed_per_min": 5.56,
+    "sig_striking_accuracy": 0.53,
+    "sig_strikes_absorbed_per_min": 4.72,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.7,
+    "takedown_accuracy": 0.12,
+    "takedown_defense": 1.0,
+    "submission_attempts_per_15_min": 0.0
+}

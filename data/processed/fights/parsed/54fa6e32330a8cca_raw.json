@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "54fa6e32330a8cca",
+        "event_id": "81ddc98fceb30086",
+        "event_name": "UFC Fight Night: Dern vs. Ribas 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Chris Tognoni",
+        "winner_id": "d945aae53e3e54e6"
+    },
+    "fighter_a": {
+        "fighter_id": "d945aae53e3e54e6",
+        "name": "Thiago Moises",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "55 of 94",
+            "Sig. str. %": "58%",
+            "Total str.": "75 of 124",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "1",
+            "Ctrl": "7:30"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 94",
+            "Sig. str. %": "58%",
+            "Head": "36 of 65",
+            "Body": "2 of 4",
+            "Leg": "17 of 25",
+            "Distance": "22 of 51",
+            "Clinch": "0 of 0",
+            "Ground": "33 of 43"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "cfc3e7bb44685289",
+        "name": "Trey Ogden",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "59 of 95",
+            "Sig. str. %": "62%",
+            "Total str.": "117 of 168",
+            "Td": "1 of 1",
+            "Td %": "100%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:11"
+        },
+        "significant_strikes": {
+            "Sig. str": "59 of 95",
+            "Sig. str. %": "62%",
+            "Head": "24 of 57",
+            "Body": "7 of 9",
+            "Leg": "28 of 29",
+            "Distance": "58 of 94",
+            "Clinch": "0 of 0",
+            "Ground": "1 of 1"
+        }
+    }
+}

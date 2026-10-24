@@ -1,0 +1,120 @@
+{
+    "event": {
+        "event_id": "ca936c67687789e9",
+        "event_name": "UFC 313: Pereira vs. Ankalaev",
+        "event_date": "March 08, 2025",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "9e05fe95a4fc63bc",
+            "fighter_a": "Magomed Ankalaev",
+            "fighter_b": "Alex Pereira",
+            "winner": "Magomed Ankalaev",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9e05fe95a4fc63bc"
+        },
+        {
+            "fight_id": "a2f31cf3a28a7730",
+            "fighter_a": "Justin Gaethje",
+            "fighter_b": "Rafael Fiziev",
+            "winner": "Justin Gaethje",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a2f31cf3a28a7730"
+        },
+        {
+            "fight_id": "a3cd6a65aaa9f104",
+            "fighter_a": "Ignacio Bahamondes",
+            "fighter_b": "Jalin Turner",
+            "winner": "Ignacio Bahamondes",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Choke",
+            "round": "1",
+            "time": "2:29",
+            "fight_url": "http://ufcstats.com/fight-details/a3cd6a65aaa9f104"
+        },
+        {
+            "fight_id": "79f1c9f97d83ec83",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Iasmin Lucindo",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/79f1c9f97d83ec83"
+        },
+        {
+            "fight_id": "231968c02cdfe65e",
+            "fighter_a": "Mauricio Ruffy",
+            "fighter_b": "King Green",
+            "winner": "Mauricio Ruffy",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "1",
+            "time": "2:07",
+            "fight_url": "http://ufcstats.com/fight-details/231968c02cdfe65e"
+        },
+        {
+            "fight_id": "af3e43049bc86fe9",
+            "fighter_a": "Joshua Van",
+            "fighter_b": "Rei Tsuruya",
+            "winner": "Joshua Van",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/af3e43049bc86fe9"
+        },
+        {
+            "fight_id": "e61cb905f6152183",
+            "fighter_a": "Brunno Ferreira",
+            "fighter_b": "Armen Petrosyan",
+            "winner": "Brunno Ferreira",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": "2",
+            "time": "4:27",
+            "fight_url": "http://ufcstats.com/fight-details/e61cb905f6152183"
+        },
+        {
+            "fight_id": "cab4937435d081d0",
+            "fighter_a": "Carlos Leal",
+            "fighter_b": "Alex Morono",
+            "winner": "Carlos Leal",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "4:16",
+            "fight_url": "http://ufcstats.com/fight-details/cab4937435d081d0"
+        },
+        {
+            "fight_id": "19fe7177254802d1",
+            "fighter_a": "Mairon Santos",
+            "fighter_b": "Francis Marshall",
+            "winner": "Mairon Santos",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/19fe7177254802d1"
+        },
+        {
+            "fight_id": "96c2f85b46e98e91",
+            "fighter_a": "Ozzy Diaz",
+            "fighter_b": "Djorden Santos",
+            "winner": "Ozzy Diaz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/96c2f85b46e98e91"
+        }
+    ]
+}

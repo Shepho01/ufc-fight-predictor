@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "e0b74df14f52cd15",
+        "event_name": "UFC 162: Silva vs Weidman",
+        "event_day": 6,
+        "event_month": 7,
+        "event_year": 2013,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "9a6a6716cdfadc98",
+            "fighter_a": "Chris Weidman",
+            "fighter_b": "Anderson Silva",
+            "winner": "Chris Weidman",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/9a6a6716cdfadc98"
+        },
+        {
+            "fight_id": "6453b20a65c62cfe",
+            "fighter_a": "Frankie Edgar",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Frankie Edgar",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6453b20a65c62cfe"
+        },
+        {
+            "fight_id": "b57f68fa967fa59e",
+            "fighter_a": "Tim Kennedy",
+            "fighter_b": "Roger Gracie",
+            "winner": "Tim Kennedy",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b57f68fa967fa59e"
+        },
+        {
+            "fight_id": "8c124a6196e39ad8",
+            "fighter_a": "Mark Munoz",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Mark Munoz",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8c124a6196e39ad8"
+        },
+        {
+            "fight_id": "c3601529b7a7d489",
+            "fighter_a": "Cub Swanson",
+            "fighter_b": "Dennis Siver",
+            "winner": "Cub Swanson",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 144,
+            "fight_url": "http://ufcstats.com/fight-details/c3601529b7a7d489"
+        },
+        {
+            "fight_id": "701279417e0bf776",
+            "fighter_a": "Andrew Craig",
+            "fighter_b": "Chris Leben",
+            "winner": "Andrew Craig",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/701279417e0bf776"
+        },
+        {
+            "fight_id": "86bbe429ae27d913",
+            "fighter_a": "Norman Parke",
+            "fighter_b": "Kazuki Tokudome",
+            "winner": "Norman Parke",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/86bbe429ae27d913"
+        },
+        {
+            "fight_id": "c5de5c3633a0bfce",
+            "fighter_a": "Gabriel Gonzaga",
+            "fighter_b": "Dave Herman",
+            "winner": "Gabriel Gonzaga",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 17,
+            "fight_url": "http://ufcstats.com/fight-details/c5de5c3633a0bfce"
+        },
+        {
+            "fight_id": "005723fb99440272",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Rafaello Oliveira",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kicks",
+            "round": 2,
+            "time_seconds": 104,
+            "fight_url": "http://ufcstats.com/fight-details/005723fb99440272"
+        },
+        {
+            "fight_id": "faca931257ad2e92",
+            "fighter_a": "Brian Melancon",
+            "fighter_b": "Seth Baczynski",
+            "winner": "Brian Melancon",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/faca931257ad2e92"
+        },
+        {
+            "fight_id": "a7cc5dc1a5c1e643",
+            "fighter_a": "Mike Pierce",
+            "fighter_b": "David Mitchell",
+            "winner": "Mike Pierce",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 175,
+            "fight_url": "http://ufcstats.com/fight-details/a7cc5dc1a5c1e643"
+        }
+    ]
+}

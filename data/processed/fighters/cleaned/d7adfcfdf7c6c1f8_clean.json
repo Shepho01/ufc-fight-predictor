@@ -1,0 +1,23 @@
+{
+    "fighter_id": "d7adfcfdf7c6c1f8",
+    "name": "Ian Entwistle",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 165.1,
+    "weight_lbs": 135,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 19,
+    "dob_month": 11,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 0.11,
+    "sig_striking_accuracy": 0.07,
+    "sig_strikes_absorbed_per_min": 7.36,
+    "sig_strike_defense": 0.31,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_attempts_per_15_min": 12.1
+}

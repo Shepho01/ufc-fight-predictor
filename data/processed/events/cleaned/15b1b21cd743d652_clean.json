@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "15b1b21cd743d652",
+        "event_name": "UFC Fight Night: Holloway vs. Allen",
+        "event_day": 15,
+        "event_month": 4,
+        "event_year": 2023,
+        "location": "Kansas City, Missouri, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "6049301b4deea035",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Arnold Allen",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6049301b4deea035"
+        },
+        {
+            "fight_id": "83c81018bb3aeebf",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Billy Quarantillo",
+            "winner": "Edson Barboza",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 157,
+            "fight_url": "http://ufcstats.com/fight-details/83c81018bb3aeebf"
+        },
+        {
+            "fight_id": "792f139c2b9fd294",
+            "fighter_a": "Azamat Murzakanov",
+            "fighter_b": "Dustin Jacoby",
+            "winner": "Azamat Murzakanov",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/792f139c2b9fd294"
+        },
+        {
+            "fight_id": "995e79b951da945b",
+            "fighter_a": "Ion Cutelaba",
+            "fighter_b": "Tanner Boser",
+            "winner": "Ion Cutelaba",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 125,
+            "fight_url": "http://ufcstats.com/fight-details/995e79b951da945b"
+        },
+        {
+            "fight_id": "d856812dc733690a",
+            "fighter_a": "Pedro Munhoz",
+            "fighter_b": "Chris Gutierrez",
+            "winner": "Pedro Munhoz",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d856812dc733690a"
+        },
+        {
+            "fight_id": "bdbddbc00d07dc4b",
+            "fighter_a": "Rafa Garcia",
+            "fighter_b": "Clay Guida",
+            "winner": "Rafa Garcia",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/bdbddbc00d07dc4b"
+        },
+        {
+            "fight_id": "b01e6e97d66681c5",
+            "fighter_a": "Bill Algeo",
+            "fighter_b": "TJ Brown",
+            "winner": "Bill Algeo",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 100,
+            "fight_url": "http://ufcstats.com/fight-details/b01e6e97d66681c5"
+        },
+        {
+            "fight_id": "bbde45b2c766bb67",
+            "fighter_a": "Brandon Royval",
+            "fighter_b": "Matheus Nicolau",
+            "winner": "Brandon Royval",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Knee",
+            "round": 1,
+            "time_seconds": 129,
+            "fight_url": "http://ufcstats.com/fight-details/bbde45b2c766bb67"
+        },
+        {
+            "fight_id": "50e675146cda6e7c",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Ed Herman",
+            "winner": "Zak Cummings",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/50e675146cda6e7c"
+        },
+        {
+            "fight_id": "68c1b833ed8849a3",
+            "fighter_a": "Gillian Robertson",
+            "fighter_b": "Piera Rodriguez",
+            "winner": "Gillian Robertson",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/68c1b833ed8849a3"
+        },
+        {
+            "fight_id": "cef255a992ba7af3",
+            "fighter_a": "Daniel Zellhuber",
+            "fighter_b": "Lando Vannata",
+            "winner": "Daniel Zellhuber",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cef255a992ba7af3"
+        },
+        {
+            "fight_id": "5de3a1bbcf705b58",
+            "fighter_a": "Denise Gomes",
+            "fighter_b": "Bruna Brasil",
+            "winner": "Denise Gomes",
+            "weight_class": "Women's Strawweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 162,
+            "fight_url": "http://ufcstats.com/fight-details/5de3a1bbcf705b58"
+        },
+        {
+            "fight_id": "119559fd8124fee3",
+            "fighter_a": "Gaston Bolanos",
+            "fighter_b": "Aaron Phillips",
+            "winner": "Gaston Bolanos",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/119559fd8124fee3"
+        },
+        {
+            "fight_id": "8b2b2562884821a7",
+            "fighter_a": "Joselyne Edwards",
+            "fighter_b": "Lucie Pudilova",
+            "winner": "Joselyne Edwards",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8b2b2562884821a7"
+        }
+    ]
+}

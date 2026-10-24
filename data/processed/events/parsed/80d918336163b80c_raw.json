@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "80d918336163b80c",
+        "event_name": "UFC on FOX: Dos Anjos vs. Cowboy 2",
+        "event_date": "December 19, 2015",
+        "location": "Orlando, Florida, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "81f287d035190506",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Donald Cerrone",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:06",
+            "fight_url": "http://ufcstats.com/fight-details/81f287d035190506"
+        },
+        {
+            "fight_id": "1f0254eeb2025e4f",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Junior Dos Santos",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:43",
+            "fight_url": "http://ufcstats.com/fight-details/1f0254eeb2025e4f"
+        },
+        {
+            "fight_id": "4942323a5d5a6594",
+            "fighter_a": "Nate Diaz",
+            "fighter_b": "Michael Johnson",
+            "winner": "Nate Diaz",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4942323a5d5a6594"
+        },
+        {
+            "fight_id": "95ead23dc0c73285",
+            "fighter_a": "Karolina Kowalkiewicz",
+            "fighter_b": "Randa Markos",
+            "winner": "Karolina Kowalkiewicz",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/95ead23dc0c73285"
+        },
+        {
+            "fight_id": "164f56eb25d6a9b4",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Myles Jury",
+            "winner": "Charles Oliveira",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "3:05",
+            "fight_url": "http://ufcstats.com/fight-details/164f56eb25d6a9b4"
+        },
+        {
+            "fight_id": "3fc9fea36fc7ec37",
+            "fighter_a": "Nate Marquardt",
+            "fighter_b": "CB Dollaway",
+            "winner": "Nate Marquardt",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:28",
+            "fight_url": "http://ufcstats.com/fight-details/3fc9fea36fc7ec37"
+        },
+        {
+            "fight_id": "b26ec098a5a57401",
+            "fighter_a": "Valentina Shevchenko",
+            "fighter_b": "Sarah Kaufman",
+            "winner": "Valentina Shevchenko",
+            "weight_class": "Women's Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b26ec098a5a57401"
+        },
+        {
+            "fight_id": "7c883cf0b5eedc59",
+            "fighter_a": "Tamdan McCrory",
+            "fighter_b": "Josh Samman",
+            "winner": "Tamdan McCrory",
+            "weight_class": "Middleweight",
+            "method": "SUB Triangle Choke",
+            "round": "3",
+            "time": "4:10",
+            "fight_url": "http://ufcstats.com/fight-details/7c883cf0b5eedc59"
+        },
+        {
+            "fight_id": "0ad5c6752e679de5",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Danny Castillo",
+            "winner": "Nik Lentz",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0ad5c6752e679de5"
+        },
+        {
+            "fight_id": "b2857e799319f931",
+            "fighter_a": "Cole Miller",
+            "fighter_b": "Jim Alers",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "CNC",
+            "round": "2",
+            "time": "1:34",
+            "fight_url": "http://ufcstats.com/fight-details/b2857e799319f931"
+        },
+        {
+            "fight_id": "2f0bfdc3c325662d",
+            "fighter_a": "Kamaru Usman",
+            "fighter_b": "Leon Edwards",
+            "winner": "Kamaru Usman",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2f0bfdc3c325662d"
+        },
+        {
+            "fight_id": "e1ec8774466db669",
+            "fighter_a": "Vicente Luque",
+            "fighter_b": "Hayder Hassan",
+            "winner": "Vicente Luque",
+            "weight_class": "Welterweight",
+            "method": "SUB Anaconda Choke",
+            "round": "1",
+            "time": "2:13",
+            "fight_url": "http://ufcstats.com/fight-details/e1ec8774466db669"
+        },
+        {
+            "fight_id": "f7fd4b82e827c9c4",
+            "fighter_a": "Francis Ngannou",
+            "fighter_b": "Luis Henrique",
+            "winner": "Francis Ngannou",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:53",
+            "fight_url": "http://ufcstats.com/fight-details/f7fd4b82e827c9c4"
+        }
+    ]
+}

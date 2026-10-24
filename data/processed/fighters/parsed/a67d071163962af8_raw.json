@@ -1,0 +1,44 @@
+{
+    "fighter_id": "a67d071163962af8",
+    "name": "Michael Page",
+    "record": "26-3-0",
+    "height": "6' 3\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Switch",
+    "dob": "Apr 07, 1987",
+    "sig_strikes_landed_per_min": "2.04",
+    "sig_striking_accuracy": "56%",
+    "sig_strikes_absorbed_per_min": "1.36",
+    "sig_strike_defense": "63%",
+    "takedowns_landed_per_15_min": "0.16",
+    "takedown_accuracy": "12%",
+    "takedown_defense": "65%",
+    "submission_attempts_per_15_min": "0.2",
+    "fight_history": [
+        {
+            "fight_id": "c23197c7e4f2fd9d",
+            "fight_url": "http://ufcstats.com/fight-details/c23197c7e4f2fd9d"
+        },
+        {
+            "fight_id": "5ee11b727e89e8ad",
+            "fight_url": "http://ufcstats.com/fight-details/5ee11b727e89e8ad"
+        },
+        {
+            "fight_id": "9939d7073462e07e",
+            "fight_url": "http://ufcstats.com/fight-details/9939d7073462e07e"
+        },
+        {
+            "fight_id": "426e7a3de68117b0",
+            "fight_url": "http://ufcstats.com/fight-details/426e7a3de68117b0"
+        },
+        {
+            "fight_id": "fbf77262d8da342b",
+            "fight_url": "http://ufcstats.com/fight-details/fbf77262d8da342b"
+        },
+        {
+            "fight_id": "270edfb687c0d20c",
+            "fight_url": "http://ufcstats.com/fight-details/270edfb687c0d20c"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2361b51aa72e5551",
+        "event_id": "7929be8290289a47",
+        "event_name": "UFC 222: Cyborg vs. Kunitskaya",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "4:44",
+        "referee": "Jason Herzog",
+        "winner_id": "def8166ff24bd237"
+    },
+    "fighter_a": {
+        "fighter_id": "f2688492b9a525a3",
+        "name": "Frankie Edgar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "27 of 77",
+            "Sig. str. %": "35%",
+            "Total str.": "27 of 77",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "27 of 77",
+            "Sig. str. %": "35%",
+            "Head": "12 of 59",
+            "Body": "10 of 13",
+            "Leg": "5 of 5",
+            "Distance": "27 of 76",
+            "Clinch": "0 of 1",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "def8166ff24bd237",
+        "name": "Brian Ortega",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "25 of 76",
+            "Sig. str. %": "32%",
+            "Total str.": "25 of 77",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 76",
+            "Sig. str. %": "32%",
+            "Head": "21 of 71",
+            "Body": "3 of 4",
+            "Leg": "1 of 1",
+            "Distance": "17 of 66",
+            "Clinch": "6 of 8",
+            "Ground": "2 of 2"
+        }
+    }
+}

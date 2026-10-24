@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "bcd124bcd3d5be46",
+        "event_name": "UFC Fight Night: Swanson vs. Ortega",
+        "event_date": "December 09, 2017",
+        "location": "Fresno, California, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "1d166488129030d0",
+            "fighter_a": "Brian Ortega",
+            "fighter_b": "Cub Swanson",
+            "winner": "Brian Ortega",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "3:22",
+            "fight_url": "http://ufcstats.com/fight-details/1d166488129030d0"
+        },
+        {
+            "fight_id": "0a444f30cae13d8f",
+            "fighter_a": "Gabriel Benitez",
+            "fighter_b": "Jason Knight",
+            "winner": "Gabriel Benitez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0a444f30cae13d8f"
+        },
+        {
+            "fight_id": "1aaa1a9ceecd6063",
+            "fighter_a": "Marlon Moraes",
+            "fighter_b": "Aljamain Sterling",
+            "winner": "Marlon Moraes",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "1:07",
+            "fight_url": "http://ufcstats.com/fight-details/1aaa1a9ceecd6063"
+        },
+        {
+            "fight_id": "6fe21a4cb2d839fd",
+            "fighter_a": "Scott Holtzman",
+            "fighter_b": "Darrell Horcher",
+            "winner": "Scott Holtzman",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6fe21a4cb2d839fd"
+        },
+        {
+            "fight_id": "c9e19742c4146bff",
+            "fighter_a": "Eryk Anders",
+            "fighter_b": "Markus Perez",
+            "winner": "Eryk Anders",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c9e19742c4146bff"
+        },
+        {
+            "fight_id": "bc84680df666c96d",
+            "fighter_a": "Benito Lopez",
+            "fighter_b": "Albert Morales",
+            "winner": "Benito Lopez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc84680df666c96d"
+        },
+        {
+            "fight_id": "10a1947cb3feabc1",
+            "fighter_a": "Alexis Davis",
+            "fighter_b": "Liz Carmouche",
+            "winner": "Alexis Davis",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/10a1947cb3feabc1"
+        },
+        {
+            "fight_id": "fbce8f52689bce87",
+            "fighter_a": "Andre Soukhamthath",
+            "fighter_b": "Luke Sanders",
+            "winner": "Andre Soukhamthath",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "1:06",
+            "fight_url": "http://ufcstats.com/fight-details/fbce8f52689bce87"
+        },
+        {
+            "fight_id": "061081f46950fdb0",
+            "fighter_a": "Alex Perez",
+            "fighter_b": "Carls John De Tomas",
+            "winner": "Alex Perez",
+            "weight_class": "Bantamweight",
+            "method": "SUB Anaconda Choke",
+            "round": "2",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/061081f46950fdb0"
+        },
+        {
+            "fight_id": "ab853176cfe20b01",
+            "fighter_a": "Frankie Saenz",
+            "fighter_b": "Merab Dvalishvili",
+            "winner": "Frankie Saenz",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ab853176cfe20b01"
+        },
+        {
+            "fight_id": "1ed266bed8005bbe",
+            "fighter_a": "Alejandro Perez",
+            "fighter_b": "Iuri Alcantara",
+            "winner": "Alejandro Perez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1ed266bed8005bbe"
+        },
+        {
+            "fight_id": "f9536ea60551b840",
+            "fighter_a": "Davi Ramos",
+            "fighter_b": "Chris Gruetzemacher",
+            "winner": "Davi Ramos",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "0:50",
+            "fight_url": "http://ufcstats.com/fight-details/f9536ea60551b840"
+        },
+        {
+            "fight_id": "7a57289563f9d974",
+            "fighter_a": "Trevin Giles",
+            "fighter_b": "Antonio Braga Neto",
+            "winner": "Trevin Giles",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:27",
+            "fight_url": "http://ufcstats.com/fight-details/7a57289563f9d974"
+        }
+    ]
+}

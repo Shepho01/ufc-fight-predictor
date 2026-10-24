@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "2ab47d509ee7dc6d",
+        "event_id": "a4dd5c9a75763295",
+        "event_name": "UFC Fight Night: Barnett vs Nelson",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Greg Kleynjans",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "35faad160d346839",
+        "name": "Mizuto Hirota",
+        "result": "D",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "62 of 183",
+            "Sig. str. %": "33%",
+            "Total str.": "100 of 225",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "3:26"
+        },
+        "significant_strikes": {
+            "Sig. str": "62 of 183",
+            "Sig. str. %": "33%",
+            "Head": "55 of 165",
+            "Body": "4 of 13",
+            "Leg": "3 of 5",
+            "Distance": "49 of 163",
+            "Clinch": "13 of 20",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "88cd34d836b4ebcd",
+        "name": "Teruto Ishihara",
+        "result": "D",
+        "totals": {
+            "KD": "2",
+            "Sig. str.": "88 of 168",
+            "Sig. str. %": "52%",
+            "Total str.": "89 of 169",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "88 of 168",
+            "Sig. str. %": "52%",
+            "Head": "62 of 134",
+            "Body": "14 of 22",
+            "Leg": "12 of 12",
+            "Distance": "82 of 154",
+            "Clinch": "5 of 13",
+            "Ground": "1 of 1"
+        }
+    }
+}

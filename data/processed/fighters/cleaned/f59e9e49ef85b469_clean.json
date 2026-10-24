@@ -1,0 +1,23 @@
+{
+    "fighter_id": "f59e9e49ef85b469",
+    "name": "Jason Young",
+    "wins": 9,
+    "losses": 6,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 28,
+    "dob_month": 6,
+    "dob_year": 1986,
+    "sig_strikes_landed_per_min": 2.97,
+    "sig_striking_accuracy": 0.37,
+    "sig_strikes_absorbed_per_min": 3.2,
+    "sig_strike_defense": 0.5,
+    "takedowns_landed_per_15_min": 1.98,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.55,
+    "submission_attempts_per_15_min": 0.0
+}

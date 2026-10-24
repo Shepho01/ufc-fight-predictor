@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "4985113c0928aa62",
+        "event_name": "UFC 146: Dos Santos vs Mir",
+        "event_date": "May 26, 2012",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "41e6ace08a2679e1",
+            "fighter_a": "Junior Dos Santos",
+            "fighter_b": "Frank Mir",
+            "winner": "Junior Dos Santos",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "3:04",
+            "fight_url": "http://ufcstats.com/fight-details/41e6ace08a2679e1"
+        },
+        {
+            "fight_id": "1a699da1b1b5ef85",
+            "fighter_a": "Cain Velasquez",
+            "fighter_b": "Antonio Silva",
+            "winner": "Cain Velasquez",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:36",
+            "fight_url": "http://ufcstats.com/fight-details/1a699da1b1b5ef85"
+        },
+        {
+            "fight_id": "00cf159d5e637238",
+            "fighter_a": "Roy Nelson",
+            "fighter_b": "Dave Herman",
+            "winner": "Roy Nelson",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:51",
+            "fight_url": "http://ufcstats.com/fight-details/00cf159d5e637238"
+        },
+        {
+            "fight_id": "cd2a60453f8ac133",
+            "fighter_a": "Stipe Miocic",
+            "fighter_b": "Shane del Rosario",
+            "winner": "Stipe Miocic",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Elbows",
+            "round": "2",
+            "time": "3:14",
+            "fight_url": "http://ufcstats.com/fight-details/cd2a60453f8ac133"
+        },
+        {
+            "fight_id": "a8dc7400f270a144",
+            "fighter_a": "Stefan Struve",
+            "fighter_b": "Lavar Johnson",
+            "winner": "Stefan Struve",
+            "weight_class": "Heavyweight",
+            "method": "SUB Armbar",
+            "round": "1",
+            "time": "1:05",
+            "fight_url": "http://ufcstats.com/fight-details/a8dc7400f270a144"
+        },
+        {
+            "fight_id": "b187bdcc2ceba00f",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Diego Brandao",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b187bdcc2ceba00f"
+        },
+        {
+            "fight_id": "9cdeb62aa9092713",
+            "fighter_a": "Jamie Varner",
+            "fighter_b": "Edson Barboza",
+            "winner": "Jamie Varner",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "3:23",
+            "fight_url": "http://ufcstats.com/fight-details/9cdeb62aa9092713"
+        },
+        {
+            "fight_id": "de8e1dd07ad49c94",
+            "fighter_a": "CB Dollaway",
+            "fighter_b": "Jason Miller",
+            "winner": "CB Dollaway",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/de8e1dd07ad49c94"
+        },
+        {
+            "fight_id": "8238c5f16d0b39c3",
+            "fighter_a": "Dan Hardy",
+            "fighter_b": "Duane Ludwig",
+            "winner": "Dan Hardy",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:51",
+            "fight_url": "http://ufcstats.com/fight-details/8238c5f16d0b39c3"
+        },
+        {
+            "fight_id": "3fc1ebe73920a2a7",
+            "fighter_a": "Paul Sass",
+            "fighter_b": "Jacob Volkmann",
+            "winner": "Paul Sass",
+            "weight_class": "Lightweight",
+            "method": "SUB Triangle Armbar",
+            "round": "1",
+            "time": "1:54",
+            "fight_url": "http://ufcstats.com/fight-details/3fc1ebe73920a2a7"
+        },
+        {
+            "fight_id": "a6a1adfeab7f7bb7",
+            "fighter_a": "Glover Teixeira",
+            "fighter_b": "Kyle Kingsbury",
+            "winner": "Glover Teixeira",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Arm Triangle",
+            "round": "1",
+            "time": "1:53",
+            "fight_url": "http://ufcstats.com/fight-details/a6a1adfeab7f7bb7"
+        },
+        {
+            "fight_id": "d5457867cbd0caf7",
+            "fighter_a": "Mike Brown",
+            "fighter_b": "Daniel Pineda",
+            "winner": "Mike Brown",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d5457867cbd0caf7"
+        }
+    ]
+}

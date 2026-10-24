@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9ed0c3acc436eb56",
+        "event_id": "1507214bbc7a79e2",
+        "event_name": "UFC 212: Aldo vs. Holloway",
+        "weight_class": "Featherweight",
+        "title_fight": true,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 3,
+        "finish_time": "4:13",
+        "referee": "John McCarthy",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "d0f3959b4a9747e6",
+        "name": "Jose Aldo",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "55 of 113",
+            "Sig. str. %": "48%",
+            "Total str.": "56 of 115",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "55 of 113",
+            "Sig. str. %": "48%",
+            "Head": "41 of 93",
+            "Body": "13 of 19",
+            "Leg": "1 of 1",
+            "Distance": "53 of 111",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "104 of 207",
+            "Sig. str. %": "50%",
+            "Total str.": "128 of 234",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:04"
+        },
+        "significant_strikes": {
+            "Sig. str": "104 of 207",
+            "Sig. str. %": "50%",
+            "Head": "87 of 185",
+            "Body": "16 of 21",
+            "Leg": "1 of 1",
+            "Distance": "61 of 149",
+            "Clinch": "2 of 3",
+            "Ground": "41 of 55"
+        }
+    }
+}

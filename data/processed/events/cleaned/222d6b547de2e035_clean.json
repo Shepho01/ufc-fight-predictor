@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "222d6b547de2e035",
+        "event_name": "The Ultimate Fighter: A Champion Will Be Crowned Finale",
+        "event_day": 12,
+        "event_month": 12,
+        "event_year": 2014,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "73c70a628f0ef14b",
+            "fighter_a": "Carla Esparza",
+            "fighter_b": "Rose Namajunas",
+            "winner": "Carla Esparza",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 86,
+            "fight_url": "http://ufcstats.com/fight-details/73c70a628f0ef14b"
+        },
+        {
+            "fight_id": "18ba44e67d5c5f38",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Charles Oliveira",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/18ba44e67d5c5f38"
+        },
+        {
+            "fight_id": "da3210cd829fceb7",
+            "fighter_a": "KJ Noons",
+            "fighter_b": "Daron Cruickshank",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "CNC",
+            "round": 2,
+            "time_seconds": 25,
+            "fight_url": "http://ufcstats.com/fight-details/da3210cd829fceb7"
+        },
+        {
+            "fight_id": "d417609ea9670fb3",
+            "fighter_a": "Yancy Medeiros",
+            "fighter_b": "Joe Proctor",
+            "winner": "Yancy Medeiros",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 277,
+            "fight_url": "http://ufcstats.com/fight-details/d417609ea9670fb3"
+        },
+        {
+            "fight_id": "fa2bed87e5d6c568",
+            "fighter_a": "Jessica Penne",
+            "fighter_b": "Randa Markos",
+            "winner": "Jessica Penne",
+            "weight_class": "Women's Strawweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/fa2bed87e5d6c568"
+        },
+        {
+            "fight_id": "e1cfe75b3a8fe709",
+            "fighter_a": "Felice Herrig",
+            "fighter_b": "Lisa Ellis",
+            "winner": "Felice Herrig",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 185,
+            "fight_url": "http://ufcstats.com/fight-details/e1cfe75b3a8fe709"
+        },
+        {
+            "fight_id": "54afe8c42e2062d6",
+            "fighter_a": "Heather Clark",
+            "fighter_b": "Bec Rawlings",
+            "winner": "Heather Clark",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/54afe8c42e2062d6"
+        },
+        {
+            "fight_id": "b079f3d5ad290afb",
+            "fighter_a": "Joanne Wood",
+            "fighter_b": "Seo Hee Ham",
+            "winner": "Joanne Wood",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b079f3d5ad290afb"
+        },
+        {
+            "fight_id": "ed3222701a8c0521",
+            "fighter_a": "Tecia Pennington",
+            "fighter_b": "Angela Magana",
+            "winner": "Tecia Pennington",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ed3222701a8c0521"
+        },
+        {
+            "fight_id": "a2c28daf0be59fa7",
+            "fighter_a": "Aisling Daly",
+            "fighter_b": "Alex Chambers",
+            "winner": "Aisling Daly",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 293,
+            "fight_url": "http://ufcstats.com/fight-details/a2c28daf0be59fa7"
+        },
+        {
+            "fight_id": "d643fc29c147d33c",
+            "fighter_a": "Angela Hill",
+            "fighter_b": "Emily Kagan",
+            "winner": "Angela Hill",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d643fc29c147d33c"
+        }
+    ]
+}

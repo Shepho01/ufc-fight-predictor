@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f22d193f3ab42bc5",
+        "event_id": "bc7cf284c1c2f16e",
+        "event_name": "UFC on FOX: Machida vs Rockhold",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 3,
+        "finish_time": "3:58",
+        "referee": "Gasper Oliver",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "d247691a6c0e9034",
+        "name": "Cub Swanson",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 136",
+            "Sig. str. %": "41%",
+            "Total str.": "58 of 138",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 136",
+            "Sig. str. %": "41%",
+            "Head": "29 of 98",
+            "Body": "10 of 15",
+            "Leg": "17 of 23",
+            "Distance": "54 of 133",
+            "Clinch": "2 of 2",
+            "Ground": "0 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "82 of 198",
+            "Sig. str. %": "41%",
+            "Total str.": "86 of 202",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "1:28"
+        },
+        "significant_strikes": {
+            "Sig. str": "82 of 198",
+            "Sig. str. %": "41%",
+            "Head": "51 of 163",
+            "Body": "24 of 28",
+            "Leg": "7 of 7",
+            "Distance": "73 of 185",
+            "Clinch": "4 of 5",
+            "Ground": "5 of 8"
+        }
+    }
+}

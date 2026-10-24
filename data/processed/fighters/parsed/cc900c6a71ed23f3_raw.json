@@ -1,0 +1,36 @@
+{
+    "fighter_id": "cc900c6a71ed23f3",
+    "name": "Clay Collard",
+    "record": "14-7-0 (1 NC)",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Mar 10, 1993",
+    "sig_strikes_landed_per_min": "4.22",
+    "sig_striking_accuracy": "32%",
+    "sig_strikes_absorbed_per_min": "5.00",
+    "sig_strike_defense": "50%",
+    "takedowns_landed_per_15_min": "2.81",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "71%",
+    "submission_attempts_per_15_min": "0.5",
+    "fight_history": [
+        {
+            "fight_id": "777df8b5e28f42ff",
+            "fight_url": "http://ufcstats.com/fight-details/777df8b5e28f42ff"
+        },
+        {
+            "fight_id": "0452dd001f4adb6e",
+            "fight_url": "http://ufcstats.com/fight-details/0452dd001f4adb6e"
+        },
+        {
+            "fight_id": "bf1a7590c455bc7b",
+            "fight_url": "http://ufcstats.com/fight-details/bf1a7590c455bc7b"
+        },
+        {
+            "fight_id": "56fbc2a376569c13",
+            "fight_url": "http://ufcstats.com/fight-details/56fbc2a376569c13"
+        }
+    ]
+}

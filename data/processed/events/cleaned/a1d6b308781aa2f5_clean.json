@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "a1d6b308781aa2f5",
+        "event_name": "UFC Fight Night: Gane vs. Volkov",
+        "event_day": 26,
+        "event_month": 6,
+        "event_year": 2021,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "78afed76d0e9a639",
+            "fighter_a": "Ciryl Gane",
+            "fighter_b": "Alexander Volkov",
+            "winner": "Ciryl Gane",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/78afed76d0e9a639"
+        },
+        {
+            "fight_id": "d40eae4425092219",
+            "fighter_a": "Tanner Boser",
+            "fighter_b": "Ovince Saint Preux",
+            "winner": "Tanner Boser",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 151,
+            "fight_url": "http://ufcstats.com/fight-details/d40eae4425092219"
+        },
+        {
+            "fight_id": "ce0fda34122f3d48",
+            "fighter_a": "Timur Valiev",
+            "fighter_b": "Raoni Barcelos",
+            "winner": "Timur Valiev",
+            "weight_class": "Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ce0fda34122f3d48"
+        },
+        {
+            "fight_id": "4622ec182e7fed6b",
+            "fighter_a": "Andre Fili",
+            "fighter_b": "Daniel Pineda",
+            "winner": null,
+            "weight_class": "Featherweight",
+            "method": "CNC",
+            "round": 2,
+            "time_seconds": 46,
+            "fight_url": "http://ufcstats.com/fight-details/4622ec182e7fed6b"
+        },
+        {
+            "fight_id": "c9283da5f4d7aaf4",
+            "fighter_a": "Tim Means",
+            "fighter_b": "Nicolas Dalby",
+            "winner": "Tim Means",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c9283da5f4d7aaf4"
+        },
+        {
+            "fight_id": "4341ebb5a56e6943",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Jai Herbert",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/4341ebb5a56e6943"
+        },
+        {
+            "fight_id": "85099c6378ff87c5",
+            "fighter_a": "Kennedy Nzechukwu",
+            "fighter_b": "Danilo Marques",
+            "winner": "Kennedy Nzechukwu",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 20,
+            "fight_url": "http://ufcstats.com/fight-details/85099c6378ff87c5"
+        },
+        {
+            "fight_id": "086c2a0cae0835c4",
+            "fighter_a": "Shavkat Rakhmonov",
+            "fighter_b": "Michel Prazeres",
+            "winner": "Shavkat Rakhmonov",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 130,
+            "fight_url": "http://ufcstats.com/fight-details/086c2a0cae0835c4"
+        },
+        {
+            "fight_id": "81de3929330076d2",
+            "fighter_a": "Jeremiah Wells",
+            "fighter_b": "Warlley Alves",
+            "winner": "Jeremiah Wells",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 30,
+            "fight_url": "http://ufcstats.com/fight-details/81de3929330076d2"
+        },
+        {
+            "fight_id": "d988760df61f027c",
+            "fighter_a": "Marcin Prachnio",
+            "fighter_b": "Ike Villanueva",
+            "winner": "Marcin Prachnio",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 56,
+            "fight_url": "http://ufcstats.com/fight-details/d988760df61f027c"
+        },
+        {
+            "fight_id": "0eac7075bf3d7ab7",
+            "fighter_a": "Julia Avila",
+            "fighter_b": "Julija Stoliarenko",
+            "winner": "Julia Avila",
+            "weight_class": "Women's Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 259,
+            "fight_url": "http://ufcstats.com/fight-details/0eac7075bf3d7ab7"
+        },
+        {
+            "fight_id": "5357dab4d331eb18",
+            "fighter_a": "Charles Rosa",
+            "fighter_b": "Justin Jaynes",
+            "winner": "Charles Rosa",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5357dab4d331eb18"
+        },
+        {
+            "fight_id": "23c7c6ceee34585f",
+            "fighter_a": "Damir Hadzovic",
+            "fighter_b": "Yancy Medeiros",
+            "winner": "Damir Hadzovic",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/23c7c6ceee34585f"
+        }
+    ]
+}

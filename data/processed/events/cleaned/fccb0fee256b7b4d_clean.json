@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "fccb0fee256b7b4d",
+        "event_name": "UFC 329: McGregor vs. Holloway 2",
+        "event_day": 11,
+        "event_month": 7,
+        "event_year": 2026,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "989760fa75321d69",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Conor McGregor",
+            "winner": "Max Holloway",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 69,
+            "fight_url": "http://ufcstats.com/fight-details/989760fa75321d69"
+        },
+        {
+            "fight_id": "130b325610c54a64",
+            "fighter_a": "Paddy Pimblett",
+            "fighter_b": "Benoit Saint Denis",
+            "winner": "Paddy Pimblett",
+            "weight_class": "Lightweight",
+            "method": "SUB D'Arce Choke",
+            "round": 1,
+            "time_seconds": 52,
+            "fight_url": "http://ufcstats.com/fight-details/130b325610c54a64"
+        },
+        {
+            "fight_id": "c572daedf2012a49",
+            "fighter_a": "Mario Bautista",
+            "fighter_b": "Cory Sandhagen",
+            "winner": "Mario Bautista",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c572daedf2012a49"
+        },
+        {
+            "fight_id": "a3ab1979192b647c",
+            "fighter_a": "Brandon Royval",
+            "fighter_b": "Lone'er Kavanagh",
+            "winner": "Brandon Royval",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 220,
+            "fight_url": "http://ufcstats.com/fight-details/a3ab1979192b647c"
+        },
+        {
+            "fight_id": "a26ea74f2e908842",
+            "fighter_a": "King Green",
+            "fighter_b": "Terrance McKinney",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/a26ea74f2e908842"
+        },
+        {
+            "fight_id": "7765e5e779dd7dc9",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Nikita Krylov",
+            "winner": "Robert Whittaker",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 61,
+            "fight_url": "http://ufcstats.com/fight-details/7765e5e779dd7dc9"
+        },
+        {
+            "fight_id": "118c25bda9392140",
+            "fighter_a": "Gable Steveson",
+            "fighter_b": "Elisha Ellison",
+            "winner": "Gable Steveson",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 151,
+            "fight_url": "http://ufcstats.com/fight-details/118c25bda9392140"
+        },
+        {
+            "fight_id": "e9f389ba3a1e33c4",
+            "fighter_a": "Adrian Yanez",
+            "fighter_b": "Cody Garbrandt",
+            "winner": "Adrian Yanez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/e9f389ba3a1e33c4"
+        },
+        {
+            "fight_id": "930317fde9dbc55e",
+            "fighter_a": "Luke Riley",
+            "fighter_b": "Kai Kamaka III",
+            "winner": "Luke Riley",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 183,
+            "fight_url": "http://ufcstats.com/fight-details/930317fde9dbc55e"
+        },
+        {
+            "fight_id": "e84c3f1f9a33fa90",
+            "fighter_a": "Wang Cong",
+            "fighter_b": "Tracy Cortez",
+            "winner": "Wang Cong",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e84c3f1f9a33fa90"
+        },
+        {
+            "fight_id": "b223b10ef19f912c",
+            "fighter_a": "Damian Pinas",
+            "fighter_b": "Cesar Almeida",
+            "winner": "Damian Pinas",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 284,
+            "fight_url": "http://ufcstats.com/fight-details/b223b10ef19f912c"
+        },
+        {
+            "fight_id": "9e00ee7644774e18",
+            "fighter_a": "Farid Basharat",
+            "fighter_b": "John Garza",
+            "winner": "Farid Basharat",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9e00ee7644774e18"
+        },
+        {
+            "fight_id": "1162a74e3604c488",
+            "fighter_a": "Ryan Gandra",
+            "fighter_b": "Zach Reese",
+            "winner": "Ryan Gandra",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 75,
+            "fight_url": "http://ufcstats.com/fight-details/1162a74e3604c488"
+        },
+        {
+            "fight_id": "1b6a3b0d27654d3e",
+            "fighter_a": "Alessandro Costa",
+            "fighter_b": "Cody Durden",
+            "winner": "Alessandro Costa",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 139,
+            "fight_url": "http://ufcstats.com/fight-details/1b6a3b0d27654d3e"
+        }
+    ]
+}

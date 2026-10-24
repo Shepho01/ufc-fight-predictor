@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "d764ef3e078c96c8",
+        "event_id": "ed069a95aaaf4f56",
+        "event_name": "UFC on FOX: Johnson vs. Reis",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Split",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mike England",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "18968f97ad34f15c",
+        "name": "Jeremy Stephens",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "56 of 207",
+            "Sig. str. %": "27%",
+            "Total str.": "73 of 224",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "56 of 207",
+            "Sig. str. %": "27%",
+            "Head": "28 of 168",
+            "Body": "7 of 10",
+            "Leg": "21 of 29",
+            "Distance": "53 of 201",
+            "Clinch": "3 of 6",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "70 of 116",
+            "Sig. str. %": "60%",
+            "Total str.": "76 of 123",
+            "Td": "2 of 5",
+            "Td %": "40%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:15"
+        },
+        "significant_strikes": {
+            "Sig. str": "70 of 116",
+            "Sig. str. %": "60%",
+            "Head": "39 of 78",
+            "Body": "3 of 5",
+            "Leg": "28 of 33",
+            "Distance": "66 of 110",
+            "Clinch": "1 of 3",
+            "Ground": "3 of 3"
+        }
+    }
+}

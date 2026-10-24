@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "030f08370fd1c2bb",
+        "event_name": "UFC on FX: Belfort vs. Rockhold",
+        "event_day": 18,
+        "event_month": 5,
+        "event_year": 2013,
+        "location": "Jaragua do Sul, Santa Catarina, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "110d18c0953bde1d",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Luke Rockhold",
+            "winner": "Vitor Belfort",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 152,
+            "fight_url": "http://ufcstats.com/fight-details/110d18c0953bde1d"
+        },
+        {
+            "fight_id": "ac269f99e4e53634",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Chris Camozzi",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 217,
+            "fight_url": "http://ufcstats.com/fight-details/ac269f99e4e53634"
+        },
+        {
+            "fight_id": "05f8696303709939",
+            "fighter_a": "Rafael Dos Anjos",
+            "fighter_b": "Evan Dunham",
+            "winner": "Rafael Dos Anjos",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/05f8696303709939"
+        },
+        {
+            "fight_id": "59bb17087b12ad35",
+            "fighter_a": "Rafael Natal",
+            "fighter_b": "Joao Zeferino",
+            "winner": "Rafael Natal",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/59bb17087b12ad35"
+        },
+        {
+            "fight_id": "cf5f9da861c5e63f",
+            "fighter_a": "Nik Lentz",
+            "fighter_b": "Hacran Dias",
+            "winner": "Nik Lentz",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cf5f9da861c5e63f"
+        },
+        {
+            "fight_id": "91f33ac24fb39eca",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Mike Rio",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 188,
+            "fight_url": "http://ufcstats.com/fight-details/91f33ac24fb39eca"
+        },
+        {
+            "fight_id": "edc4e54d5258eea8",
+            "fighter_a": "Gleison Tibau",
+            "fighter_b": "John Cholish",
+            "winner": "Gleison Tibau",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 154,
+            "fight_url": "http://ufcstats.com/fight-details/edc4e54d5258eea8"
+        },
+        {
+            "fight_id": "4b4c4df2778538d9",
+            "fighter_a": "Paulo Thiago",
+            "fighter_b": "Michel Prazeres",
+            "winner": "Paulo Thiago",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4b4c4df2778538d9"
+        },
+        {
+            "fight_id": "019b88d4ac875ae4",
+            "fighter_a": "Iuri Alcantara",
+            "fighter_b": "Iliarde Santos",
+            "winner": "Iuri Alcantara",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 151,
+            "fight_url": "http://ufcstats.com/fight-details/019b88d4ac875ae4"
+        },
+        {
+            "fight_id": "11249454ed5fd71f",
+            "fighter_a": "Fabio Maldonado",
+            "fighter_b": "Roger Hollett",
+            "winner": "Fabio Maldonado",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/11249454ed5fd71f"
+        },
+        {
+            "fight_id": "8aff100107d0ba11",
+            "fighter_a": "John Lineker",
+            "fighter_b": "Azamat Gashimov",
+            "winner": "John Lineker",
+            "weight_class": "Flyweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 67,
+            "fight_url": "http://ufcstats.com/fight-details/8aff100107d0ba11"
+        },
+        {
+            "fight_id": "caa56c26127bf7e8",
+            "fighter_a": "Jussier Formiga",
+            "fighter_b": "Chris Cariaso",
+            "winner": "Jussier Formiga",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/caa56c26127bf7e8"
+        },
+        {
+            "fight_id": "eacfc05c3e5ead5e",
+            "fighter_a": "Lucas Martins",
+            "fighter_b": "Jeremy Larsen",
+            "winner": "Lucas Martins",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 13,
+            "fight_url": "http://ufcstats.com/fight-details/eacfc05c3e5ead5e"
+        }
+    ]
+}

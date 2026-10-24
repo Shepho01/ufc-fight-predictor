@@ -1,0 +1,56 @@
+{
+    "fighter_id": "7ee0fd831c0fe7c3",
+    "name": "Carlos Prates",
+    "record": "24-7-0",
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "78\"",
+    "stance": "Switch",
+    "dob": "Aug 17, 1993",
+    "sig_strikes_landed_per_min": "4.41",
+    "sig_striking_accuracy": "54%",
+    "sig_strikes_absorbed_per_min": "4.30",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "0.18",
+    "takedown_accuracy": "100%",
+    "takedown_defense": "77%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "eb6d9fef6c374830",
+            "fight_url": "http://ufcstats.com/fight-details/eb6d9fef6c374830"
+        },
+        {
+            "fight_id": "3c60884853766487",
+            "fight_url": "http://ufcstats.com/fight-details/3c60884853766487"
+        },
+        {
+            "fight_id": "42585ce706c086de",
+            "fight_url": "http://ufcstats.com/fight-details/42585ce706c086de"
+        },
+        {
+            "fight_id": "633f4b5ec767769d",
+            "fight_url": "http://ufcstats.com/fight-details/633f4b5ec767769d"
+        },
+        {
+            "fight_id": "73f451d894a1d4ca",
+            "fight_url": "http://ufcstats.com/fight-details/73f451d894a1d4ca"
+        },
+        {
+            "fight_id": "3c319d4659e6c8fd",
+            "fight_url": "http://ufcstats.com/fight-details/3c319d4659e6c8fd"
+        },
+        {
+            "fight_id": "8afe89f5c451b372",
+            "fight_url": "http://ufcstats.com/fight-details/8afe89f5c451b372"
+        },
+        {
+            "fight_id": "246fef4b19c3a7ed",
+            "fight_url": "http://ufcstats.com/fight-details/246fef4b19c3a7ed"
+        },
+        {
+            "fight_id": "1213ee02278a3f30",
+            "fight_url": "http://ufcstats.com/fight-details/1213ee02278a3f30"
+        }
+    ]
+}

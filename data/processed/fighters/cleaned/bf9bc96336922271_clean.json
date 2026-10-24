@@ -1,0 +1,23 @@
+{
+    "fighter_id": "bf9bc96336922271",
+    "name": "Alex Ricci",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": null,
+    "stance": "Orthodox",
+    "dob_day": 21,
+    "dob_month": 7,
+    "dob_year": 1982,
+    "sig_strikes_landed_per_min": 2.48,
+    "sig_striking_accuracy": 0.41,
+    "sig_strikes_absorbed_per_min": 2.53,
+    "sig_strike_defense": 0.64,
+    "takedowns_landed_per_15_min": 0.0,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.64,
+    "submission_attempts_per_15_min": 0.0
+}

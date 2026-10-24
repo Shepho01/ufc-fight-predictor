@@ -1,0 +1,64 @@
+{
+    "fighter_id": "814ff3018127e8fc",
+    "name": "Ricky Glenn",
+    "record": "22-9-2",
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Apr 12, 1989",
+    "sig_strikes_landed_per_min": "3.79",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "4.30",
+    "sig_strike_defense": "51%",
+    "takedowns_landed_per_15_min": "0.72",
+    "takedown_accuracy": "13%",
+    "takedown_defense": "69%",
+    "submission_attempts_per_15_min": "0.4",
+    "fight_history": [
+        {
+            "fight_id": "ea824ac4b8ed8a35",
+            "fight_url": "http://ufcstats.com/fight-details/ea824ac4b8ed8a35"
+        },
+        {
+            "fight_id": "68095e551ff6bbfd",
+            "fight_url": "http://ufcstats.com/fight-details/68095e551ff6bbfd"
+        },
+        {
+            "fight_id": "16628e25a043043a",
+            "fight_url": "http://ufcstats.com/fight-details/16628e25a043043a"
+        },
+        {
+            "fight_id": "9fe62ea683decc55",
+            "fight_url": "http://ufcstats.com/fight-details/9fe62ea683decc55"
+        },
+        {
+            "fight_id": "1e9f081a84e7ec18",
+            "fight_url": "http://ufcstats.com/fight-details/1e9f081a84e7ec18"
+        },
+        {
+            "fight_id": "4e6bbc5832e55f64",
+            "fight_url": "http://ufcstats.com/fight-details/4e6bbc5832e55f64"
+        },
+        {
+            "fight_id": "786296db3c4749f1",
+            "fight_url": "http://ufcstats.com/fight-details/786296db3c4749f1"
+        },
+        {
+            "fight_id": "147d2ab0230af48d",
+            "fight_url": "http://ufcstats.com/fight-details/147d2ab0230af48d"
+        },
+        {
+            "fight_id": "f597d2e69ab7c270",
+            "fight_url": "http://ufcstats.com/fight-details/f597d2e69ab7c270"
+        },
+        {
+            "fight_id": "c4174e22cb22622c",
+            "fight_url": "http://ufcstats.com/fight-details/c4174e22cb22622c"
+        },
+        {
+            "fight_id": "0596fc5eba5c1fe0",
+            "fight_url": "http://ufcstats.com/fight-details/0596fc5eba5c1fe0"
+        }
+    ]
+}

@@ -19,17 +19,24 @@ def load_raw_fighter(raw_path):
 
 
 def parse_height_to_cm(value):
-    if value is None or value == "---":
+    if value is None:
         return None
 
-    feet, inches = value.replace('"', "").split("'")
+    value = value.strip()
 
-    feet = int(feet.strip())
-    inches = int(inches.strip())
+    if value in ("", "-", "--", "---"):
+        return None
 
-    total_inches = (feet * 12) + inches
+    parts = value.replace('"', "").split("'")
 
-    return total_inches * 2.54
+    if len(parts) != 2:
+        raise ValueError(f"Unexpected height format: {value!r}")
+
+    feet, inches = parts
+
+    total_inches = float(feet.strip()) * 12 + float(inches.strip())
+
+    return round(total_inches * 2.54, 2)
 
 
 def parse_reach_to_cm(value):
@@ -58,15 +65,17 @@ def parse_weight_to_lbs(value):
 
 
 def parse_dob(value):
-    if value is None or value == "---":
+    if value is None:
         return None, None, None
 
-    date = datetime.strptime(
-        value,
-        "%b %d, %Y"
-    )
+    value = value.strip()
 
-    return date.day, date.month, date.year
+    if value in ("", "-", "--", "---"):
+        return None, None, None
+
+    dob = datetime.strptime(value, "%b %d, %Y")
+
+    return dob.day, dob.month, dob.year
 
 def parse_record(value):
     if value is None or value.strip() in ("", "---"):

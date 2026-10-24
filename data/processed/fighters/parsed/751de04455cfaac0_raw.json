@@ -1,0 +1,80 @@
+{
+    "fighter_id": "751de04455cfaac0",
+    "name": "Calvin Kattar",
+    "record": "23-10-0",
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Mar 26, 1988",
+    "sig_strikes_landed_per_min": "4.41",
+    "sig_striking_accuracy": "37%",
+    "sig_strikes_absorbed_per_min": "6.55",
+    "sig_strike_defense": "54%",
+    "takedowns_landed_per_15_min": "0.34",
+    "takedown_accuracy": "29%",
+    "takedown_defense": "77%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "f368475c366c6d85",
+            "fight_url": "http://ufcstats.com/fight-details/f368475c366c6d85"
+        },
+        {
+            "fight_id": "68913a422f548ccc",
+            "fight_url": "http://ufcstats.com/fight-details/68913a422f548ccc"
+        },
+        {
+            "fight_id": "d95f21817a56eb05",
+            "fight_url": "http://ufcstats.com/fight-details/d95f21817a56eb05"
+        },
+        {
+            "fight_id": "a554a72bb0377213",
+            "fight_url": "http://ufcstats.com/fight-details/a554a72bb0377213"
+        },
+        {
+            "fight_id": "6e559181bfbc77e1",
+            "fight_url": "http://ufcstats.com/fight-details/6e559181bfbc77e1"
+        },
+        {
+            "fight_id": "9dfcf675cf2c1575",
+            "fight_url": "http://ufcstats.com/fight-details/9dfcf675cf2c1575"
+        },
+        {
+            "fight_id": "a4817b7e46028b4a",
+            "fight_url": "http://ufcstats.com/fight-details/a4817b7e46028b4a"
+        },
+        {
+            "fight_id": "abeaae1a64934178",
+            "fight_url": "http://ufcstats.com/fight-details/abeaae1a64934178"
+        },
+        {
+            "fight_id": "02f5621f480ad1d4",
+            "fight_url": "http://ufcstats.com/fight-details/02f5621f480ad1d4"
+        },
+        {
+            "fight_id": "c3bb60dc82345a9f",
+            "fight_url": "http://ufcstats.com/fight-details/c3bb60dc82345a9f"
+        },
+        {
+            "fight_id": "bf2a9732af50c84c",
+            "fight_url": "http://ufcstats.com/fight-details/bf2a9732af50c84c"
+        },
+        {
+            "fight_id": "bd0622b184ab4f28",
+            "fight_url": "http://ufcstats.com/fight-details/bd0622b184ab4f28"
+        },
+        {
+            "fight_id": "95edc0b6438f2592",
+            "fight_url": "http://ufcstats.com/fight-details/95edc0b6438f2592"
+        },
+        {
+            "fight_id": "5f617d6c19d3a281",
+            "fight_url": "http://ufcstats.com/fight-details/5f617d6c19d3a281"
+        },
+        {
+            "fight_id": "3d95b4f94ccffa96",
+            "fight_url": "http://ufcstats.com/fight-details/3d95b4f94ccffa96"
+        }
+    ]
+}

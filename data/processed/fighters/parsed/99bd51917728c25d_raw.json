@@ -1,0 +1,88 @@
+{
+    "fighter_id": "99bd51917728c25d",
+    "name": "Grant Dawson",
+    "record": "24-3-1",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Feb 20, 1994",
+    "sig_strikes_landed_per_min": "3.14",
+    "sig_striking_accuracy": "51%",
+    "sig_strikes_absorbed_per_min": "2.14",
+    "sig_strike_defense": "44%",
+    "takedowns_landed_per_15_min": "3.58",
+    "takedown_accuracy": "39%",
+    "takedown_defense": "66%",
+    "submission_attempts_per_15_min": "1.4",
+    "fight_history": [
+        {
+            "fight_id": "c70b4b6a8a5a3abb",
+            "fight_url": "http://ufcstats.com/fight-details/c70b4b6a8a5a3abb"
+        },
+        {
+            "fight_id": "ffcb47e17eebe6a6",
+            "fight_url": "http://ufcstats.com/fight-details/ffcb47e17eebe6a6"
+        },
+        {
+            "fight_id": "c797b58d85c840a4",
+            "fight_url": "http://ufcstats.com/fight-details/c797b58d85c840a4"
+        },
+        {
+            "fight_id": "aa3fca085d476636",
+            "fight_url": "http://ufcstats.com/fight-details/aa3fca085d476636"
+        },
+        {
+            "fight_id": "98c29ba02cee5ba3",
+            "fight_url": "http://ufcstats.com/fight-details/98c29ba02cee5ba3"
+        },
+        {
+            "fight_id": "cf306c4714530f31",
+            "fight_url": "http://ufcstats.com/fight-details/cf306c4714530f31"
+        },
+        {
+            "fight_id": "1aa4c2fa5ffaff00",
+            "fight_url": "http://ufcstats.com/fight-details/1aa4c2fa5ffaff00"
+        },
+        {
+            "fight_id": "4dc5a41f357a7d85",
+            "fight_url": "http://ufcstats.com/fight-details/4dc5a41f357a7d85"
+        },
+        {
+            "fight_id": "1535fb6549fa8bab",
+            "fight_url": "http://ufcstats.com/fight-details/1535fb6549fa8bab"
+        },
+        {
+            "fight_id": "7c8701bb78cb4de8",
+            "fight_url": "http://ufcstats.com/fight-details/7c8701bb78cb4de8"
+        },
+        {
+            "fight_id": "9fe62ea683decc55",
+            "fight_url": "http://ufcstats.com/fight-details/9fe62ea683decc55"
+        },
+        {
+            "fight_id": "a043e279434d5c8c",
+            "fight_url": "http://ufcstats.com/fight-details/a043e279434d5c8c"
+        },
+        {
+            "fight_id": "bb881d4ee6dfbf86",
+            "fight_url": "http://ufcstats.com/fight-details/bb881d4ee6dfbf86"
+        },
+        {
+            "fight_id": "eba6055d217d5b99",
+            "fight_url": "http://ufcstats.com/fight-details/eba6055d217d5b99"
+        },
+        {
+            "fight_id": "476a6245b43f3119",
+            "fight_url": "http://ufcstats.com/fight-details/476a6245b43f3119"
+        },
+        {
+            "fight_id": "ddcfa590f4644240",
+            "fight_url": "http://ufcstats.com/fight-details/ddcfa590f4644240"
+        },
+        {
+            "fight_id": "1b5917a5fb2bce8f",
+            "fight_url": "http://ufcstats.com/fight-details/1b5917a5fb2bce8f"
+        }
+    ]
+}

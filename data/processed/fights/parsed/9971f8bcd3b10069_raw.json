@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9971f8bcd3b10069",
+        "event_id": "0aa92558424ced9e",
+        "event_name": "UFC 75: Champion vs Champion",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mario Yamasaki",
+        "winner_id": "75e5fec9f72910ef"
+    },
+    "fighter_a": {
+        "fighter_id": "75e5fec9f72910ef",
+        "name": "Gleison Tibau",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 23",
+            "Sig. str. %": "60%",
+            "Total str.": "105 of 123",
+            "Td": "7 of 10",
+            "Td %": "70%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "11:38"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 23",
+            "Sig. str. %": "60%",
+            "Head": "12 of 21",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "0 of 6",
+            "Clinch": "0 of 0",
+            "Ground": "14 of 17"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "33011768c3c4dc9a",
+        "name": "Terry Etim",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "18 of 34",
+            "Sig. str. %": "52%",
+            "Total str.": "20 of 37",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "18 of 34",
+            "Sig. str. %": "52%",
+            "Head": "8 of 23",
+            "Body": "3 of 4",
+            "Leg": "7 of 7",
+            "Distance": "18 of 34",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

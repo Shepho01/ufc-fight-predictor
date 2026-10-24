@@ -1,0 +1,88 @@
+{
+    "fighter_id": "84ac950d4c1722dd",
+    "name": "Duane Ludwig",
+    "record": "21-14-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Aug 04, 1978",
+    "sig_strikes_landed_per_min": "4.62",
+    "sig_striking_accuracy": "44%",
+    "sig_strikes_absorbed_per_min": "3.05",
+    "sig_strike_defense": "57%",
+    "takedowns_landed_per_15_min": "0.43",
+    "takedown_accuracy": "25%",
+    "takedown_defense": "59%",
+    "submission_attempts_per_15_min": "0.1",
+    "fight_history": [
+        {
+            "fight_id": "4c54ca018e70ed04",
+            "fight_url": "http://ufcstats.com/fight-details/4c54ca018e70ed04"
+        },
+        {
+            "fight_id": "8238c5f16d0b39c3",
+            "fight_url": "http://ufcstats.com/fight-details/8238c5f16d0b39c3"
+        },
+        {
+            "fight_id": "d391ca8154bcf507",
+            "fight_url": "http://ufcstats.com/fight-details/d391ca8154bcf507"
+        },
+        {
+            "fight_id": "09c1d4c96efd0545",
+            "fight_url": "http://ufcstats.com/fight-details/09c1d4c96efd0545"
+        },
+        {
+            "fight_id": "68b3222e977a6a11",
+            "fight_url": "http://ufcstats.com/fight-details/68b3222e977a6a11"
+        },
+        {
+            "fight_id": "f63a647b74359194",
+            "fight_url": "http://ufcstats.com/fight-details/f63a647b74359194"
+        },
+        {
+            "fight_id": "9d2c9d2249d4fe50",
+            "fight_url": "http://ufcstats.com/fight-details/9d2c9d2249d4fe50"
+        },
+        {
+            "fight_id": "3a84cfc412e5e12a",
+            "fight_url": "http://ufcstats.com/fight-details/3a84cfc412e5e12a"
+        },
+        {
+            "fight_id": "8062bd5f0672c7a2",
+            "fight_url": "http://ufcstats.com/fight-details/8062bd5f0672c7a2"
+        },
+        {
+            "fight_id": "374ea556bf8cf673",
+            "fight_url": "http://ufcstats.com/fight-details/374ea556bf8cf673"
+        },
+        {
+            "fight_id": "48dc574b3da0e1c2",
+            "fight_url": "http://ufcstats.com/fight-details/48dc574b3da0e1c2"
+        },
+        {
+            "fight_id": "0671ed118e51974d",
+            "fight_url": "http://ufcstats.com/fight-details/0671ed118e51974d"
+        },
+        {
+            "fight_id": "0a4052e2042bc1a2",
+            "fight_url": "http://ufcstats.com/fight-details/0a4052e2042bc1a2"
+        },
+        {
+            "fight_id": "6a3b6402a72cd57a",
+            "fight_url": "http://ufcstats.com/fight-details/6a3b6402a72cd57a"
+        },
+        {
+            "fight_id": "392089df68b1a721",
+            "fight_url": "http://ufcstats.com/fight-details/392089df68b1a721"
+        },
+        {
+            "fight_id": "a8561b04e03057fe",
+            "fight_url": "http://ufcstats.com/fight-details/a8561b04e03057fe"
+        },
+        {
+            "fight_id": "5a9657d4faeea2c5",
+            "fight_url": "http://ufcstats.com/fight-details/5a9657d4faeea2c5"
+        }
+    ]
+}

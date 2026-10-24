@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "8c220d4c96895a98",
+        "event_id": "6a8a06b542e1516d",
+        "event_name": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "2:29",
+        "referee": "Herb Dean",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "6f242453c91a5af0",
+        "name": "Dennis Bermudez",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 34",
+            "Sig. str. %": "58%",
+            "Total str.": "24 of 38",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:20"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 34",
+            "Sig. str. %": "58%",
+            "Head": "11 of 24",
+            "Body": "6 of 7",
+            "Leg": "3 of 3",
+            "Distance": "14 of 26",
+            "Clinch": "6 of 8",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "17 of 35",
+            "Sig. str. %": "48%",
+            "Total str.": "19 of 37",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "17 of 35",
+            "Sig. str. %": "48%",
+            "Head": "16 of 32",
+            "Body": "1 of 2",
+            "Leg": "0 of 1",
+            "Distance": "12 of 30",
+            "Clinch": "2 of 2",
+            "Ground": "3 of 3"
+        }
+    }
+}

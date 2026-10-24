@@ -1,0 +1,48 @@
+{
+    "fighter_id": "f046d724d2a84ac5",
+    "name": "Desmond Green",
+    "record": "23-8-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Oct 11, 1989",
+    "sig_strikes_landed_per_min": "3.70",
+    "sig_striking_accuracy": "46%",
+    "sig_strikes_absorbed_per_min": "2.51",
+    "sig_strike_defense": "69%",
+    "takedowns_landed_per_15_min": "1.62",
+    "takedown_accuracy": "50%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "031647c36d12788f",
+            "fight_url": "http://ufcstats.com/fight-details/031647c36d12788f"
+        },
+        {
+            "fight_id": "b7ff74563d034519",
+            "fight_url": "http://ufcstats.com/fight-details/b7ff74563d034519"
+        },
+        {
+            "fight_id": "f56c6646b54c0662",
+            "fight_url": "http://ufcstats.com/fight-details/f56c6646b54c0662"
+        },
+        {
+            "fight_id": "19fc916df1f0e6ff",
+            "fight_url": "http://ufcstats.com/fight-details/19fc916df1f0e6ff"
+        },
+        {
+            "fight_id": "ee1c1e9037fee21e",
+            "fight_url": "http://ufcstats.com/fight-details/ee1c1e9037fee21e"
+        },
+        {
+            "fight_id": "605c2ad801f594b3",
+            "fight_url": "http://ufcstats.com/fight-details/605c2ad801f594b3"
+        },
+        {
+            "fight_id": "97b7638c592a95a9",
+            "fight_url": "http://ufcstats.com/fight-details/97b7638c592a95a9"
+        }
+    ]
+}

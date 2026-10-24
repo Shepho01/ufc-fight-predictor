@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "05e2832cd5ffb7a6",
+        "event_id": "2ce6541127b0e232",
+        "event_name": "UFC Fight Night: Holloway vs Oliveira",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:39",
+        "referee": "Herb Dean",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "14 of 29",
+            "Sig. str. %": "48%",
+            "Total str.": "14 of 29",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:06"
+        },
+        "significant_strikes": {
+            "Sig. str": "14 of 29",
+            "Sig. str. %": "48%",
+            "Head": "6 of 20",
+            "Body": "8 of 9",
+            "Leg": "0 of 0",
+            "Distance": "14 of 29",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "07225ba28ae309b6",
+        "name": "Charles Oliveira",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "5 of 17",
+            "Sig. str. %": "29%",
+            "Total str.": "5 of 17",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "5 of 17",
+            "Sig. str. %": "29%",
+            "Head": "3 of 15",
+            "Body": "1 of 1",
+            "Leg": "1 of 1",
+            "Distance": "4 of 16",
+            "Clinch": "1 of 1",
+            "Ground": "0 of 0"
+        }
+    }
+}

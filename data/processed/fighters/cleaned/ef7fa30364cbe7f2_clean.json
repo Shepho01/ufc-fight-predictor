@@ -1,0 +1,23 @@
+{
+    "fighter_id": "ef7fa30364cbe7f2",
+    "name": "Hatsu Hioki",
+    "wins": 29,
+    "losses": 10,
+    "draws": 2,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 145,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 18,
+    "dob_month": 7,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 2.42,
+    "sig_striking_accuracy": 0.42,
+    "sig_strikes_absorbed_per_min": 2.12,
+    "sig_strike_defense": 0.65,
+    "takedowns_landed_per_15_min": 2.55,
+    "takedown_accuracy": 0.56,
+    "takedown_defense": 0.54,
+    "submission_attempts_per_15_min": 0.6
+}

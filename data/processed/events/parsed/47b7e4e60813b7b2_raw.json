@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "47b7e4e60813b7b2",
+        "event_name": "UFC Fight Night: Belfort vs. Gastelum",
+        "event_date": "March 11, 2017",
+        "location": "Fortaleza, Ceara, Brazil"
+    },
+    "fights": [
+        {
+            "fight_id": "58450502a93454c8",
+            "fighter_a": "Vitor Belfort",
+            "fighter_b": "Kelvin Gastelum",
+            "winner": null,
+            "weight_class": "Middleweight",
+            "method": "Overturned Punch",
+            "round": "1",
+            "time": "3:52",
+            "fight_url": "http://ufcstats.com/fight-details/58450502a93454c8"
+        },
+        {
+            "fight_id": "34524408fb4d6752",
+            "fighter_a": "Mauricio Rua",
+            "fighter_b": "Gian Villante",
+            "winner": "Mauricio Rua",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "3",
+            "time": "0:59",
+            "fight_url": "http://ufcstats.com/fight-details/34524408fb4d6752"
+        },
+        {
+            "fight_id": "b47e4f0982938e5b",
+            "fighter_a": "Edson Barboza",
+            "fighter_b": "Beneil Dariush",
+            "winner": "Edson Barboza",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Flying Knee",
+            "round": "2",
+            "time": "3:35",
+            "fight_url": "http://ufcstats.com/fight-details/b47e4f0982938e5b"
+        },
+        {
+            "fight_id": "74d4e37b97866514",
+            "fighter_a": "Ray Borg",
+            "fighter_b": "Jussier Formiga",
+            "winner": "Ray Borg",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/74d4e37b97866514"
+        },
+        {
+            "fight_id": "b03dd50785e761a0",
+            "fighter_a": "Bethe Correia",
+            "fighter_b": "Marion Reneau",
+            "winner": null,
+            "weight_class": "Women's Bantamweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b03dd50785e761a0"
+        },
+        {
+            "fight_id": "24f156a78bd32026",
+            "fighter_a": "Alex Oliveira",
+            "fighter_b": "Tim Means",
+            "winner": "Alex Oliveira",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "2:38",
+            "fight_url": "http://ufcstats.com/fight-details/24f156a78bd32026"
+        },
+        {
+            "fight_id": "76602c3658d70273",
+            "fighter_a": "Kevin Lee",
+            "fighter_b": "Francisco Trinaldo",
+            "winner": "Kevin Lee",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "3:12",
+            "fight_url": "http://ufcstats.com/fight-details/76602c3658d70273"
+        },
+        {
+            "fight_id": "f4f5049e789b7716",
+            "fighter_a": "Sergio Moraes",
+            "fighter_b": "Davi Ramos",
+            "winner": "Sergio Moraes",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/f4f5049e789b7716"
+        },
+        {
+            "fight_id": "dc169cc01d675125",
+            "fighter_a": "Joe Soto",
+            "fighter_b": "Rani Yahya",
+            "winner": "Joe Soto",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dc169cc01d675125"
+        },
+        {
+            "fight_id": "12740c6b17779fe9",
+            "fighter_a": "Michel Prazeres",
+            "fighter_b": "Joshua Burkman",
+            "winner": "Michel Prazeres",
+            "weight_class": "Lightweight",
+            "method": "SUB North-South Choke",
+            "round": "1",
+            "time": "1:42",
+            "fight_url": "http://ufcstats.com/fight-details/12740c6b17779fe9"
+        },
+        {
+            "fight_id": "ebb94e00d6431e7a",
+            "fighter_a": "Jeremy Kennedy",
+            "fighter_b": "Rony Jason",
+            "winner": "Jeremy Kennedy",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ebb94e00d6431e7a"
+        },
+        {
+            "fight_id": "0ace7e71f5d66bc9",
+            "fighter_a": "Paulo Costa",
+            "fighter_b": "Garreth McLellan",
+            "winner": "Paulo Costa",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:17",
+            "fight_url": "http://ufcstats.com/fight-details/0ace7e71f5d66bc9"
+        }
+    ]
+}

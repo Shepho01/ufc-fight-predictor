@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "733e675fd7c0052a",
+        "event_id": "cce79e827569f26e",
+        "event_name": "UFC Fight Night: Dolidze vs. Imavov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Mark Smith",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 42",
+            "Sig. str. %": "54%",
+            "Total str.": "142 of 177",
+            "Td": "3 of 6",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "10:33"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 42",
+            "Sig. str. %": "54%",
+            "Head": "20 of 39",
+            "Body": "2 of 2",
+            "Leg": "1 of 1",
+            "Distance": "10 of 27",
+            "Clinch": "1 of 2",
+            "Ground": "12 of 13"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "23 of 59",
+            "Sig. str. %": "38%",
+            "Total str.": "36 of 73",
+            "Td": "1 of 2",
+            "Td %": "50%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "23 of 59",
+            "Sig. str. %": "38%",
+            "Head": "17 of 50",
+            "Body": "4 of 7",
+            "Leg": "2 of 2",
+            "Distance": "19 of 52",
+            "Clinch": "1 of 1",
+            "Ground": "3 of 6"
+        }
+    }
+}

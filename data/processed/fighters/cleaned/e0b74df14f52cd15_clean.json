@@ -1,0 +1,23 @@
+{
+    "fighter_id": "e0b74df14f52cd15",
+    "name": "Mike Brown",
+    "wins": 26,
+    "losses": 9,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 8,
+    "dob_month": 9,
+    "dob_year": 1975,
+    "sig_strikes_landed_per_min": 2.98,
+    "sig_striking_accuracy": 0.44,
+    "sig_strikes_absorbed_per_min": 2.45,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 3.23,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.66,
+    "submission_attempts_per_15_min": 0.6
+}

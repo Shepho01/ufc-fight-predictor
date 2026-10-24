@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "0b64d0fed453ef7f",
+        "event_name": "UFC 263: Adesanya vs. Vettori 2",
+        "event_date": "June 12, 2021",
+        "location": "Glendale, Arizona, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "6cd44e1b2d093ea4",
+            "fighter_a": "Israel Adesanya",
+            "fighter_b": "Marvin Vettori",
+            "winner": "Israel Adesanya",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/6cd44e1b2d093ea4"
+        },
+        {
+            "fight_id": "0f51869f98afa6c0",
+            "fighter_a": "Brandon Moreno",
+            "fighter_b": "Deiveson Figueiredo",
+            "winner": "Brandon Moreno",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:26",
+            "fight_url": "http://ufcstats.com/fight-details/0f51869f98afa6c0"
+        },
+        {
+            "fight_id": "b070b8c2c489d838",
+            "fighter_a": "Leon Edwards",
+            "fighter_b": "Nate Diaz",
+            "winner": "Leon Edwards",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b070b8c2c489d838"
+        },
+        {
+            "fight_id": "43dfb2c1e5fecac9",
+            "fighter_a": "Belal Muhammad",
+            "fighter_b": "Demian Maia",
+            "winner": "Belal Muhammad",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/43dfb2c1e5fecac9"
+        },
+        {
+            "fight_id": "4560734220b96851",
+            "fighter_a": "Paul Craig",
+            "fighter_b": "Jamahal Hill",
+            "winner": "Paul Craig",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "1:59",
+            "fight_url": "http://ufcstats.com/fight-details/4560734220b96851"
+        },
+        {
+            "fight_id": "7d2051c6bae907cb",
+            "fighter_a": "Brad Riddell",
+            "fighter_b": "Drew Dober",
+            "winner": "Brad Riddell",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7d2051c6bae907cb"
+        },
+        {
+            "fight_id": "9127a6430e46292c",
+            "fighter_a": "Eryk Anders",
+            "fighter_b": "Darren Stewart",
+            "winner": "Eryk Anders",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9127a6430e46292c"
+        },
+        {
+            "fight_id": "34cb6e9952cd30a4",
+            "fighter_a": "Lauren Murphy",
+            "fighter_b": "Joanne Wood",
+            "winner": "Lauren Murphy",
+            "weight_class": "Women's Flyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/34cb6e9952cd30a4"
+        },
+        {
+            "fight_id": "d66164d2c770da68",
+            "fighter_a": "Movsar Evloev",
+            "fighter_b": "Hakeem Dawodu",
+            "winner": "Movsar Evloev",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d66164d2c770da68"
+        },
+        {
+            "fight_id": "34d38d77c1d3f00e",
+            "fighter_a": "Pannie Kianzad",
+            "fighter_b": "Alexis Davis",
+            "winner": "Pannie Kianzad",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/34d38d77c1d3f00e"
+        },
+        {
+            "fight_id": "d4ad90ac58429b64",
+            "fighter_a": "Terrance McKinney",
+            "fighter_b": "Matt Frevola",
+            "winner": "Terrance McKinney",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:07",
+            "fight_url": "http://ufcstats.com/fight-details/d4ad90ac58429b64"
+        },
+        {
+            "fight_id": "84cde29aebf6c00c",
+            "fighter_a": "Steven Peterson",
+            "fighter_b": "Chase Hooper",
+            "winner": "Steven Peterson",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/84cde29aebf6c00c"
+        },
+        {
+            "fight_id": "dedb74ee9d84deab",
+            "fighter_a": "Fares Ziam",
+            "fighter_b": "Luigi Vendramini",
+            "winner": "Fares Ziam",
+            "weight_class": "Lightweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/dedb74ee9d84deab"
+        },
+        {
+            "fight_id": "1b4d5dbf5f663a97",
+            "fighter_a": "Carlos Felipe",
+            "fighter_b": "Jake Collier",
+            "winner": "Carlos Felipe",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/1b4d5dbf5f663a97"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "4c8d6fde2dde07c4",
+        "event_name": "UFC Live: Hardy vs Lytle",
+        "event_day": 14,
+        "event_month": 8,
+        "event_year": 2011,
+        "location": "Milwaukee, Wisconsin, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "aa4aa75f0065a687",
+            "fighter_a": "Chris Lytle",
+            "fighter_b": "Dan Hardy",
+            "winner": "Chris Lytle",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 256,
+            "fight_url": "http://ufcstats.com/fight-details/aa4aa75f0065a687"
+        },
+        {
+            "fight_id": "5169aaf0ce80d1f8",
+            "fighter_a": "Benson Henderson",
+            "fighter_b": "Jim Miller",
+            "winner": "Benson Henderson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5169aaf0ce80d1f8"
+        },
+        {
+            "fight_id": "295c2e1ae2d54287",
+            "fighter_a": "Donald Cerrone",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Donald Cerrone",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": 1,
+            "time_seconds": 181,
+            "fight_url": "http://ufcstats.com/fight-details/295c2e1ae2d54287"
+        },
+        {
+            "fight_id": "09c1d4c96efd0545",
+            "fighter_a": "Duane Ludwig",
+            "fighter_b": "Amir Sadollah",
+            "winner": "Duane Ludwig",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/09c1d4c96efd0545"
+        },
+        {
+            "fight_id": "74773b56e0b31c6b",
+            "fighter_a": "Jared Hamman",
+            "fighter_b": "CB Dollaway",
+            "winner": "Jared Hamman",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/74773b56e0b31c6b"
+        },
+        {
+            "fight_id": "0fd5485e64712df9",
+            "fighter_a": "Joseph Benavidez",
+            "fighter_b": "Eddie Wineland",
+            "winner": "Joseph Benavidez",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0fd5485e64712df9"
+        },
+        {
+            "fight_id": "23243c27deb4d596",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Kyle Noke",
+            "winner": "Ed Herman",
+            "weight_class": "Middleweight",
+            "method": "SUB Heel Hook",
+            "round": 1,
+            "time_seconds": 255,
+            "fight_url": "http://ufcstats.com/fight-details/23243c27deb4d596"
+        },
+        {
+            "fight_id": "a39286bf0a443ff0",
+            "fighter_a": "Ronny Markes",
+            "fighter_b": "Karlos Vemola",
+            "winner": "Ronny Markes",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/a39286bf0a443ff0"
+        },
+        {
+            "fight_id": "345f0bd50451a321",
+            "fighter_a": "Jimy Hettes",
+            "fighter_b": "Alex Caceres",
+            "winner": "Jimy Hettes",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 192,
+            "fight_url": "http://ufcstats.com/fight-details/345f0bd50451a321"
+        },
+        {
+            "fight_id": "475c55534f9e08ee",
+            "fighter_a": "Cole Miller",
+            "fighter_b": "TJ O'Brien",
+            "winner": "Cole Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 2,
+            "time_seconds": 158,
+            "fight_url": "http://ufcstats.com/fight-details/475c55534f9e08ee"
+        },
+        {
+            "fight_id": "03938272fb7c3971",
+            "fighter_a": "Jacob Volkmann",
+            "fighter_b": "Danny Castillo",
+            "winner": "Jacob Volkmann",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/03938272fb7c3971"
+        },
+        {
+            "fight_id": "096d656048f85b18",
+            "fighter_a": "Edwin Figueroa",
+            "fighter_b": "Jason Reinhardt",
+            "winner": "Edwin Figueroa",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 50,
+            "fight_url": "http://ufcstats.com/fight-details/096d656048f85b18"
+        }
+    ]
+}

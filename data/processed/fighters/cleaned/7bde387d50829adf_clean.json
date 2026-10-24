@@ -1,0 +1,23 @@
+{
+    "fighter_id": "7bde387d50829adf",
+    "name": "Eduardo Garagorri",
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 175.26,
+    "weight_lbs": 145,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 28,
+    "dob_month": 5,
+    "dob_year": 1989,
+    "sig_strikes_landed_per_min": 3.42,
+    "sig_striking_accuracy": 0.51,
+    "sig_strikes_absorbed_per_min": 2.36,
+    "sig_strike_defense": 0.58,
+    "takedowns_landed_per_15_min": 0.48,
+    "takedown_accuracy": 1.0,
+    "takedown_defense": 0.61,
+    "submission_attempts_per_15_min": 0.0
+}

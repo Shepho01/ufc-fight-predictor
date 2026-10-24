@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "1eb0491642f276ed",
+        "event_id": "8a028648f3f0761d",
+        "event_name": "UFC on FOX: Holm vs. Shevchenko",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "92a9aa9c93192871"
+    },
+    "fighter_a": {
+        "fighter_id": "92a9aa9c93192871",
+        "name": "Darren Elkins",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "33 of 57",
+            "Sig. str. %": "57%",
+            "Total str.": "206 of 256",
+            "Td": "5 of 6",
+            "Td %": "83%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "11:46"
+        },
+        "significant_strikes": {
+            "Sig. str": "33 of 57",
+            "Sig. str. %": "57%",
+            "Head": "32 of 54",
+            "Body": "1 of 3",
+            "Leg": "0 of 0",
+            "Distance": "3 of 17",
+            "Clinch": "0 of 0",
+            "Ground": "30 of 40"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "fa37628269132d1a",
+        "name": "Godofredo Pepey",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "20 of 38",
+            "Sig. str. %": "52%",
+            "Total str.": "67 of 99",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "2",
+            "Rev.": "1",
+            "Ctrl": "1:02"
+        },
+        "significant_strikes": {
+            "Sig. str": "20 of 38",
+            "Sig. str. %": "52%",
+            "Head": "18 of 36",
+            "Body": "2 of 2",
+            "Leg": "0 of 0",
+            "Distance": "4 of 16",
+            "Clinch": "3 of 3",
+            "Ground": "13 of 19"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "a4817b7e46028b4a",
+        "event_id": "307064d3e0f036c2",
+        "event_name": "UFC Fight Night: Holloway vs. Kattar",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "150ff4cc642270b9"
+    },
+    "fighter_a": {
+        "fighter_id": "150ff4cc642270b9",
+        "name": "Max Holloway",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "445 of 744",
+            "Sig. str. %": "59%",
+            "Total str.": "447 of 746",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:27"
+        },
+        "significant_strikes": {
+            "Sig. str": "445 of 744",
+            "Sig. str. %": "59%",
+            "Head": "274 of 553",
+            "Body": "117 of 133",
+            "Leg": "54 of 58",
+            "Distance": "439 of 737",
+            "Clinch": "6 of 7",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "751de04455cfaac0",
+        "name": "Calvin Kattar",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "133 of 283",
+            "Sig. str. %": "47%",
+            "Total str.": "134 of 284",
+            "Td": "0 of 2",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:05"
+        },
+        "significant_strikes": {
+            "Sig. str": "133 of 283",
+            "Sig. str. %": "47%",
+            "Head": "99 of 237",
+            "Body": "16 of 23",
+            "Leg": "18 of 23",
+            "Distance": "129 of 279",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    }
+}

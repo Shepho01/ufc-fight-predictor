@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "8fd76e1b49c00ae2",
+        "event_name": "UFC Fight Night: Ortega vs. Rodriguez",
+        "event_date": "July 16, 2022",
+        "location": "Elmont, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "7503d5c892f238fb",
+            "fighter_a": "Yair Rodriguez",
+            "fighter_b": "Brian Ortega",
+            "winner": "Yair Rodriguez",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": "1",
+            "time": "4:11",
+            "fight_url": "http://ufcstats.com/fight-details/7503d5c892f238fb"
+        },
+        {
+            "fight_id": "e57bfadb506e4f51",
+            "fighter_a": "Amanda Lemos",
+            "fighter_b": "Michelle Waterson-Gomez",
+            "winner": "Amanda Lemos",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "1:48",
+            "fight_url": "http://ufcstats.com/fight-details/e57bfadb506e4f51"
+        },
+        {
+            "fight_id": "dd456668731bd52a",
+            "fighter_a": "Li Jingliang",
+            "fighter_b": "Muslim Salikhov",
+            "winner": "Li Jingliang",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "2",
+            "time": "4:38",
+            "fight_url": "http://ufcstats.com/fight-details/dd456668731bd52a"
+        },
+        {
+            "fight_id": "8e4024cb49c963f2",
+            "fighter_a": "Matt Schnell",
+            "fighter_b": "Sumudaerji",
+            "winner": "Matt Schnell",
+            "weight_class": "Flyweight",
+            "method": "SUB Triangle Choke",
+            "round": "2",
+            "time": "4:24",
+            "fight_url": "http://ufcstats.com/fight-details/8e4024cb49c963f2"
+        },
+        {
+            "fight_id": "d439374c1fc95581",
+            "fighter_a": "Shane Burgos",
+            "fighter_b": "Charles Jourdain",
+            "winner": "Shane Burgos",
+            "weight_class": "Featherweight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/d439374c1fc95581"
+        },
+        {
+            "fight_id": "4965d8eab468b839",
+            "fighter_a": "Lauren Murphy",
+            "fighter_b": "Miesha Tate",
+            "winner": "Lauren Murphy",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4965d8eab468b839"
+        },
+        {
+            "fight_id": "ebefe958473b3843",
+            "fighter_a": "Punahele Soriano",
+            "fighter_b": "Dalcha Lungiambula",
+            "winner": "Punahele Soriano",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "0:28",
+            "fight_url": "http://ufcstats.com/fight-details/ebefe958473b3843"
+        },
+        {
+            "fight_id": "74b8a36293758342",
+            "fighter_a": "Ricky Simon",
+            "fighter_b": "Jack Shore",
+            "winner": "Ricky Simon",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": "2",
+            "time": "3:28",
+            "fight_url": "http://ufcstats.com/fight-details/74b8a36293758342"
+        },
+        {
+            "fight_id": "4dd2bcd2b025204e",
+            "fighter_a": "Bill Algeo",
+            "fighter_b": "Herbert Burns",
+            "winner": "Bill Algeo",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": "2",
+            "time": "1:50",
+            "fight_url": "http://ufcstats.com/fight-details/4dd2bcd2b025204e"
+        },
+        {
+            "fight_id": "a5d2f0fed3ce2899",
+            "fighter_a": "Dustin Jacoby",
+            "fighter_b": "Da Woon Jung",
+            "winner": "Dustin Jacoby",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:13",
+            "fight_url": "http://ufcstats.com/fight-details/a5d2f0fed3ce2899"
+        },
+        {
+            "fight_id": "9f3326195672c2b9",
+            "fighter_a": "Dustin Stoltzfus",
+            "fighter_b": "Dwight Grant",
+            "winner": "Dustin Stoltzfus",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9f3326195672c2b9"
+        },
+        {
+            "fight_id": "b1af3bd0f8266a90",
+            "fighter_a": "Emily Ducote",
+            "fighter_b": "Jessica Penne",
+            "winner": "Emily Ducote",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b1af3bd0f8266a90"
+        }
+    ]
+}

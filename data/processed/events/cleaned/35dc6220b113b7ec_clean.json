@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "35dc6220b113b7ec",
+        "event_name": "UFC Fight Night: Fight for the Troops 3",
+        "event_day": 6,
+        "event_month": 11,
+        "event_year": 2013,
+        "location": "Fort Campbell, Kentucky, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "26e876df6d498657",
+            "fighter_a": "Tim Kennedy",
+            "fighter_b": "Rafael Natal",
+            "winner": "Tim Kennedy",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 280,
+            "fight_url": "http://ufcstats.com/fight-details/26e876df6d498657"
+        },
+        {
+            "fight_id": "4c257f69fb974088",
+            "fighter_a": "Alexis Davis",
+            "fighter_b": "Liz Carmouche",
+            "winner": "Alexis Davis",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4c257f69fb974088"
+        },
+        {
+            "fight_id": "b35f2071e6dd4b12",
+            "fighter_a": "Yoel Romero",
+            "fighter_b": "Ronny Markes",
+            "winner": "Yoel Romero",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 99,
+            "fight_url": "http://ufcstats.com/fight-details/b35f2071e6dd4b12"
+        },
+        {
+            "fight_id": "dbc3afd71525c83d",
+            "fighter_a": "Rustam Khabilov",
+            "fighter_b": "Jorge Masvidal",
+            "winner": "Rustam Khabilov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/dbc3afd71525c83d"
+        },
+        {
+            "fight_id": "0cd79ea89d5931d0",
+            "fighter_a": "Michael Chiesa",
+            "fighter_b": "Colton Smith",
+            "winner": "Michael Chiesa",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 101,
+            "fight_url": "http://ufcstats.com/fight-details/0cd79ea89d5931d0"
+        },
+        {
+            "fight_id": "2bcb1b0b05e2c739",
+            "fighter_a": "King Green",
+            "fighter_b": "James Krause",
+            "winner": "King Green",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": 1,
+            "time_seconds": 230,
+            "fight_url": "http://ufcstats.com/fight-details/2bcb1b0b05e2c739"
+        },
+        {
+            "fight_id": "dc3deae609874677",
+            "fighter_a": "Francisco Rivera",
+            "fighter_b": "George Roop",
+            "winner": "Francisco Rivera",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": 2,
+            "time_seconds": 140,
+            "fight_url": "http://ufcstats.com/fight-details/dc3deae609874677"
+        },
+        {
+            "fight_id": "ce30634422a264f9",
+            "fighter_a": "Dennis Bermudez",
+            "fighter_b": "Steven Siler",
+            "winner": "Dennis Bermudez",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ce30634422a264f9"
+        },
+        {
+            "fight_id": "add991cb839af4ed",
+            "fighter_a": "Amanda Nunes",
+            "fighter_b": "Germaine de Randamie",
+            "winner": "Amanda Nunes",
+            "weight_class": "Women's Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": 1,
+            "time_seconds": 236,
+            "fight_url": "http://ufcstats.com/fight-details/add991cb839af4ed"
+        },
+        {
+            "fight_id": "ef97cccf28cf00a8",
+            "fighter_a": "Lorenz Larkin",
+            "fighter_b": "Chris Camozzi",
+            "winner": "Lorenz Larkin",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ef97cccf28cf00a8"
+        },
+        {
+            "fight_id": "ab18079c7c0040fb",
+            "fighter_a": "Yves Edwards",
+            "fighter_b": "Yancy Medeiros",
+            "winner": null,
+            "weight_class": "Lightweight",
+            "method": "Overturned",
+            "round": 1,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/ab18079c7c0040fb"
+        },
+        {
+            "fight_id": "6017ccf5fa09da34",
+            "fighter_a": "Seth Baczynski",
+            "fighter_b": "Neil Magny",
+            "winner": "Seth Baczynski",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6017ccf5fa09da34"
+        },
+        {
+            "fight_id": "20a83369ee44e1d4",
+            "fighter_a": "Derek Brunson",
+            "fighter_b": "Brian Houston",
+            "winner": "Derek Brunson",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 48,
+            "fight_url": "http://ufcstats.com/fight-details/20a83369ee44e1d4"
+        }
+    ]
+}

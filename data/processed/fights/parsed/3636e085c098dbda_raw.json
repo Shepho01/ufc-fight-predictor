@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "3636e085c098dbda",
+        "event_id": "ff9578cdbfabd323",
+        "event_name": "UFC 214: Cormier vs. Jones 2",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "3:04",
+        "referee": "Jason Herzog",
+        "winner_id": "519e4fe37ce9ff75"
+    },
+    "fighter_a": {
+        "fighter_id": "6da99156486ed6c2",
+        "name": "Joshua Burkman",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "11 of 18",
+            "Sig. str. %": "61%",
+            "Total str.": "11 of 18",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "11 of 18",
+            "Sig. str. %": "61%",
+            "Head": "4 of 7",
+            "Body": "4 of 6",
+            "Leg": "3 of 5",
+            "Distance": "7 of 14",
+            "Clinch": "4 of 4",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "15 of 29",
+            "Sig. str. %": "51%",
+            "Total str.": "20 of 34",
+            "Td": "0 of 1",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:07"
+        },
+        "significant_strikes": {
+            "Sig. str": "15 of 29",
+            "Sig. str. %": "51%",
+            "Head": "5 of 17",
+            "Body": "4 of 6",
+            "Leg": "6 of 6",
+            "Distance": "9 of 21",
+            "Clinch": "5 of 7",
+            "Ground": "1 of 1"
+        }
+    }
+}

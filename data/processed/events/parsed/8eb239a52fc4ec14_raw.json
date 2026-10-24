@@ -1,0 +1,76 @@
+{
+    "event": {
+        "event_id": "8eb239a52fc4ec14",
+        "event_name": "DWCS 5.3",
+        "event_date": "September 14, 2021",
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "2f091aaf7556f820",
+            "fighter_a": "Jailton Almeida",
+            "fighter_b": "Nasrudin Nasrudinov",
+            "winner": "Jailton Almeida",
+            "weight_class": "Light Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:49",
+            "fight_url": "http://ufcstats.com/fight-details/2f091aaf7556f820"
+        },
+        {
+            "fight_id": "3945c9fff281e5bd",
+            "fighter_a": "Mo Miller",
+            "fighter_b": "Brandon Lewis",
+            "winner": "Mo Miller",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3945c9fff281e5bd"
+        },
+        {
+            "fight_id": "bae5f82385b29c1a",
+            "fighter_a": "Albert Duraev",
+            "fighter_b": "Caio Bittencourt",
+            "winner": "Albert Duraev",
+            "weight_class": "Middleweight",
+            "method": "SUB Neck Crank",
+            "round": "1",
+            "time": "3:29",
+            "fight_url": "http://ufcstats.com/fight-details/bae5f82385b29c1a"
+        },
+        {
+            "fight_id": "d3428fbadfc16dc9",
+            "fighter_a": "Lukasz Brzeski",
+            "fighter_b": "Dylan Potter",
+            "winner": "Lukasz Brzeski",
+            "weight_class": "Heavyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "3:51",
+            "fight_url": "http://ufcstats.com/fight-details/d3428fbadfc16dc9"
+        },
+        {
+            "fight_id": "e717df080b2f4843",
+            "fighter_a": "Jack Della Maddalena",
+            "fighter_b": "Ange Loosa",
+            "winner": "Jack Della Maddalena",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/e717df080b2f4843"
+        },
+        {
+            "fight_id": "898b34ec3a78cfcc",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Julia Polastri",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/898b34ec3a78cfcc"
+        }
+    ]
+}

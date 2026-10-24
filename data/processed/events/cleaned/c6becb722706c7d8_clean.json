@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "c6becb722706c7d8",
+        "event_name": "UFC Fight Night: Dillashaw vs Cruz",
+        "event_day": 17,
+        "event_month": 1,
+        "event_year": 2016,
+        "location": "Boston, Massachusetts, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "c4938baf92d2dc31",
+            "fighter_a": "Dominick Cruz",
+            "fighter_b": "TJ Dillashaw",
+            "winner": "Dominick Cruz",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c4938baf92d2dc31"
+        },
+        {
+            "fight_id": "3ce6f9eb59a1e149",
+            "fighter_a": "Eddie Alvarez",
+            "fighter_b": "Anthony Pettis",
+            "winner": "Eddie Alvarez",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/3ce6f9eb59a1e149"
+        },
+        {
+            "fight_id": "762de3b0b32ba937",
+            "fighter_a": "Travis Browne",
+            "fighter_b": "Matt Mitrione",
+            "winner": "Travis Browne",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 249,
+            "fight_url": "http://ufcstats.com/fight-details/762de3b0b32ba937"
+        },
+        {
+            "fight_id": "d0dc419dc7acb7e2",
+            "fighter_a": "Francisco Trinaldo",
+            "fighter_b": "Ross Pearson",
+            "winner": "Francisco Trinaldo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d0dc419dc7acb7e2"
+        },
+        {
+            "fight_id": "a7adbceeff234b61",
+            "fighter_a": "Patrick Cote",
+            "fighter_b": "Ben Saunders",
+            "winner": "Patrick Cote",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 74,
+            "fight_url": "http://ufcstats.com/fight-details/a7adbceeff234b61"
+        },
+        {
+            "fight_id": "f8ad660497e49187",
+            "fighter_a": "Ed Herman",
+            "fighter_b": "Tim Boetsch",
+            "winner": "Ed Herman",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Knee",
+            "round": 2,
+            "time_seconds": 99,
+            "fight_url": "http://ufcstats.com/fight-details/f8ad660497e49187"
+        },
+        {
+            "fight_id": "226c6a86f4f81122",
+            "fighter_a": "Chris Wade",
+            "fighter_b": "Mehdi Baghdad",
+            "winner": "Chris Wade",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 270,
+            "fight_url": "http://ufcstats.com/fight-details/226c6a86f4f81122"
+        },
+        {
+            "fight_id": "cdf048ec9b917cfa",
+            "fighter_a": "Luke Sanders",
+            "fighter_b": "Maximo Blanco",
+            "winner": "Luke Sanders",
+            "weight_class": "Featherweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 1,
+            "time_seconds": 218,
+            "fight_url": "http://ufcstats.com/fight-details/cdf048ec9b917cfa"
+        },
+        {
+            "fight_id": "52abce3a11b43b1d",
+            "fighter_a": "Paul Felder",
+            "fighter_b": "Daron Cruickshank",
+            "winner": "Paul Felder",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 236,
+            "fight_url": "http://ufcstats.com/fight-details/52abce3a11b43b1d"
+        },
+        {
+            "fight_id": "2e0493171c4ee80f",
+            "fighter_a": "Ilir Latifi",
+            "fighter_b": "Sean O'Connell",
+            "winner": "Ilir Latifi",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 30,
+            "fight_url": "http://ufcstats.com/fight-details/2e0493171c4ee80f"
+        },
+        {
+            "fight_id": "5afd44d1e567d2e8",
+            "fighter_a": "Charles Rosa",
+            "fighter_b": "Kyle Bochniak",
+            "winner": "Charles Rosa",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5afd44d1e567d2e8"
+        },
+        {
+            "fight_id": "18cdc16fc7ab7ce1",
+            "fighter_a": "Rob Font",
+            "fighter_b": "Joey Gomez",
+            "winner": "Rob Font",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 253,
+            "fight_url": "http://ufcstats.com/fight-details/18cdc16fc7ab7ce1"
+        },
+        {
+            "fight_id": "649b2db3709b07fe",
+            "fighter_a": "Francimar Barroso",
+            "fighter_b": "Elvis Mutapcic",
+            "winner": "Francimar Barroso",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/649b2db3709b07fe"
+        }
+    ]
+}

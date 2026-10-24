@@ -1,0 +1,23 @@
+{
+    "fighter_id": "032cc3922d871c7f",
+    "name": "Khabib Nurmagomedov",
+    "wins": 29,
+    "losses": 0,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 177.8,
+    "weight_lbs": 155,
+    "reach_cm": 177.8,
+    "stance": "Orthodox",
+    "dob_day": 20,
+    "dob_month": 9,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 4.1,
+    "sig_striking_accuracy": 0.48,
+    "sig_strikes_absorbed_per_min": 1.75,
+    "sig_strike_defense": 0.65,
+    "takedowns_landed_per_15_min": 5.32,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.84,
+    "submission_attempts_per_15_min": 0.8
+}

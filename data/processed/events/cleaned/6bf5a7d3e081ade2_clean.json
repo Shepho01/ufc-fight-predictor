@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "6bf5a7d3e081ade2",
+        "event_name": "UFC Fight Night: Font vs. Vera",
+        "event_day": 30,
+        "event_month": 4,
+        "event_year": 2022,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5ae5eb729c6bb169",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Rob Font",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/5ae5eb729c6bb169"
+        },
+        {
+            "fight_id": "eb277b5ea2a19124",
+            "fighter_a": "Andrei Arlovski",
+            "fighter_b": "Jake Collier",
+            "winner": "Andrei Arlovski",
+            "weight_class": "Heavyweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/eb277b5ea2a19124"
+        },
+        {
+            "fight_id": "632c2d4ed12f2bdf",
+            "fighter_a": "Joanderson Brito",
+            "fighter_b": "Andre Fili",
+            "winner": "Joanderson Brito",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 41,
+            "fight_url": "http://ufcstats.com/fight-details/632c2d4ed12f2bdf"
+        },
+        {
+            "fight_id": "7c8701bb78cb4de8",
+            "fighter_a": "Grant Dawson",
+            "fighter_b": "Jared Gordon",
+            "winner": "Grant Dawson",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 251,
+            "fight_url": "http://ufcstats.com/fight-details/7c8701bb78cb4de8"
+        },
+        {
+            "fight_id": "760e3f292b834637",
+            "fighter_a": "Darren Elkins",
+            "fighter_b": "Tristan Connelly",
+            "winner": "Darren Elkins",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/760e3f292b834637"
+        },
+        {
+            "fight_id": "6b956992204ec040",
+            "fighter_a": "Krzysztof Jotko",
+            "fighter_b": "Gerald Meerschaert",
+            "winner": "Krzysztof Jotko",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6b956992204ec040"
+        },
+        {
+            "fight_id": "d2484d74f819d813",
+            "fighter_a": "Alexandr Romanov",
+            "fighter_b": "Chase Sherman",
+            "winner": "Alexandr Romanov",
+            "weight_class": "Heavyweight",
+            "method": "SUB Keylock",
+            "round": 1,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/d2484d74f819d813"
+        },
+        {
+            "fight_id": "7e4b7a70838e5ba4",
+            "fighter_a": "Francisco Figueiredo",
+            "fighter_b": "Daniel Lacerda",
+            "winner": "Francisco Figueiredo",
+            "weight_class": "Flyweight",
+            "method": "SUB Kneebar",
+            "round": 1,
+            "time_seconds": 78,
+            "fight_url": "http://ufcstats.com/fight-details/7e4b7a70838e5ba4"
+        },
+        {
+            "fight_id": "5b731da9e4be4391",
+            "fighter_a": "Gabe Green",
+            "fighter_b": "Yohan Lainesse",
+            "winner": "Gabe Green",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 242,
+            "fight_url": "http://ufcstats.com/fight-details/5b731da9e4be4391"
+        },
+        {
+            "fight_id": "9217ecc287ac482d",
+            "fighter_a": "Natan Levy",
+            "fighter_b": "Mike Breeden",
+            "winner": "Natan Levy",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/9217ecc287ac482d"
+        },
+        {
+            "fight_id": "80cf37627a129145",
+            "fighter_a": "Shanna Young",
+            "fighter_b": "Gina Mazany",
+            "winner": "Shanna Young",
+            "weight_class": "Women's Flyweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 191,
+            "fight_url": "http://ufcstats.com/fight-details/80cf37627a129145"
+        }
+    ]
+}

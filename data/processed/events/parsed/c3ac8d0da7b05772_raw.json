@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "c3ac8d0da7b05772",
+        "event_name": "UFC Fight Night: Burns vs. Malott",
+        "event_date": "April 18, 2026",
+        "location": "Winnipeg, Manitoba, Canada"
+    },
+    "fights": [
+        {
+            "fight_id": "32054bf2b36b0e47",
+            "fighter_a": "Mike Malott",
+            "fighter_b": "Gilbert Burns",
+            "winner": "Mike Malott",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": "3",
+            "time": "2:08",
+            "fight_url": "http://ufcstats.com/fight-details/32054bf2b36b0e47"
+        },
+        {
+            "fight_id": "b5299e5b946015e5",
+            "fighter_a": "Charles Jourdain",
+            "fighter_b": "Kyler Phillips",
+            "winner": "Charles Jourdain",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b5299e5b946015e5"
+        },
+        {
+            "fight_id": "e644218737c1a778",
+            "fighter_a": "Jai Herbert",
+            "fighter_b": "Mandel Nallo",
+            "winner": "Jai Herbert",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punches",
+            "round": "1",
+            "time": "2:05",
+            "fight_url": "http://ufcstats.com/fight-details/e644218737c1a778"
+        },
+        {
+            "fight_id": "5a209522211d7530",
+            "fighter_a": "Jasmine Jasudavicius",
+            "fighter_b": "Karine Silva",
+            "winner": "Jasmine Jasudavicius",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/5a209522211d7530"
+        },
+        {
+            "fight_id": "a661c0bee7c8d5af",
+            "fighter_a": "Gauge Young",
+            "fighter_b": "Thiago Moises",
+            "winner": "Gauge Young",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a661c0bee7c8d5af"
+        },
+        {
+            "fight_id": "678440bd8274a18e",
+            "fighter_a": "Marcio Barbosa",
+            "fighter_b": "Dennis Buzukja",
+            "winner": "Marcio Barbosa",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:20",
+            "fight_url": "http://ufcstats.com/fight-details/678440bd8274a18e"
+        },
+        {
+            "fight_id": "9fab4b0ad082f670",
+            "fighter_a": "Robert Valentin",
+            "fighter_b": "Julien Leblanc",
+            "winner": "Robert Valentin",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:22",
+            "fight_url": "http://ufcstats.com/fight-details/9fab4b0ad082f670"
+        },
+        {
+            "fight_id": "85c7a0f44aa3e10a",
+            "fighter_a": "Gokhan Saricam",
+            "fighter_b": "Tanner Boser",
+            "winner": "Gokhan Saricam",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "4:43",
+            "fight_url": "http://ufcstats.com/fight-details/85c7a0f44aa3e10a"
+        },
+        {
+            "fight_id": "bae4de7ef8c0769e",
+            "fighter_a": "Melissa Croden",
+            "fighter_b": "Daria Zhelezniakova",
+            "winner": "Melissa Croden",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bae4de7ef8c0769e"
+        },
+        {
+            "fight_id": "0b6c13ab8ad7f82b",
+            "fighter_a": "JJ Aldrich",
+            "fighter_b": "Jamey-Lyn Horth",
+            "winner": "JJ Aldrich",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/0b6c13ab8ad7f82b"
+        },
+        {
+            "fight_id": "552f7cdaf93e1055",
+            "fighter_a": "John Castaneda",
+            "fighter_b": "Mark Vologdin",
+            "winner": null,
+            "weight_class": "Catch Weight",
+            "method": "M-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/552f7cdaf93e1055"
+        },
+        {
+            "fight_id": "32087c183dffcae0",
+            "fighter_a": "John Yannis",
+            "fighter_b": "Jamie Siraj",
+            "winner": "John Yannis",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": "1",
+            "time": "2:43",
+            "fight_url": "http://ufcstats.com/fight-details/32087c183dffcae0"
+        }
+    ]
+}

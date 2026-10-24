@@ -1,0 +1,166 @@
+{
+    "event": {
+        "event_id": "1ccff7f0cfdf85eb",
+        "event_name": "UFC 285: Jones vs. Gane",
+        "event_day": 4,
+        "event_month": 3,
+        "event_year": 2023,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "636fd144716a3084",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Ciryl Gane",
+            "winner": "Jon Jones",
+            "weight_class": "Heavyweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 124,
+            "fight_url": "http://ufcstats.com/fight-details/636fd144716a3084"
+        },
+        {
+            "fight_id": "a69afe4a88c0ca12",
+            "fighter_a": "Alexa Grasso",
+            "fighter_b": "Valentina Shevchenko",
+            "winner": "Alexa Grasso",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 4,
+            "time_seconds": 274,
+            "fight_url": "http://ufcstats.com/fight-details/a69afe4a88c0ca12"
+        },
+        {
+            "fight_id": "22fc6b3f4e48cfa3",
+            "fighter_a": "Shavkat Rakhmonov",
+            "fighter_b": "Geoff Neal",
+            "winner": "Shavkat Rakhmonov",
+            "weight_class": "Welterweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 3,
+            "time_seconds": 257,
+            "fight_url": "http://ufcstats.com/fight-details/22fc6b3f4e48cfa3"
+        },
+        {
+            "fight_id": "d6d034e98ce85246",
+            "fighter_a": "Mateusz Gamrot",
+            "fighter_b": "Jalin Turner",
+            "winner": "Mateusz Gamrot",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d6d034e98ce85246"
+        },
+        {
+            "fight_id": "2b9daf452ab40b9b",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Jamie Pickett",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "SUB Arm Triangle",
+            "round": 1,
+            "time_seconds": 174,
+            "fight_url": "http://ufcstats.com/fight-details/2b9daf452ab40b9b"
+        },
+        {
+            "fight_id": "ec490d4224d3bc78",
+            "fighter_a": "Cody Garbrandt",
+            "fighter_b": "Trevin Jones",
+            "winner": "Cody Garbrandt",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ec490d4224d3bc78"
+        },
+        {
+            "fight_id": "c2fc4c1e0c769655",
+            "fighter_a": "Dricus Du Plessis",
+            "fighter_b": "Derek Brunson",
+            "winner": "Dricus Du Plessis",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 299,
+            "fight_url": "http://ufcstats.com/fight-details/c2fc4c1e0c769655"
+        },
+        {
+            "fight_id": "009feda296ae589c",
+            "fighter_a": "Amanda Ribas",
+            "fighter_b": "Viviane Araujo",
+            "winner": "Amanda Ribas",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/009feda296ae589c"
+        },
+        {
+            "fight_id": "c29e2c49e1e417c8",
+            "fighter_a": "Marc-Andre Barriault",
+            "fighter_b": "Julian Marquez",
+            "winner": "Marc-Andre Barriault",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": 2,
+            "time_seconds": 252,
+            "fight_url": "http://ufcstats.com/fight-details/c29e2c49e1e417c8"
+        },
+        {
+            "fight_id": "ed9f8f702585ed44",
+            "fighter_a": "Ian Machado Garry",
+            "fighter_b": "Song Kenan",
+            "winner": "Ian Machado Garry",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punches",
+            "round": 3,
+            "time_seconds": 262,
+            "fight_url": "http://ufcstats.com/fight-details/ed9f8f702585ed44"
+        },
+        {
+            "fight_id": "0eb16f1307f66a11",
+            "fighter_a": "Cameron Saaiman",
+            "fighter_b": "Mana Martinez",
+            "winner": "Cameron Saaiman",
+            "weight_class": "Bantamweight",
+            "method": "M-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/0eb16f1307f66a11"
+        },
+        {
+            "fight_id": "c3b9b97467f828d1",
+            "fighter_a": "Tabatha Ricci",
+            "fighter_b": "Jessica Penne",
+            "winner": "Tabatha Ricci",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Armbar",
+            "round": 2,
+            "time_seconds": 134,
+            "fight_url": "http://ufcstats.com/fight-details/c3b9b97467f828d1"
+        },
+        {
+            "fight_id": "cd20dac4daa4f93a",
+            "fighter_a": "Farid Basharat",
+            "fighter_b": "Da'Mon Blackshear",
+            "winner": "Farid Basharat",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cd20dac4daa4f93a"
+        },
+        {
+            "fight_id": "ee2354d638c078fd",
+            "fighter_a": "Loik Radzhabov",
+            "fighter_b": "Esteban Ribovics",
+            "winner": "Loik Radzhabov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/ee2354d638c078fd"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fighter_id": "53ec9cb470e1a4ea",
+    "name": "Jon Tuck",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "no_conests": 0,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 185.42000000000002,
+    "stance": "Orthodox",
+    "dob_day": 28,
+    "dob_month": 8,
+    "dob_year": 1984,
+    "sig_strikes_landed_per_min": 3.0,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 3.74,
+    "sig_strike_defense": 0.6,
+    "takedowns_landed_per_15_min": 0.42,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.5,
+    "submission_attempts_per_15_min": 1.0
+}

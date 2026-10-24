@@ -52,6 +52,44 @@ def historical_features(history, cutoff):
         values = [value for value in values if value is not None]
         features['avg_' + field] = ratio(sum(values), len(values))
         features[field + '_observed_fights'] = len(values)
+        
+    
+    
+    for feature_name, stat_name in (
+        ("total_str_landed_per_min", "total_str_landed"),
+        ("sig_ground_str_landed_per_min", "ground_landed"),
+    ):
+        observations = []
+
+        for entry in history:
+            own_stats = entry[1]
+            duration_seconds = entry[3]
+            landed = own_stats.get(stat_name)
+
+            if (
+                landed is not None
+                and duration_seconds is not None
+                and duration_seconds > 0
+            ):
+                observations.append((landed, duration_seconds))
+
+        total_landed = sum(
+            landed for landed, duration in observations
+        )
+
+        total_minutes = sum(
+            duration for landed, duration in observations
+        ) / 60
+
+        features[feature_name] = ratio(
+            total_landed,
+            total_minutes,
+        )
+
+        features[feature_name + "_observed_fights"] = len(
+            observations
+        )
+        
     return features
 
 
@@ -140,8 +178,12 @@ def build_historical_features(records):
             })
         for record in daily_records:
             a, b = record['fighter_a'], record['fighter_b']
-            histories[a['fighter_id']].append((fight_date, a['fight_stats'], b['fight_stats']))
-            histories[b['fighter_id']].append((fight_date, b['fight_stats'], a['fight_stats']))
+            
+            duration_seconds = record["fight"]["duration_seconds"]
+            
+            histories[a["fighter_id"]].append((fight_date, a["fight_stats"], b["fight_stats"], duration_seconds))
+            histories[b["fighter_id"]].append((fight_date, b["fight_stats"], a["fight_stats"], duration_seconds))
+            
     return rows
 
 

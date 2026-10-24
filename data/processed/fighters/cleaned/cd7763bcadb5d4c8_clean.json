@@ -1,0 +1,23 @@
+{
+    "fighter_id": "cd7763bcadb5d4c8",
+    "name": "Alan Patrick",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "no_conests": 1,
+    "height_cm": 180.34,
+    "weight_lbs": 155,
+    "reach_cm": 187.96,
+    "stance": "Southpaw",
+    "dob_day": 19,
+    "dob_month": 7,
+    "dob_year": 1983,
+    "sig_strikes_landed_per_min": 1.82,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 2.95,
+    "sig_strike_defense": 0.43,
+    "takedowns_landed_per_15_min": 3.01,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.43,
+    "submission_attempts_per_15_min": 0.3
+}

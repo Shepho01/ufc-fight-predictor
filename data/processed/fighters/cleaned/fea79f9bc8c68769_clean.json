@@ -1,0 +1,23 @@
+{
+    "fighter_id": "fea79f9bc8c68769",
+    "name": "Marlon Moraes",
+    "wins": 23,
+    "losses": 10,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 167.64,
+    "weight_lbs": 135,
+    "reach_cm": 170.18,
+    "stance": "Orthodox",
+    "dob_day": 26,
+    "dob_month": 4,
+    "dob_year": 1988,
+    "sig_strikes_landed_per_min": 3.37,
+    "sig_striking_accuracy": 0.4,
+    "sig_strikes_absorbed_per_min": 4.53,
+    "sig_strike_defense": 0.54,
+    "takedowns_landed_per_15_min": 0.87,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.46,
+    "submission_attempts_per_15_min": 0.3
+}

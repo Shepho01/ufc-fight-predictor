@@ -1,0 +1,144 @@
+{
+    "event": {
+        "event_id": "daff32bc96d1eabf",
+        "event_name": "UFC 309: Jones vs. Miocic",
+        "event_day": 16,
+        "event_month": 11,
+        "event_year": 2024,
+        "location": "New York City, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "b35e47f2f58ef026",
+            "fighter_a": "Jon Jones",
+            "fighter_b": "Stipe Miocic",
+            "winner": "Jon Jones",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO Spinning Back Kick",
+            "round": 3,
+            "time_seconds": 269,
+            "fight_url": "http://ufcstats.com/fight-details/b35e47f2f58ef026"
+        },
+        {
+            "fight_id": "4f4189009a190e35",
+            "fighter_a": "Charles Oliveira",
+            "fighter_b": "Michael Chandler",
+            "winner": "Charles Oliveira",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 5,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4f4189009a190e35"
+        },
+        {
+            "fight_id": "cfd3e62c638fbd1f",
+            "fighter_a": "Bo Nickal",
+            "fighter_b": "Paul Craig",
+            "winner": "Bo Nickal",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/cfd3e62c638fbd1f"
+        },
+        {
+            "fight_id": "8545a2495db16538",
+            "fighter_a": "Viviane Araujo",
+            "fighter_b": "Karine Silva",
+            "winner": "Viviane Araujo",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/8545a2495db16538"
+        },
+        {
+            "fight_id": "55eebc2ee92bf00a",
+            "fighter_a": "Mauricio Ruffy",
+            "fighter_b": "James Llontop",
+            "winner": "Mauricio Ruffy",
+            "weight_class": "Catch Weight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/55eebc2ee92bf00a"
+        },
+        {
+            "fight_id": "2a930e2d7e1f87a9",
+            "fighter_a": "Marcus McGhee",
+            "fighter_b": "Jonathan Martinez",
+            "winner": "Marcus McGhee",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2a930e2d7e1f87a9"
+        },
+        {
+            "fight_id": "35c8223cc967fe0a",
+            "fighter_a": "Jim Miller",
+            "fighter_b": "Damon Jackson",
+            "winner": "Jim Miller",
+            "weight_class": "Lightweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 164,
+            "fight_url": "http://ufcstats.com/fight-details/35c8223cc967fe0a"
+        },
+        {
+            "fight_id": "c565e2baa27cc7e5",
+            "fighter_a": "David Onama",
+            "fighter_b": "Roberto Romero",
+            "winner": "David Onama",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/c565e2baa27cc7e5"
+        },
+        {
+            "fight_id": "6c1faa6284428e5d",
+            "fighter_a": "Marcin Tybura",
+            "fighter_b": "Jhonata Diniz",
+            "winner": "Marcin Tybura",
+            "weight_class": "Heavyweight",
+            "method": "KO/TKO",
+            "round": 2,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/6c1faa6284428e5d"
+        },
+        {
+            "fight_id": "00414fc5519233b4",
+            "fighter_a": "Ramiz Brahimaj",
+            "fighter_b": "Mickey Gall",
+            "winner": "Ramiz Brahimaj",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 175,
+            "fight_url": "http://ufcstats.com/fight-details/00414fc5519233b4"
+        },
+        {
+            "fight_id": "9676a4e9362e4bfd",
+            "fighter_a": "Oban Elliott",
+            "fighter_b": "Bassil Hafez",
+            "winner": "Oban Elliott",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 40,
+            "fight_url": "http://ufcstats.com/fight-details/9676a4e9362e4bfd"
+        },
+        {
+            "fight_id": "40e2a7b65794ac05",
+            "fighter_a": "Eduarda Moura",
+            "fighter_b": "Veronica Hardy",
+            "winner": "Eduarda Moura",
+            "weight_class": "Women's Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/40e2a7b65794ac05"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "event": {
+        "event_id": "b3b6e80b7d5f8f0d",
+        "event_name": "UFC 281: Adesanya vs. Pereira",
+        "event_date": "November 12, 2022",
+        "location": "New York City, New York, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "04f32bb0c0d3a8cc",
+            "fighter_a": "Alex Pereira",
+            "fighter_b": "Israel Adesanya",
+            "winner": "Alex Pereira",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Punches",
+            "round": "5",
+            "time": "2:01",
+            "fight_url": "http://ufcstats.com/fight-details/04f32bb0c0d3a8cc"
+        },
+        {
+            "fight_id": "85b5d59f8eea976a",
+            "fighter_a": "Zhang Weili",
+            "fighter_b": "Carla Esparza",
+            "winner": "Zhang Weili",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:05",
+            "fight_url": "http://ufcstats.com/fight-details/85b5d59f8eea976a"
+        },
+        {
+            "fight_id": "4bf3010fdeea9d93",
+            "fighter_a": "Dustin Poirier",
+            "fighter_b": "Michael Chandler",
+            "winner": "Dustin Poirier",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "3",
+            "time": "2:00",
+            "fight_url": "http://ufcstats.com/fight-details/4bf3010fdeea9d93"
+        },
+        {
+            "fight_id": "09afa6ce4747a1a2",
+            "fighter_a": "Chris Gutierrez",
+            "fighter_b": "Frankie Edgar",
+            "winner": "Chris Gutierrez",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Knee",
+            "round": "1",
+            "time": "2:01",
+            "fight_url": "http://ufcstats.com/fight-details/09afa6ce4747a1a2"
+        },
+        {
+            "fight_id": "77c78d0a71b10692",
+            "fighter_a": "Dan Hooker",
+            "fighter_b": "Claudio Puelles",
+            "winner": "Dan Hooker",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Kick",
+            "round": "2",
+            "time": "4:06",
+            "fight_url": "http://ufcstats.com/fight-details/77c78d0a71b10692"
+        },
+        {
+            "fight_id": "1f922cfe6178e830",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Brad Riddell",
+            "winner": "Renato Moicano",
+            "weight_class": "Lightweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "3:20",
+            "fight_url": "http://ufcstats.com/fight-details/1f922cfe6178e830"
+        },
+        {
+            "fight_id": "6f22afbc5f8e0bd3",
+            "fighter_a": "Ryan Spann",
+            "fighter_b": "Dominick Reyes",
+            "winner": "Ryan Spann",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "1:20",
+            "fight_url": "http://ufcstats.com/fight-details/6f22afbc5f8e0bd3"
+        },
+        {
+            "fight_id": "93da91272d4a7ce3",
+            "fighter_a": "Erin Blanchfield",
+            "fighter_b": "Molly McCann",
+            "winner": "Erin Blanchfield",
+            "weight_class": "Women's Flyweight",
+            "method": "SUB Kimura",
+            "round": "1",
+            "time": "3:37",
+            "fight_url": "http://ufcstats.com/fight-details/93da91272d4a7ce3"
+        },
+        {
+            "fight_id": "65ce9335b93d9c57",
+            "fighter_a": "Andre Petroski",
+            "fighter_b": "Wellington Turman",
+            "winner": "Andre Petroski",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/65ce9335b93d9c57"
+        },
+        {
+            "fight_id": "40707ddc9fdea500",
+            "fighter_a": "Matt Frevola",
+            "fighter_b": "Ottman Azaitar",
+            "winner": "Matt Frevola",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "2:30",
+            "fight_url": "http://ufcstats.com/fight-details/40707ddc9fdea500"
+        },
+        {
+            "fight_id": "ff2e4b411f695017",
+            "fighter_a": "Karolina Kowalkiewicz",
+            "fighter_b": "Silvana Gomez Juarez",
+            "winner": "Karolina Kowalkiewicz",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/ff2e4b411f695017"
+        },
+        {
+            "fight_id": "7f93b2f38497caec",
+            "fighter_a": "Michael Trizano",
+            "fighter_b": "SeungWoo Choi",
+            "winner": "Michael Trizano",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "4:51",
+            "fight_url": "http://ufcstats.com/fight-details/7f93b2f38497caec"
+        },
+        {
+            "fight_id": "bee95769a221af9a",
+            "fighter_a": "Montel Jackson",
+            "fighter_b": "Julio Arce",
+            "winner": "Montel Jackson",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bee95769a221af9a"
+        },
+        {
+            "fight_id": "db026ff6eee4d174",
+            "fighter_a": "Carlos Ulberg",
+            "fighter_b": "Nicolae Negumereanu",
+            "winner": "Carlos Ulberg",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:44",
+            "fight_url": "http://ufcstats.com/fight-details/db026ff6eee4d174"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "f96f719ad667dd96",
+        "event_id": "a7a79b8efbceaaac",
+        "event_name": "UFC Fight Night: Ngannou vs. Velasquez",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "6fb1ba67bef41b37"
+    },
+    "fighter_a": {
+        "fighter_id": "df1eb4354d18a906",
+        "name": "Scott Holtzman",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "54 of 122",
+            "Sig. str. %": "44%",
+            "Total str.": "86 of 157",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:18"
+        },
+        "significant_strikes": {
+            "Sig. str": "54 of 122",
+            "Sig. str. %": "44%",
+            "Head": "39 of 99",
+            "Body": "13 of 21",
+            "Leg": "2 of 2",
+            "Distance": "40 of 107",
+            "Clinch": "7 of 8",
+            "Ground": "7 of 7"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6fb1ba67bef41b37",
+        "name": "Nik Lentz",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "71 of 122",
+            "Sig. str. %": "58%",
+            "Total str.": "79 of 130",
+            "Td": "5 of 19",
+            "Td %": "26%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "6:48"
+        },
+        "significant_strikes": {
+            "Sig. str": "71 of 122",
+            "Sig. str. %": "58%",
+            "Head": "39 of 88",
+            "Body": "16 of 18",
+            "Leg": "16 of 16",
+            "Distance": "55 of 105",
+            "Clinch": "16 of 17",
+            "Ground": "0 of 0"
+        }
+    }
+}

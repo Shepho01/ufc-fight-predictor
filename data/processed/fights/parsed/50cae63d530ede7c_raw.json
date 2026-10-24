@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "50cae63d530ede7c",
+        "event_id": "9ddfb3369a3b0394",
+        "event_name": "UFC Fight Night: Jung vs. Ige",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "Decision - Unanimous",
+        "finish_round": 5,
+        "finish_time": "5:00",
+        "referee": "Herb Dean",
+        "winner_id": "c451d67c09c55418"
+    },
+    "fighter_a": {
+        "fighter_id": "c451d67c09c55418",
+        "name": "Chan Sung Jung",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "92 of 166",
+            "Sig. str. %": "55%",
+            "Total str.": "154 of 248",
+            "Td": "3 of 5",
+            "Td %": "60%",
+            "Sub. att": "3",
+            "Rev.": "0",
+            "Ctrl": "10:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "92 of 166",
+            "Sig. str. %": "55%",
+            "Head": "78 of 151",
+            "Body": "5 of 5",
+            "Leg": "9 of 10",
+            "Distance": "79 of 150",
+            "Clinch": "4 of 4",
+            "Ground": "9 of 12"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "82a5152216251682",
+        "name": "Dan Ige",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "80 of 168",
+            "Sig. str. %": "47%",
+            "Total str.": "137 of 237",
+            "Td": "0 of 4",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:53"
+        },
+        "significant_strikes": {
+            "Sig. str": "80 of 168",
+            "Sig. str. %": "47%",
+            "Head": "46 of 130",
+            "Body": "23 of 25",
+            "Leg": "11 of 13",
+            "Distance": "69 of 153",
+            "Clinch": "9 of 11",
+            "Ground": "2 of 4"
+        }
+    }
+}

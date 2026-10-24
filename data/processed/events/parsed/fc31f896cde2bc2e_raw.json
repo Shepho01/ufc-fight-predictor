@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "fc31f896cde2bc2e",
+        "event_name": "UFC 169: Barao vs Faber 2",
+        "event_date": "February 01, 2014",
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "4c9047d1c1bc1e29",
+            "fighter_a": "Renan Barao",
+            "fighter_b": "Urijah Faber",
+            "winner": "Renan Barao",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "3:42",
+            "fight_url": "http://ufcstats.com/fight-details/4c9047d1c1bc1e29"
+        },
+        {
+            "fight_id": "a3b37f8ea171b962",
+            "fighter_a": "Jose Aldo",
+            "fighter_b": "Ricardo Lamas",
+            "winner": "Jose Aldo",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a3b37f8ea171b962"
+        },
+        {
+            "fight_id": "651bdd9e17a58c5d",
+            "fighter_a": "Alistair Overeem",
+            "fighter_b": "Frank Mir",
+            "winner": "Alistair Overeem",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/651bdd9e17a58c5d"
+        },
+        {
+            "fight_id": "a851348faa460c2d",
+            "fighter_a": "Ali Bagautinov",
+            "fighter_b": "John Lineker",
+            "winner": "Ali Bagautinov",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/a851348faa460c2d"
+        },
+        {
+            "fight_id": "fe936088ec4dcb0d",
+            "fighter_a": "Abel Trujillo",
+            "fighter_b": "Jamie Varner",
+            "winner": "Abel Trujillo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "2:32",
+            "fight_url": "http://ufcstats.com/fight-details/fe936088ec4dcb0d"
+        },
+        {
+            "fight_id": "b9be2e52d02886e2",
+            "fighter_a": "Alan Patrick",
+            "fighter_b": "John Makdessi",
+            "winner": "Alan Patrick",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b9be2e52d02886e2"
+        },
+        {
+            "fight_id": "b705fb146638d859",
+            "fighter_a": "Chris Cariaso",
+            "fighter_b": "Danny Martinez",
+            "winner": "Chris Cariaso",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b705fb146638d859"
+        },
+        {
+            "fight_id": "c145e4b6206d4c18",
+            "fighter_a": "Nick Catone",
+            "fighter_b": "Tom Watson",
+            "winner": "Nick Catone",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c145e4b6206d4c18"
+        },
+        {
+            "fight_id": "b51163f358495b41",
+            "fighter_a": "Al Iaquinta",
+            "fighter_b": "Kevin Lee",
+            "winner": "Al Iaquinta",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/b51163f358495b41"
+        },
+        {
+            "fight_id": "131732f248cd2829",
+            "fighter_a": "Clint Hester",
+            "fighter_b": "Andy Enz",
+            "winner": "Clint Hester",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/131732f248cd2829"
+        },
+        {
+            "fight_id": "bc9dd73e0a982c08",
+            "fighter_a": "Rashid Magomedov",
+            "fighter_b": "Anthony Rocco Martin",
+            "winner": "Rashid Magomedov",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/bc9dd73e0a982c08"
+        },
+        {
+            "fight_id": "7a91b26b3e231fff",
+            "fighter_a": "Neil Magny",
+            "fighter_b": "Gasan Umalatov",
+            "winner": "Neil Magny",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/7a91b26b3e231fff"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "e717df080b2f4843",
+        "event_id": "8eb239a52fc4ec14",
+        "event_name": "DWCS 5.3",
+        "weight_class": "Welterweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Jason Herzog",
+        "winner_id": "6b453bc35a823c3f"
+    },
+    "fighter_a": {
+        "fighter_id": "1497e735d9f2560a",
+        "name": "Ange Loosa",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "64 of 185",
+            "Sig. str. %": "34%",
+            "Total str.": "87 of 208",
+            "Td": "1 of 4",
+            "Td %": "25%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "2:23"
+        },
+        "significant_strikes": {
+            "Sig. str": "64 of 185",
+            "Sig. str. %": "34%",
+            "Head": "40 of 149",
+            "Body": "12 of 19",
+            "Leg": "12 of 17",
+            "Distance": "63 of 183",
+            "Clinch": "1 of 2",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "6b453bc35a823c3f",
+        "name": "Jack Della Maddalena",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "108 of 227",
+            "Sig. str. %": "47%",
+            "Total str.": "113 of 232",
+            "Td": "0 of 3",
+            "Td %": "0%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "108 of 227",
+            "Sig. str. %": "47%",
+            "Head": "88 of 197",
+            "Body": "16 of 25",
+            "Leg": "4 of 5",
+            "Distance": "105 of 221",
+            "Clinch": "3 of 6",
+            "Ground": "0 of 0"
+        }
+    }
+}

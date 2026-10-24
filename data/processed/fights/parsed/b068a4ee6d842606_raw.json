@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "b068a4ee6d842606",
+        "event_id": "fa534853eb195270",
+        "event_name": "UFC Fight Night: Maia vs LaFlare",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Overturned",
+        "finish_round": 2,
+        "finish_time": "2:45",
+        "referee": "Eduardo Herdy",
+        "winner_id": null
+    },
+    "fighter_a": {
+        "fighter_id": "159da492e000afbf",
+        "name": "Leandro Silva",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "25 of 48",
+            "Sig. str. %": "52%",
+            "Total str.": "28 of 52",
+            "Td": "2 of 4",
+            "Td %": "50%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "1:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "25 of 48",
+            "Sig. str. %": "52%",
+            "Head": "11 of 31",
+            "Body": "9 of 9",
+            "Leg": "5 of 8",
+            "Distance": "22 of 43",
+            "Clinch": "3 of 5",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "519e4fe37ce9ff75",
+        "name": "Drew Dober",
+        "result": "NC",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "22 of 72",
+            "Sig. str. %": "30%",
+            "Total str.": "26 of 77",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:10"
+        },
+        "significant_strikes": {
+            "Sig. str": "22 of 72",
+            "Sig. str. %": "30%",
+            "Head": "14 of 55",
+            "Body": "2 of 4",
+            "Leg": "6 of 13",
+            "Distance": "15 of 56",
+            "Clinch": "7 of 16",
+            "Ground": "0 of 0"
+        }
+    }
+}

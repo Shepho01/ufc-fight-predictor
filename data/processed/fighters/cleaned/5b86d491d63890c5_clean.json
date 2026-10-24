@@ -1,0 +1,23 @@
+{
+    "fighter_id": "5b86d491d63890c5",
+    "name": "Ludovit Klein",
+    "wins": 24,
+    "losses": 6,
+    "draws": 1,
+    "no_conests": 0,
+    "height_cm": 170.18,
+    "weight_lbs": 155,
+    "reach_cm": 182.88,
+    "stance": "Southpaw",
+    "dob_day": 22,
+    "dob_month": 2,
+    "dob_year": 1995,
+    "sig_strikes_landed_per_min": 3.83,
+    "sig_striking_accuracy": 0.53,
+    "sig_strikes_absorbed_per_min": 3.57,
+    "sig_strike_defense": 0.53,
+    "takedowns_landed_per_15_min": 1.29,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.76,
+    "submission_attempts_per_15_min": 0.0
+}

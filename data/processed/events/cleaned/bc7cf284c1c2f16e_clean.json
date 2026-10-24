@@ -1,0 +1,133 @@
+{
+    "event": {
+        "event_id": "bc7cf284c1c2f16e",
+        "event_name": "UFC on FOX: Machida vs Rockhold",
+        "event_day": 18,
+        "event_month": 4,
+        "event_year": 2015,
+        "location": "Newark, New Jersey, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "5965800d88e0677c",
+            "fighter_a": "Luke Rockhold",
+            "fighter_b": "Lyoto Machida",
+            "winner": "Luke Rockhold",
+            "weight_class": "Middleweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 151,
+            "fight_url": "http://ufcstats.com/fight-details/5965800d88e0677c"
+        },
+        {
+            "fight_id": "f4717203e762d780",
+            "fighter_a": "Jacare Souza",
+            "fighter_b": "Chris Camozzi",
+            "winner": "Jacare Souza",
+            "weight_class": "Middleweight",
+            "method": "SUB Armbar",
+            "round": 1,
+            "time_seconds": 153,
+            "fight_url": "http://ufcstats.com/fight-details/f4717203e762d780"
+        },
+        {
+            "fight_id": "f22d193f3ab42bc5",
+            "fighter_a": "Max Holloway",
+            "fighter_b": "Cub Swanson",
+            "winner": "Max Holloway",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": 3,
+            "time_seconds": 238,
+            "fight_url": "http://ufcstats.com/fight-details/f22d193f3ab42bc5"
+        },
+        {
+            "fight_id": "e2b4130c7b1ff8bc",
+            "fighter_a": "Paige VanZant",
+            "fighter_b": "Felice Herrig",
+            "winner": "Paige VanZant",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/e2b4130c7b1ff8bc"
+        },
+        {
+            "fight_id": "2bcb878e9d02b8f7",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Jim Miller",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/2bcb878e9d02b8f7"
+        },
+        {
+            "fight_id": "c19f394f3c237789",
+            "fighter_a": "Ovince Saint Preux",
+            "fighter_b": "Patrick Cummins",
+            "winner": "Ovince Saint Preux",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 1,
+            "time_seconds": 294,
+            "fight_url": "http://ufcstats.com/fight-details/c19f394f3c237789"
+        },
+        {
+            "fight_id": "6b92396d42918366",
+            "fighter_a": "Gian Villante",
+            "fighter_b": "Corey Anderson",
+            "winner": "Gian Villante",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Punch",
+            "round": 3,
+            "time_seconds": 258,
+            "fight_url": "http://ufcstats.com/fight-details/6b92396d42918366"
+        },
+        {
+            "fight_id": "2230a5dbc0907859",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Takeya Mizugaki",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 131,
+            "fight_url": "http://ufcstats.com/fight-details/2230a5dbc0907859"
+        },
+        {
+            "fight_id": "bd246b9789f88e1c",
+            "fighter_a": "Tim Means",
+            "fighter_b": "George Sullivan",
+            "winner": "Tim Means",
+            "weight_class": "Welterweight",
+            "method": "SUB Arm Triangle",
+            "round": 3,
+            "time_seconds": 221,
+            "fight_url": "http://ufcstats.com/fight-details/bd246b9789f88e1c"
+        },
+        {
+            "fight_id": "4785bf265d05d85f",
+            "fighter_a": "Diego Brandao",
+            "fighter_b": "Jimy Hettes",
+            "winner": "Diego Brandao",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO",
+            "round": 1,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4785bf265d05d85f"
+        },
+        {
+            "fight_id": "642a8cc1195c5198",
+            "fighter_a": "Chris Dempsey",
+            "fighter_b": "Eddie Gordon",
+            "winner": "Chris Dempsey",
+            "weight_class": "Middleweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/642a8cc1195c5198"
+        }
+    ]
+}

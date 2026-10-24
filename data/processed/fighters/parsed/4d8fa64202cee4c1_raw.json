@@ -1,0 +1,84 @@
+{
+    "fighter_id": "4d8fa64202cee4c1",
+    "name": "Jalin Turner",
+    "record": "16-9-0",
+    "height": "6' 3\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "May 18, 1995",
+    "sig_strikes_landed_per_min": "5.84",
+    "sig_striking_accuracy": "49%",
+    "sig_strikes_absorbed_per_min": "4.53",
+    "sig_strike_defense": "41%",
+    "takedowns_landed_per_15_min": "0.75",
+    "takedown_accuracy": "55%",
+    "takedown_defense": "75%",
+    "submission_attempts_per_15_min": "1.1",
+    "fight_history": [
+        {
+            "fight_id": "d4bd456d70965734",
+            "fight_url": "http://ufcstats.com/fight-details/d4bd456d70965734"
+        },
+        {
+            "fight_id": "7af407397532f7cf",
+            "fight_url": "http://ufcstats.com/fight-details/7af407397532f7cf"
+        },
+        {
+            "fight_id": "a3cd6a65aaa9f104",
+            "fight_url": "http://ufcstats.com/fight-details/a3cd6a65aaa9f104"
+        },
+        {
+            "fight_id": "18824fa5c15c212f",
+            "fight_url": "http://ufcstats.com/fight-details/18824fa5c15c212f"
+        },
+        {
+            "fight_id": "03eecf1926d9c77c",
+            "fight_url": "http://ufcstats.com/fight-details/03eecf1926d9c77c"
+        },
+        {
+            "fight_id": "b6ea8880cc7af439",
+            "fight_url": "http://ufcstats.com/fight-details/b6ea8880cc7af439"
+        },
+        {
+            "fight_id": "d6d034e98ce85246",
+            "fight_url": "http://ufcstats.com/fight-details/d6d034e98ce85246"
+        },
+        {
+            "fight_id": "98411542ca0e847d",
+            "fight_url": "http://ufcstats.com/fight-details/98411542ca0e847d"
+        },
+        {
+            "fight_id": "fce6ab43b7d09aa4",
+            "fight_url": "http://ufcstats.com/fight-details/fce6ab43b7d09aa4"
+        },
+        {
+            "fight_id": "7abc4520f63f2c06",
+            "fight_url": "http://ufcstats.com/fight-details/7abc4520f63f2c06"
+        },
+        {
+            "fight_id": "bcc9dca5136fc765",
+            "fight_url": "http://ufcstats.com/fight-details/bcc9dca5136fc765"
+        },
+        {
+            "fight_id": "02bdb7a5b2986571",
+            "fight_url": "http://ufcstats.com/fight-details/02bdb7a5b2986571"
+        },
+        {
+            "fight_id": "31b283a5559ad44d",
+            "fight_url": "http://ufcstats.com/fight-details/31b283a5559ad44d"
+        },
+        {
+            "fight_id": "11c0ef97497303ef",
+            "fight_url": "http://ufcstats.com/fight-details/11c0ef97497303ef"
+        },
+        {
+            "fight_id": "48ea8a30f7b88cfc",
+            "fight_url": "http://ufcstats.com/fight-details/48ea8a30f7b88cfc"
+        },
+        {
+            "fight_id": "914855bbafaa192c",
+            "fight_url": "http://ufcstats.com/fight-details/914855bbafaa192c"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "4341ebb5a56e6943",
+        "event_id": "a1d6b308781aa2f5",
+        "event_name": "UFC Fight Night: Gane vs. Volkov",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Submission",
+        "finish_round": 2,
+        "finish_time": "4:34",
+        "referee": "Chris Tognoni",
+        "winner_id": "b6452706b373eea1"
+    },
+    "fighter_a": {
+        "fighter_id": "b6452706b373eea1",
+        "name": "Renato Moicano",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "26 of 41",
+            "Sig. str. %": "63%",
+            "Total str.": "61 of 83",
+            "Td": "5 of 7",
+            "Td %": "71%",
+            "Sub. att": "1",
+            "Rev.": "0",
+            "Ctrl": "7:35"
+        },
+        "significant_strikes": {
+            "Sig. str": "26 of 41",
+            "Sig. str. %": "63%",
+            "Head": "24 of 39",
+            "Body": "1 of 1",
+            "Leg": "1 of 1",
+            "Distance": "3 of 7",
+            "Clinch": "0 of 0",
+            "Ground": "23 of 34"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "4c88a1db5a46c6a4",
+        "name": "Jai Herbert",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "7 of 25",
+            "Sig. str. %": "28%",
+            "Total str.": "18 of 38",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:08"
+        },
+        "significant_strikes": {
+            "Sig. str": "7 of 25",
+            "Sig. str. %": "28%",
+            "Head": "4 of 21",
+            "Body": "0 of 1",
+            "Leg": "3 of 3",
+            "Distance": "7 of 25",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    }
+}

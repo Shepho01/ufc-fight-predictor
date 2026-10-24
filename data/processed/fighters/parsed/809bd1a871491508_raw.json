@@ -1,0 +1,84 @@
+{
+    "fighter_id": "809bd1a871491508",
+    "name": "Terrance McKinney",
+    "record": "18-9-0",
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Sep 15, 1994",
+    "sig_strikes_landed_per_min": "6.83",
+    "sig_striking_accuracy": "55%",
+    "sig_strikes_absorbed_per_min": "4.07",
+    "sig_strike_defense": "42%",
+    "takedowns_landed_per_15_min": "3.27",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "72%",
+    "submission_attempts_per_15_min": "1.8",
+    "fight_history": [
+        {
+            "fight_id": "cb2fd3afd5031f0d",
+            "fight_url": "http://ufcstats.com/fight-details/cb2fd3afd5031f0d"
+        },
+        {
+            "fight_id": "a26ea74f2e908842",
+            "fight_url": "http://ufcstats.com/fight-details/a26ea74f2e908842"
+        },
+        {
+            "fight_id": "a76e14495e61cf19",
+            "fight_url": "http://ufcstats.com/fight-details/a76e14495e61cf19"
+        },
+        {
+            "fight_id": "b3d2ac2244e4f791",
+            "fight_url": "http://ufcstats.com/fight-details/b3d2ac2244e4f791"
+        },
+        {
+            "fight_id": "d7be78c400e7e0f9",
+            "fight_url": "http://ufcstats.com/fight-details/d7be78c400e7e0f9"
+        },
+        {
+            "fight_id": "e97e71a593e4c28d",
+            "fight_url": "http://ufcstats.com/fight-details/e97e71a593e4c28d"
+        },
+        {
+            "fight_id": "8d9bcbb48888a5a3",
+            "fight_url": "http://ufcstats.com/fight-details/8d9bcbb48888a5a3"
+        },
+        {
+            "fight_id": "7f7d2abc21f171ca",
+            "fight_url": "http://ufcstats.com/fight-details/7f7d2abc21f171ca"
+        },
+        {
+            "fight_id": "9576d9cba5cf5c4e",
+            "fight_url": "http://ufcstats.com/fight-details/9576d9cba5cf5c4e"
+        },
+        {
+            "fight_id": "e4620f3fa451a3a4",
+            "fight_url": "http://ufcstats.com/fight-details/e4620f3fa451a3a4"
+        },
+        {
+            "fight_id": "911b73db91738da6",
+            "fight_url": "http://ufcstats.com/fight-details/911b73db91738da6"
+        },
+        {
+            "fight_id": "b530bb13aac1e48b",
+            "fight_url": "http://ufcstats.com/fight-details/b530bb13aac1e48b"
+        },
+        {
+            "fight_id": "463fac0e48505b62",
+            "fight_url": "http://ufcstats.com/fight-details/463fac0e48505b62"
+        },
+        {
+            "fight_id": "cb1f27818d46af0e",
+            "fight_url": "http://ufcstats.com/fight-details/cb1f27818d46af0e"
+        },
+        {
+            "fight_id": "d4ad90ac58429b64",
+            "fight_url": "http://ufcstats.com/fight-details/d4ad90ac58429b64"
+        },
+        {
+            "fight_id": "5bd071a38f37debb",
+            "fight_url": "http://ufcstats.com/fight-details/5bd071a38f37debb"
+        }
+    ]
+}

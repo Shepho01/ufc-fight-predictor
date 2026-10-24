@@ -1,0 +1,142 @@
+{
+    "event": {
+        "event_id": "aa3153a9941b4d44",
+        "event_name": "UFC Fight Night: Magny vs. Ponzinibbio",
+        "event_date": "November 17, 2018",
+        "location": "Buenos Aires, Buenos Aires, Argentina"
+    },
+    "fights": [
+        {
+            "fight_id": "7e695ad026b2ec66",
+            "fighter_a": "Santiago Ponzinibbio",
+            "fighter_b": "Neil Magny",
+            "winner": "Santiago Ponzinibbio",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "4",
+            "time": "2:36",
+            "fight_url": "http://ufcstats.com/fight-details/7e695ad026b2ec66"
+        },
+        {
+            "fight_id": "f9ab603b763998f7",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Darren Elkins",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "KO/TKO Elbows",
+            "round": "3",
+            "time": "4:09",
+            "fight_url": "http://ufcstats.com/fight-details/f9ab603b763998f7"
+        },
+        {
+            "fight_id": "51ce499611a5df68",
+            "fighter_a": "Johnny Walker",
+            "fighter_b": "Khalil Rountree Jr.",
+            "winner": "Johnny Walker",
+            "weight_class": "Light Heavyweight",
+            "method": "KO/TKO Elbow",
+            "round": "1",
+            "time": "1:57",
+            "fight_url": "http://ufcstats.com/fight-details/51ce499611a5df68"
+        },
+        {
+            "fight_id": "3bde8910fabf0dd3",
+            "fighter_a": "Ian Heinisch",
+            "fighter_b": "Cezar Ferreira",
+            "winner": "Ian Heinisch",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/3bde8910fabf0dd3"
+        },
+        {
+            "fight_id": "b9a3b520e68f8142",
+            "fighter_a": "Marlon Vera",
+            "fighter_b": "Guido Cannetti",
+            "winner": "Marlon Vera",
+            "weight_class": "Bantamweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "2",
+            "time": "1:31",
+            "fight_url": "http://ufcstats.com/fight-details/b9a3b520e68f8142"
+        },
+        {
+            "fight_id": "99bfad1679112591",
+            "fighter_a": "Cynthia Calvillo",
+            "fighter_b": "Poliana Botelho",
+            "winner": "Cynthia Calvillo",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "4:48",
+            "fight_url": "http://ufcstats.com/fight-details/99bfad1679112591"
+        },
+        {
+            "fight_id": "410aca28fda60f76",
+            "fighter_a": "Michel Prazeres",
+            "fighter_b": "Bartosz Fabinski",
+            "winner": "Michel Prazeres",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": "1",
+            "time": "1:02",
+            "fight_url": "http://ufcstats.com/fight-details/410aca28fda60f76"
+        },
+        {
+            "fight_id": "961f434fe238f40e",
+            "fighter_a": "Alexandre Pantoja",
+            "fighter_b": "Yuta Sasaki",
+            "winner": "Alexandre Pantoja",
+            "weight_class": "Flyweight",
+            "method": "SUB Rear Naked Choke",
+            "round": "1",
+            "time": "2:18",
+            "fight_url": "http://ufcstats.com/fight-details/961f434fe238f40e"
+        },
+        {
+            "fight_id": "85f85003fadf7a7b",
+            "fighter_a": "Austin Arnett",
+            "fighter_b": "Humberto Bandenay",
+            "winner": "Austin Arnett",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/85f85003fadf7a7b"
+        },
+        {
+            "fight_id": "629c0eb319e01374",
+            "fighter_a": "Laureano Staropoli",
+            "fighter_b": "Hector Aldana",
+            "winner": "Laureano Staropoli",
+            "weight_class": "Welterweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/629c0eb319e01374"
+        },
+        {
+            "fight_id": "9cd172df74575fd4",
+            "fighter_a": "Jesus Pinedo",
+            "fighter_b": "Devin Powell",
+            "winner": "Jesus Pinedo",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9cd172df74575fd4"
+        },
+        {
+            "fight_id": "c7bc8750e9503805",
+            "fighter_a": "Nad Narimani",
+            "fighter_b": "Anderson Dos Santos",
+            "winner": "Nad Narimani",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c7bc8750e9503805"
+        }
+    ]
+}

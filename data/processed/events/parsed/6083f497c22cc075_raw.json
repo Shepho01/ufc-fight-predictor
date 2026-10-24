@@ -1,0 +1,153 @@
+{
+    "event": {
+        "event_id": "6083f497c22cc075",
+        "event_name": "UFC Fight Night: Dos Anjos vs. Ferguson",
+        "event_date": "November 05, 2016",
+        "location": "Mexico City, Distrito Federal, Mexico"
+    },
+    "fights": [
+        {
+            "fight_id": "9220acccebf14a46",
+            "fighter_a": "Tony Ferguson",
+            "fighter_b": "Rafael Dos Anjos",
+            "winner": "Tony Ferguson",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "5",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/9220acccebf14a46"
+        },
+        {
+            "fight_id": "c5a8e0098d1024ce",
+            "fighter_a": "Diego Sanchez",
+            "fighter_b": "Marcin Held",
+            "winner": "Diego Sanchez",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c5a8e0098d1024ce"
+        },
+        {
+            "fight_id": "e322eae035f7c00f",
+            "fighter_a": "Ricardo Lamas",
+            "fighter_b": "Charles Oliveira",
+            "winner": "Ricardo Lamas",
+            "weight_class": "Featherweight",
+            "method": "SUB Guillotine Choke",
+            "round": "2",
+            "time": "2:13",
+            "fight_url": "http://ufcstats.com/fight-details/e322eae035f7c00f"
+        },
+        {
+            "fight_id": "43a941e005a2d463",
+            "fighter_a": "Martin Bravo",
+            "fighter_b": "Claudio Puelles",
+            "winner": "Martin Bravo",
+            "weight_class": "Lightweight",
+            "method": "KO/TKO Punch",
+            "round": "2",
+            "time": "1:55",
+            "fight_url": "http://ufcstats.com/fight-details/43a941e005a2d463"
+        },
+        {
+            "fight_id": "00494c77d2a88f8c",
+            "fighter_a": "Beneil Dariush",
+            "fighter_b": "Rashid Magomedov",
+            "winner": "Beneil Dariush",
+            "weight_class": "Lightweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/00494c77d2a88f8c"
+        },
+        {
+            "fight_id": "52943c821416dc38",
+            "fighter_a": "Alexa Grasso",
+            "fighter_b": "Heather Clark",
+            "winner": "Alexa Grasso",
+            "weight_class": "Women's Strawweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/52943c821416dc38"
+        },
+        {
+            "fight_id": "51010081d59b4687",
+            "fighter_a": "Erik Perez",
+            "fighter_b": "Felipe Arantes",
+            "winner": "Erik Perez",
+            "weight_class": "Bantamweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/51010081d59b4687"
+        },
+        {
+            "fight_id": "588a39cab19065bc",
+            "fighter_a": "Joe Soto",
+            "fighter_b": "Marco Beltran",
+            "winner": "Joe Soto",
+            "weight_class": "Catch Weight",
+            "method": "SUB Heel Hook",
+            "round": "1",
+            "time": "1:37",
+            "fight_url": "http://ufcstats.com/fight-details/588a39cab19065bc"
+        },
+        {
+            "fight_id": "23c6a428df1569bc",
+            "fighter_a": "Max Griffin",
+            "fighter_b": "Erick Montano",
+            "winner": "Max Griffin",
+            "weight_class": "Welterweight",
+            "method": "KO/TKO Punch",
+            "round": "1",
+            "time": "0:54",
+            "fight_url": "http://ufcstats.com/fight-details/23c6a428df1569bc"
+        },
+        {
+            "fight_id": "29df50b2ea446361",
+            "fighter_a": "Douglas Silva de Andrade",
+            "fighter_b": "Henry Briones",
+            "winner": "Douglas Silva de Andrade",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Spinning Back Fist",
+            "round": "3",
+            "time": "2:33",
+            "fight_url": "http://ufcstats.com/fight-details/29df50b2ea446361"
+        },
+        {
+            "fight_id": "2c39797c6574ff29",
+            "fighter_a": "Sam Alvey",
+            "fighter_b": "Alex Nicholson",
+            "winner": "Sam Alvey",
+            "weight_class": "Middleweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/2c39797c6574ff29"
+        },
+        {
+            "fight_id": "c1e039419a671b9e",
+            "fighter_a": "Marco Polo Reyes",
+            "fighter_b": "Jason Novelli",
+            "winner": "Marco Polo Reyes",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/c1e039419a671b9e"
+        },
+        {
+            "fight_id": "4fa26e1e88583ab5",
+            "fighter_a": "Enrique Barzola",
+            "fighter_b": "Chris Avila",
+            "winner": "Enrique Barzola",
+            "weight_class": "Featherweight",
+            "method": "U-DEC",
+            "round": "3",
+            "time": "5:00",
+            "fight_url": "http://ufcstats.com/fight-details/4fa26e1e88583ab5"
+        }
+    ]
+}

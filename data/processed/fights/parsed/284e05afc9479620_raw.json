@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "284e05afc9479620",
+        "event_id": "2dea80c069847321",
+        "event_name": "UFC Fight Night: Hunt vs Nelson",
+        "weight_class": "Featherweight",
+        "title_fight": false,
+        "scheduled_rounds": 3,
+        "method": "Decision - Unanimous",
+        "finish_round": 3,
+        "finish_time": "5:00",
+        "referee": "Wolf Menninger",
+        "winner_id": "4a1329cc8eb0928a"
+    },
+    "fighter_a": {
+        "fighter_id": "4a1329cc8eb0928a",
+        "name": "Maximo Blanco",
+        "result": "W",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "132 of 240",
+            "Sig. str. %": "55%",
+            "Total str.": "137 of 246",
+            "Td": "3 of 13",
+            "Td %": "23%",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "2:34"
+        },
+        "significant_strikes": {
+            "Sig. str": "132 of 240",
+            "Sig. str. %": "55%",
+            "Head": "128 of 232",
+            "Body": "4 of 8",
+            "Leg": "0 of 0",
+            "Distance": "109 of 198",
+            "Clinch": "22 of 41",
+            "Ground": "1 of 1"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "193b9d1858bc4df3",
+        "name": "Dan Hooker",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "99 of 236",
+            "Sig. str. %": "41%",
+            "Total str.": "116 of 253",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "1:44"
+        },
+        "significant_strikes": {
+            "Sig. str": "99 of 236",
+            "Sig. str. %": "41%",
+            "Head": "75 of 201",
+            "Body": "19 of 27",
+            "Leg": "5 of 8",
+            "Distance": "66 of 174",
+            "Clinch": "33 of 62",
+            "Ground": "0 of 0"
+        }
+    }
+}

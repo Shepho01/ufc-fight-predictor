@@ -1,0 +1,76 @@
+{
+    "fighter_id": "7cbf7c78d3b34218",
+    "name": "Drakkar Klose",
+    "record": "16-4-1",
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Mar 09, 1988",
+    "sig_strikes_landed_per_min": "4.01",
+    "sig_striking_accuracy": "54%",
+    "sig_strikes_absorbed_per_min": "3.71",
+    "sig_strike_defense": "48%",
+    "takedowns_landed_per_15_min": "1.37",
+    "takedown_accuracy": "26%",
+    "takedown_defense": "70%",
+    "submission_attempts_per_15_min": "0.0",
+    "fight_history": [
+        {
+            "fight_id": "0aa849ca85e4355a",
+            "fight_url": "http://ufcstats.com/fight-details/0aa849ca85e4355a"
+        },
+        {
+            "fight_id": "bc63f1b2e52f603e",
+            "fight_url": "http://ufcstats.com/fight-details/bc63f1b2e52f603e"
+        },
+        {
+            "fight_id": "b0be38110c2d8b84",
+            "fight_url": "http://ufcstats.com/fight-details/b0be38110c2d8b84"
+        },
+        {
+            "fight_id": "2faf5b8d708f8e94",
+            "fight_url": "http://ufcstats.com/fight-details/2faf5b8d708f8e94"
+        },
+        {
+            "fight_id": "d0602cdc04d2c159",
+            "fight_url": "http://ufcstats.com/fight-details/d0602cdc04d2c159"
+        },
+        {
+            "fight_id": "189b9af881b96de6",
+            "fight_url": "http://ufcstats.com/fight-details/189b9af881b96de6"
+        },
+        {
+            "fight_id": "74c58b9d638c5eaa",
+            "fight_url": "http://ufcstats.com/fight-details/74c58b9d638c5eaa"
+        },
+        {
+            "fight_id": "891470d896b1de5a",
+            "fight_url": "http://ufcstats.com/fight-details/891470d896b1de5a"
+        },
+        {
+            "fight_id": "25e1d17d072227c6",
+            "fight_url": "http://ufcstats.com/fight-details/25e1d17d072227c6"
+        },
+        {
+            "fight_id": "b69d3d55c84f5dd6",
+            "fight_url": "http://ufcstats.com/fight-details/b69d3d55c84f5dd6"
+        },
+        {
+            "fight_id": "2817a6f9e09eb15f",
+            "fight_url": "http://ufcstats.com/fight-details/2817a6f9e09eb15f"
+        },
+        {
+            "fight_id": "676320a61f800f10",
+            "fight_url": "http://ufcstats.com/fight-details/676320a61f800f10"
+        },
+        {
+            "fight_id": "6f836a82a0530884",
+            "fight_url": "http://ufcstats.com/fight-details/6f836a82a0530884"
+        },
+        {
+            "fight_id": "bbb67c2ac4453d64",
+            "fight_url": "http://ufcstats.com/fight-details/bbb67c2ac4453d64"
+        }
+    ]
+}

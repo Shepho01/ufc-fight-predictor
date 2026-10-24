@@ -1,0 +1,155 @@
+{
+    "event": {
+        "event_id": "ed069a95aaaf4f56",
+        "event_name": "UFC on FOX: Johnson vs. Reis",
+        "event_day": 15,
+        "event_month": 4,
+        "event_year": 2017,
+        "location": "Kansas City, Missouri, USA"
+    },
+    "fights": [
+        {
+            "fight_id": "f63961f9d14bc33d",
+            "fighter_a": "Demetrious Johnson",
+            "fighter_b": "Wilson Reis",
+            "winner": "Demetrious Johnson",
+            "weight_class": "Flyweight",
+            "method": "SUB Armbar",
+            "round": 3,
+            "time_seconds": 289,
+            "fight_url": "http://ufcstats.com/fight-details/f63961f9d14bc33d"
+        },
+        {
+            "fight_id": "e52318719d839d2d",
+            "fighter_a": "Rose Namajunas",
+            "fighter_b": "Michelle Waterson-Gomez",
+            "winner": "Rose Namajunas",
+            "weight_class": "Women's Strawweight",
+            "method": "SUB Rear Naked Choke",
+            "round": 2,
+            "time_seconds": 167,
+            "fight_url": "http://ufcstats.com/fight-details/e52318719d839d2d"
+        },
+        {
+            "fight_id": "0459297e86a14981",
+            "fighter_a": "Robert Whittaker",
+            "fighter_b": "Jacare Souza",
+            "winner": "Robert Whittaker",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 2,
+            "time_seconds": 208,
+            "fight_url": "http://ufcstats.com/fight-details/0459297e86a14981"
+        },
+        {
+            "fight_id": "d764ef3e078c96c8",
+            "fighter_a": "Renato Moicano",
+            "fighter_b": "Jeremy Stephens",
+            "winner": "Renato Moicano",
+            "weight_class": "Featherweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/d764ef3e078c96c8"
+        },
+        {
+            "fight_id": "b0552b065ca7f401",
+            "fighter_a": "Alexander Volkov",
+            "fighter_b": "Roy Nelson",
+            "winner": "Alexander Volkov",
+            "weight_class": "Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/b0552b065ca7f401"
+        },
+        {
+            "fight_id": "20be16a1db95156c",
+            "fighter_a": "Tom Duquesnoy",
+            "fighter_b": "Patrick Williams",
+            "winner": "Tom Duquesnoy",
+            "weight_class": "Bantamweight",
+            "method": "KO/TKO Elbows",
+            "round": 2,
+            "time_seconds": 28,
+            "fight_url": "http://ufcstats.com/fight-details/20be16a1db95156c"
+        },
+        {
+            "fight_id": "f24c296256faeff2",
+            "fighter_a": "Rashid Magomedov",
+            "fighter_b": "King Green",
+            "winner": "Rashid Magomedov",
+            "weight_class": "Lightweight",
+            "method": "S-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/f24c296256faeff2"
+        },
+        {
+            "fight_id": "41cef92a01e7ff3c",
+            "fighter_a": "Tim Elliott",
+            "fighter_b": "Louis Smolka",
+            "winner": "Tim Elliott",
+            "weight_class": "Flyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/41cef92a01e7ff3c"
+        },
+        {
+            "fight_id": "677e98ae5834ba70",
+            "fighter_a": "Aljamain Sterling",
+            "fighter_b": "Augusto Mendes",
+            "winner": "Aljamain Sterling",
+            "weight_class": "Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/677e98ae5834ba70"
+        },
+        {
+            "fight_id": "4291b38643547fa7",
+            "fighter_a": "Devin Clark",
+            "fighter_b": "Jake Collier",
+            "winner": "Devin Clark",
+            "weight_class": "Light Heavyweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/4291b38643547fa7"
+        },
+        {
+            "fight_id": "0673d8ab0add7a05",
+            "fighter_a": "Anthony Smith",
+            "fighter_b": "Andrew Sanchez",
+            "winner": "Anthony Smith",
+            "weight_class": "Middleweight",
+            "method": "KO/TKO Kick",
+            "round": 3,
+            "time_seconds": 232,
+            "fight_url": "http://ufcstats.com/fight-details/0673d8ab0add7a05"
+        },
+        {
+            "fight_id": "2a0d4dd0997bd712",
+            "fighter_a": "Zak Cummings",
+            "fighter_b": "Nathan Coy",
+            "winner": "Zak Cummings",
+            "weight_class": "Welterweight",
+            "method": "SUB Guillotine Choke",
+            "round": 1,
+            "time_seconds": 261,
+            "fight_url": "http://ufcstats.com/fight-details/2a0d4dd0997bd712"
+        },
+        {
+            "fight_id": "94ce682e4a3e556a",
+            "fighter_a": "Ketlen Vieira",
+            "fighter_b": "Ashlee Evans-Smith",
+            "winner": "Ketlen Vieira",
+            "weight_class": "Women's Bantamweight",
+            "method": "U-DEC",
+            "round": 3,
+            "time_seconds": 300,
+            "fight_url": "http://ufcstats.com/fight-details/94ce682e4a3e556a"
+        }
+    ]
+}

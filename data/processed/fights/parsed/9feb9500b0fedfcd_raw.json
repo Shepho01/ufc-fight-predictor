@@ -1,0 +1,67 @@
+{
+    "fight": {
+        "fight_id": "9feb9500b0fedfcd",
+        "event_id": "53e4e21f4c688801",
+        "event_name": "UFC Fight Night: Dariush vs. Tsarukyan",
+        "weight_class": "Lightweight",
+        "title_fight": false,
+        "scheduled_rounds": 5,
+        "method": "KO/TKO",
+        "finish_round": 1,
+        "finish_time": "1:04",
+        "referee": "Mark Smith",
+        "winner_id": "eae48ff31db420c2"
+    },
+    "fighter_a": {
+        "fighter_id": "08af939f41b5a57b",
+        "name": "Beneil Dariush",
+        "result": "L",
+        "totals": {
+            "KD": "0",
+            "Sig. str.": "2 of 8",
+            "Sig. str. %": "25%",
+            "Total str.": "2 of 8",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:00"
+        },
+        "significant_strikes": {
+            "Sig. str": "2 of 8",
+            "Sig. str. %": "25%",
+            "Head": "0 of 5",
+            "Body": "0 of 1",
+            "Leg": "2 of 2",
+            "Distance": "2 of 8",
+            "Clinch": "0 of 0",
+            "Ground": "0 of 0"
+        }
+    },
+    "fighter_b": {
+        "fighter_id": "eae48ff31db420c2",
+        "name": "Arman Tsarukyan",
+        "result": "W",
+        "totals": {
+            "KD": "1",
+            "Sig. str.": "8 of 15",
+            "Sig. str. %": "53%",
+            "Total str.": "8 of 15",
+            "Td": "0 of 0",
+            "Td %": "---",
+            "Sub. att": "0",
+            "Rev.": "0",
+            "Ctrl": "0:03"
+        },
+        "significant_strikes": {
+            "Sig. str": "8 of 15",
+            "Sig. str. %": "53%",
+            "Head": "8 of 15",
+            "Body": "0 of 0",
+            "Leg": "0 of 0",
+            "Distance": "4 of 10",
+            "Clinch": "2 of 2",
+            "Ground": "2 of 3"
+        }
+    }
+}

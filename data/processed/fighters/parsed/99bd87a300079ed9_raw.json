@@ -1,0 +1,76 @@
+{
+    "fighter_id": "99bd87a300079ed9",
+    "name": "Erik Koch",
+    "record": "16-6-0",
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Oct 04, 1988",
+    "sig_strikes_landed_per_min": "2.33",
+    "sig_striking_accuracy": "42%",
+    "sig_strikes_absorbed_per_min": "2.82",
+    "sig_strike_defense": "47%",
+    "takedowns_landed_per_15_min": "1.02",
+    "takedown_accuracy": "42%",
+    "takedown_defense": "81%",
+    "submission_attempts_per_15_min": "1.0",
+    "fight_history": [
+        {
+            "fight_id": "d47fd8fc3886f86c",
+            "fight_url": "http://ufcstats.com/fight-details/d47fd8fc3886f86c"
+        },
+        {
+            "fight_id": "04a1c5b7993fe4d5",
+            "fight_url": "http://ufcstats.com/fight-details/04a1c5b7993fe4d5"
+        },
+        {
+            "fight_id": "9a79a4b97a0f1e24",
+            "fight_url": "http://ufcstats.com/fight-details/9a79a4b97a0f1e24"
+        },
+        {
+            "fight_id": "5724a9cf463c8390",
+            "fight_url": "http://ufcstats.com/fight-details/5724a9cf463c8390"
+        },
+        {
+            "fight_id": "3ee1a3216cf66b95",
+            "fight_url": "http://ufcstats.com/fight-details/3ee1a3216cf66b95"
+        },
+        {
+            "fight_id": "dc28c6e66f333d2a",
+            "fight_url": "http://ufcstats.com/fight-details/dc28c6e66f333d2a"
+        },
+        {
+            "fight_id": "af51920a3e176995",
+            "fight_url": "http://ufcstats.com/fight-details/af51920a3e176995"
+        },
+        {
+            "fight_id": "4e87af7e5156bbf7",
+            "fight_url": "http://ufcstats.com/fight-details/4e87af7e5156bbf7"
+        },
+        {
+            "fight_id": "b4daedb1e0c4ee02",
+            "fight_url": "http://ufcstats.com/fight-details/b4daedb1e0c4ee02"
+        },
+        {
+            "fight_id": "18b31990d1808419",
+            "fight_url": "http://ufcstats.com/fight-details/18b31990d1808419"
+        },
+        {
+            "fight_id": "90f4c4a4e30e6abf",
+            "fight_url": "http://ufcstats.com/fight-details/90f4c4a4e30e6abf"
+        },
+        {
+            "fight_id": "9b85435db51d8402",
+            "fight_url": "http://ufcstats.com/fight-details/9b85435db51d8402"
+        },
+        {
+            "fight_id": "1646f952dfb2cb66",
+            "fight_url": "http://ufcstats.com/fight-details/1646f952dfb2cb66"
+        },
+        {
+            "fight_id": "3b71207db2db2404",
+            "fight_url": "http://ufcstats.com/fight-details/3b71207db2db2404"
+        }
+    ]
+}
