@@ -14,16 +14,22 @@ A Python data engineering project building the foundation for UFC fight-outcome 
 - Explicit treatment of missing values, draws and no contests.
 - Automated tests for chronology, identity tracking and statistical aggregation.
 
+## Application Preview
+
+![UFC Fight Predictor dashboard showing the Makhachev vs Volkanovski matchup and model predictions](docs/screenshots/ufc-predictor.png)
+
+_The probabilities shown are experimental model estimates._
+
 ## Technology
 
-| Area | Tools |
-| --- | --- |
-| Language | Python; developed with Python 3.11 |
-| Collection | Playwright |
-| HTML parsing | Beautiful Soup |
-| Data storage | HTML snapshots and JSON files |
-| Processing | Python standard library |
-| Tests | `unittest` |
+| Area         | Tools                              |
+| ------------ | ---------------------------------- |
+| Language     | Python; developed with Python 3.11 |
+| Collection   | Playwright                         |
+| HTML parsing | Beautiful Soup                     |
+| Data storage | HTML snapshots and JSON files      |
+| Processing   | Python standard library            |
+| Tests        | `unittest`                         |
 
 The current storage layer is file-based; there is no SQL database in this snapshot.
 
@@ -63,14 +69,14 @@ flowchart TD
 
 For each fight, the builder emits features for each opponent and A-minus-B differences when both values are available.
 
-| Group | Examples |
-| --- | --- |
-| Observed record | Prior fights, wins, losses, draws and no contests |
-| Results and recency | Decisive win rate; days since the previous observed fight |
-| Accuracy | Significant-strike and takedown accuracy |
-| Defense | Significant-strike and takedown defense |
-| Per-fight averages | Knockdowns, significant strikes landed/attempted, takedowns landed, submission attempts and control seconds |
-| Coverage | Number of observations supporting each statistic |
+| Group               | Examples                                                                                                    |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Observed record     | Prior fights, wins, losses, draws and no contests                                                           |
+| Results and recency | Decisive win rate; days since the previous observed fight                                                   |
+| Accuracy            | Significant-strike and takedown accuracy                                                                    |
+| Defense             | Significant-strike and takedown defense                                                                     |
+| Per-fight averages  | Knockdowns, significant strikes landed/attempted, takedowns landed, submission attempts and control seconds |
+| Coverage            | Number of observations supporting each statistic                                                            |
 
 ### Preventing leakage
 
@@ -183,14 +189,14 @@ The seven existing tests cover first-observation missing values; current/future 
 
 ## Code and data guide
 
-| Path | Responsibility |
-| --- | --- |
-| `src/ufc_predictor/scraping/` | Save source pages as HTML |
-| `src/ufc_predictor/parsing/` | Extract structured JSON from HTML |
-| `src/ufc_predictor/processing/` | Clean data, collect URLs, join records and build historical features |
-| `data/raw/` | Saved fight, event and fighter pages |
-| `data/processed/` | Parsed/cleaned JSON, fight records and historical features |
-| `tests/test_historical_features.py` | Historical-feature regression tests |
+| Path                                | Responsibility                                                       |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| `src/ufc_predictor/scraping/`       | Save source pages as HTML                                            |
+| `src/ufc_predictor/parsing/`        | Extract structured JSON from HTML                                    |
+| `src/ufc_predictor/processing/`     | Clean data, collect URLs, join records and build historical features |
+| `data/raw/`                         | Saved fight, event and fighter pages                                 |
+| `data/processed/`                   | Parsed/cleaned JSON, fight records and historical features           |
+| `tests/test_historical_features.py` | Historical-feature regression tests                                  |
 
 ## Next steps
 
