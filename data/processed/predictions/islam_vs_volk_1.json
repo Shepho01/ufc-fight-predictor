@@ -1,0 +1,31 @@
+{
+    "fightId": "256894b49303537b",
+    "fighterA": "Islam Makhachev",
+    "fighterB": "Alexander Volkanovski",
+    "fightDate": "2023-02-11",
+    "trainingCutoff": "2023-02-11",
+    "trainingFights": 129,
+    "featureCount": 4,
+    "predictions": [
+        {
+            "name": "Dummy baseline",
+            "islamWinProbability": 55.81395348837209,
+            "description": "Uses the frequency of fighter A wins in training."
+        },
+        {
+            "name": "Logistic regression",
+            "islamWinProbability": 53.455581495705765,
+            "description": "Combines four historical statistical differences."
+        },
+        {
+            "name": "Decision tree",
+            "islamWinProbability": 27.27272727272727,
+            "description": "Uses branching rules learned from earlier fights."
+        },
+        {
+            "name": "Random forest",
+            "islamWinProbability": 42.93230678802209,
+            "description": "Combines estimates from multiple decision trees."
+        }
+    ]
+}
